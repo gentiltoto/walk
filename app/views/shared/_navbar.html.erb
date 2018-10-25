@@ -54,13 +54,13 @@
   <div class="navbar-walk-mobile hidden-md hidden-lg">
 
     <div class="drop-menu">
-      <i class="fas fa-bars" data-toggle="dropdown" onclick="openNav()"></i>
+      <i class="fas fa-bars"></i>
     </div>
 
     <h1 class="navbar-logo">LOGO</h1>
 
     <div id="side-navbar">
-      <div class="close"><i class="fas fa-times" onclick="closeNav()"></i></div>
+      <div class="close"><i class="fas fa-times"></i></div>
 
       <% if user_signed_in? %>
         <div class="user-profile">
@@ -108,14 +108,3 @@
 
   </div>
 </div>
-
-
-<script>
-function openNav() {
-    document.getElementById("side-navbar").style.width = "250px";
-}
-
-function closeNav() {
-    document.getElementById("side-navbar").style.width = "0";
-}
-</script>
