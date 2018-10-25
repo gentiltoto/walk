@@ -1,58 +1,123 @@
-<div class="navbar-wagon">
-  <!-- Logo -->
-  <%= link_to root_path, class: "navbar-wagon-brand" do %>
-    <%= image_tag "logo.png", height: 50 %>
-  <% end %>
+<div class="navbar-walk">
 
-  <!-- Right Navigation -->
-  <div class="navbar-wagon-right hidden-xs hidden-sm">
+  <!-- Navbar for computers -->
+  <div class="navbar-walk-desktop hidden-xs hidden-sm">
+    <div class="navabar-logo logo-desktop">
+      <h1>LOGO</h1>
+    </div>
 
     <% if user_signed_in? %>
-
-      <!-- Links when logged in -->
-      <%= link_to "Host", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Trips", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Messages", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-
-      <!-- Avatar with dropdown menu -->
-      <div class="navbar-wagon-item">
-        <div class="dropdown">
-          <%= image_tag "http://kitt.lewagon.com/placeholder/users/ssaunier", class: "avatar dropdown-toggle", id: "navbar-wagon-menu", "data-toggle" => "dropdown" %>
-          <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-user"></i> <%= t(".profile", default: "Profile") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to "#" do %>
-                <i class="fa fa-cog"></i>  <%= t(".settings", default: "Settings") %>
-              <% end %>
-            </li>
-            <li>
-              <%= link_to destroy_user_session_path, method: :delete do %>
-                <i class="fa fa-sign-out"></i>  <%= t(".sign_out", default: "Log out") %>
-              <% end %>
-            </li>
-          </ul>
+      <div class="navbar-menu-desktop">
+        <div class="navbar-link">
+          <div class="icon text-center"><i class="fas fa-home"></i></div>
+          <%= link_to "Accueil", root_path %>
+        </div>
+        <div class="navbar-link">
+          <div class="icon text-center"><i class="fas fa-walking"></i></div>
+          <%= link_to "Mes Itinéraires", components_path %>
+        </div>
+        <div class="navbar-link">
+          <div class="icon text-center"><i class="fas fa-info"></i></div>
+          <%= link_to "A propos", components_path %>
+        </div>
+        <div class="navbar-link">
+          <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
+          <%= link_to "Déconnexion", destroy_user_session_path %>
         </div>
       </div>
+
     <% else %>
-      <!-- Login link (when logged out) -->
-      <%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <div class="navbar-walk-right">
+        <div class="navbar-menu-desktop">
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-home"></i></div>
+            <%= link_to "Accueil", root_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-info"></i></div>
+            <%= link_to "A propos", components_path %>
+          </div>
+          <div class="call-to">
+            <h1>BUTTON</h1>
+          </div>
+        </div>
+      </div>
     <% end %>
   </div>
 
-  <!-- Dropdown list appearing on mobile only -->
-  <div class="navbar-wagon-item hidden-md hidden-lg">
-    <div class="dropdown">
-      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
-      <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
-        <li><a href="#">Some mobile link</a></li>
-        <li><a href="#">Other one</a></li>
-        <li><a href="#">Other one</a></li>
-      </ul>
+
+  <!-- Navbar for mobile -->
+  <div class="navbar-walk-mobile hidden-md hidden-lg">
+
+    <div class="drop-menu">
+      <i class="fas fa-bars" data-toggle="dropdown" onclick="openNav()"></i>
     </div>
+
+    <div id="side-navbar">
+      <div class="close"><i class="fas fa-times" onclick="closeNav()"></i></div>
+      <!-- Logo -->
+      <div class="navbar-logo logo-mobile">
+        <h1>LOGO</h1>
+      </div>
+
+      <% if user_signed_in? %>
+        <div class="user-profile">
+
+        </div>
+
+        <div class="navbar-menu-mobile">
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-home"></i></div>
+            <%= link_to "Accueil", root_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-walking"></i></div>
+            <%= link_to "Mes Itinéraires", components_path %></div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-info"></i></div>
+            <%= link_to "A propos", components_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
+            <%= link_to "Déconnexion", destroy_user_session_path %>
+          </div>
+        </div>
+      <% else %>
+        <div class="user-profile">
+
+        </div>
+
+        <div class="navbar-menu-mobile">
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-home"></i></div>
+            <%= link_to "Accueil", root_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-info"></i></div>
+            <%= link_to "A propos", components_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
+            <%= link_to "Inscription", new_user_registration_path %>
+          </div>
+          <div class="navbar-link">
+            <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
+            <%= link_to "Connexion", new_user_session_path %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+
   </div>
 </div>
 
+
+<script>
+function openNav() {
+    document.getElementById("side-navbar").style.width = "250px";
+}
+
+function closeNav() {
+    document.getElementById("side-navbar").style.width = "0";
+}
+</script>
