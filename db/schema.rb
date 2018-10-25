@@ -10,10 +10,50 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_23_161342) do
+ActiveRecord::Schema.define(version: 2018_10_25_093526) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "cities", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "intermediaires", force: :cascade do |t|
+    t.bigint "itineraire_id"
+    t.bigint "monument_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["itineraire_id"], name: "index_intermediaires_on_itineraire_id"
+    t.index ["monument_id"], name: "index_intermediaires_on_monument_id"
+  end
+
+  create_table "itineraires", force: :cascade do |t|
+    t.string "geojson"
+    t.bigint "user_id"
+    t.string "name"
+    t.string "distance"
+    t.string "parcours"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["user_id"], name: "index_itineraires_on_user_id"
+  end
+
+  create_table "monuments", force: :cascade do |t|
+    t.string "name"
+    t.string "address"
+    t.string "latitude"
+    t.string "longitude"
+    t.string "photo"
+    t.bigint "city_id"
+    t.string "description"
+    t.string "score"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["city_id"], name: "index_monuments_on_city_id"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
@@ -27,4 +67,8 @@ ActiveRecord::Schema.define(version: 2018_10_23_161342) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "intermediaires", "itineraires"
+  add_foreign_key "intermediaires", "monuments"
+  add_foreign_key "itineraires", "users"
+  add_foreign_key "monuments", "cities"
 end
