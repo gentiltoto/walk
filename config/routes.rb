@@ -1,6 +1,10 @@
 Rails.application.routes.draw do
 
   devise_for :users
+
+  # Vue de composant
+  get "/components", to: 'cities#components', as: :components
+
   #racine de l'app
   root to: 'cities#home', as: :root
   #envoie de la ville recherchée
