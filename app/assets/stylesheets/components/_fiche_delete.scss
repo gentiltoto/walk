@@ -1,9 +1,11 @@
-.fiche-delete {
+@media screen and (max-width: 550px) {
+  .fiche-delete {
   background-color: $blue;
   width: 45vw;
   padding-bottom: 15px;
   height: 35vh;
   margin-right: 10px;
+  border-radius: 3px;
   img {
     width: 45vw;
     height: 45vw;
@@ -33,8 +35,49 @@
   padding-left: 10px;
   padding-right: 10px;
 }
+}
 
 
+
+
+@media screen and (min-width: 551px) {
+  .fiche-delete {
+    background-color: #82BDF4;
+    width: 45vw;
+    padding-bottom: 15px;
+    height: 50vh;
+    margin-right: 10px;
+    border-radius: 3px;
+  img {
+    width: 22vw;
+    height: 30vh;
+  }
+
+  .fa-map-marker-alt {
+    font-size: 25px;
+    margin-top: -12px;
+    display: block;
+    text-align: right;
+    margin-right: 10px;
+  }
+
+  h3 {
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+.container-fiche-delete {
+  display: flex;
+  width: 100vw;
+  overflow-y: scroll;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+}
 
 
 
