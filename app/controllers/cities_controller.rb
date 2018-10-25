@@ -2,7 +2,7 @@ class CitiesController < ApplicationController
   def components
 
   end
-  
+
   def home
   end
 
