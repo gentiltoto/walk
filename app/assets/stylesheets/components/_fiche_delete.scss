@@ -1,31 +1,46 @@
 @media screen and (max-width: 550px) {
   .fiche-delete {
-  background-color: $blue;
-  width: 45vw;
-  padding-bottom: 15px;
-  height: 35vh;
-  margin-right: 10px;
-  border-radius: 3px;
-  img {
+    position: relative;
+    background-color: $blue;
     width: 45vw;
-    height: 45vw;
-  }
-
-  .fa-map-marker-alt {
-    font-size: 25px;
-    margin-top: -12px;
-    display: block;
-    text-align: right;
+    padding-bottom: 15px;
+    height: 35vh;
     margin-right: 10px;
-  }
+    border-radius: 3px;
+    margin-top: 20px;
+    img {
+      width: 45vw;
+      height: 45vw;
+      border-top-left-radius: 3px;
+      border-top-right-radius: 3px;
+    }
 
-  h3 {
-    color: white;
-    font-size: 14px;
-    font-weight: normal;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+    .fa-times-circle {
+      position: absolute;
+      top: -12px;
+      right: -7px;
+      color: red;
+      display: block;
+      font-size: 30px;
+      z-index: 10;
+
+    }
+
+    .fa-map-marker-alt {
+      font-size: 25px;
+      margin-top: -12px;
+      display: block;
+      text-align: right;
+      margin-right: 10px;
+    }
+
+    h3 {
+      color: white;
+      font-size: 14px;
+      font-weight: normal;
+      margin-left: 10px;
+      margin-right: 10px;
+    }
 }
 
 .container-fiche-delete {
@@ -45,12 +60,26 @@
     background-color: #82BDF4;
     width: 45vw;
     padding-bottom: 15px;
+    padding-top: 15px;
     height: 50vh;
     margin-right: 10px;
     border-radius: 3px;
   img {
     width: 22vw;
     height: 30vh;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+
+  .fa-times-circle {
+    color: red;
+    display: block;
+    margin-top: -12px;
+    text-align: right;
+    margin-bottom: -33px;
+    margin-right: -5px;
+    font-size: 30px;
+
   }
 
   .fa-map-marker-alt {
