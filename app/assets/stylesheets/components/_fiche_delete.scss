@@ -60,10 +60,11 @@
     background-color: #82BDF4;
     width: 45vw;
     padding-bottom: 15px;
-    padding-top: 15px;
     height: 50vh;
     margin-right: 10px;
     border-radius: 3px;
+    position: relative;
+    margin-top: 15px;
   img {
     width: 22vw;
     height: 30vh;
@@ -72,13 +73,14 @@
   }
 
   .fa-times-circle {
+    position: absolute;
+    right: -8px;
+    top: -10px;
     color: red;
     display: block;
-    margin-top: -12px;
     text-align: right;
-    margin-bottom: -33px;
-    margin-right: -5px;
     font-size: 30px;
+    z-index: 5;
 
   }
 
