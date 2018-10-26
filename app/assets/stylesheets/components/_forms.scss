@@ -10,18 +10,6 @@
     padding: 20px 30px;
     margin-top: 20px;
   }
-
-  .form-other-link {
-    margin-top: 15px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-    p {
-      margin: 0;
-      text-align: center;
-    }
-  }
 }
 
 // For Desktop
@@ -31,25 +19,28 @@
     padding: 20px 50px;
     margin-top: 20px;
   }
+}
 
-  .form-other-link {
-    margin-top: 15px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+.form-other-link {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-    p {
-      margin: 0;
-    }
+  p {
+    margin: 0;
+    text-align: center;
   }
 }
 
 .other-link {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  justify-content: space-around;
 
   a {
-    margin: 0;
+    margin: 10px 0;
     color: $gray;
     font-weight: 700;
     transform: none;
@@ -65,4 +56,8 @@
 
 .sign-form h2 {
   margin-top: 0;
+}
+
+input[type="checkbox"] {
+  margin: 4px 4px 0 0;
 }
