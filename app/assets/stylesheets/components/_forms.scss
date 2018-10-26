@@ -1,0 +1,68 @@
+.sign-wrapper {
+  background-image: asset-url("sign-background.jpg");
+  height: calc(100vh - 60px);
+}
+
+// For Mobile
+@media (max-width: 768px) {
+  .sign-form {
+    background-color: $light-gray;
+    padding: 20px 30px;
+    margin-top: 20px;
+  }
+
+  .form-other-link {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    p {
+      margin: 0;
+      text-align: center;
+    }
+  }
+}
+
+// For Desktop
+@media (min-width: 768px) {
+  .sign-form {
+    background-color: $light-gray;
+    padding: 20px 50px;
+    margin-top: 20px;
+  }
+
+  .form-other-link {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    p {
+      margin: 0;
+    }
+  }
+}
+
+.other-link {
+  display: flex;
+  align-items: center;
+
+  a {
+    margin: 0;
+    color: $gray;
+    font-weight: 700;
+    transform: none;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      text-decoration: none;
+      transform: scale(1.1);
+      transition: transform 0.2s ease;
+    }
+  }
+}
+
+.sign-form h2 {
+  margin-top: 0;
+}
