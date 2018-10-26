@@ -8,14 +8,14 @@
           <div class="flip-card-3D-wrapper">
             <div id="flip-card">
 
-              <div class="flip-card-front">
-                <%= image_tag("wault.jpg", alt: "monument", class: "monument-image", style: "width:100%") %>
-                <i class="fas fa-map-marked-alt flip-card-button-turn-to-back"></i>
+              <div id="flip-card-front">
+                <%= image_tag("wault.jpg", alt: "monument", class: "monument-image") %>
+                <i class="fas fa-map-marked-alt" id="flip-card-button"></i>
               </div>
 
-              <div class="flip-card-back">
-                <%= image_tag("map.png", alt: "monument", class: "map-image", style: "width:100%", hidden: true) %>
-                <i class="fas fa-map-marked-alt flip-card-button-turn-to-front"></i>
+              <div id="flip-card-back">
+                <%= image_tag("map.png", alt: "monument", class: "map-image") %>
+                <i class="fas fa-map-marked-alt" id="flip-card-button"></i>
               </div>
 
             </div>

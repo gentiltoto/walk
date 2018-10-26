@@ -7,6 +7,7 @@
 
 .container-card {
   position: relative;
+
 }
 
 .monumen-card {
@@ -27,12 +28,6 @@
   box-shadow: 0 10px 6px -6px $gray;
 }
 
-.monument-image {
-  height: 30vh;
-  border-top-right-radius: 5px;
-  border-top-left-radius: 5px;
-}
-
 .fiche-title {
   margin-top: 10px;
   font-size: 25px;
@@ -49,47 +44,56 @@ h3 {
     right: 10px;
     top: calc(30vh - 50px);
     font-size: 35px;
-    color: white;
+    color: white
   }
 
+  .map-image {
+    width:100%;
+    height: 30vh;
+  }
 
-// .flip-card-3D-wrapper {
-//   -o-perspective: 900px;
-//   -webkit-perspective: 900px;
-//   -ms-perspective: 900px;
-//   perspective: 900px;
-//   position: relative;
-// }
+  .monument-image {
+  display: none;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  width:100%;
+  height: 30vh;
+}
 
-// #flip-card {
-//   position: absolute;
-//   -o-transition: all 1s ease-in-out;
-//   -webkit-transition: all 1s ease-in-out;
-//   -ms-transition: all 1s ease-in-out;
-//   transition: all 1s ease-in-out;
-//   -o-transform-style: preserve-3d;
-//   -webkit-transform-style: preserve-3d;
-//   -ms-transform-style: preserve-3d;
-//   transform-style: preserve-3d;
-// }
 
-// .do-flip {
-//   -o-transform: rotateY(-180deg);
-//   -webkit-transform: rotateY(-180deg);
-//   -ms-transform: rotateY(-180deg);
-//   transform: rotateY(-180deg);
-// }
+  // .flip-card-3D-wrapper {
+  //   position: relative;
+  //   perspective: 600px;
+  // }
 
-// #flip-card .flip-card-front, #flip-card .flip-card-back {
-//   -o-backface-visibility: hidden;
-//   -webkit-backface-visibility: hidden;
-//   -ms-backface-visibility: hidden;
-//   backface-visibility: hidden;
-// }
+  // #flip-card {
+  //   position: absolute;
+  //   transition: transform 1s;
+  //   transform-style: preserve-3d
+  // }
 
-// #flip-card .flip-card-back {
-//     -o-transform: rotateY(180deg);
-//     -webkit-transform: rotateY(180deg);
-//     -ms-transform: rotateY(180deg);
-//     transform: rotateY(180deg);
-// }
+  // #flip-card-front {
+  //   position: absolute;
+  // }
+
+  // #flip-card-back {
+  //   backface-visibility: hidden;
+  //   display: hidden;
+  //   transform: rotateY(180deg);
+  // }
+
+  // #flip-card .do-flip {
+  //   transform: rotateY(180deg);
+
+  // }
+
+
+
+
+
+
+
+
+
+
+
