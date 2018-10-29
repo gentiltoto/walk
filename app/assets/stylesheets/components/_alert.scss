@@ -2,14 +2,52 @@
  * Your CSS code for flash notices and alerts
 * ------------------------------------- */
 
-.alert {
-  margin: 0;
-  text-align: center;
-  color: white;
-}
 .alert-info {
   background: $green;
 }
 .alert-warning {
   background: $red;
+}
+
+.alert {
+  color: white;
+  height: 60px;
+  position: absolute;
+  border-radius: 5px;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: all 1s linear;
+}
+
+.show {
+  opacity: 1;
+  transition: all 1s linear;
+}
+
+// For Mobile
+@media (max-width: 768px) {
+  .alert {
+    width: 100vw;
+    right: 0;
+    top: -60px;
+  }
+
+  .show {
+    top: 60px;
+  }
+}
+
+// For Desktop
+@media (min-width: 768px) {
+  .alert {
+    width: 300px;
+    right: -300px;
+    top: 90px;
+  }
+
+  .show {
+    right: 15px;
+  }
 }
