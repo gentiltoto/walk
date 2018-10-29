@@ -5,6 +5,8 @@ class CitiesController < ApplicationController
   end
 
   def home
+    # @cities = City.all
+    @cities = ["Lille", "Lille", "Lille", "Lille"] # Provisoire
   end
 
   def search
@@ -12,6 +14,8 @@ class CitiesController < ApplicationController
   end
 
   def explications
-    # redirect_to post_city_path
+    # Sélectionne la ville pour pouvoir afficher son nom
+    # @city = City.find(params[:id])
+    @city = { city_id: 1 } # FAKE
   end
 end
