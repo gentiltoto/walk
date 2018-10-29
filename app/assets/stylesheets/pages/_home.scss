@@ -18,6 +18,7 @@
 
   h1 {
     color: black;
+    font-weight: 700;
   }
 
   h3 {
@@ -45,4 +46,10 @@
   height: 70px;
   width: 100vw;
   background-color: $blue;
+  padding: 15px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p { margin: 0; }
 }
