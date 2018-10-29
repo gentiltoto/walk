@@ -1,0 +1,33 @@
+.validate {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 40px;
+    width: 40px;
+  }
+}
+
+.validate-yes {
+  background-color: $green;
+  transition: all 0.5s ease;
+
+  &:hover {
+    background-color: darken($green, 10);
+    transition: all 0.5s ease;
+  }
+}
+
+.validate-no {
+  background-color: $red;
+  transition: all 0.5s ease;
+
+  &:hover {
+    background-color: darken($red, 10);
+    transition: all 0.5s ease;
+  }
+}
