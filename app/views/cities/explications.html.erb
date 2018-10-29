@@ -1,2 +1,10 @@
 <h1>Cities#explication</h1>
 <p>Find me in app/views/cities/explication.html.erb</p>
+
+
+<div class="container">
+  <p><%= @city %></p>
+</div>
+
+
+<%= link_to "J'ai compris", post_city_path(@city[:city_id]), method: :post %>
