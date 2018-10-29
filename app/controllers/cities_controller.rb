@@ -13,7 +13,6 @@ class CitiesController < ApplicationController
 
   def explications
     # Sélectionne la ville pour pouvoir afficher son nom
-    # @city = City.find(params[:id])
-    @city = { city_id: 1 } # FAKE
+    @city = City.find(params[:id])
   end
 end

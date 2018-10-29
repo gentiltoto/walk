@@ -3,8 +3,8 @@
 
 
 <div class="container">
-  <p><%= @city %></p>
+  <p><%= @city.name %></p>
 </div>
 
 
-<%= link_to "J'ai compris", post_city_path(@city[:city_id]), method: :post %>
+<%= link_to "J'ai compris", post_city_path(@city), method: :post %>

@@ -1,6 +1,10 @@
 <h1>Choice</h1>
 
-<%= @itineraire %>
+<%= @itineraire.name %>
+
+<%= @itineraire.city.name %>
+
+<%= @itineraire.monuments %>
 
 
 <%= link_to "Recap", recap_path(@itineraire) %>
