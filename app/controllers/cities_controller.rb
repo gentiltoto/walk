@@ -12,5 +12,6 @@ class CitiesController < ApplicationController
   end
 
   def explications
+    # redirect_to post_city_path
   end
 end
