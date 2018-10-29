@@ -7,4 +7,43 @@
 <%= @itineraire.monuments %>
 
 
+<div class="card-test">
+
+</div>
+
+<div class="validate validate-yes">
+  <%= image_tag "check.svg" %>
+</div>
+
+
+<div class="validate validate-no">
+  <%= image_tag "close.svg" %>
+</div>
+
+<script>
+  console.log(gon.monuments);
+</script>
+
 <%= link_to "Recap", recap_path(@itineraire) %>
+
+
+<script>
+  const card = document.querySelector(".card-test");
+  let compteur = 0;
+  let name = gon.monuments[compteur].name;
+  card.insertAdjacentHTML("beforeend", `<h1>${name}</h1>`);
+
+  const yesButton = document.querySelector('.validate-yes');
+  const noButton = document.querySelector('.validate-no');
+
+  yesButton.addEventListener("click", (event) => {
+    
+  });
+
+  noButton.addEventListener("click", (event) => {
+    compteur += 1;
+    let name = gon.monuments[compteur].name;
+    card.innerHTML = "";
+    card.insertAdjacentHTML("beforeend", `<h1>${name}</h1>`);
+  });
+</script>

@@ -80,6 +80,10 @@ GEM
       sassc (>= 1.11)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
+    gon (6.2.1)
+      actionpack (>= 3.0)
+      multi_json
+      request_store (>= 1.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     i18n (1.1.1)
@@ -122,6 +126,10 @@ GEM
     pry-rails (0.3.6)
       pry (>= 0.10.4)
     puma (3.12.0)
+    rabl-rails (0.5.3)
+      activesupport (>= 4.2)
+      concurrent-ruby (~> 1.0.0)
+      railties (>= 4.2)
     rack (2.0.5)
     rack-proxy (0.6.5)
       rack
@@ -156,6 +164,8 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     redis (4.0.2)
+    request_store (1.4.1)
+      rack (>= 1.4)
     responders (2.4.0)
       actionpack (>= 4.2.0, < 5.3)
       railties (>= 4.2.0, < 5.3)
@@ -228,12 +238,14 @@ DEPENDENCIES
   devise
   dotenv-rails
   font-awesome-sass (~> 5.0.9)
+  gon
   jbuilder (~> 2.0)
   listen (~> 3.0.5)
   pg (~> 0.21)
   pry-byebug
   pry-rails
   puma
+  rabl-rails
   rails (= 5.2.1)
   redis
   sass-rails

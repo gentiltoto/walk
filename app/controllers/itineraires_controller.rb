@@ -10,12 +10,13 @@ class ItinerairesController < ApplicationController
 
   def choice
     @itineraire = Itineraire.find(params[:id])
-    @monuments = Monument.where(city: @itineraire.city.name)
+    @monuments = Monument.where(city: @itineraire.city)
+    # Make accessible to JS everything define in choice.json.rabl (in views)
+    gon.rabl
   end
 
   def recap
-    # @itineraire = Itineraire.find(params[:id])
-    @itineraire = 1
+    @itineraire = Itineraire.find(params[:id])
   end
 
   def show
