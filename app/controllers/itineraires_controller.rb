@@ -15,6 +15,13 @@ class ItinerairesController < ApplicationController
     gon.rabl
   end
 
+  def ajout
+    @itineraire = Itineraire.find(params[:id])
+    @monument = Monument.find(params[:monument_id])
+    @itineraire.monuments.push(@monument)
+    redirect_to choice_path(@itineraire)
+  end
+
   def recap
     @itineraire = Itineraire.find(params[:id])
   end
