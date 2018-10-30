@@ -1,8 +1,10 @@
 .container-texte {
   overflow-x: scroll;
-  height: 32vh;
+  height: 37vh;
   padding-left: 10px;
   padding-right:10px;
+  position: absolute;
+  top: calc(30vh + 3px);
 }
 
 .container-card {
@@ -28,14 +30,16 @@
   box-shadow: 0 10px 6px -6px $gray;
 }
 
-.fiche-title {
-  margin-top: 10px;
+.container-texte h2 {
+ margin-top: 10px;
   font-size: 25px;
 }
-p {
+
+.container-texte p {
   font-size: 14px;
 }
-h3 {
+
+.container-texte h3 {
   font-size: 20px;
 }
 
@@ -47,12 +51,22 @@ h3 {
     color: white
   }
 
+   .fa-image {
+    position: absolute;
+    right: 10px;
+    top: calc(30vh - 50px);
+    font-size: 35px;
+    color: $gray;
+  }
+
   .map-image {
     width:100%;
     height: 30vh;
+
   }
 
   .monument-image {
+  visibility: visible;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   width:100%;
@@ -60,31 +74,58 @@ h3 {
 }
 
 
-  // .flip-card-3D-wrapper {
-  //   position: relative;
-  //   perspective: 600px;
-  // }
+  .flip-card-3D-wrapper {
+    position: relative;
+    perspective: 600px;
+  }
 
-  // #flip-card {
-  //   position: absolute;
-  //   transition: transform 1s;
-  //   transform-style: preserve-3d
-  // }
+  #flip-card {
+    position: relative;
 
-  // #flip-card-front {
-  //   position: absolute;
-  // }
+  }
 
-  // #flip-card-back {
-  //   backface-visibility: hidden;
-  //   display: hidden;
-  //   transform: rotateY(180deg);
-  // }
+  #flip-card-front {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
 
-  // #flip-card .do-flip {
-  //   transform: rotateY(180deg);
 
-  // }
+    position: absolute;
+    transform: rotateY(0deg);
+    -webkit-transform: rotateY(0deg);
+
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+
+    transition: all .6s ease-in-out;
+    -webkit-transition: all .6s ease-in-out;
+  }
+
+  #flip-card-back {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+
+    transform: rotateY(-179deg);
+    -webkit-transform: rotateY(-179deg);
+
+    position: absolute;
+    transform-style: preserve-3d;
+    webkit-transform-style: preserve-3d;
+
+    transition: all .6s ease-in-out;
+    -webkit-transition: all .6s ease-in-out;
+  }
+
+  #flip-card.do-flip #flip-card-front {
+    transform: rotateY(179deg);
+    -webkit-transform: rotateY(179deg);
+
+    transition: all .6s ease-in-out;
+  }
+
+   #flip-card.do-flip #flip-card-back {
+    transform: rotateY(0deg);
+    transition: all .6s ease-in-out;
+  }
 
 
 
