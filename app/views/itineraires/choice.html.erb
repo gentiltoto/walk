@@ -6,9 +6,6 @@
     <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
       <div class="monument-card">
 
-      <!-- <div class="container-card">
-        <div class="card"> -->
-
           <div class="flip-card-3D-wrapper">
             <div id="flip-card">
 
@@ -36,12 +33,17 @@
             <p>magnifiik surtout quand il fait beau</p>
           </div>
 
-        <!-- </div>
-      </div> -->
-
-    </div>
+      </div>
     </div>
   </div>
+</div>
+
+<div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
+        <%= link_to "I picked all my monuments!", recap_path(@itineraire), class: "btn btn-block btn-walk-lg" %>
+      </div>
+    </div>
 </div>
 
 <%= link_to "Recap", recap_path(@itineraire) %>
