@@ -1,0 +1,12 @@
+#map {
+  width: 45vw;
+  height: 45vh;
+}
+
+.marker {
+  background-image: url('icons8-marker-50.png');
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
