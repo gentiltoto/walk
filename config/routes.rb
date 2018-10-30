@@ -7,23 +7,17 @@ Rails.application.routes.draw do
 
   #racine de l'app
   root to: 'cities#home', as: :root
-  #envoie de la ville recherchée
-  post '/search', to: 'cities#search', as: :search_city
-  get '/explications', to: 'cities#explications', as: :explications
 
-  #envoie de la ville vers la page choix
-  post '/city', to: 'monuments#search', as: :post_city
-  #get de la page choix
-  get '/vos-monuments', to: 'monuments#choice', as: :choice
-  #envoie de @selected
-  post '/vos-monuments', to: 'monuments#validate', as: :post_validate
+  post '/search', to: 'cities#search', as: :search_city # redirection avec l'id
+  get '/explications/:id', to: 'cities#explications', as: :explications # Avec id de la ville
+
+  post '/city/:city_id', to: 'itineraires#search', as: :post_city # Crée l'itinéraire avec l'id de la ville --> redirige avec id itinéraire
+  get '/vos-monuments/:id', to: 'itineraires#choice', as: :choice
+
   #affichage du recap
-  get '/synthese', to: 'monuments#recap', as: :recap
+  get '/synthese/:id', to: 'itineraires#recap', as: :recap # avec id itinéraire
 
-  #envoie des choix de monuments validés par l'utilisateur
-  post '/itineraire', to: 'itineraires#compute', as: :post_itinary
   #affichage de l'itinéraire
-  get '/itineraire', to: 'itineraires#show', as: :itinary
-
+  get '/itineraire/:id', to: 'itineraires#show', as: :itinary # avec id itinéraire
 
 end
