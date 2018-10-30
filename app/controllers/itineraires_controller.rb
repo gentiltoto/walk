@@ -10,7 +10,7 @@ class ItinerairesController < ApplicationController
 
   def choice
     @itineraire = Itineraire.find(params[:id])
-    @monuments = Monument.where(city: @itineraire.city)
+    @monuments = Monument.where(city: @itineraire.city) #.where.not(id: @itineraire.monuments)
     # Make accessible to JS everything define in choice.json.rabl (in views)
     gon.rabl
   end
