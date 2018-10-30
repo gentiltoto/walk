@@ -1,0 +1,8 @@
+
+<div id='map'></div>
+
+<script>
+L.mapbox.accessToken = ENV[MAPBOX_PUBLIC];
+var map = L.mapbox.map('map', 'mapbox.streets')
+    .setView([40, -74.50], 9);
+</script>
