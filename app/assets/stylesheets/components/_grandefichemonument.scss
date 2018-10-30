@@ -1,0 +1,98 @@
+.container-texte {
+  overflow-x: scroll;
+  height: 32vh;
+  padding-left: 10px;
+  padding-right:10px;
+}
+
+.container-card {
+  position: relative;
+
+}
+
+.monument-card {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.card {
+  margin-top: 2px;
+  position: relative;
+  box-shadow: 10px;
+  height: 70vh;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  -webkit-box-shadow: 0 10px 6px -6px $gray;
+  -moz-box-shadow: 0 10px 6px -6px $gray;
+  box-shadow: 0 10px 6px -6px $gray;
+}
+
+.fiche-title {
+  margin-top: 10px;
+  font-size: 25px;
+}
+p {
+  font-size: 14px;
+}
+h3 {
+  font-size: 20px;
+}
+
+ .fa-map-marked-alt {
+    position: absolute;
+    right: 10px;
+    top: calc(30vh - 50px);
+    font-size: 35px;
+    color: white
+  }
+
+  .map-image {
+    width:100%;
+    height: 30vh;
+  }
+
+  .monument-image {
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  width:100%;
+  height: 30vh;
+}
+
+
+  // .flip-card-3D-wrapper {
+  //   position: relative;
+  //   perspective: 600px;
+  // }
+
+  // #flip-card {
+  //   position: absolute;
+  //   transition: transform 1s;
+  //   transform-style: preserve-3d
+  // }
+
+  // #flip-card-front {
+  //   position: absolute;
+  // }
+
+  // #flip-card-back {
+  //   backface-visibility: hidden;
+  //   display: hidden;
+  //   transform: rotateY(180deg);
+  // }
+
+  // #flip-card .do-flip {
+  //   transform: rotateY(180deg);
+
+  // }
+
+
+
+
+
+
+
+
+
+
+
