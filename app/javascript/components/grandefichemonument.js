@@ -1,4 +1,4 @@
-function flip() {
+export function flip() {
   const monument = document.getElementById("flip-card-front");
   const map = document.getElementById("flip-card-back");
   const flip = document.getElementById("flip-card");
@@ -8,5 +8,3 @@ function flip() {
 
   })
 }
-
-export { flip }
