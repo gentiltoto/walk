@@ -1,0 +1,64 @@
+
+.wrapper-explications {
+  background-image: asset-url("sign-background.jpg");
+  // background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: calc(100vh - 60px);
+  display: flex;
+  align-items: center
+}
+
+h3, p {
+  text-align: center;
+}
+
+h1 {
+
+}
+
+.btn-ok {
+  position: absolute;
+  bottom: 10px;
+}
+
+.validate {
+  margin-top: 15px
+}
+
+
+.content-explications {
+  height: 75vh;
+  color: white;
+  border-radius: $border-radius-base;
+  background-color: $blue;
+  position: relative
+
+}
+
+.card {
+  background-color: white;
+
+}
+
+// For Mobile
+@media (max-width: 768px) {
+  .card {
+    height: 20vh;
+  }
+}
+
+// For Desktop
+@media (min-width: 768px) {
+  .card {
+    height: 40vh
+  }
+}
+
+
+
+
+

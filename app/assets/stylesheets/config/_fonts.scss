@@ -5,6 +5,32 @@
 $body-font: 'Arimo', "Helvetica", "sans-serif";
 $headers-font: $body-font;
 
+$h1-font-size: 38px;
+$h2-font-size: 30px;
+$h3-font-size: 22px;
+$h4-font-size: 14px;
+$p-font-size: 14px;
+
+h1 {
+  font-size: $h1-font-size;
+}
+
+h2 {
+  font-size: $h2-font-size;
+}
+
+h3 {
+  font-size: $h3-font-size;
+}
+
+h4 {
+  font-size: $h4-font-size;
+}
+
+p {
+  font-size: $p-font-size;
+}
+
 // To use a font file (.woff) uncomment following lines
 // @font-face {
 //   font-family: "Font Name";
