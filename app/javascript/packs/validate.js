@@ -2,7 +2,7 @@ function validateButtons() {
 
   const itineraire = gon.itineraire
   const card = document.querySelector(".card-test");
-  let compteur = 0;
+  let compteur = gon.itineraire.compteur;
   let monument = itineraire.monuments[compteur];
   // TO-DO: Replace the h1 by the true card
   card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
@@ -15,7 +15,7 @@ function validateButtons() {
     Rails.ajax({
       type: "POST",
       url: `/vos-monuments/${itineraire.id}/${itineraire.monuments[compteur].id}`,
-      data: 'first_name=Ricky&last_name=Bobby',
+      data: `compteur=${compteur}`,
       success: function() { console.log("Réussi boy!"); },
       error: function() { console.log("Shit!"); }
     });

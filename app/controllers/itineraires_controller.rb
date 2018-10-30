@@ -16,9 +16,14 @@ class ItinerairesController < ApplicationController
   end
 
   def ajout
+    # Find the itineraire
     @itineraire = Itineraire.find(params[:id])
+    # Find the monument
     @monument = Monument.find(params[:monument_id])
+    # Add the monument to the itineraire
     @itineraire.monuments.push(@monument)
+    # Set the compteur to the next index of the added monuments
+    @itineraire.update(compteur: params["compteur"].to_i + 1)
     redirect_to choice_path(@itineraire)
   end
 
