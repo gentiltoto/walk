@@ -2,36 +2,55 @@
 <div class="wrapper-explications">
   <div class="container explics">
     <div class="row">
-      <div class="col-xs-10 col-sm-8 col-xs-offset-1 col-sm-offset-2 content-explications">
+      <div class="col-xs-10 col-sm-8 col-xs-offset-1 col-sm-offset-2">
+        <div class="content-explications">
 
         <div class="row">
           <div class="col-xs-12 col-sm-12">
-            <h3>Construisez votre visite sur mesure à Lille!</h3>
-            <p>Selectionnez les monuments que vous voulez ajouter à votre parcours.</p>
+            <div class="text-explications">
+              <h3>Construisez votre visite sur mesure à Lille!</h3>
+              <p>Selectionnez les monuments que vous voulez ajouter à votre parcours.</p>
+            </div>
           </div>
         </div>
 
 
         <div class="row">
-          <div class="col-xs-8 col-sm-8 col-xs-offset-2 col-sm-offset-2 card">
-            <h1>CARDS</h1>
+          <div class="col-xs-8 col-sm-8 col-xs-offset-2 col-sm-offset-2">
+            <div class="card">
+              <h1>CARDS</h1>
+            </div>
           </div>
         </div>
 
         <div class="row">
-          <div class="col-xs-2 col-sm-2 col-xs-offset-3 col-sm-offset-4 validate validate-yes">
-            <%= image_tag "check.svg" %>
-          </div>
+          <div class="col-xs-8 col-xs-offset-2">
+            <div class="position-valid-button">
 
-          <div class="col-xs-2 col-sm-2 col-xs-offset-1 col-sm-offset-2 validate validate-no">
-            <%= image_tag "close.svg" %>
-          </div>
+              <div class="validate validate-no">
+                <%= image_tag "close.svg" %>
+              </div>
 
-          <div class="col-xs-6 col-sm-2 col-xs-offset-3 col-sm-offset-5 btn-ok">
-            <%= link_to "OK!", post_city_path(@city[:city_id]), method: :post, class: "btn btn-lg btn-block btn-walk-sm" %>
+              <div class="validate validate-yes">
+                <%= image_tag "check.svg" %>
+              </div>
+
+            </div>
           </div>
         </div>
 
+
+
+          <div class="row">
+            <div class="col-xs-6 col-sm-4 col-xs-offset-3 col-sm-offset-4">
+
+              <%= link_to post_city_path(@city[:city_id]),  method: :post do %>
+                <%= render "shared/button", calltoaction: "C'est parti!" %>
+              <% end  %>
+          </div>
+          </div>
+
+        </div>
       </div>
     </div>
   </div>

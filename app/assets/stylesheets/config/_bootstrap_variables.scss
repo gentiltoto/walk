@@ -11,7 +11,7 @@ $font-size-base: 18px;
 
 // Colors
 $gray-base:       $gray;
-$brand-primary:   $blue;
+$brand-primary:   $gray;
 $brand-success:   $green;
 $brand-info:      $yellow;
 $brand-danger:    $red;
@@ -22,6 +22,10 @@ $border-radius-base:  2px;
 $border-radius-large: 2px;
 $border-radius-small: 2px;
 
+//Buttons primary override
+$btn-primary-color: white ;
+$btn-primary-bg:  $brand-primary ;
+$btn-primary-border: darken($btn-primary-bg, 5%) ;
 
 // Patch to make simple_form compatible with bootstrap 3
 .invalid-feedback {
