@@ -24,24 +24,31 @@
         </div>
 
         <div class="row">
-          <div class="col-xs-2 col-sm-2 col-xs-offset-3 col-sm-offset-4 ">
-            <div class="validate validate-yes">
-              <%= image_tag "check.svg" %>
+          <div class="col-xs-8 col-xs-offset-2">
+            <div class="position-valid-button">
+
+              <div class="validate validate-no">
+                <%= image_tag "close.svg" %>
+              </div>
+
+              <div class="validate validate-yes">
+                <%= image_tag "check.svg" %>
+              </div>
+
             </div>
-          </div>
-
-          <div class="col-xs-2 col-sm-2 col-xs-offset-1 col-sm-offset-2 ">
-            <div class="validate validate-no">
-              <%= image_tag "close.svg" %>
-            </div>
-          </div>
-
-          <div class="col-xs-6 col-sm-2 col-xs-offset-3 col-sm-offset-5">
-
-              <%= link_to "Ok!", post_city_path(@city[:city_id]), method: :post, class: "btn btn-lg btn-block btn-walk-sm" %>
-
           </div>
         </div>
+
+
+
+          <div class="row">
+            <div class="col-xs-6 col-sm-4 col-xs-offset-3 col-sm-offset-4">
+
+              <%= link_to post_city_path(@city[:city_id]),  method: :post do %>
+                <%= render "shared/button", calltoaction: "C'est parti!" %>
+              <% end  %>
+          </div>
+          </div>
 
         </div>
       </div>
