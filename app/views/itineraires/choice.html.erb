@@ -41,7 +41,9 @@
 <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-        <%= link_to "I picked all my monuments!", recap_path(@itineraire), class: "btn btn-block btn-walk-lg" %>
+        <%= link_to recap_path(@itineraire)  do %>
+          <%= render "shared/button", calltoaction: "J'ai choisi tous mes monuments!" %>
+        <% end  %>
       </div>
     </div>
 </div>
