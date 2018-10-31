@@ -1,8 +1,3 @@
-<%= @itineraire %>
-<!-- pour la map, la localisation est rentré en dur pour l'instant. Par la suite, il faudra récupérer cette info avec la ligne suivante. -->
-<%# @localisation %>
-
-
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
@@ -42,31 +37,10 @@
     <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
       <div class="monument-card no-more" style="display: none;">
 
-          <div class="flip-card-3D-wrapper">
-            <div id="flip-card">
+          <div class="no-more-text">
+            <h1>NO MORE</h1>
 
-              <div id="flip-card-front">
-                <%= image_tag("wault.jpg", alt: "monument", class: "monument-image") %>
-                <i class="fas fa-map-marked-alt" id="flip-card-button"></i>
-              </div>
-
-             <div id="flip-card-back">
-                <%= image_tag("https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(3.0565,50.6302)/3.0565,50.6302,11,0,0/360x220@2x?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A", alt: "monument", class: "map-image") %>
-                <i class="fas fa-image" id="flip-card-button"></i>
-              </div>
-
-            </div>
-          </div>
-
-          <div class="container-texte">
-            <h2 class="nom-test"><%=  %></h2>
-            <p>NO MORE</p>
-            <p>Le quai du Wault est l'un des deux anciens ports de Lille celui de la haute Deûle avec celui de la Basse-Deûle, actuelle avenue du Peuple Belge. Contrairement à celui-ci, ce bassin est toujours en eau. Ces deux anciens ports qui étaient situés à l'intérieur des enceintes fortifiées font partie du vieux-Lille.e</p>
-            <h3>Horaires d'ouverture</h3>
-            <p>8H 00h</p>
-            <h3>Avis</h3>
-            <p>Super j'ai adoré</p>
-            <p>magnifiik surtout quand il fait beau</p>
+            <%= link_to "Recharger les monuments", choice_path(@itineraire), class: "link-fetch" %>
           </div>
 
       </div>

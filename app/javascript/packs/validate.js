@@ -59,7 +59,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
-      card.style.display = "none";
+      document.querySelector(".active").style.display = "none";
       // Display the card no-more
       noMore.style.display = "block";
     } else {
