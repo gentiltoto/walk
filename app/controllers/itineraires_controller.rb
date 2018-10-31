@@ -31,8 +31,12 @@ class ItinerairesController < ApplicationController
   end
 
   def recap
-    @itineraire = Itineraire.find(params[:id])
-    #@selected = Monument
+    # @itineraire = Itineraire.find(params[:id])
+    @itineraire = 1
+    #@monument = Monument.find(params[:monument_id])
+    #@monument.destroy
+
+    #redirect_to recap_path(@itineraire)
     @selected = ["treille", "quai du wault", "beaux arts"]
 
   end

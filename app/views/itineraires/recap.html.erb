@@ -5,7 +5,10 @@
   <% end %>
 </ul>
 
+<%= link_to itinary_path(@itineraire) do %>
+  <%= render "shared/button", calltoaction: "Mon itinéraire" %>
+<% end  %>
 
 
 
-<%= link_to "Itinéraire Final", itinary_path(@itineraire) %>
+
