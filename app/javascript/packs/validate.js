@@ -2,19 +2,22 @@ function validateButtons() {
   // Get the gon variable
   const itineraire = gon.itineraire
   // Get the card of monument
-  const card = document.querySelector(".card-test");
+  const card = document.querySelector(".nom-test");
 
   // Get the no-more card
   const noMore = document.querySelector(".no-more");
   // Get the link of the card
   const linkFetch = document.querySelector(".link-fetch")
+  // Get the map in the back
+  const mapBack = document.querySelector("#flip-card-back")
 
   // Initialize the compteur
   let compteur = gon.itineraire.compteur;
   let monument = itineraire.monuments[compteur];
 
   // TO-DO: Replace the h1 by the true card
-  card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+  card.insertAdjacentHTML("beforeend", `${monument.name}`);
+  mapBack.insertAdjacentHTML("beforeend", `<img src="https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(${monument.latitude},${monument.longitude})/${monument.latitude},${monument.longitude},11,0,0/360x220@2x?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A" alt="monument" class= "map-image"><i class="fas fa-image" id="flip-card-button"></i>`);
 
   const yesButton = document.querySelector('.validate-yes');
   const noButton = document.querySelector('.validate-no');
@@ -37,7 +40,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
-      card.style.display = "none";
+      document.querySelector(".active").style.display = "none";
       // Display the card no-more
       noMore.style.display = "block";
     } else {
@@ -46,7 +49,10 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
-      card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+      card.insertAdjacentHTML("beforeend", `${monument.name}`);
+      // Set the new map
+      mapBack.innerHTML = "";
+      mapBack.insertAdjacentHTML("beforeend", `<img src="https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(${monument.latitude},${monument.longitude})/${monument.latitude},${monument.longitude},11,0,0/360x220@2x?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A" alt="monument" class= "map-image"><i class="fas fa-image" id="flip-card-button"></i>`);
     }
   });
 
@@ -59,7 +65,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
-      card.style.display = "none";
+      document.querySelector(".active").style.display = "none";
       // Display the card no-more
       noMore.style.display = "block";
     } else {
@@ -68,7 +74,10 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
-      card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+      card.insertAdjacentHTML("beforeend", `${monument.name}`);
+      // Set the new map
+      mapBack.innerHTML = "";
+      mapBack.insertAdjacentHTML("beforeend", `<img src="https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(${monument.latitude},${monument.longitude})/${monument.latitude},${monument.longitude},11,0,0/360x220@2x?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A" alt="monument" class= "map-image"><i class="fas fa-image" id="flip-card-button"></i>`);
     }
   });
 
@@ -78,4 +87,4 @@ function validateButtons() {
   });
 }
 
-export { validateButtons };
+validateButtons();
