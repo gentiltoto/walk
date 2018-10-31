@@ -31,14 +31,26 @@ class ItinerairesController < ApplicationController
   end
 
   def recap
-    # @itineraire = Itineraire.find(params[:id])
-    @itineraire = 1
-    #@monument = Monument.find(params[:monument_id])
-    #@monument.destroy
+    @itineraire = Itineraire.find(params[:id])
+    #récupérer les monuments selectionnés
 
-    #redirect_to recap_path(@itineraire)
+    @monuments = Monument.all
+    #make accessible to JS what is done in recap
+    gon.rabl
+
     @selected = ["treille", "quai du wault", "beaux arts"]
+  end
 
+  def supprimer
+    # A FAIRE !!! sajouter la route delete au routes
+    # Find the itineraire
+    @itineraire = Itineraire.find(params[:id])
+    # Find the monument to delete
+    @monument = Monument.find(params[:monument_id])
+    #delete the monument of the itinary
+    @itineraire.monuments.delete(@monument)
+
+    redirect_to recap_path(@itineraire)
   end
 
   def show

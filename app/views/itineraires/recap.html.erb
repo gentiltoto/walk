@@ -1,14 +1,26 @@
 <h1>RECAP</h1>
-<ul>
-  <% @selected.each do |monument|%>
-    <li><%= monument %></li>
+    <li></li>
+<%= @itineraire.compteur %>
+<div class="container-fiche-delete">
+  <% @itineraire.monuments.each do |monument| %>
+
+  <div class="fiche-delete">
+    <%= image_tag("citadelle.jpg") %>
+    <i class="far fa-times-circle"></i>
+    <h2><%= monument.id %></h2>
+  </div>
   <% end %>
-</ul>
+
+</div>
+
 
 <%= link_to itinary_path(@itineraire) do %>
   <%= render "shared/button", calltoaction: "Mon itinéraire" %>
 <% end  %>
 
+<% content_for(:js) do %>
+  <%= javascript_pack_tag 'delete' %>
+<% end %>
 
 
 
