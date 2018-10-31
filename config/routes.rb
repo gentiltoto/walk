@@ -10,8 +10,9 @@ Rails.application.routes.draw do
 
   post '/search', to: 'cities#search', as: :search_city # redirection avec l'id
   get '/explications/:id', to: 'cities#explications', as: :explications # Avec id de la ville
-
+  
   post '/city/:city_id', to: 'itineraires#search', as: :post_city # Crée l'itinéraire avec l'id de la ville --> redirige avec id itinéraire
+
   get '/vos-monuments/:id', to: 'itineraires#choice', as: :choice
   # permet d'ajouter avec AJAX un monument à un itinéraire
   post '/vos-monuments/:id/:monument_id', to: 'itineraires#ajout', as: :ajout

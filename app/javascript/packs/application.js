@@ -7,4 +7,4 @@ openNav();
 closeNav();
 
 // Set Listeners for the validate Buttons
-validateButtons();
+// validateButtons();
