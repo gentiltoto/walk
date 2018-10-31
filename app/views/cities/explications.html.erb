@@ -44,7 +44,7 @@
           <div class="row">
             <div class="col-xs-6 col-sm-4 col-xs-offset-3 col-sm-offset-4">
 
-              <%= link_to post_city_path(@city[:city_id]),  method: :post do %>
+              <%= link_to post_city_path(@city),  method: :post do %>
                 <%= render "shared/button", calltoaction: "C'est parti!" %>
               <% end  %>
           </div>
@@ -55,6 +55,7 @@
     </div>
   </div>
 </div>
+
 
 
 
