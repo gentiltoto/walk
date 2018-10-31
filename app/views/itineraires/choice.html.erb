@@ -11,7 +11,13 @@
   <% end %>
 </ul>
 
-<div class="card-test">
+<div class="no-more" style="height: 500px; width:500px; border: 1px solid black; transition: all 2s ease; display: none;">
+  <h1>No More</h1>
+
+  <%= link_to "Fetch", choice_path(@itineraire), class: "link-fetch" %>
+</div>
+
+<div class="card-test" style="height: 500px; width:500px; border: 1px solid black;">
   <!-- La classe sera remplacé par la grande fiche monument -->
 </div>
 
@@ -25,3 +31,8 @@
 </div>
 
 <%= link_to "Recap", recap_path(@itineraire) %>
+
+
+<% content_for(:js) do %>
+  <%= javascript_pack_tag 'validate' %>
+<% end %>
