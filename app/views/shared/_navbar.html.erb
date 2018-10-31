@@ -58,7 +58,9 @@
             <%= link_to "Connexion", new_user_session_path %>
           </div>
           <div class="call-to">
-            <%= link_to "Inscription", new_user_registration_path, class: "btn btn-lg btn-block btn-walk-sm" %>
+            <%= link_to new_user_registration_path  do %>
+              <%= render "shared/button", calltoaction: "Inscription" %>
+            <% end  %>
           </div>
         </div>
       </div>
@@ -103,7 +105,9 @@
         </div>
       <% else %>
         <div class="call-to-sign-up">
-          <%= link_to "Inscription", new_user_registration_path, class: "btn btn-lg btn-block btn-walk-sm" %>
+          <%= link_to new_user_registration_path  do %>
+            <%= render "shared/button", calltoaction: "Inscription" %>
+          <% end  %>
         </div>
 
         <div class="navbar-menu-mobile">
