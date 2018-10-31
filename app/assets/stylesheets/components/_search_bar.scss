@@ -1,9 +1,24 @@
+.container-search-bar {
+  display: inline-block;
+}
+
 .fa-search {
     font-size: 30px;
     padding-top: 3px;
     padding-right: 5px;
-    display: block;
+    display: inline-block;
+    color: $blue;
   }
+
+.form-container {
+  display: flex;
+  align-items: center;
+  .button-icon {
+    background: transparent;
+    border: 0px;
+  }
+
+}
 
 .autocomplete {
   /*the container must be positioned relative:*/
@@ -11,9 +26,6 @@
   display: inline-block;
 }
 
-.container-search-bar {
-  display: inline-block;
-}
 
 input {
   border: 1px solid transparent;
