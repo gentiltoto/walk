@@ -45,5 +45,8 @@ export function getRoute(map, steps) {
       }
     });
   })
+  // récupération des data sur la route en question (distance en mettre + temps en seconde) (5km/h pour la marche)
+  var distance = data.routes[0].distance
+  var duration = data.routes[0].duration
   });
 }
