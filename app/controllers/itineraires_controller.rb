@@ -17,9 +17,12 @@ class ItinerairesController < ApplicationController
   def recap
     # @itineraire = Itineraire.find(params[:id])
     @itineraire = 1
+    #@selected = Monument
+    @selected = ["treille", "quai du wault", "beaux arts"]
   end
 
   def show
 
   end
 end
+
