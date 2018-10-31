@@ -34,3 +34,4 @@ end
 
 gem 'gon'
 gem 'rabl-rails'
+gem 'carrierwave'
