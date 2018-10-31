@@ -1,8 +1,3 @@
-<%= @itineraire %>
-<!-- pour la map, la localisation est rentré en dur pour l'instant. Par la suite, il faudra récupérer cette info avec la ligne suivante. -->
-<%# @localisation %>
-
-
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
@@ -17,7 +12,7 @@
               </div>
 
              <div id="flip-card-back">
-                <%= image_tag("https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(3.0565,50.6302)/3.0565,50.6302,11,0,0/360x220@2x?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A", alt: "monument", class: "map-image") %>
+                <%= image_tag("map.png", alt: "monument", class: "map-image") %>
                 <i class="fas fa-image" id="flip-card-button"></i>
               </div>
 
@@ -39,21 +34,3 @@
     </div>
   </div>
 </div>
-
-<div class="container">
-    <div class="row">
-      <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-        <%= link_to recap_path(@itineraire)  do %>
-          <%= render "shared/button", calltoaction: "J'ai choisi tous mes monuments!" %>
-        <% end  %>
-      </div>
-    </div>
-</div>
-
-<%= link_to "Recap", recap_path(@itineraire) %>
-
-
-<% content_for(:js) do %>
-  <%= javascript_pack_tag 'validate' %>
-  <%= javascript_pack_tag 'grandefichemonument' %>
-<% end %>

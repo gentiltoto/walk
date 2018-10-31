@@ -1,1 +1,55 @@
 // Specific CSS for your home-page
+.home-wrapper {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), asset-url('home.jpg');
+  height: 57vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.home-description {
+  // background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+
+  h1 {
+    color: black;
+    font-weight: 700;
+  }
+
+  h3 {
+    color: black;
+  }
+}
+
+.available-cities {
+  margin: 50px 0;
+
+  h1 {
+    font-size: 32px;
+    color: $blue;
+    margin: 0;
+    font-weight: 700;
+  }
+}
+
+.home-presentation {
+  margin: 5px;
+  padding: 55px 15px;
+}
+
+.home-footer {
+  height: 70px;
+  width: 100vw;
+  background-color: $blue;
+  padding: 15px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  p { margin: 0; }
+}

@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-10 container-flex">
+      <i class="fas fa-search"></i>
+      <div class="container-search-bar">
+        <form autocomplete="off" action="/TOCOMPLETE">
+          <div class="autocomplete">
+            <input id="myInput" class="form-control form-control-lg" type="text" placeholder="Entrez votre ville">
+          </div>
+          <input class="btn btn-success" type="submit">
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<% content_for(:js) do %>
+  <%= javascript_pack_tag 'cities-autocomplete' %>
+<% end %>

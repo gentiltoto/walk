@@ -1,0 +1,16 @@
+<script type="text/javascript">
+  var marker_long = 3.0565;
+  var marker_lat = 50.6302;
+  var marker = `pin-s-(${marker_long},${marker_lat})`;
+  var staticRequest = `https://api.mapbox.com/styles/v1/mapbox/light-v9/static/${marker}/${marker_long},${marker_lat},10,0,0/300x200?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A`;
+
+  $.ajax({
+    method: 'GET',
+    url: staticRequest,
+  }).done(function(data) {
+    console.log(data);
+  })
+
+
+</script>
+<img src='https://api.mapbox.com/styles/v1/mapbox/light-v9/static/pin-s-marker+285A98(3.0565,50.6302)/3.0565,50.6302,11,0,0/300x200?access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A'>

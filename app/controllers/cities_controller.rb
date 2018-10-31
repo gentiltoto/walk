@@ -5,6 +5,8 @@ class CitiesController < ApplicationController
   end
 
   def home
+    # @cities = City.all
+    @cities = ["Lille", "Lille", "Lille", "Lille"] # Provisoire
   end
 
   def search
