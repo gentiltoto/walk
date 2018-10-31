@@ -2,7 +2,7 @@ function validateButtons() {
   // Get the gon variable
   const itineraire = gon.itineraire
   // Get the card of monument
-  const card = document.querySelector(".card-test");
+  const card = document.querySelector(".nom-test");
 
   // Get the no-more card
   const noMore = document.querySelector(".no-more");
@@ -14,7 +14,7 @@ function validateButtons() {
   let monument = itineraire.monuments[compteur];
 
   // TO-DO: Replace the h1 by the true card
-  card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+  card.insertAdjacentHTML("beforeend", `${monument.name}`);
 
   const yesButton = document.querySelector('.validate-yes');
   const noButton = document.querySelector('.validate-no');
@@ -37,7 +37,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
-      card.style.display = "none";
+      document.querySelector(".active").style.display = "none";
       // Display the card no-more
       noMore.style.display = "block";
     } else {
@@ -46,7 +46,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
-      card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+      card.insertAdjacentHTML("beforeend", `${monument.name}`);
     }
   });
 
@@ -68,7 +68,7 @@ function validateButtons() {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
-      card.insertAdjacentHTML("beforeend", `<h1>${monument.name}</h1>`);
+      card.insertAdjacentHTML("beforeend", `${monument.name}`);
     }
   });
 
@@ -78,4 +78,4 @@ function validateButtons() {
   });
 }
 
-export { validateButtons };
+validateButtons();
