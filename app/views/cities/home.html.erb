@@ -5,18 +5,20 @@
         <div class="home-description">
           <h1 class="text-center">WALK</h1>
           <h3 class="text-center">Construisez votre visite en un click</h3>
-            <div class="row">
-              <div class="col-xs-12 container-flex">
-                <div class="container-search-bar">
-                  <form autocomplete="off" action="/TOCOMPLETE" class="form-container">
-                    <div class="autocomplete">
-                      <input id="myInput" class="form-control form-control-lg" type="text" placeholder="Entrez votre ville">
-                    </div>
-                      <button class="button-icon"><i class="fas fa-search"></i></button>
-                  </form>
+
+          <div class="container-flex">
+
+              <%= simple_form_for root_path, html: { class: "form-container" } do |f| %>
+                <div class="autocomplete">
+                  <%= f.input :test, input_html: { id: "myInput" }, placeholder: "Entrez votre ville", label: false %>
+                  <%= button_tag(type: 'submit', class: "button-icon") do %>
+                  <i class="fas fa-search"></i>
+                  <% end %>
                 </div>
-              </div>
+              <% end %>
+
           </div>
+
         </div>
       </div>
     </div>
@@ -76,4 +78,3 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'cities-autocomplete' %>
 <% end %>
-
