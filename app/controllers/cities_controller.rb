@@ -5,18 +5,16 @@ class CitiesController < ApplicationController
   end
 
   def home
-    @city = City.new
     @cities = City.all
     gon.rabl
   end
 
   def search
-    fail
-    redirect_to explications_path(params[:id])
+    redirect_to explications_path(params[:name])
   end
 
   def explications
     # Sélectionne la ville pour pouvoir afficher son nom
-    @city = City.find(params[:id])
+    @city = City.where(name: params[:name])
   end
 end
