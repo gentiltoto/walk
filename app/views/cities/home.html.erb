@@ -8,14 +8,16 @@
 
           <div class="container-flex">
 
-              <%= simple_form_for root_path, html: { class: "form-container" } do |f| %>
-                <div class="autocomplete">
-                  <%= f.input :test, input_html: { id: "myInput" }, placeholder: "Entrez votre ville", label: false %>
-                  <%= button_tag(type: 'submit', class: "button-icon") do %>
-                  <i class="fas fa-search"></i>
-                  <% end %>
+            <form class="form-container" action="<%= search_city_path %>" method="post">
+              <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+              <div class="autocomplete">
+                <div class="form-group">
+                  <input type="text" name="id" placeholder="Entrez votre ville" id="myInput" class="form-control">
                 </div>
-              <% end %>
+                <button type="submit" name="button" class="button-icon"><i class="fas fa-search"></i></button>
+              </div>
+            </form>
+
 
           </div>
 

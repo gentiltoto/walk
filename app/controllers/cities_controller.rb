@@ -5,12 +5,13 @@ class CitiesController < ApplicationController
   end
 
   def home
-    # @cities = City.all
+    @city = City.new
     @cities = City.all
     gon.rabl
   end
 
   def search
+    fail
     redirect_to explications_path(params[:id])
   end
 
