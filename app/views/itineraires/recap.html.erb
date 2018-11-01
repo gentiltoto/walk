@@ -4,10 +4,15 @@
 <div class="container-fiche-delete">
   <% @itineraire.monuments.each do |monument| %>
 
-  <div class="fiche-delete">
+  <div class="fiche-delete" card-id="<%= monument.id %>">
     <%= image_tag("citadelle.jpg") %>
-    <i class="far fa-times-circle"></i>
+
+    <%= link_to supprimer_path(@itineraire, monument.id), method: :post, remote: true do %>
+      <i class="far fa-times-circle"></i>
+    <% end %>
+
     <h2><%= monument.id %></h2>
+    <h2><%= monument.name %> </h2>
   </div>
   <% end %>
 

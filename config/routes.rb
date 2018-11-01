@@ -20,7 +20,7 @@ Rails.application.routes.draw do
   #affichage du recap
   get '/synthese/:id', to: 'itineraires#recap', as: :recap # avec id itinéraire
   #delete avec AJAX d'un monument à un itinéraire
-  delete 'synthese/:id/:monument_id', to: 'itineraires#supprimer', as: :supprimer
+  post '/synthese/:id/:monument_id', to: 'itineraires#supprimer', as: :supprimer
 
   #affichage de l'itinéraire
   get '/itineraire/:id', to: 'itineraires#show', as: :itinary # avec id itinéraire

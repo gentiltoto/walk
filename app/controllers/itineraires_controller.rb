@@ -37,24 +37,29 @@ class ItinerairesController < ApplicationController
     @monuments = Monument.all
     #make accessible to JS what is done in recap
     gon.rabl
-
-    @selected = ["treille", "quai du wault", "beaux arts"]
   end
 
   def supprimer
-    # A FAIRE !!! sajouter la route delete au routes
     # Find the itineraire
     @itineraire = Itineraire.find(params[:id])
     # Find the monument to delete
     @monument = Monument.find(params[:monument_id])
     #delete the monument of the itinary
-    @itineraire.monuments.delete(@monument)
+    @itineraire.monuments.destroy(@monument)
 
-    redirect_to recap_path(@itineraire)
+    #permet à la vue de gérer si l'utilisateur utilise JS ou pas
+    respond_to do |format|
+      format.html { redirect_to recap_path(@itineraire) }
+      format.js # will render 'app/views/itineraries/supprimer.js.erb'
+    end
+
+
+     # redirect_to recap_path(@itineraire)
   end
 
   def show
 
   end
 end
+
 
