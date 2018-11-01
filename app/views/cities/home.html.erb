@@ -5,18 +5,22 @@
         <div class="home-description">
           <h1 class="text-center">WALK</h1>
           <h3 class="text-center">Construisez votre visite en un click</h3>
-            <div class="row">
-              <div class="col-xs-12 container-flex">
-                <div class="container-search-bar">
-                  <form autocomplete="off" action="/TOCOMPLETE" class="form-container">
-                    <div class="autocomplete">
-                      <input id="myInput" class="form-control form-control-lg" type="text" placeholder="Entrez votre ville">
-                    </div>
-                      <button class="button-icon"><i class="fas fa-search"></i></button>
-                  </form>
+
+          <div class="container-flex">
+
+            <form class="form-container" action="<%= search_city_path %>" method="post">
+              <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
+              <div class="autocomplete">
+                <div class="form-group">
+                  <input type="text" name="name" placeholder="Entrez votre ville" id="myInput" class="form-control">
                 </div>
+                <button type="submit" name="button" class="button-icon"><i class="fas fa-search"></i></button>
               </div>
+            </form>
+
+
           </div>
+
         </div>
       </div>
     </div>
@@ -32,35 +36,39 @@
 
 <div class="container-fiche-city">
   <% @cities.each do |city| %>
-  <div class="fiche-city">
-    <%= image_tag("#{city}.jpg") %>
-    <h3><%= city %></h3>
-  </div>
+    <%= link_to explications_path(city.name), class: "link-fiche-city" do %>
+      <div class="fiche-city">
+        <%= cl_image_tag(city.photo) %>
+        <div class="city-description">
+          <h2><%= city.name %></h2>
+        </div>
+      </div>
+    <% end %>
   <% end %>
 </div>
 
 
 <div class="container">
   <div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="col-xs-12 col-sm-6">
       <div class="home-presentation">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
 
-    <div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="col-xs-12 col-sm-6">
       <div class="home-presentation">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
 
-    <div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="col-xs-12 col-sm-6">
       <div class="home-presentation">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
 
-    <div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="col-xs-12 col-sm-6">
       <div class="home-presentation">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
@@ -70,10 +78,11 @@
 
 
 <div class="home-footer">
-  <p>Un joli footer</p>
+  <div class="team">
+    Pensé et réalisé par Cassandre, Henri et Antoine
+  </div>
 </div>
 
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'cities-autocomplete' %>
 <% end %>
-

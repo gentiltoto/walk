@@ -13,5 +13,35 @@
     "name": "Orléans",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Orl%C3%A9ans%2C_pavoisement_pour_les_F%C3%AAtes_de_Jeanne_d%27Arc_2017.jpg",
     "json": "orleans-photo"
-  }
+  },
+  {
+    "name": "Toulouse",
+    "photo": "http://www.myurbanr.com/wp-content/uploads/2018/03/toulouse-presentation-min.jpg",
+    "json": "toulouse-photo"
+  },
+  {
+    "name": "Bordeaux",
+    "photo": "https://www.medoc-atlantique.com/sites/medococean/files/styles/contenu_slider/public/content/images/reference_a001_-_credit_thomas_sanson.jpg?itok=FIj1l4af",
+    "json": "bordeaux-photo"
+  },
+  {
+    "name": "Fort de France",
+    "photo": "https://d1bvpoagx8hqbg.cloudfront.net/originals/erasmus-experience-fort-de-france-martinique-ben-0c6ba261d691f1066051ac6454c70cba.jpg",
+    "json": "fort-de-france-photo"
+  },
+  {
+    "name": "Nice",
+    "photo": "https://media.routard.com/image/25/5/nice.1466255.jpg",
+    "json": "nice-photo"
+  },
+  {
+    "name": "Marseille",
+    "photo": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Marseille/Marseille%20lead%202-xlarge.jpg",
+    "json": "marseille-photo"
+  },
+  {
+    "name": "Valenciennes",
+    "photo": "http://www.laforet.com/sites/default/files/styles/slide-home__1366x627_/public/immobilier-valenciennes-1.jpg?itok=IB7kDzfp",
+    "json": "valenciennes-photo"
+  },
 ]
