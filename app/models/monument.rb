@@ -4,4 +4,6 @@ class Monument < ApplicationRecord
   has_many :itineraires, through: :intermediaires
 
   mount_uploader :photo, PhotoUploader
+
+  validates :name, uniqueness: true
 end
