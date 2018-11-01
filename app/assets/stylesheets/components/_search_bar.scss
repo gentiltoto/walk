@@ -39,10 +39,10 @@
 
 .autocomplete {
   /*the container must be positioned relative:*/
+  width: 50vw;
   position: relative;
   display: flex;
   justify-content: space-between;
-  width: 70vw;
   border-radius: 5px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
 }
@@ -112,4 +112,11 @@ input[type=text] {
 .form-group {
   margin: 0;
   width: 100%;
+}
+
+// Pour mobile
+@media (max-width: 768px) {
+  .autocomplete {
+    width: 70vw;
+  }
 }
