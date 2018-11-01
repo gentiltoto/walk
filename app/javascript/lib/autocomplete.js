@@ -66,6 +66,8 @@ export function autocomplete(inp, arr) {
           /*and simulate a click on the "active" item:*/
           if (x) x[currentFocus].click();
         }
+        // ANTOINE
+        document.querySelector(".form-container").submit()
       }
   });
   function addActive(x) {
