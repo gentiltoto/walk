@@ -52,9 +52,6 @@ class ItinerairesController < ApplicationController
       format.html { redirect_to recap_path(@itineraire) }
       format.js # will render 'app/views/itineraries/supprimer.js.erb'
     end
-
-
-     # redirect_to recap_path(@itineraire)
   end
 
   def show
