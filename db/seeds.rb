@@ -1,6 +1,4 @@
-require 'json'
-
-cities = JSON.parse(File.read('villes.json'))
+cities = ActiveSupport::JSON.decode(File.read('db/seeds/villes.json'))
 
 def scoring(monument)
   score_twitter = monument['twitter']['len_tweets'] + monument['twitter']['mean_replies'] + monument['twitter']['mean_retweets'] + monument['twitter']['mean_likes']
@@ -18,7 +16,7 @@ cities.each do |city|
   puts "#{ville.name} created"
 
   # Read the monuments of said city
-  data = JSON.parse(File.read("#{city['json']}.json"))
+  data = ActiveSupport::JSON.decode(File.read("db/seeds/#{city['json']}.json"))
   data.each do |monument|
     mon = Monument.new(
       name: monument['name'],
