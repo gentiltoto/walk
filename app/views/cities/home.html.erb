@@ -36,11 +36,27 @@
 
 <div class="container-fiche-city">
   <% @cities.each do |city| %>
-  <div class="fiche-city">
-    <%= cl_image_tag(city.photo) %>
-    <h3><%= city.name %></h3>
-  </div>
+    <%= link_to explications_path(city.name), class: "link-fiche-city" do %>
+      <div class="fiche-city">
+        <%= cl_image_tag(city.photo) %>
+        <div class="city-description">
+          <h2><%= city.name %></h2>
+        </div>
+      </div>
+    <% end %>
   <% end %>
+ <!-- TEST SEED -->
+
+ <% @cities.each do |city| %>
+   <%= link_to explications_path(city.name), class: "link-fiche-city" do %>
+     <div class="fiche-city">
+       <%= cl_image_tag(city.photo) %>
+       <div class="city-description">
+         <h2><%= city.name %></h2>
+       </div>
+     </div>
+   <% end %>
+ <% end %>
 </div>
 
 
