@@ -1,63 +1,64 @@
+//for mobile
 @media screen and (max-width: 550px) {
   .fiche-delete {
     position: relative;
     background-color: $blue;
     width: 45vw;
+    height: 28vh;
     padding-bottom: 15px;
-    height: 35vh;
     margin-right: 10px;
     border-radius: 3px;
     margin-top: 20px;
     img {
       width: 45vw;
-      height: 45vw;
+      height: 20vh;
       border-top-left-radius: 3px;
       border-top-right-radius: 3px;
     }
 
     .fa-times-circle {
       position: absolute;
-      top: -12px;
-      right: -7px;
-      color: red;
+      top: 5px;
+      right: 5px;
+      color: #e76838;
       display: block;
-      font-size: 30px;
+      font-size: 20px;
       z-index: 10;
 
     }
 
-    .fa-map-marker-alt {
-      font-size: 25px;
-      margin-top: -12px;
-      display: block;
-      text-align: right;
-      margin-right: 10px;
-    }
+    // .fa-map-marker-alt {
+    //   font-size: 25px;
+    //   margin-top: -12px;
+    //   display: block;
+    //   text-align: right;
+    //   margin-right: 10px;
+    // }
 
-    h3 {
-      color: white;
-      font-size: 14px;
-      font-weight: normal;
-      margin-left: 10px;
-      margin-right: 10px;
-    }
+    // h2 {
+    //   color: white;
+    //   font-size: 9px;
+    //   font-weight: normal;
+    //   margin-left: 10px;
+    //   margin-right: 10px;
+    // }
 }
 
 .container-fiche-delete {
   display: flex;
   width: 100vw;
   overflow-y: scroll;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 }
 
 
-
+//for desktop
 
 @media screen and (min-width: 551px) {
   .fiche-delete {
-    background-color: #82BDF4;
+    background-color: $blue;
     width: 45vw;
     padding-bottom: 15px;
     height: 50vh;
