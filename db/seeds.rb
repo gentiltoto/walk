@@ -1,36 +1,37 @@
+cities = ActiveSupport::JSON.decode(File.read('db/seeds/villes.json'))
 
-lille = City.new(name: "Lille")
-lille.save
+def scoring(monument)
+  score_twitter = monument['twitter']['len_tweets'] + monument['twitter']['mean_replies'] + monument['twitter']['mean_retweets'] + monument['twitter']['mean_likes']
+  score_yelp = monument['yelp']['score_yelp']['score_yelp_review_count'] + monument['yelp']['score_yelp']['score_yelp_rating']
+  score_wiki = monument['score_wiki']
+  score = score_twitter + score_yelp + score_wiki
+  return score
+end
 
-rihour = Monument.new(name: "Place Rihour", address: "Place Rihour", latitude: "0.00", longitude: "0.00", description: "Une joli description de rihour", score: 1000)
-rihour.city = lille
-rihour.save
+cities.each do |city|
+  # Create the city
+  ville = City.new(name: city['name'])
+  ville.remote_photo_url = city['photo']
+  ville.save
+  puts "#{ville.name} created"
 
-grand_place = Monument.new(name: "Grand Place", address: "Grand Place", latitude: "0.00", longitude: "0.00", description: "Une joli description de grand place", score: 10000)
-grand_place.city = lille
-grand_place.save
+  # Read the monuments of said city
+  data = ActiveSupport::JSON.decode(File.read("db/seeds/#{city['json']}.json"))
+  data.each do |monument|
+    mon = Monument.new(
+      name: monument['name'],
+      address: monument['address'],
+      latitude: monument['coordinates']['latitude'],
+      longitude: monument['coordinates']['longitude'],
+      description: monument['description'],
+      score: scoring(monument)
+      # Ajouter horaires quand présent
+      # Ajouter protection
+    )
+    mon.city = ville
+    mon.remote_photo_url = monument['photo']
+    mon.save
 
-beaux_arts = Monument.new(name: "Musée des Beaux Arts", address: "Répu", latitude: "0.00", longitude: "0.00", description: "Une joli description des Beaux Arts", score: 10000)
-beaux_arts.city = lille
-beaux_arts.save
-
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
-city1 = City.new(name: "Orléans")
-city1.save
-city2 = City.new(name: "Lille")
-city2.save
-city3 = City.new(name: "Paris")
-city3.save
-city4 = City.new(name: "Combleux")
-city4.save
-city5 = City.new(name: "Olivet")
-city5.save
-city6 = City.new(name: "Roubaix")
-city6.save
-
+    puts "#{mon.name} created in #{ville.name}"
+  end
+end
