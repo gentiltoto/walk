@@ -44,25 +44,34 @@
       </div>
     </div>
 
+  </div>
 
+  <div class="row">
+    <div class="col-xs-8 col-xs-offset-2">
+      <div class="position-valid-button">
+
+        <div class="validate validate-no">
+          <%= image_tag "close.svg" %>
+        </div>
+
+        <div class="validate validate-yes">
+          <%= image_tag "check.svg" %>
+        </div>
+
+      </div>
+    </div>
   </div>
 </div>
 
-<div class="validate validate-yes">
-  <%= image_tag "check.svg" %>
-</div>
-
-
-<div class="validate validate-no">
-  <%= image_tag "close.svg" %>
-</div>
 
 <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-        <%= link_to recap_path(@itineraire)  do %>
-          <%= render "shared/button", calltoaction: "J'ai choisi tous mes monuments!" %>
-        <% end  %>
+        <div class="bouton-compute">
+          <%= link_to recap_path(@itineraire)  do %>
+            <%= render "shared/button", calltoaction: "J'ai choisi tous mes monuments!" %>
+          <% end  %>
+        </div>
       </div>
     </div>
 </div>
