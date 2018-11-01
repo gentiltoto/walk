@@ -1,0 +1,2065 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00080774-abbaye-saint-pons.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080774.jpg",
+    "name": "Abbaye Saint-Pons de Nice",
+    "address": "Route de Levens",
+    "coordinates": {
+      "latitude": "43.725047222222",
+      "longitude": "7.2831583333333"
+    },
+    "city": "Nice",
+    "description": "L’abbaye Saint-Pons est l'un des plus anciens monastères de la Côte d'Azur avec l’abbaye des îles de Lérins. Elle est située sur la commune de Nice dans les Alpes-Maritimes.\nL'église est classée au titre des monuments historiques par arrêté du 3 mai 19131. Les façades et les toitures de l'abbaye et du cloître sont inscrites au même titre par arrêté du 29 décembre 1949.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 305.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080775-arenes-de-cimiez.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080775.jpg",
+    "name": "Arènes de Cimiez",
+    "address": "Cimiez",
+    "coordinates": {
+      "latitude": "43.7199917",
+      "longitude": "7.2753194"
+    },
+    "city": "Nice",
+    "description": "Les arènes de Cimiez sont un amphithéâtre romain situé à Nice dans le quartier de Cimiez. L'édifice est classé monument historique depuis un arrêté du 13 mai 19651.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.09090909090909091,
+      "mean_retweets": 1.6363636363636365,
+      "mean_likes": 2.909090909090909
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 20,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Arènes de Cimiez",
+      "yelp_id": "bOnZDXyfhbGegvPvY8l5Yw",
+      "yelp_phone": "+33493815957",
+      "yelp_hours": ""
+    },
+    "score_wiki": 412.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000018-cascade-de-gairaut-ouvrage-terminal-du-canal-de-la-ves.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000018.jpg",
+    "name": "Cascade de Gairaut",
+    "address": "Avenue de Gairaut",
+    "coordinates": {
+      "latitude": "43.73782778",
+      "longitude": "7.25966111"
+    },
+    "city": "Nice",
+    "description": "La Cascade de Gairaut est une large chute d’eau artificielle construite au xixe siècle sur la commune de Nice, dans le quartier de Gairaut.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Cascade De Gairaut",
+      "yelp_id": "0VBA1m9b1hF-fH6zCq5f8g",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 298.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080777-caserne-lympia-ancien-bagne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080777.jpg",
+    "name": "Bagne de Nice",
+    "address": "Quai d'Entrecasteaux",
+    "coordinates": {
+      "latitude": "43.6949",
+      "longitude": "7.2862083"
+    },
+    "city": "Nice",
+    "description": "Le bagne de Nice est un établissement pénitentiaire, réservé aux travaux forcés. Entre 1770 et 1854, il peut héberger jusqu’à deux cents forçats. Il est situé à l’est du port de Nice, au fond du quai d’Entrecasteaux.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 138.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080778-caserne-rusca-et-tour-de-lhorloge.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080778.jpg",
+    "name": "Caserne Rusca (Nice)",
+    "address": "Place du Palais-de-Justice",
+    "coordinates": {
+      "latitude": "43.696832",
+      "longitude": "7.273641"
+    },
+    "city": "Nice",
+    "description": "La caserne Rusca est souvent présentée dans les guides comme un ancien couvent Saint-Dominique. Le bâtiment a été construit pour le logement des troupes, place Saint-Dominique, actuelle place du Palais, à Nice. Il date du dernier quart du xviiie siècle.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 85.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080779-cathedrale-sainte-reparate.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080779.jpg",
+    "name": "Cathédrale Sainte-Réparate de Nice",
+    "address": "Place Rossetti",
+    "coordinates": {
+      "latitude": "43.6972",
+      "longitude": "7.2758"
+    },
+    "city": "Nice",
+    "description": "La cathédrale Sainte-Réparate de Nice (Catedrala Santa-Reparada en niçois) est une cathédrale catholique romaine édifiée dans le Vieux-Nice, dont le bâtiment actuel est construit entre 1650 et 1699, année de sa consécration. Elle est le siège du diocèse de Nice.\nElle est située au 3, place Rossetti, à Nice, dans les Alpes-Maritimes.\nElle est classée monument historique par arrêté du 9 août 19061. Elle a été élevée au rang de basilique mineure en 1949.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 7,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "O'Morena",
+      "yelp_id": "yO-6NC7aI04rX0PdCr744g",
+      "yelp_phone": "+33493855172",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1830",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1830",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1830",
+              "end": "2330",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1830",
+              "end": "2330",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1430",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1830",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 667.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080780-cathedrale-orthodoxe-russe-saint-nicolas-et-chapelle-d.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080780.jpg",
+    "name": "Cathédrale Saint-Nicolas de Nice",
+    "address": "Avenue Nicolas-II",
+    "coordinates": {
+      "latitude": "43.7037722",
+      "longitude": "7.2539667"
+    },
+    "city": "Nice",
+    "description": "La cathédrale Saint-Nicolas est un édifice religieux orthodoxe russe, située à Nice, en France, l'un des plus importants hors de Russie2,3.\nLa cathédrale a été classée au titre des monuments historiques par arrêté du 11 août 19874 et a reçu le label « Patrimoine du xxe siècle ».\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1501.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080784-chapelle-saint-philippe-neri.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080784.jpg",
+    "name": "Chapelle Saint-Philippe-Néri de Nice",
+    "address": "40 Avenue d'Estienne-d'Orves",
+    "coordinates": {
+      "latitude": "43.7003",
+      "longitude": "7.24865"
+    },
+    "city": "Nice",
+    "description": "La chapelle Saint-Philippe-Néri, aussi appelée église Saint-Philippe, est une chapelle catholique située à Nice, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 36.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080782-chapelle-sainte-croix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080782.jpg",
+    "name": "Chapelle Sainte-Croix de Nice",
+    "address": "2 rue Saint-Joseph",
+    "coordinates": {
+      "latitude": "43.69778",
+      "longitude": "7.2778861"
+    },
+    "city": "Nice",
+    "description": "La chapelle Sainte-Croix de Nice, dite chapelle des pénitents blancs, a été construite par les Minimes, à partir de 16331. Située rue Saint-Joseph dans le Vieux-Nice, elle appartient à l'archiconfrérie des pénitents blancs. La chapelle a été en partie reconstruite en 1765-1767 sous la direction de l'architecte Antoine Spinelli. La façade, caractéristique du style du xviie siècle1, a été retouchée en 1875. Le clocher, de style baroque, date également de 1765-1767.\nElle fait l’objet d’un classement au titre des monuments historiques depuis le 22 septembre 19872.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 78.025
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080781-chapelle-de-la-misericorde.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080781.jpg",
+    "name": "Chapelle de la Miséricorde de Nice",
+    "address": "Cours Saleya Place de la Préfecture",
+    "coordinates": {
+      "latitude": "43.6957833",
+      "longitude": "7.2753583"
+    },
+    "city": "Nice",
+    "description": "La chapelle de la Miséricorde dite des pénitents noirs, ancienne église Saint-Gaétan, est un lieu de culte catholique romain, situé sur le cours Saleya à Nice. Elle est considérée comme le chef-d’œuvre du baroque niçois.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Chapelle de la Miséricorde",
+      "yelp_id": "HEzhz1DckCUU0Kt0zKualg",
+      "yelp_phone": "+33617551887",
+      "yelp_hours": ""
+    },
+    "score_wiki": 224.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080939-chapelle-de-la-visitation-sainte-claire.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080939.jpg",
+    "name": "Chapelle de la Visitation Sainte-Claire",
+    "address": "Place Sainte-Claire Rue Sainte-Claire Rue des Serruriers",
+    "coordinates": {
+      "latitude": "43.6979639",
+      "longitude": "7.2788111"
+    },
+    "city": "Nice",
+    "description": "La chapelle de la Visitation Sainte-Claire est une chapelle située dans le Vieux-Nice.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 177.8
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000003-chapelle-du-saint-sepulcre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000003.jpg",
+    "name": "Chapelle du Saint-Sépulcre de Nice",
+    "address": "7 place Garibaldi",
+    "coordinates": {
+      "latitude": "43.7005056",
+      "longitude": "7.2799083"
+    },
+    "city": "Nice",
+    "description": "La chapelle du Saint-Sépulcre ou du Très-Saint-Sépulcre ou de Notre-Dame du Sincaïre ou des pénitents bleus de Nice a été construite par l'architecte Antoine Spinelli sur la place Garibaldi, de 1782 à 1784. Elle appartient à la Vénérable Archiconfrérie des Pénitents Bleus du Saint Sépulcre. La façade est de style à la fois néoclassique et baroque tardif pour la partie supérieure et l'intérieur. Le balcon a été rajouté en 1841.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 122.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000011-chateau-de-langlais.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000011.jpg",
+    "name": "Château de l'Anglais",
+    "address": "176 boulevard Carnot 29 avenue Jean-Lorrain",
+    "coordinates": {
+      "latitude": "43.68946",
+      "longitude": "7.29421"
+    },
+    "city": "Nice",
+    "description": "Le château de l'Anglais est un édifice qui marque l’apparition de châteaux de styles exotiques construit à Nice de 1856 à 1858 xixe siècle.\nDe par sa couleur et sa forme, il demeure comme l’un des témoignages forts des folies qui sont érigées sur la Riviera1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 1.5,
+      "mean_likes": 6
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Château de l'Anglais",
+      "yelp_id": "2GV_ZFswPhnI2LPZ8X_jXw",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 365.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080785-chateaux-de-valrose.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080785.jpg",
+    "name": "Château de Valrose",
+    "address": "28 avenue de Valrose",
+    "coordinates": {
+      "latitude": "43.71583",
+      "longitude": "7.26583"
+    },
+    "city": "Nice",
+    "description": "Situés dans le quartier Valrose, les châteaux de Valrose et leur parc constituent un domaine de dix hectares entre l’avenue de Brancolar et la colline de Cimiez, au nord de Nice. C’est une des rares grandes propriétés de Nice à conserver ses dimensions d’origine2. Elle abrite aujourd'hui le campus de l'unité de formation et de recherche sciences de l'université de Nice Sophia Antipolis ainsi que le siège de cette dernière.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 325.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080786-colonne-du-pape.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080786.jpg",
+    "name": "Colonne du pape",
+    "address": "Place de la Croix-de-Marbre Rue de France",
+    "coordinates": {
+      "latitude": "43.6963",
+      "longitude": "7.26266"
+    },
+    "city": "Nice",
+    "description": "La colonne du pape Pie VII, à Nice, a été érigée le 4 septembre 1823 pour commémorer les deux brefs passages à Nice du pape, du 7 au 9 août 1809 et du 9 au 11 février 18141.\nElle est située place de la Croix de Marbre qui a été créée en 1821-1822 par achat des terrains qui appartenaient aux sieurs Todon et Barralis.\nElle a deux particularités :\nElle est classée au titre des monuments historiques par arrêté du 26 décembre 19062.\nLa colonne et, au second plan, la Croix de Marbre.\nCliquez sur une vignette pour l’agrandir.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 45.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125704-couvent-saint-francois.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125704.jpg",
+    "name": "Couvent Saint-François de Nice",
+    "address": "4 rue de la Tour 6 place Saint-François",
+    "coordinates": {
+      "latitude": "43.6995722",
+      "longitude": "7.2785"
+    },
+    "city": "Nice",
+    "description": "Le couvent Saint-François était un couvent franciscain situé dans le Vieux-Nice dont il ne subsiste que des vestiges aujourd'hui.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 116.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080787-croix-de-marbre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080787.jpg",
+    "name": "Croix de Marbre",
+    "address": "Place de la Croix-de-Marbre Rue de France",
+    "coordinates": {
+      "latitude": "43.6961",
+      "longitude": "7.26273"
+    },
+    "city": "Nice",
+    "description": "La Croix de Marbre est située sur la place du même nom, à Nice, dans le département français des Alpes-Maritimes.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 98.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080788-croix-seraphique-de-cimiez.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080788.jpg",
+    "name": "Croix séraphique de Cimiez",
+    "address": "Place du Monastère-de-Cimiez",
+    "coordinates": {
+      "latitude": "43.7204",
+      "longitude": "7.27866"
+    },
+    "city": "Nice",
+    "description": "La croix séraphique de Cimiez est un calvaire situé à Nice, en France1,2.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 32.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080968-excelsior-regina-palace.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080968.jpg",
+    "name": "Excelsior Régina Palace",
+    "address": "71 boulevard de Cimiez",
+    "coordinates": {
+      "latitude": "43.7202",
+      "longitude": "7.27307"
+    },
+    "city": "Nice",
+    "description": "L'Excelsior Régina Palace est le nom donné à un hôtel de luxe de Nice entre 1897 et 1935. Il est situé sur la colline de Cimiez (cote : 104 mètres) sur le boulevard du même nom, et a été reconverti dans les années 1930 en immeuble d'habitation.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 587.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080794-fontaine-des-tritons.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080794.jpg",
+    "name": "Fontaine des Tritons (Nice)",
+    "address": "Jardin Albert-Ier",
+    "coordinates": {
+      "latitude": "43.6956",
+      "longitude": "7.26859"
+    },
+    "city": "Nice",
+    "description": "La fontaine des Tritons, appelée aussi fontaine des Phocéens1, est une fontaine communale de la ville de Nice.\nElle est située dans le jardin Albert-Ier proche de l’avenue des Phocéens et dans l’axe de la rue Saint-François-de-Paule (autrefois rive gauche du Paillon). La fontaine est formée par un groupe de quatre tritons en marbre blanc, soutenant une vasque qui alimente la conque des tritons en un filet d’eau retombant dans un bassin circulaire de réception déposé au sol.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 58.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080795-fort-du-mont-alban.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080795.jpg",
+    "name": "Fort du mont Alban",
+    "address": "Montagne du Mont-Alban",
+    "coordinates": {
+      "latitude": "43.7012972",
+      "longitude": "7.300175"
+    },
+    "city": "Nice",
+    "description": "Le fort du mont Alban est une fortification militaire. Bâti entre 1557 et 1560, situé sur la colline éponyme, entre Nice et la rade de Villefranche. En France, il est un des rares témoignages d’architecture militaire du milieu du xvie siècle, en bon état de conservation2.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Fort du Mont Alban",
+      "yelp_id": "LH5pMV1_2dUWpOkOS9qNJA",
+      "yelp_phone": "+33489064803",
+      "yelp_hours": ""
+    },
+    "score_wiki": 687.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000038-fortifications-de-la-porte-pairoliere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000038.jpg",
+    "name": "Fortifications de la porte Pairolière",
+    "address": "En sous sol, entre les places Jacques Toja et Garibaldi",
+    "coordinates": {
+      "latitude": "43.7005",
+      "longitude": "7.27884"
+    },
+    "city": "Nice",
+    "description": "Les fortifications de la porte Pairolière faisaient partie des fortifications de la ville basse de Nice1. Aujourd'hui les vestiges se trouvent en sous-sol, entre les places Jacques Toja et Garibaldi.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 42.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000023-gare-du-sud.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000023.jpg",
+    "name": "Gare du Sud",
+    "address": "Place du Général-de-Gaulle",
+    "coordinates": {
+      "latitude": "43.709444",
+      "longitude": "7.262222"
+    },
+    "city": "Nice",
+    "description": "La gare du Sud est une médiathèque et ancienne gare ferroviaire française située dans le quartier de la Libération à Nice. Cette gare est l'ancien terminus des lignes à voie métrique des chemins de fer de Provence reliant Nice à Digne-les-Bains (Alpes-de-Haute-Provence) et à Meyrargues via Draguignan.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 0.47058823529411764,
+      "mean_retweets": 0.058823529411764705,
+      "mean_likes": 0.7058823529411765
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 259.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080796-grotte-du-lazaret.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080796.jpg",
+    "name": "Grotte du Lazaret",
+    "address": "33bis Boulevard Frank-Pilatte",
+    "coordinates": {
+      "latitude": "43.69073",
+      "longitude": "7.294788"
+    },
+    "city": "Nice",
+    "description": "La grotte du Lazaret est un site préhistorique du Paléolithique moyen se trouvant au pied du mont Boron, dans la partie sud-est de la ville de Nice (Alpes-Maritimes).\nElle est classée au titre des Monuments historiques par arrêté du 21 mars 19631.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 2,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 380.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000012-hotel-alhambra.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000012.jpg",
+    "name": "Alhambra (Nice)",
+    "address": "46-48 boulevard de Cimiez",
+    "coordinates": {
+      "latitude": "43.712236",
+      "longitude": "7.27245"
+    },
+    "city": "Nice",
+    "description": "L'Alhambra est l'un des exemples les plus spectaculaires d'un ancien hôtel de style néo-mauresque sur la côte d'Azur. Il est situé sur une parcelle délimitée par le no 46-48 du boulevard de Cimiez en ouest, et par l'avenue de Villebois Mareuil en est, de la commune de Nice.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0.25,
+      "mean_retweets": 0,
+      "mean_likes": 1.75
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 133.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080797-hotel-negresco.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080797.jpg",
+    "name": "Hôtel Negresco",
+    "address": "37 promenade des Anglais Rue Cronstadt 1 rue du Commandant-Beretta Rue de Rivoli",
+    "coordinates": {
+      "latitude": "43.6946778",
+      "longitude": "7.258025"
+    },
+    "city": "Nice",
+    "description": "L'hôtel Negresco est un hôtel de luxe situé sur la promenade des Anglais à Nice. Il a obtenu sa cinquième étoile en août 20091,2.\nC'est l'un des rares survivants de l'hôtellerie du début du xxe siècle et l'un des derniers établissements indépendants de cette classe. Ses façades sont basées sur une trame néoclassique, avec une ornementation opulente quasi-baroque. Il figure comme l'hôtel Sacher de Vienne, le Ritz de Paris ou l'hôtel Astoria de Bruxelles, parmi les lieux mythiques de l'hôtellerie de luxe.\nLe 13 juin 2003, les façades et les toitures de l'ensemble des bâtiments donnant sur les quatre rues ainsi que le grand hall central dit « salon royal » avec sa verrière sont classés à l'inventaire des monuments historiques3. Le 1er mars 2001, il obtient le label « Patrimoine xxe siècle »4 et en novembre 2015, il est classé Entreprise du patrimoine vivant5.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 12,
+      "mean_replies": 0,
+      "mean_retweets": 1.3333333333333333,
+      "mean_likes": 2.3333333333333335
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 82,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel le Negresco",
+      "yelp_id": "CW1UmWCTwLs4IDGctT4G3w",
+      "yelp_phone": "+33493166400",
+      "yelp_hours": ""
+    },
+    "score_wiki": 2581.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080801-maison-du-15-rue-alexandre-mari.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080801.jpg",
+    "name": "Maison du 15 rue Alexandre-Mari",
+    "address": "15 rue Alexandre-Mari",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Nice",
+    "description": "Porte d'entrée ; escalier : inscription par arrêté du 29 décembre 1949",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080802-monastere-de-cimiez.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080802.jpg",
+    "name": "Monastère de Cimiez",
+    "address": "Avenue du Monastère-de-Cimiez Avenue Bellanda",
+    "coordinates": {
+      "latitude": "43.7199",
+      "longitude": "7.27908"
+    },
+    "city": "Nice",
+    "description": "Le monastère de Cimiez a été fondé au ixe siècle par les moines bénédictins de l'abbaye de Saint-Pons, et il rassemble l'église Notre-Dame-de-l'Assomption (xve siècle) et le musée franciscain qui retrace la vie franciscaine à Nice depuis le xiiie siècle.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Eglise et Monastère de Cimiez - Musée Franciscain",
+      "yelp_id": "G_I-2gA6uJmTc6NCm1PONQ",
+      "yelp_phone": "+33493810004",
+      "yelp_hours": ""
+    },
+    "score_wiki": 538.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000034-monument-au-marechal-massena.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000034.jpg",
+    "name": "Statue de Masséna",
+    "address": "Square Général-Leclerc",
+    "coordinates": {
+      "latitude": "43.6979",
+      "longitude": "7.27363"
+    },
+    "city": "Nice",
+    "description": "La statue du maréchal André Masséna, à Nice, a été inaugurée en 18691. Elle est l'œuvre du sculpteur Albert-Ernest Carrier-Belleuse, et se trouve dans le square Général-Leclerc, sur la partie la plus anciennement couverte du Paillon (1866-1868)1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 20,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Place Masséna",
+      "yelp_id": "uqToF-vgA952pseDCK3poA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 111.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000040-monument-aux-morts-de-la-guerre-de-1914-1918.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000040.jpg",
+    "name": "Monument aux morts de Rauba-Capeù",
+    "address": "Quai Rauba-Capeù",
+    "coordinates": {
+      "latitude": "43.6937",
+      "longitude": "7.28103"
+    },
+    "city": "Nice",
+    "description": "Le monument aux morts de Rauba-Capeù est situé à Nice, sur la route du bord de mer, au niveau du quai Rauba-Capeù, tirant son nom de la partie de la Promenade des Anglais, proche du monument, où le vent peut être si fort qu'il \"vole les chapeaux\" (\"rauba capeù\" en nissart1).\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0,
+      "mean_retweets": 2.6666666666666665,
+      "mean_likes": 3.1666666666666665
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 385.525
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000035-monument-du-centenaire.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000035.jpg",
+    "name": "Monument du Centenaire",
+    "address": "Jardin Albert-Ier Avenue de Verdun",
+    "coordinates": {
+      "latitude": "43.6954",
+      "longitude": "7.2678"
+    },
+    "city": "Nice",
+    "description": "Le monument du Centenaire de la réunion de Nice à la France, d'André-Joseph Allar, a été inauguré le 4 mars 1896 au jardin Albert-Ier. Il célèbre le centenaire du rattachement de Nice à la France, en 1793. La statue en bronze représente une victoire ailée qui prête serment de fidélité. Le groupe en marbre est un allégorie de Nice se donnant à la France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 45,
+      "mean_replies": 0.28888888888888886,
+      "mean_retweets": 3.888888888888889,
+      "mean_likes": 5.488888888888889
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 239.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000033-monument-a-garibaldi.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000033.jpg",
+    "name": "Monument à Garibaldi (Nice)",
+    "address": "Place Garibaldi",
+    "coordinates": {
+      "latitude": "43.7009083",
+      "longitude": "7.2801639"
+    },
+    "city": "Nice",
+    "description": "Le monument à Garibaldi, à Nice, a été inauguré en 1891 sur la place Garibaldi1. C'est une œuvre des sculpteurs Antoine Étex et Gustave Deloye.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 176.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080804-musee-des-beaux-arts-cheret.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080804.jpg",
+    "name": "Musée des beaux-arts de Nice",
+    "address": "33 rue des Beaumettes",
+    "coordinates": {
+      "latitude": "43.694583",
+      "longitude": "7.248889"
+    },
+    "city": "Nice",
+    "description": "Le musée des beaux-arts Jules Chéret est un musée municipal de la ville de Nice (Alpes-Maritimes).\nLe musée possède une importante collection du peintre et affichiste Jules Chéret, mort à Nice en 1932.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0.8,
+      "mean_retweets": 0.6,
+      "mean_likes": 6.2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Musée des Beaux Arts",
+      "yelp_id": "YtVuJcYlv7GeZOAFQ3jTDg",
+      "yelp_phone": "+33492152828",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 449.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080970-observatoire-du-mont-gros-egalement-sur-la-trinite.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080970.jpg",
+    "name": "Observatoire de Nice",
+    "address": "Boulevard de l'Observatoire",
+    "coordinates": {
+      "latitude": "43.72744",
+      "longitude": "7.29907"
+    },
+    "city": "Nice",
+    "description": "L'Observatoire de Nice est un observatoire astronomique situé à Nice, au sommet du mont Gros, à 370 mètres d'altitude et au cœur d'une forêt de trente-cinq hectares. Le coût de sa construction fut entièrement pris en charge par le banquier et philanthrope Raphaël-Louis Bischoffsheim. L'architecte Charles Garnier conçut les 15 bâtiments d'origine. Il réalisa la base de la grande coupole, l'ingénieur Gustave Eiffel réalisa la coupole abritant la lunette principale. L'Observatoire est actuellement dirigé par Thierry Lanz.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 2,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Observatoire de la Côte d'Azur",
+      "yelp_id": "nFSL86GQsrog5IgcyzVmjA",
+      "yelp_phone": "+33492003011",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1500",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 842.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080943-opera.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080943.jpg",
+    "name": "Opéra de Nice",
+    "address": "Rue Saint-François-de-Paule",
+    "coordinates": {
+      "latitude": "43.695439",
+      "longitude": "7.272552"
+    },
+    "city": "Nice",
+    "description": "L’opéra de Nice est un théâtre lyrique municipal situé dans le Vieux-Nice. Il est géré par la ville de Nice en régie municipale directe et compte 1 083 places1.\nLe bâtiment se présente dans un tissu urbain imbriqué avec deux façades principales : l’une au sud, sur un bord de mer nommé quai des États-Unis, jadis occupé par les remparts et des baraques de pêcheurs, l’autre au nord, avec l’entrée de l'édifice donnant sur la rue Saint-François-de-Paule.\nIl est classé au titre des monuments historiques par arrêté du 31 mars 19922.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0.6,
+      "mean_retweets": 1,
+      "mean_likes": 5.2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Opéra de Nice",
+      "yelp_id": "0Srwu4lv2qSnv631aTJmwA",
+      "yelp_phone": "+33492174000",
+      "yelp_hours": ""
+    },
+    "score_wiki": 472.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132716-palais-barety.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132716.jpg",
+    "name": "Palais Baréty",
+    "address": "31 rue du Maréchal-Joffre",
+    "coordinates": {
+      "latitude": "43.6984",
+      "longitude": "7.26381"
+    },
+    "city": "Nice",
+    "description": "Le palais Baréty est une imposante demeure de Nice datant du xixe siècle appartenant à une ancienne famille du comté de Nice. Il est situé au no 31 rue du Maréchal-Joffre (à l’époque de la construction cette voie portait le nom de rue Cotta).\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 41.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000039-palais-hongran.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000039.jpg",
+    "name": "Palais Hongran",
+    "address": "2, rue Saint-François-de-Paule",
+    "coordinates": {
+      "latitude": "43.6956",
+      "longitude": "7.27305"
+    },
+    "city": "Nice",
+    "description": "Le palais Hongran de Fiano est un imposant immeuble de logements de Nice datant du xviiie siècle. Il est situé au no 2 rue Saint-François-de-Paule.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 31.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080806-palais-lascaris.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080806.jpg",
+    "name": "Palais Lascaris",
+    "address": "15 rue Droite",
+    "coordinates": {
+      "latitude": "43.6977",
+      "longitude": "7.27725"
+    },
+    "city": "Nice",
+    "description": "Le palais Lascaris est une ancienne demeure aristocratique de Nice datant de la première moitié du xviie siècle, aujourd'hui un musée des instruments de musique anciens. Situé au cœur du Vieux-Nice, il abrite une collection d'environ 500 instruments, ce qui en fait, d'après la mairie de Nice, la deuxième plus importante collection en France2.\nFaute de sources documentaires, les architectes du palais ne sont pas connus. Son style architectural est du baroque dit génois.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0.5,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Musée Palais Lascaris",
+      "yelp_id": "cBc_IrQTnTgCLt4ABVQAWw",
+      "yelp_phone": "+33493627240",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 442.525
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080776-palais-communal-bourse-du-travail.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080776.jpg",
+    "name": "Palais communal de Nice",
+    "address": "Place Saint-François",
+    "coordinates": {
+      "latitude": "43.699",
+      "longitude": "7.27842"
+    },
+    "city": "Nice",
+    "description": "Le palais communal de Nice est le nom donné à son ancien hôtel de ville. Il est situé au cœur du Vieux-Nice, place Saint-François, principal centre urbain à l'époque de sa construction1.\nIl est inscrit aux titres des monuments historiques le 10 décembre 19492.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 87.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080799-palais-dyork-palais-spitalieri-de-cessole.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080799.jpg",
+    "name": "Palais d'York",
+    "address": "5 rue de la Préfecture",
+    "coordinates": {
+      "latitude": "43.697",
+      "longitude": "7.27386"
+    },
+    "city": "Nice",
+    "description": "Le palais d’York, ancien hôtel Spitalieri de Cessole, est une imposante demeure de Nice datant du xviiie siècle. Elle a appartenu à une ancienne famille du comté de Nice. Il est situé au no 5 rue de le Préfecture, au niveau de la place du Palais.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 36.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125705-palais-de-marbre-actuelles-archives-municipales.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125705.jpg",
+    "name": "Palais de Marbre (Nice)",
+    "address": "7 avenue de Fabron",
+    "coordinates": {
+      "latitude": "43.6877",
+      "longitude": "7.23473"
+    },
+    "city": "Nice",
+    "description": "La villa Les Palmiers 2 est une imposante demeure de Nice datant des années 1870. Depuis 1963, elle accueille le service des archives municipales de la ville et est connue du grand public sous le nom de Palais de Marbre.\nSituée au n° 7/9 de l’avenue de Fabron, son style architectural s’inspire de la Renaissance italienne associé à des références néoclassiques. Il s’inscrit pleinement dans la vogue du Palladianisme très répandu en Angleterre (Chatsworth House par exemple) ou sur la côte est des États-Unis (Marble House de Newport à Rhode Island, contemporaine de sa construction).\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 177.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080962-palais-de-lagriculture.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080962.jpg",
+    "name": "Palais de l'agriculture",
+    "address": "113 promenade des Anglais",
+    "coordinates": {
+      "latitude": "43.691",
+      "longitude": "7.24544"
+    },
+    "city": "Nice",
+    "description": "Le Palais de l'Agriculture de Nice datant du xxe siècle. Il est situé au no 113 sur la Promenade des Anglais.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0,
+      "mean_retweets": 0.42857142857142855,
+      "mean_likes": 0.14285714285714285
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 37.75
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080807-palais-de-la-mediterranee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080807.jpg",
+    "name": "Palais de la Méditerranée",
+    "address": "13-15-17 promenade des Anglais Rue du Congrès",
+    "coordinates": {
+      "latitude": "43.6952389",
+      "longitude": "7.2631306"
+    },
+    "city": "Nice",
+    "description": "Le Hyatt Regency Nice Palais de la Méditerranée, couramment appelé Palais de la Méditerranée est un luxueux complexe hôtelier ainsi qu'un casino, situés aux numéros 13 et 15 de la promenade des Anglais à Nice. Il est la propriété de Constellation Hotels Holding.\nSa façade principale sur la promenade des Anglais et la façade en retour sur la rue du Congrès ont été classées au titre des monuments historiques par arrêté du 18 août 19891. Les façades de l'édifice ont reçu le label « Patrimoine du xxe siècle ».\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 3.2857142857142856,
+      "mean_retweets": 8.428571428571429,
+      "mean_likes": 12.857142857142858
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 2.5
+      },
+      "yelp_name": "Casino Palais Méditerranée",
+      "yelp_id": "6xs5uI2Q53_8SANABLs6kQ",
+      "yelp_phone": "+33492146800",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1216.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132718-palais-des-ducs-de-savoie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132718.jpg",
+    "name": "Palais des ducs de Savoie",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6963833",
+      "longitude": "7.2750917"
+    },
+    "city": "Nice",
+    "description": "Le palais des ducs de Savoie à Nice, actuellement connu sous de le nom de palais de la Préfecture des Alpes-Maritimes, palais des rois de Sardaigne et de palais sarde3, situé dans le Vieux-Nice, fut de 1610 à 1860 l'un des bâtiments dévolus aux ducs de Savoie, lesquels depuis Victor-Amédée II étaient aussi rois de Sardaigne. Situé à Nice (place Pierre-Gautier), il abrite depuis 1860 le siège de la préfecture des Alpes-Maritimes. Il est inscrit et partiellement classé au titre des monuments historiques le 3 septembre 1996.\nSon entrée principale se situe au sud, place Pierre-Gautier, lieu de marché alimentaire.\nIl ne faut pas confondre le Palais des Ducs de Savoie à Nice, résidence du souverain lors de ses visites au comté de Nice, avec le Château des ducs de Savoie à Chambéry qui était le siège de la cour de Savoie et de la haute administration des États de Savoie.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 292.425
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000030-synagogue.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000030.jpg",
+    "name": "Synagogue de Nice",
+    "address": "7 rue Gustave-Deloye",
+    "coordinates": {
+      "latitude": "43.699811",
+      "longitude": "7.269336"
+    },
+    "city": "Nice",
+    "description": "La synagogue de Nice, appelée aussi grande synagogue, est un lieu de culte juif, situé en plein centre-ville de Nice, au n°7 de la rue Gustave-Deloye. Elle a été inaugurée en 1886.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0.16666666666666666,
+      "mean_retweets": 2,
+      "mean_likes": 6.333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 180.65
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080808-thermes-romains-de-cimiez-villa-garin-de-cacconata.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080808.jpg",
+    "name": "Thermes romains de Cimiez",
+    "address": "Cimiez",
+    "coordinates": {
+      "latitude": "43.719078",
+      "longitude": "7.276725"
+    },
+    "city": "Nice",
+    "description": "Les thermes romains de Cimiez sont un ensemble thermal de l'antique cité romaine de Cemenelum situé dans le quartier, aujourd’hui résidentiel, de Cimiez sur la commune de Nice.\nLe site est classé monument historique à partir de 1947A449 1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 185.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080809-villa-arson.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080809.jpg",
+    "name": "Villa Arson",
+    "address": "Quartier Saint-Barthélémy 20 avenue Stephen-Liegard",
+    "coordinates": {
+      "latitude": "43.721",
+      "longitude": "7.253"
+    },
+    "city": "Nice",
+    "description": "La villa Arson est un établissement public administratif du ministère de la Culture à Nice qui réunit une école nationale supérieure d'art, un centre national d'art contemporain, une résidence d'artistes et une médiathèque spécialisée.\nElle est située sur la colline de Saint-Barthélemy, au nord de Nice, dans un domaine de deux hectares offrant un vaste panorama sur la ville.\nInaugurée en 1972, elle a pour missions la formation artistique, le soutien à la création et la diffusion de l'art contemporain.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 14,
+      "mean_replies": 0,
+      "mean_retweets": 0.5714285714285714,
+      "mean_likes": 0.7857142857142857
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Villa Arson",
+      "yelp_id": "qd_8si0aLuQxWU3Qyu0OFQ",
+      "yelp_phone": "+33492077373",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 527.075
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080810-villa-beau-site.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080810.jpg",
+    "name": "Villa Beau Site",
+    "address": "17 boulevard du Mont-Boron",
+    "coordinates": {
+      "latitude": "43.689631",
+      "longitude": "7.295777"
+    },
+    "city": "Nice",
+    "description": "La villa Beau Site est une maison située no 17 rue du Mont-Boron, à Nice, en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 153.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080811-villa-furtado-heine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080811.jpg",
+    "name": "Villa Furtado-Heine",
+    "address": "121 rue de France 61 promenade des Anglais",
+    "coordinates": {
+      "latitude": "43.693899",
+      "longitude": "7.252409"
+    },
+    "city": "Nice",
+    "description": "La villa Furtado-Heine, aussi appelée villa des officiers, est une villa située entre la rue de France et la promenade des Anglais, à Nice, en France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 112.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080969-villa-la-belle-epoque.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080969.jpg",
+    "name": "Villa La Belle Époque",
+    "address": "18 rue Cronstadt",
+    "coordinates": {
+      "latitude": "43.697014",
+      "longitude": "7.257805"
+    },
+    "city": "Nice",
+    "description": "La villa El Patio est une maison située 18 rue Cronstadt, à Nice, en France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 52.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080805-villa-massena-actuel-musee-massena.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080805.jpg",
+    "name": "Musée Masséna",
+    "address": "Promenade des Anglais Rue de France",
+    "coordinates": {
+      "latitude": "43.695219",
+      "longitude": "7.258944"
+    },
+    "city": "Nice",
+    "description": "Le musée Masséna est un musée municipal de la ville de Nice installé dans une des dernières villas de prestige du xixe siècle de la promenade des Anglais.\nLe prince d’Essling, duc de Rivoli, André Prosper Victor Eugène Napoléon Masséna, fils de Victor Masséna, vendit ce bijou de la Belle Époque construit par son père, à la ville de Nice, en 1919, pour un prix égal aux droits de succession qu'il avait dû payer, en stipulant que le jardin devait être ouvert au public, et que la villa devienne un musée d'histoire locale sous le nom de « musée Masséna ». Ce qui fut fait. Les bosquets sont signés par le botaniste Édouard André.\nL’accueil du public s’effectue, au nord de l’édifice, par un pavillon situé au numéro 65 de la rue de France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 18,
+      "mean_replies": 0,
+      "mean_retweets": 0.8333333333333334,
+      "mean_likes": 2.2222222222222223
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 6,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Musée Masséna",
+      "yelp_id": "gttEXJe_9dwxMAX9dH1v4A",
+      "yelp_phone": "+33493911910",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 591.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa06000013-eglise-notre-dame-auxiliatrice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa06000013.jpg",
+    "name": "Église Notre-Dame-Auxiliatrice de Nice",
+    "address": "36 place Don-Bosco",
+    "coordinates": {
+      "latitude": "43.709235732724",
+      "longitude": "7.2811125218868"
+    },
+    "city": "Nice",
+    "description": "L’église Notre-Dame-Auxiliatrice est une église paroissiale du diocèse de Nice.\nElle est située place Don Bosco, proche du lycée éponyme. Son style est Art déco et sa construction date du premier quart du xxe siècle.\nC’est la première église1 bâtie en France par les Salésiens, congrégation religieuse à vocation pédagogique fondée à Turin en 1859 par Don Bosco.\nElle est aussi la plus vaste du diocèse et peut accueillir jusqu’à mille fidèles1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 100.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080791-eglise-saint-jacques-le-majeur.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080791.jpg",
+    "name": "Église Saint-Jacques-le-Majeur de Nice",
+    "address": "Rue Droite Place du Jésus",
+    "coordinates": {
+      "latitude": "43.6967639",
+      "longitude": "7.2773222"
+    },
+    "city": "Nice",
+    "description": "L’église Saint-Jacques-le-Majeur, dite aussi église du Gesù, est un édifice religieux catholique de style baroque construit au xviie siècle par les jésuites comme chapelle de leur collège. Sise rue Droite, dans le Vieux-Nice, à Nice (Alpes-Maritimes), l'église devient paroissiale en 1802 sous le vocable de Saint-Jacques-le-Majeur.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 190.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080792-eglise-saint-martin-saint-augustin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080792.jpg",
+    "name": "Église Saint-Martin-Saint-Augustin de Nice",
+    "address": "Place Saint-Augustin",
+    "coordinates": {
+      "latitude": "43.6996167",
+      "longitude": "7.2795056"
+    },
+    "city": "Nice",
+    "description": "L'église Saint-Martin-Saint-Augustin de Nice (glèia San-Martin-Sant-Augustin en Niçois) est une église située place Saint-Augustin dans le Vieux-Nice, à Nice (Alpes-Maritimes).\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 140.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080941-eglise-saint-nicolas-et-sainte-alexandra.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080941.jpg",
+    "name": "Église Saint-Nicolas-et-Sainte-Alexandra",
+    "address": "6 rue Longchamp",
+    "coordinates": {
+      "latitude": "43.699386111111",
+      "longitude": "7.2676083333333"
+    },
+    "city": "Nice",
+    "description": "L’église Saint-Nicolas-et-Sainte-Alexandra de Nice (Alpes-Maritimes) est la première église russe-orthodoxe construite en France.\nL'église et le jardin attenant sont inscrits au titre des monuments historique par arrêté du 3 avril 19901.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 84.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080793-eglise-saint-roch.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080793.jpg",
+    "name": "Église Saint-Roch de Nice",
+    "address": "6 place Saint-Roch",
+    "coordinates": {
+      "latitude": "43.7126",
+      "longitude": "7.29179"
+    },
+    "city": "Nice",
+    "description": "L’église Saint-Roch est une église catholique située à Nice, en France1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 67.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080789-eglise-saint-sauveur-de-gairaut.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080789.jpg",
+    "name": "Église Saint-Sauveur de Gairaut",
+    "address": "Gairaut",
+    "coordinates": {
+      "latitude": "43.7373",
+      "longitude": "7.25892"
+    },
+    "city": "Nice",
+    "description": "L’église Saint-Sauveur est une église catholique située dans le quartier de Gairaut, à Nice, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 71.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080790-eglise-sainte-helene.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080790.jpg",
+    "name": "Église Sainte-Hélène de Nice",
+    "address": "142 avenue de Californie",
+    "coordinates": {
+      "latitude": "43.6853",
+      "longitude": "7.23496"
+    },
+    "city": "Nice",
+    "description": "L’église Sainte-Hélène est une église catholique située à Nice, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 38.05
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080940-eglise-sainte-jeanne-darc.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080940.jpg",
+    "name": "Église Sainte-Jeanne-d'Arc de Nice",
+    "address": "Avenue Saint-Lambert",
+    "coordinates": {
+      "latitude": "43.713411111111",
+      "longitude": "7.2626"
+    },
+    "city": "Nice",
+    "description": "L’église Sainte-Jeanne-d'Arc de Nice est une église catholique située à Nice, dans le quartier de Fuon-Cauda et réputée pour son architecture originale. Elle est dédiée à sainte Jeanne d’Arc.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 256.525
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00080783-eglise-sainte-rita-de-nice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00080783.jpg",
+    "name": "Église de l'Annonciation de Nice",
+    "address": "Rue de la Préfecture 1 rue de la Poissonnerie",
+    "coordinates": {
+      "latitude": "43.6961833",
+      "longitude": "7.2763778"
+    },
+    "city": "Nice",
+    "description": "L'église de l'Annonciation (glèia de l'Anounciacioun en Niçois), communément appelée église Sainte-Rita (glèia Santa-Rita), est une église baroque située dans le Vieux-Nice au 1 rue de la Poissonnerie. Elle porte également les noms de : chapelle Saint-Jaume (ou Saint-Giaume), chapelle Saint-Jacques-le-Majeur, et chapelle Sainte-Rita1.\nElle est classée monument historique par arrêté du 3 février 19421.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 212.3
+  }
+]

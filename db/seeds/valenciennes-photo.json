@@ -1,0 +1,758 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00107846-auberge-du-bon-fermier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107846.jpg",
+    "name": "Auberge du Bon Fermier",
+    "address": "64, 66 rue de Famars",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades et toitures (cad. AT 362, 394) : inscription par arrêté du 28 avril 1970",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Auberge du Bon Fermier",
+      "yelp_id": "IBIk1Q77DH3kcig7qQm8AQ",
+      "yelp_phone": "+33327466825",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa59000181-chateau-deau-de-la-place-verte.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa59000181.jpg",
+    "name": "Château d'eau de la Place Verte",
+    "address": "4 rue Louis Bracq",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Le château d'eau pour ses façades et toitures, avec le bâtiment des pompes et les ateliers (cad. AR 935, 936) : inscription par arrêté du 22 mars 2012",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107847-citadelle.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107847.jpg",
+    "name": "Citadelle",
+    "address": "Parc de la Citadelle Rue des Bigorneurs Rue de Roubaix",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Vestiges du bastion des Repenties ; écluse des Repenties et son radier ; vestiges de l'écluse des fossés Notre-Dame, batardeau, vestiges de l'écluse de Bruillé, pont de la citadelle, vestiges du bastion du calvaire, vestiges de la demi-lune 17 ainsi que les parties enfouies : inscription par arrêté du 21 avril 1987",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 40,
+      "mean_replies": 0.375,
+      "mean_retweets": 0.225,
+      "mean_likes": 1.025
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 12,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Citadelle Vauban",
+      "yelp_id": "PiV-4BdkA9LSUPCW-b7c-A",
+      "yelp_phone": "+33891562004",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1500",
+              "end": "1600",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1630",
+              "end": "1730",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107850-faiencerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107850.jpg",
+    "name": "Faïencerie",
+    "address": "48 rue de l'Intendance",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façade et toiture sur rue : inscription par arrêté du 14 mars 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.1525,
+      "mean_retweets": 0.7975,
+      "mean_likes": 1.82625
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107922-fosse-dutemple.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107922.jpg",
+    "name": "Fosse Dutemple",
+    "address": "Fosse Dutemple",
+    "coordinates": {
+      "latitude": "50.361553",
+      "longitude": "3.48026"
+    },
+    "city": "Valenciennes",
+    "description": "La fosse Dutemple de la Compagnie des mines d'Anzin est un ancien charbonnage du bassin minier du Nord-Pas-de-Calais, situé à Valenciennes. Deux puits sont entrepris en 1764 à l'ouest de la commune, mais ils sont abandonnés à cause des venues d'eau du Torrent d'Anzin. Le fonçage n'est repris qu'en 1826. Des cités sont bâties près de la fosse. Le puits no 1 est comblé en 1911. La fosse est détruite durant la Première Guerre mondiale, elle est reconstruite avec un chevalement en béton armé qui surplombe également le puits no 1, remblayé. La fosse cesse d'extraire le 18 mai 1940.\nLa Compagnie des mines d'Anzin est nationalisée en 1946, et intègre le Groupe de Valenciennes. Le puits no 2 est comblé en 1949, après avoir servi à l'aérage de la fosse Blignières. Il est resté ouvert durant 185 ans, ce qui constitue un record dans le bassin minier.\nLe carreau de fosse est reconverti en espace vert. Un sondage de décompression S15 est effectué à la fin de l'année 1991 sur le territoire de Petite-Forêt. Le chevalement est inscrit aux monuments historiques par arrêté du 6 mai 1992. Au début du xxie siècle, Charbonnages de France matérialise les têtes des puits Dutemple nos 1 et 2. Le chevalement du puits no 2 a été classé le 30 juin 2012 au patrimoine mondial de l'Unesco.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 95.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107851-hopital-general.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107851.jpg",
+    "name": "Hôpital général",
+    "address": "Place de l'Hôpital-Général",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Hôpital général : classement par arrêté du 18 juin 1945",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.24625,
+      "mean_retweets": 1.3425,
+      "mean_likes": 1.3875
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107854-hotel-floreal.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107854.jpg",
+    "name": "Hôtel Floréal",
+    "address": "56 rue de Paris",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades et toitures de l'aile sur rue et de l'aile sur cour ; grande salle à manger au rez-de-chaussée du bâtiment sur cour y compris les boiseries qui la décorent : classement par arrêté du 31 janvier 1946",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 97,
+      "mean_replies": 0.061855670103092786,
+      "mean_retweets": 0.3402061855670103,
+      "mean_likes": 0.5360824742268041
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel le Floréal",
+      "yelp_id": "01n2-vsW4DBLRom5HcJZsQ",
+      "yelp_phone": "+33320063621",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107852-hotel-hamoir.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107852.jpg",
+    "name": "Hôtel Hamoir",
+    "address": "8 Rue du Grand-Fossart",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façade sur rue et toiture : inscription par arrêté du 8 mai 1944 ; Façades sur cour de l'hôtel Hamoir au numéro 8 (cad. AS 537) : inscription par arrêté du 7 juillet 1988",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0.16666666666666666,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107856-hotel-mer.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107856.jpg",
+    "name": "Hôtel Mer",
+    "address": "14 rue du Grand-Fossart",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Le jardin d'hiver avec son décor mural peint et sa verrière (cad. AS 458) : inscription par arrêté du 7 juillet 1988",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 799,
+      "mean_replies": 0.18397997496871088,
+      "mean_retweets": 0.43178973717146435,
+      "mean_likes": 2.056320400500626
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 58,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Le Barbue d'Anvers",
+      "yelp_id": "SVlvepomieqbxON_wK_Ljg",
+      "yelp_phone": "+33320551168",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1900",
+              "end": "2300",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107853-hotel-de-barneville.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107853.jpg",
+    "name": "Hôtel de Barneville",
+    "address": "16 avenue des Dentellières",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades et toitures sur rue et sur cour intérieure (cad. AT 859) : inscription par arrêté du 30 novembre 1972",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.13333333333333333,
+      "mean_retweets": 1.3333333333333333,
+      "mean_likes": 0.6666666666666666
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107855-hotel-de-lambesc.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107855.jpg",
+    "name": "Hôtel de Lambesc",
+    "address": "70 rue du Quesnoy",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Portail d'entrée ainsi que le balcon en fer forgé au devant de la fenêtre au premier étage et les vantaux en menuiserie de la porte cochère au rez-de-chaussée : inscription par arrêté du 18 octobre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa59000073-hotel-de-ville.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa59000073.jpg",
+    "name": "Hôtel de ville",
+    "address": "Place d'Armes",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Toutes les façades et toitures, ainsi que le volume du grand hall d'accueil du public (cad. AV 304) : inscription par arrêté du 26 février 2001",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.3175,
+      "mean_retweets": 1.8875,
+      "mean_likes": 4.1975
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel de ville",
+      "yelp_id": "d2UV6O-mjjfkm-ckjAnklg",
+      "yelp_phone": "",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107870-maison-du-prevot.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107870.jpg",
+    "name": "Maison du Prévôt",
+    "address": "13 rue Notre-Dame",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades et toitures : classement par décret du 21 avril 1923",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 35,
+      "mean_replies": 0.14285714285714285,
+      "mean_retweets": 1.1142857142857143,
+      "mean_likes": 2.5428571428571427
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107872-maison-a-pans-de-bois.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107872.jpg",
+    "name": "Maison à pans de bois",
+    "address": "12 rue de Famars",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades sur rue et sur cour ainsi que la toiture : inscription par arrêté du 22 juin 1943",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 157,
+      "mean_replies": 0.14012738853503184,
+      "mean_retweets": 1.5414012738853504,
+      "mean_likes": 3.4522292993630574
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107873-maison-a-pans-de-bois.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107873.jpg",
+    "name": "Maison à pans de bois",
+    "address": "53 rue de Mons",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Façades et toitures : classement par arrêté du 17 décembre 1924",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 157,
+      "mean_replies": 0.14012738853503184,
+      "mean_retweets": 1.5414012738853504,
+      "mean_likes": 3.4522292993630574
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107843-mont-de-piete.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107843.jpg",
+    "name": "Mont-de-Piété",
+    "address": "10, 12 place Verte",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Parcelle cadastrale AW 69 : inscription par arrêté du 27 novembre 1968 ; Parcelle cadastrale AW 70 : classement par arrêté du 13 janvier 1994",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 482,
+      "mean_replies": 0.22614107883817428,
+      "mean_retweets": 1.2157676348547717,
+      "mean_likes": 2.12448132780083
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Mont de Piété",
+      "yelp_id": "HV78M3gXPZTq45uALDpkEg",
+      "yelp_phone": "+3225121385",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1530",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1530",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1530",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1530",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1530",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107842-tour-de-la-dodenne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107842.jpg",
+    "name": "Tour de la Dodenne",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Valenciennes",
+    "description": "Tour de Dodenne : classement par arrêté du 17 février 1904",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa59000004-eglise-notre-dame-du-saint-cordon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa59000004.jpg",
+    "name": "Basilique Notre-Dame-du-Saint-Cordon",
+    "address": "Place de l'Abbé-Thellier-de-Ponchville",
+    "coordinates": {
+      "latitude": "50.355449",
+      "longitude": "3.526306"
+    },
+    "city": "Valenciennes",
+    "description": "La basilique Notre-Dame-du-Saint-Cordon est un bâtiment abritant un lieu de culte catholique, située à Valenciennes, dans le Nord.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.2222222222222222,
+      "mean_retweets": 0.6666666666666666,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 121.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00107849-eglise-saint-gery.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00107849.jpg",
+    "name": "Église Saint-Géry de Valenciennes",
+    "address": "Rue Saint-Jean Rue de Paris",
+    "coordinates": {
+      "latitude": "50.3587",
+      "longitude": "3.52047"
+    },
+    "city": "Valenciennes",
+    "description": "L'église Saint-Géry est une église catholique située à Valenciennes, en France1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.09090909090909091,
+      "mean_retweets": 1.6363636363636365,
+      "mean_likes": 1.7272727272727273
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 145.4
+  }
+]

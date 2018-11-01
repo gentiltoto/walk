@@ -1,0 +1,3386 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00083177-abbatiale-sainte-croix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083177.jpg",
+    "name": "Abbatiale Sainte-Croix de Bordeaux",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.831111",
+      "longitude": "-0.561111"
+    },
+    "city": "Bordeaux",
+    "description": "L’église Sainte-Croix1, à Bordeaux, est l'ancienne abbatiale d'un monastère bénédictin. Elle a désormais rang d'église paroissiale.\nL'église fait l’objet d’un classement au titre des monuments historiques par la liste de 18402.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 590.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083172-basilique-saint-michel.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083172.jpg",
+    "name": "Basilique Saint-Michel de Bordeaux",
+    "address": "Place Saint-Michel",
+    "coordinates": {
+      "latitude": "44.8344",
+      "longitude": "-0.5649"
+    },
+    "city": "Bordeaux",
+    "description": "La basilique Saint-Michel est l'un des principaux lieux de culte catholique de la ville de Bordeaux, dans le sud-ouest de la France. Bâtie du xive au xvie siècle, elle est caractéristique du style gothique flamboyant.\nLa basilique partage avec la cathédrale Saint-André la particularité d'être dotée d'un clocher indépendant du sanctuaire ou campanile. S'élevant à une hauteur de 114 mètres, il est considéré comme le plus haut du Midi de la France et comme l'un des plus hauts de l'hexagone1. Sa base conserve une crypte qui servit longtemps d'ossuaire, puis de lieu d'exposition pour des « momies » exhumées au xixe siècle lors de l'aménagement de la place Meynard, ancien cimetière paroissial.\nClassée monument historique dès 18462, l'église Saint-Michel — devenue basilique mineure en 1903 — est inscrite sur la liste du patrimoine mondial de l'UNESCO depuis 1998 au titre des chemins de Saint-Jacques-de-Compostelle en France3.\nCe site est desservi par la ligne C du tramway : station Saint-Michel\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Bordeaux Bike Experience",
+      "yelp_id": "y_KyVmEHO0xGHcI6Hx10rQ",
+      "yelp_phone": "+33664583897",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1468.175
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083175-basilique-saint-seurin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083175.jpg",
+    "name": "Basilique Saint-Seurin de Bordeaux",
+    "address": "Place des Martyrs-de-la-Résistance",
+    "coordinates": {
+      "latitude": "44.843212",
+      "longitude": "-0.585719"
+    },
+    "city": "Bordeaux",
+    "description": "La basilique Saint-Seurin est une basilique mineure construite à Bordeaux au début du XIe siècle1. Après avoir été classée au titre des monuments historiques par la liste de 1840, la basilique est inscrite au patrimoine mondial de l'UNESCO en 1998 au titre des chemins de Saint-Jacques de Compostelle.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 587.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083158-bourse-du-travail.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083158.jpg",
+    "name": "Bourse du travail de Bordeaux",
+    "address": "Rue Jean-Burguet Rue Henri-IV Rue Paul-Louis-Lande cours Aristide-Briand",
+    "coordinates": {
+      "latitude": "44.832222",
+      "longitude": "-0.577222"
+    },
+    "city": "Bordeaux",
+    "description": "La bourse du travail de Bordeaux, située dans le quartier de la Victoire a été réalisée à l'initiative du maire de Bordeaux Adrien Marquet, qui en a confié la conception à Jacques D'Welles, architecte en chef de la ville de Bordeaux. Les interventions de nombreux artistes comme Jean Dupas et Alfred Janniot font de cet équipement un remarquable exemple de l'architecture Art déco bordelaise2.\nLa bourse du travail, commencée en 1935, a été inaugurée le 1er mai 19383 et classée monument historique le 25 juin 19984.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 163
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083159-boutique.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083159.jpg",
+    "name": "Boutique",
+    "address": "34 rue des Ayres",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "La devanture d'époque Directoire (cad. P 620) : inscription par arrêté du 15 janvier 1962",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 40,
+      "mean_replies": 0.05,
+      "mean_retweets": 0.15,
+      "mean_likes": 0.575
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 24,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Boutique Addict",
+      "yelp_id": "j0eY0kAMr5xSfkMKey1ycQ",
+      "yelp_phone": "+33556811867",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083160-cathedrale-saint-andre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083160.jpg",
+    "name": "Cathédrale Saint-André de Bordeaux",
+    "address": "Place Pey-Berland",
+    "coordinates": {
+      "latitude": "44.83778",
+      "longitude": "-0.57778"
+    },
+    "city": "Bordeaux",
+    "description": "La cathédrale Saint-André de Bordeaux, située sur la place Pey-Berland, est le lieu de culte le plus imposant de Bordeaux. Il s'agit de l'église-cathédrale de l'archidiocèse de Bordeaux. Elle fut consacrée en 1096 par le pape Urbain II. Elle a été reconstruite dans le style gothique du xiie au xvie siècle. Dans cette église furent célébrés quelques mariages royaux, en 1137, le mariage d'Aliénor d'Aquitaine, alors âgée de quinze ans, avec le futur Louis VII, roi des Francs et en novembre 1615 le mariage d'Anne d'Autriche, Infante d'Espagne et de Louis XIII, roi de France et de Navarre.\nCe site est desservi par les lignes A et B du tramway de Bordeaux : station Hôtel de Ville.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Bordeaux Bike Experience",
+      "yelp_id": "y_KyVmEHO0xGHcI6Hx10rQ",
+      "yelp_phone": "+33664583897",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 2618.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000014-centre-hospitalier-specialise-charles-perrens.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000014.jpg",
+    "name": "Centre hospitalier spécialisé Charles-Perrens",
+    "address": "121 rue de la Béchade",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Les façades et les toitures des deux bâtiments occidental et oriental encadrant la cour d'honneur ; les anciennes cuisines ; les anciens pavillons des bains ; la chapelle ; la fontaine datée de 1761 (cad. IE 35) : inscription par arrêté du 9 septembre 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083161-chapelle-saint-joseph.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083161.jpg",
+    "name": "Chapelle Saint-Joseph",
+    "address": "Rue Paul-Louis-Lande Rue Magendie",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Chapelle Saint-Joseph, y compris le retable en pierre (cad. U 1316p) : classement par arrêté du 22 mai 1978",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083162-chartreuse-de-mirande.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083162.jpg",
+    "name": "Chartreuse de Mirande",
+    "address": "20 avenue de Mirande",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Les façades et les toitures ; les trois chambres et les quatre salons avec décor au rez-de-chaussée (cad. C 372) : classement par arrêté du 10 octobre 1980",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000127-chartreuse-le-caoulet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000127.jpg",
+    "name": "Chartreuse le Caoulet",
+    "address": "29 rue Thérésia-Cabarrus",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "La chartreuse avec son portail et sa clôture, en totalité (cad. HY 78) : inscription par arrêté du 6 mars 2009",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083184-chateau-du-ha.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083184.jpg",
+    "name": "Château du Hâ",
+    "address": "Cours d'Albret",
+    "coordinates": {
+      "latitude": "44.836389",
+      "longitude": "-0.579444"
+    },
+    "city": "Bordeaux",
+    "description": "Le château du Hâ, aussi nommé fort du Hâ, est une ancienne forteresse de Bordeaux, à l'emplacement de laquelle sont érigés actuellement le Palais de Justice et l'École nationale de la magistrature. Il a été construit par décision du roi Charles VII, immédiatement après la reprise définitive de Bordeaux aux Anglais en 1453. Ses deux tours (des Anglais et des Minimes) sont inscrites au titre des monuments historiques le 12 avril 19652.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Domaine du Chateau Margaux",
+      "yelp_id": "sFRr1rAyCkaQNUqPHPOj9Q",
+      "yelp_phone": "+33557888383",
+      "yelp_hours": ""
+    },
+    "score_wiki": 628.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083163-cimetiere-de-la-chartreuse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083163.jpg",
+    "name": "Cimetière de la Chartreuse",
+    "address": "Rue Georges-Bonnac",
+    "coordinates": {
+      "latitude": "44.835452",
+      "longitude": "-0.593991"
+    },
+    "city": "Bordeaux",
+    "description": "Le cimetière de la Chartreuse est le plus ancien et le plus grand cimetière de la ville de Bordeaux.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0.6666666666666666,
+      "mean_retweets": 0.3333333333333333,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Cimetière La Chartreuse",
+      "yelp_id": "E4BPDHpmSl2kg0ZI-PBlLQ",
+      "yelp_phone": "+33556931720",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 347.05
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135175-cimetiere-des-juifs-portugais.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135175.jpg",
+    "name": "Cimetière des Juifs portugais",
+    "address": "105 cours de la Marne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Mur de clôture et la porte d'entrée ; sol et sous-sol (cad. DE 19) : inscription par arrêté du 27 septembre 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135176-cimetiere-des-juifs-portugais.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135176.jpg",
+    "name": "Cimetière des Juifs portugais",
+    "address": "176 cours de l'Yser",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Mur de clôture, sol et sous-sol (cad. CR 1) : inscription par arrêté du 27 septembre 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000075-colonnes-rostrales-de-lesplanade-des-quinconces.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000075.jpg",
+    "name": "Place des Quinconces",
+    "address": "Esplanade des Quinconces Quai Louis-XVIII",
+    "coordinates": {
+      "latitude": "44.84556",
+      "longitude": "-0.57361"
+    },
+    "city": "Bordeaux",
+    "description": "La place des Quinconces est l'une des principales places du centre-ville de Bordeaux en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 8,
+      "mean_replies": 0.25,
+      "mean_retweets": 1.25,
+      "mean_likes": 3.625
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 3353.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083165-couvent-des-annonciades.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083165.jpg",
+    "name": "Couvent des Annonciades",
+    "address": "64 rue Paul-Louis-Lande Rue Magendie",
+    "coordinates": {
+      "latitude": "44.83306",
+      "longitude": "-0.57583"
+    },
+    "city": "Bordeaux",
+    "description": "L'ancien couvent des Annonciades, un des seuls cloîtres de la Renaissance encore conservés en Aquitaine, est situé 54 rue Magendie à Bordeaux. Il a été fondé en 15201 par Jacquette Andron de Lansac, suivant la règle fixée par Jeanne de France (1464-1505), pour des religieuses du couvent d'Albi.\nLa chapelle du couvent a été classée au titre des monuments historiques le 15 octobre 1974 ; le portail d'entrée et le cloître sont inscrits également le 15 octobre 1974 et divers murs ont été inscrits le 31 mai 20011.\nÀ partir de 1995, les services de la Direction régionale des Affaires culturelles (D.R.A.C.) d'Aquitaine s'installent dans le bâtiment, 54 rue Magendie, Bordeaux.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 6,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Drac Aquitaine - Couvent des Annonciades",
+      "yelp_id": "sU-gedrbzOjrLw61wxv38Q",
+      "yelp_phone": "+33557950202",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 220.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083166-croix-du-cimetiere-saint-projet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083166.jpg",
+    "name": "Église Saint-Projet",
+    "address": "Place Saint-Projet",
+    "coordinates": {
+      "latitude": "44.838403",
+      "longitude": "-0.574397"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Saint-Projet est située rue Tustal à Bordeaux. Construite au xive siècle, il ne reste que la tour avec une inscription au monument historique depuis 1965.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 66.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125240-distillerie-secrestat.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125240.jpg",
+    "name": "Distillerie Sécrestat",
+    "address": "40 à 50 cours du Médoc",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Façades et toitures (cad. RP 23) : inscription par arrêté du 16 juillet 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083179-entrepot-laine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083179.jpg",
+    "name": "Entrepôt Lainé",
+    "address": "Place Lainé",
+    "coordinates": {
+      "latitude": "44.84854",
+      "longitude": "-0.571986"
+    },
+    "city": "Bordeaux",
+    "description": "L'entrepôt Lainé (autrefois appelé aussi entrepôt réel des denrées coloniales1) est un bâtiment de Bordeaux, en Gironde, destiné à l'origine au stockage sous douane des denrées, en provenance des colonies avant leur expédition à travers l'Europe. Le bâtiment abrite aujourd'hui le centre d'arts plastiques contemporains de Bordeaux (CAPC) et arc en rêve centre d'architecture.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "L'Entrepôt Lainé",
+      "yelp_id": "zweS_R1Xjy-4F0dgEm3fKQ",
+      "yelp_phone": "+33556008150",
+      "yelp_hours": ""
+    },
+    "score_wiki": 124.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083180-fontaine-amedee-larrieu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083180.jpg",
+    "name": "Fontaine Amédée-Larrieu",
+    "address": "Place Amédée-Larrieu",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Fontaine ; le mur du fond du marché ; les deux fontaines adossées aux extrémités : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083181-fontaine-saint-projet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083181.jpg",
+    "name": "Fontaine Saint-Projet",
+    "address": "Place Saint-Projet",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Fontaine (non cadastré) : classement par arrêté du 18 mai 1908",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083183-fontaine-sainte-croix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083183.jpg",
+    "name": "Fontaine Sainte-Croix",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Fontaine Sainte-Croix, ou des Bénédictins, dans l'enceinte de l'Ecole Municipale des Beaux-Arts : classement par arrêté du 15 septembre 1890",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083182-fontaine-de-la-grave.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083182.jpg",
+    "name": "Fontaine de la Grave",
+    "address": "Quai des Salinières",
+    "coordinates": {
+      "latitude": "44.8353",
+      "longitude": "-0.56417"
+    },
+    "city": "Bordeaux",
+    "description": "La fontaine de la Grave ou fontaine des Salinières est un monument de Bordeaux, dans le département français de la Gironde. Elle est inscrite aux monuments historiques le 23 mai 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 74.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000102-formes-de-radoub-du-port.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000102.jpg",
+    "name": "Formes de radoub du port",
+    "address": "Quai du Maroc Rue des Etrangers",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Les deux formes de radoub en totalité, avec leur machinerie, en totalité, y compris le bâtiment qui les abrite (cad. non cadastré, domaine public) : inscription par arrêté du 31 janvier 2008",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083185-galerie-bordelaise.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083185.jpg",
+    "name": "Galerie Bordelaise",
+    "address": "Rue des Piliers-de-Tutelle Rue Sainte-Catherine",
+    "coordinates": {
+      "latitude": "44.84147222",
+      "longitude": "-0.57397222"
+    },
+    "city": "Bordeaux",
+    "description": "La Galerie Bordelaise est une galerie commerçante située à Bordeaux. Elle est, avec le passage Sarget, l’un des deux passages couverts de la ville. Très en vogue durant la première moitié du xixe siècle, cette galerie de province rivalise d’élégance avec les passages parisiens.\nSa construction a été commencée en 1833 sous la direction de l'architecte Gabriel-Joseph Durand (1792-1858)1 et a été ouverte au public le 1er avril 1834. Elle est inscrite au titre des monuments historiques en 19752.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "La Galerie Bordelaise",
+      "yelp_id": "rsPQBxa2ThyDB7V20sJ1Iw",
+      "yelp_phone": "+33556481254",
+      "yelp_hours": ""
+    },
+    "score_wiki": 180.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083186-gare-de-bordeaux-bastide.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083186.jpg",
+    "name": "Gare de Bordeaux-Bastide",
+    "address": "Quai des Queyries",
+    "coordinates": {
+      "latitude": "44.84163",
+      "longitude": "-0.562075"
+    },
+    "city": "Bordeaux",
+    "description": "La gare de Bordeaux-Bastide, anciennement gare de Bastide-Orléans, a été inaugurée le 20 septembre 18521 pour accueillir le chemin de fer Paris-Bordeaux2.\nLe bâtiment, situé quai des Queyries dans le quartier de la Bastide accueille aujourd'hui un complexe de salles de cinéma.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Gare de Bordeaux-Bastide",
+      "yelp_id": "P2mq41rHdKfzdsk5A1k-FQ",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 244.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083187-gare-de-bordeaux-saint-jean.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083187.jpg",
+    "name": "Gare de Bordeaux-Saint-Jean",
+    "address": "Rue Charles-Domercq",
+    "coordinates": {
+      "latitude": "44.825815",
+      "longitude": "-0.555732"
+    },
+    "city": "Bordeaux",
+    "description": "La gare de Bordeaux-Saint-Jean, dite gare Saint-Jean à Bordeaux, est la plus grande gare ferroviaire de la région Nouvelle-Aquitaine, à 2 h 5 environ de Paris, par l'utilisation de la LGV Sud Europe Atlantique (mise en service le 2 juillet 2017).\nLes trains desservant la gare sont en provenance ou à destination de villes comme Arcachon, Toulouse, Nîmes, Marseille, Strasbourg, Lille et Nantes. Les liaisons avec Bergerac, Périgueux, Angoulême, Agen, Pau, Libourne, La Rochelle, Limoges et Poitiers sont fréquentes.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 16,
+      "mean_replies": 1.0625,
+      "mean_retweets": 1.625,
+      "mean_likes": 6.625
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 57,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Gare de Bordeaux-Saint-Jean",
+      "yelp_id": "dNhyhNExVMdKvsj5R_7Q6w",
+      "yelp_phone": "",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0200",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0400",
+              "end": "0100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 2430.525
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083188-grand-theatre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083188.jpg",
+    "name": "Grand Théâtre (Bordeaux)",
+    "address": "Place de la Comédie",
+    "coordinates": {
+      "latitude": "44.8426",
+      "longitude": "-0.5737"
+    },
+    "city": "Bordeaux",
+    "description": "Le Grand Théâtre de Bordeaux, commandé par le maréchal de Richelieu, gouverneur de Guyenne, et édifié par l'architecte Victor Louis, a été inauguré le 7 avril 1780 avec la représentation de l'Athalie de Jean Racine.\nClassé monument historique en 18991, réminiscence de l'Antiquité par son péristyle, l'ouvrage de 88 mètres sur 47 de style néo-classique, s'inscrit dans l'opulent urbanisme bordelais hérité du siècle des Lumières.\nIl abrite une salle de spectacle d'un millier de places, exemple parfait de théâtre à l'italienne.\nAprès plus de deux cents ans d'usages divers ou de transformations successives de ses salles comme de son environnement, il a retrouvé, à la fois sa décoration intérieure bleue, or et marbre blanc d'origine à l'occasion de sa dernière restauration en 1991 et sa perspective de temple des muses avec l'aménagement de la place de la Comédie et du cours du Chapeau-Rouge en 2006.\nLe Grand Théâtre est aujourd'hui le siège de l'Opéra national de Bordeaux qui y programme sa saison lyrique et les représentations du Ballet de l'Opéra. Il accueillait également les concerts symphoniques de l'Orchestre national Bordeaux Aquitaine avant l'ouverture de l'Auditorium de Bordeaux en 2013.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 0.11764705882352941,
+      "mean_retweets": 2.2941176470588234,
+      "mean_likes": 5.176470588235294
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 2056.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083914-grande-synagogue.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083914.jpg",
+    "name": "Grande synagogue de Bordeaux",
+    "address": "36 cours Pasteur Rue du Grand-Rabbin-Cohen",
+    "coordinates": {
+      "latitude": "44.833611",
+      "longitude": "-0.573889"
+    },
+    "city": "Bordeaux",
+    "description": "La grande synagogue de Bordeaux est le principal lieu de culte israélite de Bordeaux.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Grande Synagogue de Bordeaux",
+      "yelp_id": "aYzgJ20hvtdFfRErUkM0cQ",
+      "yelp_phone": "+33556495758",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1700",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 320.075
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125239-grosse-cloche.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125239.jpg",
+    "name": "Grosse cloche de Bordeaux",
+    "address": "103 cours Victor-Hugo 44 rue Saint-James",
+    "coordinates": {
+      "latitude": "44.8353",
+      "longitude": "-0.571389"
+    },
+    "city": "Bordeaux",
+    "description": "La grosse cloche de Bordeaux est le beffroi de l'ancien hôtel de ville. La porte et les tours, dites de la Grosse Cloche, sont classées au titre des monuments historiques par arrêté du 12 juillet 18861.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1127.65
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083189-hotel-baour.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083189.jpg",
+    "name": "Hôtel Baour",
+    "address": "9 cours du Chapeau-Rouge",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "La façade, y compris les vantaux de portes et ferronneries, et la toiture (cad. KP 0057) : inscription par arrêté du 8 octobre 1935",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083192-hotel-boyer-fonfrede.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083192.jpg",
+    "name": "Hôtel Boyer-Fonfrède",
+    "address": "1 cours du Chapeau-Rouge",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Les façades et toitures sur rue ; le vestibule ; l'escalier ; les trois pièces ornées d'un ensemble de boiseries Louis XVI se trouvant au premier étage, chez M. Rivel (cad. E 170) : inscription par arrêté du 8 février 1963",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083194-hotel-fenwick.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083194.jpg",
+    "name": "Hôtel Fenwick",
+    "address": "1 cours Xavier-Arnozan",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Hôtel Fenwick : inscription par arrêté du 7 octobre 1935",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 13,
+      "mean_replies": 0.46153846153846156,
+      "mean_retweets": 0.07692307692307693,
+      "mean_likes": 0.3076923076923077
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083195-hotel-gradis.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083195.jpg",
+    "name": "Hôtel Gradis",
+    "address": "138 cours Victor-Hugo",
+    "coordinates": {
+      "latitude": "44.8349",
+      "longitude": "-0.573377"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel Gradis est un hôtel particulier du xviiie siècle situé 138, cours Victor-Hugo, à Bordeaux, en France.\nCe bâtiment fait l’objet d’un classement au titre des monuments historiques depuis le 2 novembre 19641. La partie classée concerne la façade, les toitures, l'escalier intérieur en pierre avec sa cage et sa rampe en fer forgé1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 42.175
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083196-hotel-journu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083196.jpg",
+    "name": "Hôtel Journu",
+    "address": "3 cours du Chapeau-Rouge",
+    "coordinates": {
+      "latitude": "44.8426",
+      "longitude": "-0.5714"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel Journu est un hôtel particulier du xviiie siècle situé 3, cours du Chapeau-Rouge, à Bordeaux, en France.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 7 octobre 19351.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 44,
+      "mean_replies": 0.18181818181818182,
+      "mean_retweets": 0.9545454545454546,
+      "mean_likes": 1.4772727272727273
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 18.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083198-hotel-lisleferme.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083198.jpg",
+    "name": "Hôtel Lisleferme",
+    "address": "5 place Bardineau",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Hôtel Lisleferme : inscription par arrêté du 8 octobre 1935",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000101-hotel-mel-de-fontenay.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000101.jpg",
+    "name": "Hôtel Mel de Fontenay",
+    "address": "23 rue Monbazon",
+    "coordinates": {
+      "latitude": "44.83841",
+      "longitude": "-0.580264"
+    },
+    "city": "Bordeaux",
+    "description": "L'Hôtel Mel de Fontenay est un hôtel particulier de Bordeaux, situé au 23 de la rue Monbazon.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 9.65
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083203-hotel-pichon-longueville.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083203.jpg",
+    "name": "Hôtel Pichon-Longueville",
+    "address": "9 rue Poquelin-Molière",
+    "coordinates": {
+      "latitude": "44.84",
+      "longitude": "-0.5765"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel Pichon-Longueville est un hôtel particulier du xviiie siècle situé 9, rue Poquelin-Molière, à Bordeaux, en France.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 22 mars 19301.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Bordeaux Vertigo",
+      "yelp_id": "iwRCdse7aIwk_AqFhnhJxQ",
+      "yelp_phone": "+33666774338",
+      "yelp_hours": ""
+    },
+    "score_wiki": 19.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083204-hotel-piganeau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083204.jpg",
+    "name": "Hôtel Piganeau",
+    "address": "4 rue Esprit-des-Lois",
+    "coordinates": {
+      "latitude": "44.8431",
+      "longitude": "-0.5717"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel Piganeau est un hôtel particulier du xviiie siècle situé 4 rue Esprit-des-lois, à Bordeaux, en France.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 7 décembre 19551.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083209-hotel-saint-marc.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083209.jpg",
+    "name": "Hôtel Saint-Marc",
+    "address": "91 cours d'Albret",
+    "coordinates": {
+      "latitude": "44.834448",
+      "longitude": "-0.580443"
+    },
+    "city": "Bordeaux",
+    "description": "L'Hôtel de Saint-Marc est un hôtel particulier situé à Bordeaux, en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 21.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132530-hotel-de-babylone.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132530.jpg",
+    "name": "Hôtel de Babylone",
+    "address": "22 rue Castéja",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel, ses dépendances et son jardin, en totalité (cad. KX 120) : classement par arrêté du 8 novembre 2004",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083190-hotel-de-basquiat.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083190.jpg",
+    "name": "Hôtel de Basquiat",
+    "address": "29 cours d'Albret",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Hôtel de Basquiat (l'ensemble) (cad. O 506) : classement par arrêté du 21 février 1959",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083205-hotel-de-poissac.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083205.jpg",
+    "name": "Hôtel de Poissac",
+    "address": "27 cours d'Albret Rue Pierlot",
+    "coordinates": {
+      "latitude": "44.837715",
+      "longitude": "-0.581761"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel de Poissac est un édifice, protégé des monuments historiques, situé à Bordeaux, en France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 27.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083201-hotel-de-ragueneau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083201.jpg",
+    "name": "Hôtel de Ragueneau",
+    "address": "71 rue du Loup",
+    "coordinates": {
+      "latitude": "44.838169",
+      "longitude": "-0.574936"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel de Ragueneau est un édifice, protégé des monuments historiques, situé à Bordeaux, en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 52.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083207-hotel-de-ruat.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083207.jpg",
+    "name": "Hôtel de Ruat",
+    "address": "33 rue de Ruat",
+    "coordinates": {
+      "latitude": "44.839642",
+      "longitude": "-0.578928"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel de Ruat est un édifice, protégé des monuments historiques, situé à Bordeaux, en France.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 16.125
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083191-hotel-de-la-bourse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083191.jpg",
+    "name": "Hôtel de la Bourse (Bordeaux)",
+    "address": "Place de la Bourse Quai du Maréchal-Lyautey Place Jean-Jaurès Place Gabriel",
+    "coordinates": {
+      "latitude": "44.842102",
+      "longitude": "-0.570287"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel de la Bourse, aussi connu comme le palais de la bourse1,2,3,4, est un bâtiment de la ville de Bordeaux en Gironde, en France. Il s'agit d'un monument historique.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 50,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Le Gabriel - Gastronomique",
+      "yelp_id": "_Eq-GNqvxrv236KlJDEbjw",
+      "yelp_phone": "+33556300080",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1330",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1330",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2130",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 32.075
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083200-hotel-de-la-marine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083200.jpg",
+    "name": "Hôtel de la Marine (Bordeaux)",
+    "address": "9 place Tourny",
+    "coordinates": {
+      "latitude": "44.845453",
+      "longitude": "-0.578044"
+    },
+    "city": "Bordeaux",
+    "description": "L'Hôtel de la Marine est un bâtiment, protégé des monuments historiques, situé à Bordeaux, en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 51,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Grand Hôtel de Bordeaux",
+      "yelp_id": "F34QttxDfp717KtMyAEATw",
+      "yelp_phone": "+33557304444",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0000",
+              "end": "0000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 24.35
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083208-hotel-de-prefecture-de-la-gironde.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083208.jpg",
+    "name": "Hôtel de préfecture de la Gironde",
+    "address": "Rue Esprit-des-Lois cours du Chapeau-Rouge Rue Louis",
+    "coordinates": {
+      "latitude": "44.8372323",
+      "longitude": "-0.5865347"
+    },
+    "city": "Bordeaux",
+    "description": "L'hôtel de préfecture de la Gironde est un bâtiment situé au no 2, Esplanade Charles-de-Gaulle à Bordeaux, en France. Il est le siège de la préfecture du département de la Gironde.\nLa résidence officielle du préfet se trouve à l'hôtel Nesmond au no 17 bis de la rue Vital-Carles1\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 53.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000018-hotel-des-archives-departementales-de-la-gironde.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000018.jpg",
+    "name": "Hôtel des archives départementales de la Gironde",
+    "address": "13, 25 rue d'Aviau",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Hôtel en totalité (cad. PN 187) : inscription par arrêté du 8 avril 1998",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000131-institution-nationale-des-sourdes-et-muettes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000131.jpg",
+    "name": "Institution nationale des sourdes-muettes",
+    "address": "87 rue de l'Abbé-de-l'Épée",
+    "coordinates": {
+      "latitude": "44.843452",
+      "longitude": "-0.583465"
+    },
+    "city": "Bordeaux",
+    "description": "L'Institution nationale des sourdes et muettes (ou aujourd'hui Castéja) est une ancienne école d'enseignement spécialisé pour jeunes sourdes et malentendantes située à Bordeaux pour remplacer l'école pour les sourds à Bordeaux1, en France, installée depuis le milieu du xixe siècle jusqu'à la seconde guerre de mondiale qui provoque la fermeture d'école pour les sourdes. Après la fin de la guerre, ces bâtiments deviennent le commissariat central jusqu'à leur déménagement en 2003 à Bordeaux-Mériadeck [archive]. Le site est inscrit au monument historique [archive] tardivement (2010).\nVendus par l'État pour être réhabilités, ces bâtiments font fin 2016 l'objet de fouilles qui aboutissent à la découverte d'une nécropole antique qualifiée d'« extraordinaire » par les spécialistes.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 54.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083402-jardin-public.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083402.jpg",
+    "name": "Jardin public de Bordeaux",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.848954",
+      "longitude": "-0.578014"
+    },
+    "city": "Bordeaux",
+    "description": "La création du jardin public de Bordeaux est décidée en 1746 à l'initiative de l'intendant Tourny, sur un terrain occupé par « de mauvaises vignes [...] et quelques jardinages » en limite de la ville. Il est inscrit Monument historique le 8 octobre 19352.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0,
+      "mean_retweets": 1.4,
+      "mean_likes": 0.8
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 665.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083403-magasin-des-vivres-de-la-marine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083403.jpg",
+    "name": "Magasin des vivres de la marine de Bordeaux",
+    "address": "1 rue Achard Place Victor-Raulin",
+    "coordinates": {
+      "latitude": "44.8645",
+      "longitude": "-0.549649"
+    },
+    "city": "Bordeaux",
+    "description": "Le magasin des vivres de la marine de Bordeaux est un ensemble de bâtiments de style néoclassique construit à l'usage de la marine militaire royale à la fin du xviiie siècle.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 39.19230769230769
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125238-mairerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125238.jpg",
+    "name": "Mairerie",
+    "address": "20 rue des Ayres",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Bâtiments du 17e siècle de l'ancienne mairerie : galeries de circulation ; façades et toitures du presbytère situé entre cour et jardin ; travée du balcon et toiture correspondante de l'immeuble situé dans la partie Ouest de la cour ; façades et toitures de l'ancienne cuisine et de la tourelle d'angle édifiée dans l'ancien jardin (cad. HD 411) : inscription par arrêté du 8 octobre 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000003-maison-acquart.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000003.jpg",
+    "name": "Maison Acquart",
+    "address": "8 rue Porte-Saint-Jean 23 rue Ausone",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Immeuble (cad. HE 26) : inscription par arrêté du 4 décembre 1996",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132929-maison-cantonale-de-la-bastide.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132929.jpg",
+    "name": "Maison cantonale de La Bastide",
+    "address": "Rue du Château neuf Rue des Nuits",
+    "coordinates": {
+      "latitude": "44.8415",
+      "longitude": "-0.552785"
+    },
+    "city": "Bordeaux",
+    "description": "La maison cantonale de La Bastide est située dans le quartier de La Bastide à Bordeaux. Elle est l'œuvre de l'architecte Cyprien Alfred-Duprat, du sculpteur Edmond Tuffet et de l'entreprise de céramique Gentil & Bourdet de Boulogne-Billancourt. Elle a été inscrite au titre des monuments historiques le 30 décembre 19941.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000082-maison-de-bourdieu-de-la-jalle.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000082.jpg",
+    "name": "Maison de Bourdieu de la Jalle",
+    "address": "99 rue Pasteur",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "La maison en totalité (cad. MW 146) : inscription par arrêté du 1er mars 2005",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083899-maison-de-montaigne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083899.jpg",
+    "name": "Maison de Montaigne",
+    "address": "23 rue de la Rousselle",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Oratoire ; pièce centrale du rez-de-chaussée avec sa cheminée et sa porte murée du 15e siècle ; tourelle d'escalier ; dallage ancien constituant le sol de l'ensemble du rez-de-chaussée (cad. HE 330) : inscription par arrêté du 27 décembre 1991",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 14,
+      "mean_replies": 0,
+      "mean_retweets": 0.42857142857142855,
+      "mean_likes": 1.2857142857142858
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083869-maison-hollandaise.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083869.jpg",
+    "name": "Maison dite hollandaise (Bordeaux)",
+    "address": "29 quai des Chartrons",
+    "coordinates": {
+      "latitude": "44.8505",
+      "longitude": "-0.57014"
+    },
+    "city": "Bordeaux",
+    "description": "Les deux maisons jumelles dites maisons hollandaises, situées aux 28 et 29 quai des Chartrons à Bordeaux, ont été construites en 1680 par le marchand Hilaire Renu. Les façades et les toitures ont été inscrites au titre des monuments historiques par arrêté du 17 avril 19901.\nLes deux maisons rappellent par leur architecture les maisons hollandaises.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 37.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083868-maison-hollandaise.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083868.jpg",
+    "name": "Maison dite hollandaise (Bordeaux)",
+    "address": "28 quai des Chartrons",
+    "coordinates": {
+      "latitude": "44.8505",
+      "longitude": "-0.57014"
+    },
+    "city": "Bordeaux",
+    "description": "Les deux maisons jumelles dites maisons hollandaises, situées aux 28 et 29 quai des Chartrons à Bordeaux, ont été construites en 1680 par le marchand Hilaire Renu. Les façades et les toitures ont été inscrites au titre des monuments historiques par arrêté du 17 avril 19901.\nLes deux maisons rappellent par leur architecture les maisons hollandaises.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 37.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000074-monument-aux-girondins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000074.jpg",
+    "name": "Monument aux Girondins",
+    "address": "Esplanade des Quinconces Quai Louis-XVIII",
+    "coordinates": {
+      "latitude": "44.8453",
+      "longitude": "-0.574722"
+    },
+    "city": "Bordeaux",
+    "description": "Le monument aux Girondins, situé à Bordeaux, place des Quinconces, a été élevé entre 1894 et 1902 à la mémoire des députés Girondins victimes de la Terreur. Les Bordelais le nomment couramment « colonne des Girondins » ou « monument des Girondins ».\nIl est classé au titre des monuments historiques depuis le 16 mars 2011, après avoir été inscrit le 8 juillet 20041, le classement ayant été approuvé par le conseil municipal de Bordeaux le 25 octobre 20102.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 340,
+      "mean_replies": 0.21764705882352942,
+      "mean_retweets": 1.3735294117647059,
+      "mean_likes": 1.9764705882352942
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 20,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Monument aux Girondins",
+      "yelp_id": "hqn74s_D6yxjz9LtfYd00g",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1807.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083193-musee-national-des-douanes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083193.jpg",
+    "name": "Musée national des douanes",
+    "address": "1 quai de la Douane Place de la Bourse Rue Émile-Duployé",
+    "coordinates": {
+      "latitude": "44.8409563",
+      "longitude": "-0.5698138"
+    },
+    "city": "Bordeaux",
+    "description": "Le Musée national des douanes est un musée qui a ouvert en 1984 dans l'enceinte de l’Hôtel des Douanes de Bordeaux. Il présente l’histoire de l’administration des Douanes (l’une des plus anciennes en France), de l’époque moderne à nos jours, et à travers elle une partie de l'Histoire de France1. C'est le seul musée du genre en France.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 104,
+      "mean_replies": 0.22115384615384615,
+      "mean_retweets": 0.8461538461538461,
+      "mean_likes": 2.4711538461538463
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 18,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Musée National des Douanes",
+      "yelp_id": "nYMWUDznQYdq1-MLDvuk1g",
+      "yelp_phone": "+33556488282",
+      "yelp_hours": ""
+    },
+    "score_wiki": 195.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083156-palais-gallien.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083156.jpg",
+    "name": "Palais Gallien",
+    "address": "Rue du docteur Albert-Barraud",
+    "coordinates": {
+      "latitude": "44.84778",
+      "longitude": "-0.58306"
+    },
+    "city": "Bordeaux",
+    "description": "L'amphithéâtre de Bordeaux, dit « Palais Gallien » selon la tradition locale, est une arène romaine datant du début du iie siècle1 et dont il ne reste plus aujourd'hui que des vestiges. Il fait l'objet d'un classement au titre des monuments historiques depuis 18402.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 454,
+      "mean_replies": 0.14977973568281938,
+      "mean_retweets": 0.7224669603524229,
+      "mean_likes": 1.2422907488986785
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 14,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Palais Gallien",
+      "yelp_id": "BPZ1MZh3ZTBFcbnrVxo3pg",
+      "yelp_phone": "+33556480424",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 815.725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083157-palais-rohan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083157.jpg",
+    "name": "Palais Rohan (Bordeaux)",
+    "address": "Place Pey-Berland",
+    "coordinates": {
+      "latitude": "44.83778",
+      "longitude": "-0.57972"
+    },
+    "city": "Bordeaux",
+    "description": "Le palais Rohan est un palais bordelais construit pour l’archevêque de Bordeaux Ferdinand Maximilien Mériadec de Rohan en 1771.\nHôtel de l’Archevêché jusqu’à la Révolution, hôtel du département puis siège du tribunal révolutionnaire en 1791, hôtel de la préfecture en 1802, palais impérial de Napoléon Ier en 1808 et château royal en 1815 sous Louis XVIII, le palais Rohan devient hôtel de ville en 1835.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 113,
+      "mean_replies": 0.3008849557522124,
+      "mean_retweets": 1.3805309734513274,
+      "mean_likes": 3.2920353982300883
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 672.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083471-palais-de-justice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083471.jpg",
+    "name": "Palais de justice de Bordeaux",
+    "address": "Place de la République",
+    "coordinates": {
+      "latitude": "44.8364",
+      "longitude": "-0.579444"
+    },
+    "city": "Bordeaux",
+    "description": "Le palais de justice de Bordeaux se situe à Bordeaux en France, sur le côté nord de la place de la République. Le bâtiment ancien a été construit entre 1839 et 1846. Il a été inscrit monument historique le 19 mars 19791. Avec l'École nationale de la magistrature (ENM) inaugurée en 1972 et le tribunal de grande instance (TGI) construit en 1998 sur le périmètre de l'ancienne prison, l'ensemble constitue l'îlot judiciaire. Le nouveau bâtiment (TGI) a été labellisé « Patrimoine du xxe siècle »2.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 157,
+      "mean_replies": 0.37579617834394907,
+      "mean_retweets": 2.0254777070063694,
+      "mean_likes": 1.8853503184713376
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 655.025
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083901-passage.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083901.jpg",
+    "name": "Passage",
+    "address": "82 quai des Chartrons",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Façades et voûtes (cad. RE 65) : inscription par arrêté du 18 décembre 1991",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 791,
+      "mean_replies": 0.3198482932996207,
+      "mean_retweets": 0.45764854614412137,
+      "mean_likes": 1.436156763590392
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 92,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "La Brasserie du Passage",
+      "yelp_id": "cVyTZKTxdpWS9ohPe0UAcA",
+      "yelp_phone": "+33556912030",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1430",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1600",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000110-passerelle-eiffel.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000110.jpg",
+    "name": "Passerelle Eiffel",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.831944",
+      "longitude": "-0.551944"
+    },
+    "city": "Bordeaux",
+    "description": "La passerelle Eiffel ou passerelle Saint-Jean est un ancien pont métallique ferroviaire situé sur la Garonne à Bordeaux.\nElle est construite de 1858 à 1860. Conçue par Stanislas de la Laroche-Tolay avec Paul Régnauld comme ingénieur en chef et son jeune collaborateur Gustave Eiffel qui assure la conduite des travaux1.\nDans le cadre du projet Euratlantique, la passerelle est affectée à un usage piétonnier.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 116,
+      "mean_replies": 0.1206896551724138,
+      "mean_retweets": 0.9310344827586207,
+      "mean_likes": 0.9568965517241379
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Passerelle Eiffel",
+      "yelp_id": "DYUWf1GIe-KAfo-JgTDkyA",
+      "yelp_phone": "+33556936500",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1329.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083202-petit-hotel-labottiere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083202.jpg",
+    "name": "Petit hôtel Labottière",
+    "address": "13 rue Saint-Laurent",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Petit hôtel (cad. PD 114) et son petit jardin (cad. PD 173) : classement par arrêté du 12 juillet 2001",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 36,
+      "mean_replies": 0.027777777777777776,
+      "mean_retweets": 0.3333333333333333,
+      "mean_likes": 0.6388888888888888
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 85,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Jardin Public",
+      "yelp_id": "fqPMwD7zmAISlCFN_lhbgA",
+      "yelp_phone": "+33556006600",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0700",
+              "end": "2000",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083167-piscine-judaique.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083167.jpg",
+    "name": "Piscine Judaïque",
+    "address": "Rue Judaïque 45 rue Chauffour",
+    "coordinates": {
+      "latitude": "44.8407",
+      "longitude": "-0.591333"
+    },
+    "city": "Bordeaux",
+    "description": "La piscine Judaïque Jean Boiteux est située au 164 de la rue Judaïque à Bordeaux et a été réalisée entre 1931 et 1935 par l'architecte Louis Madeline.\nAdrien Marquet maire de Bordeaux de 1925 à 1944, et Jacques D'Welles architecte en chef de la ville sont à l'origine de sa construction et ce dans un vaste plan de rénovation urbaine, le plan Marquet, qui crédite Bordeaux de nombreux équipements publics d'une architecture Art-déco1 comme la nouvelle Bourse du travail, la piscine Judaïque, le stade Lescure.\nLa piscine est inscrite au titre des monuments historiques depuis le 26 juillet 19962. Le portique de l'ancienne école d'équitation, qui sert d'entrée à l'ensemble du complexe sportif est quant à lui inscrit depuis le 19 octobre 19282.\nEn 2012, lors de la 35e édition du Grand Prix Jean Boiteux, organisé par les Girondins de Bordeaux Natation, la piscine Judaïque, devient la piscine Judaïque Jean Boiteux, en l'honneur de la mémoire du champion Olympique Jean Boiteux, bordelais d'adoption, qui a côtoyé les bassins bordelais plus de 50 ans3.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 92,
+      "mean_replies": 0.2391304347826087,
+      "mean_retweets": 0.42391304347826086,
+      "mean_likes": 1.141304347826087
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 36,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Piscine Judaïque",
+      "yelp_id": "D7sV58e3Lhxl_IFOR4ikmw",
+      "yelp_phone": "+33556514831",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0730",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1130",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 405.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083284-place-du-parlement.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083284.jpg",
+    "name": "Place du Parlement (Bordeaux)",
+    "address": "Place du Parlement",
+    "coordinates": {
+      "latitude": "44.840717",
+      "longitude": "-0.572019"
+    },
+    "city": "Bordeaux",
+    "description": "La place du Parlement est une place à l'italienne située dans le centre-ville de Bordeaux, quartier Saint Pierre, à proximité de la place de la Bourse. Elle est inscrite monument historique le 17 avril 19522.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 233,
+      "mean_replies": 0.21030042918454936,
+      "mean_retweets": 1.0686695278969958,
+      "mean_likes": 1.351931330472103
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 12,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Place du Parlement",
+      "yelp_id": "w1ChyAhn8odq3yDH7FlTFw",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 456.425
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa33000067-pont-de-pierre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa33000067.jpg",
+    "name": "Pont de pierre (Bordeaux)",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.838472",
+      "longitude": "-0.562778"
+    },
+    "city": "Bordeaux",
+    "description": "Le pont de pierre est un pont à voûtes en maçonnerie franchissant la Garonne à Bordeaux. Il permet de relier le centre ville au quartier de La Bastide, sur la rive droite.\nLe pont de pierre, construit sur ordre de Napoléon Ier entre 1810 et 1822, a été conçu par les ingénieurs Claude Deschamps et Jean-Baptiste Basilide Billaudel. 4 000 ouvriers y travaillèrent. D'une longueur de 487 mètres, l'ouvrage présente 17 arches construites sur 16 piles. La largeur du pont, initialement de 14,6 mètres, a été élargie à 19 mètres en 1954. Le pont est construit en pierre et en brique, avec la particularité de comporter des espaces vides intérieurs.\nLe financement de l'ouvrage, à hauteur de 6,5 millions de francs fut mixte : le négociant bordelais Pierre Balguerie-Stuttenberg créa, en 1818, la Compagnie du pont de Bordeaux pour lever les financements privés nécessaires à l'achèvement des travaux, pour un montant de 2 millions de francs. En contrepartie la Compagnie du pont bénéficiera d'un droit de péage. Celui-ci sera racheté par la ville de Bordeaux en 1863, ce qui permet le rattachement de La Bastide à Bordeaux au 1er janvier 1865.\nLe pont de pierre est inscrit monument historique depuis le 17 décembre 20021.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.21375,
+      "mean_retweets": 1.82375,
+      "mean_likes": 2.82
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 3240.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083477-porte-cailhau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083477.jpg",
+    "name": "Porte Cailhau",
+    "address": "Rue de la Porte-Cailhau",
+    "coordinates": {
+      "latitude": "44.838794444444",
+      "longitude": "-0.56848055555556"
+    },
+    "city": "Bordeaux",
+    "description": "La porte Cailhau (porta deu Calhau en 1450)2 ou porte du Palais est une porte de la ville de Bordeaux, dans le département français de la Gironde. Elle est classée monument historique depuis le 28 mai 18831.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 598,
+      "mean_replies": 0.1588628762541806,
+      "mean_retweets": 1.806020066889632,
+      "mean_likes": 4.918060200668896
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 13,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Porte Cailhau",
+      "yelp_id": "gvlXJtlk1eKYrUSEp4X8sw",
+      "yelp_phone": "+33556480424",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 867.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083475-porte-dijeaux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083475.jpg",
+    "name": "Porte Dijeaux",
+    "address": "Rue Porte-Dijeaux",
+    "coordinates": {
+      "latitude": "44.8406",
+      "longitude": "-0.579722"
+    },
+    "city": "Bordeaux",
+    "description": "La porte Dijeaux est une porte de la ville de Bordeaux, dans le département français de la Gironde.\nElle est classée monument historique le 2 juin 19211.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 213,
+      "mean_replies": 0.26291079812206575,
+      "mean_retweets": 0.9295774647887324,
+      "mean_likes": 1.9014084507042253
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Hôtel la Porte Dijeaux",
+      "yelp_id": "JG2LAdI4DQ14XKfohsRygw",
+      "yelp_phone": "+33556818501",
+      "yelp_hours": ""
+    },
+    "score_wiki": 387.125
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083473-porte-daquitaine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083473.jpg",
+    "name": "Porte d'Aquitaine",
+    "address": "Place de la Victoire",
+    "coordinates": {
+      "latitude": "44.8308",
+      "longitude": "-0.57278"
+    },
+    "city": "Bordeaux",
+    "description": "La porte d'Aquitaine est une porte située à Bordeaux, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 178,
+      "mean_replies": 0.38764044943820225,
+      "mean_retweets": 2.539325842696629,
+      "mean_likes": 4.825842696629214
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Porte d'Aquitaine",
+      "yelp_id": "LffWH-XITtXEbxi0WqCulg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 215.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083474-porte-de-bourgogne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083474.jpg",
+    "name": "Porte de Bourgogne",
+    "address": "Place Bir-Hakeim cours Victor-Hugo",
+    "coordinates": {
+      "latitude": "44.8361",
+      "longitude": "-0.566111"
+    },
+    "city": "Bordeaux",
+    "description": "La porte de Bourgogne appelée aussi porte des Salinières, est un monument situé à Bordeaux, dans le département français de la Gironde. Elle est classée monument historique depuis le 2 juin 19211.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 751,
+      "mean_replies": 0.3235685752330226,
+      "mean_retweets": 1.4194407456724367,
+      "mean_likes": 2.0239680426098534
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Porte de Bourgogne",
+      "yelp_id": "9z2vBjaw-LSITIp_AOa0fg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 434.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083476-porte-de-la-monnaie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083476.jpg",
+    "name": "Porte de la Monnaie",
+    "address": "Quai de la Monnaie Quai Sainte-Croix",
+    "coordinates": {
+      "latitude": "44.8331",
+      "longitude": "-0.561817"
+    },
+    "city": "Bordeaux",
+    "description": "La porte de la Monnaie est une porte de la ville de Bordeaux, sur les quais de la Monnaie, à mi distance entre pont de pierre et Pont Saint-Jean, et à quelques pas du conservatoire de musique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 50,
+      "mean_replies": 0.26,
+      "mean_retweets": 0.48,
+      "mean_likes": 1.08
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 114.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083478-temple-des-chartrons.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083478.jpg",
+    "name": "Temple des Chartrons",
+    "address": "Rue Notre-Dame",
+    "coordinates": {
+      "latitude": "44.849664",
+      "longitude": "-0.57207"
+    },
+    "city": "Bordeaux",
+    "description": "Le temple des Chartrons est un ancien temple protestant situé en France dans le quartier des Chartrons de Bordeaux.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 10,
+      "mean_replies": 0.2,
+      "mean_retweets": 1,
+      "mean_likes": 3.3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 110.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083479-theatre-de-lalhambra.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083479.jpg",
+    "name": "Théâtre de l'Alhambra",
+    "address": "24 rue d'Alzon",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Les façades sur la rue d'Alzon, avec retour sur deux travées (cad. LA 125) : inscription par arrêté du 28 décembre 1984",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 118,
+      "mean_replies": 0.211864406779661,
+      "mean_retweets": 0.5932203389830508,
+      "mean_likes": 1.4491525423728813
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083480-tour-pey-berland.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083480.jpg",
+    "name": "Tour Pey Berland",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.837619444444",
+      "longitude": "-0.57655555555556"
+    },
+    "city": "Bordeaux",
+    "description": "La tour Pey Berland, du nom de l'archevêque Pey Berland, est le clocher séparé de la Cathédrale Saint-André, situé à Bordeaux sur la Place Pey-Berland. Elle fait l’objet d’un classement au titre des monuments historiques par la liste de 18621. Elle est également classée au patrimoine mondial de l'Unesco2.\nLa tour Pey Berland à Bordeaux comme une centaine d’autres monuments, propriété de l’État, est gérée, animée et ouverte à la visite par le centre des monuments nationaux.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 189,
+      "mean_replies": 0.2222222222222222,
+      "mean_retweets": 0.5079365079365079,
+      "mean_likes": 1.343915343915344
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 18,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Tour Pey-Berland",
+      "yelp_id": "8KQgu-p2Bd3bqwpmQfmgUA",
+      "yelp_phone": "+33556812625",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083168-ecole-de-medecine-et-de-chirurgie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083168.jpg",
+    "name": "École de médecine et de chirurgie",
+    "address": "42 rue Lalande",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Bordeaux",
+    "description": "Façades et toitures de l'ensemble du bâtiment du 19s ; amphithéâtre, y compris ses gradins ; hall d'entrée (cad. DS 145) : classement par arrêté du 13 septembre 1990",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 12,
+      "mean_replies": 0.4166666666666667,
+      "mean_retweets": 1,
+      "mean_likes": 1.25
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083170-eglise-notre-dame.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083170.jpg",
+    "name": "Église Notre-Dame de Bordeaux",
+    "address": "Place du Chapelet",
+    "coordinates": {
+      "latitude": "44.8425",
+      "longitude": "-0.576389"
+    },
+    "city": "Bordeaux",
+    "description": "L’église Notre-Dame (autrefois Saint-Dominique) est une église construite dans un style baroque à la fin du xviie siècle dans la ville de Bordeaux, située place du Chapelet dans la rue Mably, en retrait et à proximité du Grand Théâtre.\nL’église est classée monument historique le 18 mai 19081, ainsi que le buffet de son orgue depuis le 12 janvier 1971.\nDe 1971 à 1981, l’église a été fermée à la suite de l’effondrement d'une partie des voûtes. Elle a été entièrement rénovée en 1982 par le service des Monuments Historiques, découvrant la belle pierre blonde d'origine.\nElle possède une acoustique remarquable d’où le nombre élevé de concerts organisés dans cet endroit.\nL’Église Notre-Dame est desservie par la ligne B du tramway de Bordeaux : Station Grand Théâtre\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 54,
+      "mean_replies": 0.3148148148148148,
+      "mean_retweets": 1.8888888888888888,
+      "mean_likes": 4.574074074074074
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 7,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Eglise Notre-Dame",
+      "yelp_id": "WVbNsMQjAOPXLdti5RS71A",
+      "yelp_phone": "+33556810137",
+      "yelp_hours": ""
+    },
+    "score_wiki": 656
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083169-eglise-saint-bruno.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083169.jpg",
+    "name": "Église Saint-Bruno de Bordeaux",
+    "address": "Rue François-de-Sourdis",
+    "coordinates": {
+      "latitude": "44.8375972",
+      "longitude": "-0.5898917"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Saint-Bruno est une église catholique construite au xviie siècle située dans le centre-ville de Bordeaux, dans le département de la Gironde et la région Nouvelle-Aquitaine. Elle dépend de l'archidiocèse de Bordeaux et elle est placée sous le vocable de saint Bruno, fondateur des Chartreux.\nC'est la première église baroque à être construite à Bordeaux avant l’église Saint-Paul et l’église Notre-Dame.\nL’église fait face au cimetière de la Chartreuse, le cimetière le plus ancien et le plus grand de Bordeaux.\nElle est classée au titre des monuments historiques depuis 18621.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 18,
+      "mean_replies": 0.6666666666666666,
+      "mean_retweets": 1.2222222222222223,
+      "mean_likes": 0.3888888888888889
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 148.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083911-eglise-saint-paul-saint-francois-xavier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083911.jpg",
+    "name": "Église Saint-Paul-Saint-François-Xavier de Bordeaux",
+    "address": "Rue des Ayres",
+    "coordinates": {
+      "latitude": "44.8368028",
+      "longitude": "-0.57278"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Saint-Paul-Saint-François-Xavier, communément appelée Saint-Paul, est une église française du xviie siècle située dans le centre-ville de Bordeaux, dans le département de la Gironde et la région Nouvelle-Aquitaine. Elle est affectée depuis sa construction au culte catholique.\nElle fait l’objet d'un classement au titre des monuments historiques depuis 18 décembre 19971.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 168.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083173-eglise-saint-pierre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083173.jpg",
+    "name": "Église Saint-Pierre de Bordeaux",
+    "address": "Place Saint-Pierre",
+    "coordinates": {
+      "latitude": "44.8398",
+      "longitude": "-0.570239"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Saint-Pierre est une église catholique située à Bordeaux, en France1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 23,
+      "mean_replies": 0.13043478260869565,
+      "mean_retweets": 1.0869565217391304,
+      "mean_likes": 2.3043478260869565
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 282.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083176-eglise-saint-projet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083176.jpg",
+    "name": "Église Saint-Projet",
+    "address": "Rue Tustal",
+    "coordinates": {
+      "latitude": "44.838403",
+      "longitude": "-0.574397"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Saint-Projet est située rue Tustal à Bordeaux. Construite au xive siècle, il ne reste que la tour avec une inscription au monument historique depuis 1965.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 1,
+      "mean_likes": 1.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 66.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083174-eglise-saint-remi.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083174.jpg",
+    "name": "Église Saint-Rémi de Bordeaux",
+    "address": "Rue Jouannet",
+    "coordinates": {
+      "latitude": "44.8418",
+      "longitude": "-0.57181"
+    },
+    "city": "Bordeaux",
+    "description": "L’église Saint-Rémi est une église désaffectée devenue espace d'exposition ; elle est située à Bordeaux, en France.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0.2857142857142857
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 66.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083171-eglise-saint-eloi.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083171.jpg",
+    "name": "Église Saint-Éloi de Bordeaux",
+    "address": "Rue Saint-James",
+    "coordinates": {
+      "latitude": "44.835543",
+      "longitude": "-0.57123"
+    },
+    "city": "Bordeaux",
+    "description": "L’église Saint-Éloi est une église historique de Bordeaux en Gironde, située contre la porte de la Grosse Cloche. C’était l’église de la Jurade de Bordeaux.\nElle est classée monument historique depuis le 30 juillet 1921.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 13,
+      "mean_replies": 0.7692307692307693,
+      "mean_retweets": 8.153846153846153,
+      "mean_likes": 2.6153846153846154
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 285.825
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00083178-eglise-sainte-eulalie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00083178.jpg",
+    "name": "Église Sainte-Eulalie de Bordeaux",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "44.8333",
+      "longitude": "-0.577604"
+    },
+    "city": "Bordeaux",
+    "description": "L'église Sainte-Eulalie est une église catholique située à Bordeaux, en France1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 129.45
+  }
+]
