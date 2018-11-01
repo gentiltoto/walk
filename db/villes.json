@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Lille",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lille_vue_gd_place.JPG",
+    "json": "lille-photo"
+  },
+  {
+    "name": "Lyon",
+    "photo": "https://uploads.lebonbon.fr/source/2017/lyon/aout/lyon_tournimage.jpg",
+    "json": "lyon-photo"
+  },
+  {
+    "name": "Orléans",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Orl%C3%A9ans%2C_pavoisement_pour_les_F%C3%AAtes_de_Jeanne_d%27Arc_2017.jpg",
+    "json": "orleans-photo"
+  }
+]

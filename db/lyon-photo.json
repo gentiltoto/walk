@@ -1,0 +1,3320 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00117781-amphitheatre-des-trois-gaules.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117781.jpg",
+    "name": "Amphithéâtre des Trois Gaules",
+    "address": "Rue des Tables-Claudiennes Rue Terme-Croix-Rousse Burdeau",
+    "coordinates": {
+      "latitude": "45.770556",
+      "longitude": "4.830556"
+    },
+    "city": "Lyon",
+    "description": "L’amphithéâtre des Trois Gaules de Lugdunum (l'actuelle ville de Lyon) est un élément du sanctuaire fédéral des Trois Gaules dédié au culte de Rome et d’Auguste célébré par les soixante nations gauloises réunies à Lugdunum. Les vestiges de l'amphithéâtre font l’objet d’un classement au titre des monuments historiques depuis le 27 novembre 19611.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 34,
+      "mean_replies": 0.3235294117647059,
+      "mean_retweets": 2.764705882352941,
+      "mean_likes": 4.382352941176471
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Amphithéâtre des Trois Gaules",
+      "yelp_id": "YW6SUy8xi1MbXFbCdgwhmw",
+      "yelp_phone": "",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 873.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000049-ancien-couvent-de-la-visitation.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000049.jpg",
+    "name": "Ancien Couvent de la Visitation",
+    "address": "21bis-23 rue Roger-Radisson 14 montée du Télégraphe",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Les façades et toitures du couvent, de ses bâtiments, du cloître et de ses galeries, sa chapelle en totalité, ainsi que la parcelle cadastrée AO 58 sur laquelle sont construits ces bâtiments : inscription par arrêté du 12 décembre 2013",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 36,
+      "mean_replies": 0.2222222222222222,
+      "mean_retweets": 1.1111111111111112,
+      "mean_likes": 4.083333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117782-aqueduc-du-gier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117782.jpg",
+    "name": "Aqueduc du Gier",
+    "address": "Rue Roger-Radisson",
+    "coordinates": {
+      "latitude": "45.721417",
+      "longitude": "4.760181"
+    },
+    "city": "Lyon",
+    "description": "L’aqueduc du Gier est un des aqueducs antiques de Lyon desservant la ville antique de Lugdunum. Il est le plus long des quatre aqueducs ayant alimenté la ville en eau, et celui dont les structures sont le mieux conservées. Il doit son nom au fait qu'il puise aux sources du Gier, affluent du Rhône. Les vestiges de l'aqueduc font l’objet d’un classement au titre des monuments historiques depuis le 20 mars 19121.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 141,
+      "mean_replies": 0.1276595744680851,
+      "mean_retweets": 2.0141843971631204,
+      "mean_likes": 3.9574468085106385
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Aqueduc du Gier",
+      "yelp_id": "RiRmkjuy_BXgTe6_hDnFHw",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1046.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000043-atelier-mattelon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000043.jpg",
+    "name": "Atelier Mattelon",
+    "address": "10 rue Richan",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "L'ensemble des façades et toitures de l'immeuble situé 10, rue Richan, (y compris celles de la cage d'escalier et de l'atelier mécanique situé dans la cour), ainsi que l'atelier du deuxième étage en totalité (cad. AX 48) : inscription par arrêté du 15 mars 2013",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0.25,
+      "mean_retweets": 0.75,
+      "mean_likes": 0.75
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117800-basilique-saint-martin-dainay.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117800.jpg",
+    "name": "Basilique Saint-Martin d'Ainay",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "45.753713",
+      "longitude": "4.827259"
+    },
+    "city": "Lyon",
+    "description": "La basilique Saint-Martin d'Ainay est une ancienne église abbatiale de style roman (xiie siècle) située dans le quartier d'Ainay, sur la presqu'île de Lyon. Elle est élevée au rang de basilique en 1905.\nLa basilique fait l’objet d’un classement au titre des monuments historiques par la liste de 18401.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 28,
+      "mean_replies": 0.07142857142857142,
+      "mean_retweets": 1.4285714285714286,
+      "mean_likes": 2.9285714285714284
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Abbaye de Saint Martin d'Ainay",
+      "yelp_id": "YD0wxQ6E1_U0jqClBr2IMw",
+      "yelp_phone": "+33472400250",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 687.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118106-bourse-du-travail.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118106.jpg",
+    "name": "Bourse du travail de Lyon",
+    "address": "205 rue de Créqui Place Guichard Rue Voltaire",
+    "coordinates": {
+      "latitude": "45.7592898",
+      "longitude": "4.8482323"
+    },
+    "city": "Lyon",
+    "description": "La Bourse du travail est une salle de spectacles située à Lyon, dans le 3e arrondissement.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 557,
+      "mean_replies": 0.3752244165170557,
+      "mean_retweets": 1.7971274685816876,
+      "mean_likes": 5.373429084380611
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 441.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117784-cafe-du-rhone.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117784.jpg",
+    "name": "Café du Rhône",
+    "address": "23 quai Augagneur",
+    "coordinates": {
+      "latitude": "45.7581",
+      "longitude": "4.841"
+    },
+    "city": "Lyon",
+    "description": "Le Café du Rhône, est un café-restaurant situé 23 quai Augagneur à Lyon en France.\nLe décor intérieur de boiseries et les céramiques peintes de différents lieux lyonnais (l'Île Barbe, la passerelle Saint-Georges, l'aqueduc du Gier, le pont de la Guillotière et le parc de la Tête d'Or) font l'objet d'une inscription au titre des monuments historiques depuis le 21 décembre 19841.\nDepuis le 10 mars 2003, le café est labellisé « Patrimoine du xxe siècle »2.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 283,
+      "mean_replies": 0.17667844522968199,
+      "mean_retweets": 1.1837455830388692,
+      "mean_likes": 2.4346289752650176
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 13,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Café du Rhône",
+      "yelp_id": "tP7LoUCK4eT5yjs0M7AZwg",
+      "yelp_phone": "+33478608804",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1100",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0800",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1700",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 68.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000017-chais-beaucairois.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000017.jpg",
+    "name": "Pathé-Vaise",
+    "address": "54 rue des Docks 26 rue Johannès-Carret",
+    "coordinates": {
+      "latitude": "45.787218",
+      "longitude": "4.811518"
+    },
+    "city": "Lyon",
+    "description": "Le Pathé-Vaise est un cinéma situé dans le quartier de Vaise, dans le 9e arrondissement de la ville de Lyon.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 674,
+      "mean_replies": 0.2166172106824926,
+      "mean_retweets": 0.31750741839762614,
+      "mean_likes": 0.887240356083086
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 49,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Pathé Vaise",
+      "yelp_id": "34cfrpiyeh0sJ_ptTj4KQA",
+      "yelp_phone": "+33472530617",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "1300",
+              "end": "0100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 204.7
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117921-chartreuse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117921.jpg",
+    "name": "Chartreuse",
+    "address": "58 rue Pierre-Dupont",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Façades et toitures sur cour des bâtiments situés au nord et au sud de la chapelle des Chartreux (cad. AD 2) : inscription par arrêté du 27 janvier 1987. Chapelle des Chartreux (cad. AD 2) : classement par arrêté du 27 janvier 1987. Façades et toitures de la petite maison et de la maison du Prieur ; grille d'entrée (cad. AD 1, 2) : inscription par arrêté du 18 mai 1992. Petit cloître avec ses galeries ; maison des Hôtes ; ancienne salle capitulaire ; grand réfectoire (cad. AD 1, 2) : classement par arrêté du 3 février 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 776,
+      "mean_replies": 0.20231958762886598,
+      "mean_retweets": 0.30541237113402064,
+      "mean_likes": 1.2255154639175259
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 5,
+        "score_yelp_rating": 2.5
+      },
+      "yelp_name": "Chartreux Communication",
+      "yelp_id": "cQaFbFS7TvLbXOmlCyOAyw",
+      "yelp_phone": "+33472007550",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117786-chateau-de-la-motte.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117786.jpg",
+    "name": "Château de La Motte (Lyon)",
+    "address": "37 rue du Repos",
+    "coordinates": {
+      "latitude": "45.744616",
+      "longitude": "4.852518"
+    },
+    "city": "Lyon",
+    "description": "Le château de La Motte (ou La Mothe1) est situé dans le 7e arrondissement de Lyon, rive gauche, dans le département du Rhône. Il se dresse au voisinage de la bifurcation des anciennes routes de l’est et du sud de Lyon, à la frontière entre le Dauphiné et le Lyonnais. Il occupe une petite élévation, une motte castrale, (d’où il tire son nom) qui le mettait à l’abri des inondations et lui assurait une bonne visibilité avant l’urbanisation du quartier de la Guillotière.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0,
+      "mean_retweets": 0.5555555555555556,
+      "mean_likes": 0.6666666666666666
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 252.125
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117787-chateau-de-la-tourette.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117787.jpg",
+    "name": "Château de la Tourette",
+    "address": "80 boulevard de la Croix-Rousse",
+    "coordinates": {
+      "latitude": "45.77351",
+      "longitude": "4.82464"
+    },
+    "city": "Lyon",
+    "description": "Le château de la Tourette était une demeure de plaisance1 située dans le quartier de La Croix-Rousse à Lyon. Il a été entièrement détruit à l'exception de la porte principale, classée monument historique par arrêté du 22 janvier 19102.\nIl fut la propriété du seigneur de Rochebonne, de Jacques Teste et enfin, par mariage, de la famille Mazuyer. Le blason présent au sommet de la porte encore existante, est celui de la famille Mazuyer.\nSur l'emplacement de la demeure, démolie en 1884, l'école normale d'institutrice fut construite et achevée en 1888. Le bâtiment est, depuis, devenu un Institut universitaire de formation des maîtres (IUFM) et à partir du 1er septembre 2013, un collège.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0.5714285714285714
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 54.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117788-college-lycee-ampere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117788.jpg",
+    "name": "Collège-lycée Ampère",
+    "address": "31 rue de la Bourse",
+    "coordinates": {
+      "latitude": "45.765406",
+      "longitude": "4.837578"
+    },
+    "city": "Lyon",
+    "description": "Le collège-lycée Ampère est un établissement scolaire situé dans le 2e arrondissement de Lyon. Il se distingue par la diversité des langues enseignées : outre le russe, l'hebreu et l'arabe, l'établissement est le seul lycée public de l'académie de Lyon à dispenser des cours de japonais1.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 13,
+      "mean_replies": 0.07692307692307693,
+      "mean_retweets": 0.5384615384615384,
+      "mean_likes": 0.7692307692307693
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Lycée et Collège Ampère",
+      "yelp_id": "V30NghULRIbW_YVVol8rvg",
+      "yelp_phone": "+33472101212",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 0
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 610.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117789-condition-publique-des-soies.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117789.jpg",
+    "name": "Condition des soies",
+    "address": "7 rue Saint-Polycarpe",
+    "coordinates": {
+      "latitude": "45.769039",
+      "longitude": "4.834528"
+    },
+    "city": "Lyon",
+    "description": "Le terme de condition des soies désigne un établissement industriel destiné à établir le poids à sec de la soie dans le cadre du commerce du précieux fil, pour en garantir un taux d'humidité déterminé. Il a existé des conditions des soies dans d'autres villes françaises et européennesa 1.\nLa condition des soies est un édifice situé 7 rue Saint-Polycarpe dans le 1er arrondissement de Lyon (sur les pentes de la Croix-Rousse). Il a été construit entre 1804 et 1814, en partie sur l'ancien jardin des Capucins (voir rue des Capucins).\nL'édifice fait l’objet d’une inscription au titre des monuments historiques depuis le 20 février 19801. Il a été reconverti en 1982 et accueille la bibliothèque municipale du 1er arrondissement, la ludothèque Croc'aux jeux, l'association des anciens combattants et le centre social quartier vitalité.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 145,
+      "mean_replies": 1.1310344827586207,
+      "mean_retweets": 1.0551724137931036,
+      "mean_likes": 3.0482758620689654
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Condition des soies",
+      "yelp_id": "kP4BeTNxD1jhEp-bLnwByA",
+      "yelp_phone": "+33478393636",
+      "yelp_hours": ""
+    },
+    "score_wiki": 36.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118107-cour-des-voraces.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118107.jpg",
+    "name": "Cour des Voraces",
+    "address": "9 place Colbert 14bis montée Saint-Sébastien",
+    "coordinates": {
+      "latitude": "45.771906",
+      "longitude": "4.834828"
+    },
+    "city": "Lyon",
+    "description": "La Cour des Voraces est une cour d'immeuble lyonnais, célèbre pour son monumental escalier de façade de six étages (escalier à volées libres). C'est une impressionnante traboule qui permet de passer du 9 de la place Colbert au 14 de la montée de Saint-Sébastien ou au 29 rue Imbert-Colomès.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 129,
+      "mean_replies": 0.17054263565891473,
+      "mean_retweets": 0.7984496124031008,
+      "mean_likes": 2.24031007751938
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "La Cour des Voraces",
+      "yelp_id": "Q2SQjyeokJ_U7nYq5ToNKA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 632.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000023-couvent-de-la-visitation-actuel-hopital-de-lantiquai.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000023.jpg",
+    "name": "Hôpital de l'Antiquaille",
+    "address": "1 rue de l'Antiquaille",
+    "coordinates": {
+      "latitude": "45.759389",
+      "longitude": "4.822472"
+    },
+    "city": "Lyon",
+    "description": "L'hôpital de l'Antiquaille est un ancien hôpital situé sur le site de l'Antiquaille dans la ville de Lyon. Il occupe un ancien couvent de Visitandines. L'ancien hôpital (ancien couvent et parties construites au xixe siècle) font l’objet d’une inscription au titre des monuments historiques depuis le 21 janvier 20051.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0,
+      "mean_retweets": 1.6,
+      "mean_likes": 2.4
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 222.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117790-couvent-des-carmelites.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117790.jpg",
+    "name": "Couvent des Carmélites",
+    "address": "8, 10, 12, montée des Carmélites 15, rue de Flesselles",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Couvent des Carmélites (ancien) : inscription par arrêté du 26 octobre 1942",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 108,
+      "mean_replies": 0.49074074074074076,
+      "mean_retweets": 3.5925925925925926,
+      "mean_likes": 3.8796296296296298
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117791-couvent-des-dames-de-sainte-elisabeth-actuel-conserva.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117791.jpg",
+    "name": "Conservatoire national supérieur musique et danse de Lyon",
+    "address": "2 quai Chauveau",
+    "coordinates": {
+      "latitude": "45.769167",
+      "longitude": "4.8125"
+    },
+    "city": "Lyon",
+    "description": "Le Conservatoire national supérieur musique et danse (CNSMD) de Lyon1 est un établissement public à caractère administratif créé par décret du 18 février 1980. Le CNSMD de Lyon et celui de Paris, dispensent un enseignement professionnel de la musique et de la danse.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 20,
+      "mean_replies": 0.1,
+      "mean_retweets": 0.7,
+      "mean_likes": 1.05
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Conservatoire National Supérieur Musique et Danse",
+      "yelp_id": "bIAgbcbyOqVdvaLl4FwZCQ",
+      "yelp_phone": "+33472192626",
+      "yelp_hours": ""
+    },
+    "score_wiki": 459.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118120-fontaine-bartholdi.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118120.jpg",
+    "name": "Fontaine Bartholdi",
+    "address": "Place des Terreaux",
+    "coordinates": {
+      "latitude": "45.767641666667",
+      "longitude": "4.8334555555556"
+    },
+    "city": "Lyon",
+    "description": "La fontaine Bartholdi se situe place des Terreaux, dans le centre de la ville de Lyon (1er arrondissement). Elle a été réalisée par le sculpteur Frédéric Auguste Bartholdi et inaugurée en 1892 sous le nom Char triomphal de la Garonne1.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 514,
+      "mean_replies": 0.18482490272373542,
+      "mean_retweets": 2.0428015564202333,
+      "mean_likes": 2.8832684824902723
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1859.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117807-fontaine-de-la-place-du-marechal-lyautey.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117807.jpg",
+    "name": "Fontaine de la place du Maréchal-Lyautey",
+    "address": "Place du Maréchal-Lyautey",
+    "coordinates": {
+      "latitude": "45.7685558",
+      "longitude": "4.842031"
+    },
+    "city": "Lyon",
+    "description": "La fontaine de la place du Maréchal-Lyautey est une fontaine située au milieu de la place du Maréchal-Lyautey dans le 6e arrondissement de Lyon. Érigée en 1865, elle fait l’objet d’une inscription au titre des monuments historiques depuis le 28 juillet 19751.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 1,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 47.725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118152-fontaine-des-jacobins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118152.jpg",
+    "name": "Place des Jacobins (Lyon)",
+    "address": "Place des Jacobins",
+    "coordinates": {
+      "latitude": "45.760502",
+      "longitude": "4.833551"
+    },
+    "city": "Lyon",
+    "description": "La place des Jacobins est une place située dans le quartier de Bellecour, dans le 2e arrondissement de la ville de Lyon.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 584,
+      "mean_replies": 0.13527397260273974,
+      "mean_retweets": 1.1609589041095891,
+      "mean_likes": 2.0136986301369864
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 816.825
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117808-fontaine-du-taurobole.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117808.jpg",
+    "name": "Fontaine du Taurobole",
+    "address": "Rue des Macchabées",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Fontaine du Taurobole : inscription par arrêté du 2 février 1987",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118153-garage-citroen.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118153.jpg",
+    "name": "Garage Citroën (Lyon)",
+    "address": "35 rue de Marseille",
+    "coordinates": {
+      "latitude": "45.7511",
+      "longitude": "4.84022"
+    },
+    "city": "Lyon",
+    "description": "Le garage Citroën de Lyon est un bâtiment en béton armé construit en 1932, inscrit aux monuments historiques, situé rue de Marseille, dans le 7e arrondissement de la ville de Lyon, en France. Il constitue un témoignage de l'architecture fonctionnaliste de l'entre-deux-guerres.\nIl est constitué d'un rez-de-chaussée surmonté de cinq étages et mesure 130 m de long pour 52 m de large1.\nIl a été construit entre 1930 et 1932 par Maurice-Jacques Ravazé, qui était alors à la tête du service d'architecture de Citroën. Parmi la vingtaine de constructions de même style élevées pour la société Citroën, le garage de Lyon était le plus imposant et est le seul subsistant2 aujourd'hui, quoique son affectation ait changé. L'artiste ferronnier Jean Prouvé est l'auteur de la verrière, des rampes et balustrades, des portes en métal et des cabines d'ascenseur. À son ouverture, le bâtiment revendiquait le titre de « plus grande station service du monde » et disposait d'un garage pouvant accueillir mille voitures1.\nLe bâtiment a été inscrit à l'inventaire supplémentaire des Monuments historiques le 18 mai 19923. Du fait des complications administratives que l'inscription est susceptible d'entraîner en cas de velléités de travaux, Citroën a contesté l'inscription en justice mais fut déboutée de sa requête en 19954.\nUne rénovation a été entreprise en 1996 par Citroën, qui exploitait encore la totalité du bâtiment. Elle consistait principalement à repeindre la façade et la mettre en valeur la nuit par des éclairages dans la tradition lyonnaise.\nEn 2011, le groupe 6e Sens Immobilier acquiert le garage en vue d'une réhabilitation du bâtiment5. Les travaux ont été effectués de 2013 à 2015 et ont coûté 33 millions d'euros1. Après ces travaux de réhabilitation, le bâtiment développe 31 500 m2 de surface brute. Le garage Citroën continue d'occuper les 4 500 m2 du rez-de-chaussée. Dans les cinq étages se répartissent 200 places de parking et 16 500 m2 de bureaux. Le grand hall de style Art déco de plus de 15 m de hauteur sous plafond a été remis en valeur. Certains éléments de décors, tels les garde-corps de Jean Prouvé, ont été restaurés ou fabriqués à l'identique6. Les rampes d'origine ont été conservées, offrant un stationnement à chaque niveau de bureaux1.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 91,
+      "mean_replies": 0.14285714285714285,
+      "mean_retweets": 2.032967032967033,
+      "mean_likes": 2.912087912087912
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 384.075
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117809-gare-des-brotteaux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117809.jpg",
+    "name": "Gare de Lyon-Brotteaux",
+    "address": "Place Jules-Ferry",
+    "coordinates": {
+      "latitude": "45.76721",
+      "longitude": "4.859801"
+    },
+    "city": "Lyon",
+    "description": "La gare de Lyon-Brotteaux est une ancienne gare française à voyageurs du quartier des Brotteaux, dans le 6e arrondissement de Lyon, aujourd'hui désaffectée. Elle fait l’objet d’un classement au titre des monuments historiques depuis le 7 mai 19821. Cette protection concerne l’ensemble des façades et toitures, ainsi que la salle décorée des pas perdus.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.09090909090909091,
+      "mean_retweets": 1.0909090909090908,
+      "mean_likes": 4.363636363636363
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 204,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Brasserie l'Est",
+      "yelp_id": "0R4_8jIY4xt-2rVS6sz1Gg",
+      "yelp_phone": "+33437242526",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1930",
+              "end": "2200",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 559.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117811-grand-temple.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117811.jpg",
+    "name": "Grand Temple de Lyon",
+    "address": "6 cours de la Liberté 3 quai Augagneur",
+    "coordinates": {
+      "latitude": "45.761892",
+      "longitude": "4.841517"
+    },
+    "city": "Lyon",
+    "description": "Le Grand Temple de Lyon est une église protestante située en bord de Rhône, 3 quai Victor Augagneur, dans le 3e arrondissement de Lyon. Il appartient à l'Église protestante unie de Lyon et est classé au titre des monuments historiques par arrêté du 28 juillet 20111.\nDes cultes y sont célébrés chaque dimanche, à 10h30 ou 17h30. S'y déroulent aussi de nombreux concerts, conférences et autres activités culturelles.\nLes 10 et 11 mai 2013 s'y sont tenus les journées inaugurales lors du premier synode national fondateur de l’Église protestante unie de France, marquant l'union de deux églises historiques, l'Église réformée de France et de l’Église évangélique luthérienne de France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 50,
+      "mean_replies": 0.14,
+      "mean_retweets": 1.52,
+      "mean_likes": 2.28
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 175.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117987-grande-synagogue.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117987.jpg",
+    "name": "Grande synagogue de Lyon",
+    "address": "13 quai Tilsitt",
+    "coordinates": {
+      "latitude": "45.7571",
+      "longitude": "4.8277"
+    },
+    "city": "Lyon",
+    "description": "La grande synagogue de Lyon est un édifice cultuel juif situé à Lyon dans la métropole de Lyon, en région Auvergne-Rhône-Alpes.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 34,
+      "mean_replies": 0.11764705882352941,
+      "mean_retweets": 1.1470588235294117,
+      "mean_likes": 2.735294117647059
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 283.825
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117876-greniers-dabondance.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117876.jpg",
+    "name": "Grenier d'abondance",
+    "address": "6 quai Saint-Vincent",
+    "coordinates": {
+      "latitude": "45.7696",
+      "longitude": "4.81475"
+    },
+    "city": "Lyon",
+    "description": "Établi dans le nord-ouest de la ville de Lyon, dans le département français du Rhône et la région Rhône-Alpes, sur la rive gauche de la Saône, immédiatement à l'arrière des fortifications de La Croix-Rousse et de la porte d'Hallincourt construite sous le bastion Saint-Jean en 1639, le grenier d'abondance se trouve idéalement placé à l'entrée de la ville, en bordure de la voie d'eau qui transporte l'essentiel du blé récolté dans la plaine de la Bresse et le Val de Saône. Un quai sera construit en 1732 ainsi qu'un pont de bois, juste en amont, le pont d'Hallincourt, en 1749. L'actuel pont Kœnig se trouve à peu près au même emplacement.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 28,
+      "mean_replies": 0.17857142857142858,
+      "mean_retweets": 0.6785714285714286,
+      "mean_likes": 1.6071428571428572
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 82.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117812-groupe-episcopal.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117812.jpg",
+    "name": "Groupe cathédral de Lyon",
+    "address": "rue de la Bombardé",
+    "coordinates": {
+      "latitude": "45.7607",
+      "longitude": "4.8273"
+    },
+    "city": "Lyon",
+    "description": "Le groupe cathédral de Lyon est formé de la primatiale Saint-Jean de Lyon, de l'église Saint-Étienne et de l'église Sainte-Croix. Ce groupe cathédral existe depuis l'Antiquité tardive. Il est d'abord double puis triple à l'époque carolingienne. Ces cathédrales doubles sont fréquentes au Haut Moyen Âge, mais disparaissent généralement entre le ixe siècle et le xiie siècle. Lyon est la seule cathédrale de France à rester multiple jusqu'à la Révolution française pendant laquelle les églises Saint-Étienne et Sainte-Croix seront détruites, laissant seule la primatiale Saint-Jean. Leurs vestiges seront exhumés dans les années 1970 et font actuellement partie d'un parc archéologique.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 58
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118154-hangar-du-premier-film.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118154.jpg",
+    "name": "Hangar du Premier-Film",
+    "address": "21 rue du Premier-Film",
+    "coordinates": {
+      "latitude": "45.7453",
+      "longitude": "4.8697"
+    },
+    "city": "Lyon",
+    "description": "Le Hangar du Premier-Film est le dernier vestige des usines Lumière, situées à Lyon, dans le département du Rhône. Il est classé monument historique depuis le 2 décembre 1994.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 108,
+      "mean_replies": 0.3055555555555556,
+      "mean_retweets": 2.9074074074074074,
+      "mean_likes": 8.074074074074074
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 7,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Lumière - Grand Lyon Film Festival",
+      "yelp_id": "wUCJM0a9xjRiMJaVrRIAXQ",
+      "yelp_phone": "+33478767778",
+      "yelp_hours": ""
+    },
+    "score_wiki": 58.92307692307692
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117814-hopital-militaire-villemanzy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117814.jpg",
+    "name": "Hôpital militaire Villemanzy",
+    "address": "Montée Saint-Sébastien",
+    "coordinates": {
+      "latitude": "45.772",
+      "longitude": "4.836"
+    },
+    "city": "Lyon",
+    "description": "L'Hôpital militaire Villemanzy est un ancien établissement hospitalier des armées ouvert à Lyon en 1859 et fermé en 1945.\nLa fontaine adossée au mur de l'hôpital sur la montée Saint-Sébastien fait l’objet d’une inscription au titre des monuments historiques depuis le 9 octobre 19541.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 58.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000004-hotel-terminus.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000004.jpg",
+    "name": "Hôtel Terminus (Lyon)",
+    "address": "12 cours de Verdun",
+    "coordinates": {
+      "latitude": "45.7494",
+      "longitude": "4.8247"
+    },
+    "city": "Lyon",
+    "description": "Le Mercure Lyon Centre Château Perrache précédemment Château Perrache précédemment encore Hôtel Terminus, est un hôtel appartenant au groupe Accor construit en 1905. Il se trouve cours de Verdun dans le 2e arrondissement de Lyon.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 45,
+      "mean_replies": 0.2,
+      "mean_retweets": 0.13333333333333333,
+      "mean_likes": 0.6888888888888889
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 157.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117911-hotel-de-bullioud.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117911.jpg",
+    "name": "Hôtel de Bullioud",
+    "address": "8 rue Juiverie",
+    "coordinates": {
+      "latitude": "45.7654",
+      "longitude": "4.82731"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel Bullioud, est un hôtel particulier de la rue Juiverie à Lyon. Il est connu pour la galerie de Philibert Delorme construite à la suite de son voyage en Italie (1536). Son décor constitue la première expérience en France d'un nouveau style architectural, le style Renaissance.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0.6666666666666666
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 155.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117815-hotel-de-cuzieu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117815.jpg",
+    "name": "Hôtel de Cuzieu",
+    "address": "30 rue Sainte-Hélène",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Façades et toitures sur rue, sur cour et sur jardin y compris le portail d'entrée ; le grand escalier avec sa rampe en fer forgé ; les pièces du rez-de-chaussée avec leur décor : le grand salon, le petit salon et la chambre à alcôve ; les pièces du premier étage avec leur décor : le salon central, la grande chambre et la salle à manger (cad. L 478) : inscription par arrêté du 25 mars 1982",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117816-hotel-de-gadagne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117816.jpg",
+    "name": "Musées Gadagne",
+    "address": "10, 12, 14 rue Gadagne",
+    "coordinates": {
+      "latitude": "45.764113",
+      "longitude": "4.827477"
+    },
+    "city": "Lyon",
+    "description": "Les musées Gadagne forment un ensemble muséal, situé à Lyon, en France. Situé dans l'hôtel des Pierrevive, communément appelé « hôtel de Gadagne », dans le quartier Saint-Jean, l'un des trois quartiers formant le Vieux Lyon, cet ensemble comprend deux entités, l'une consacrée à l'histoire de Lyon et l'autre aux arts de la marionnette. Après le constat de son obsolescence6, le musée ferme en 1998 pour plus de dix ans de travaux de rénovation et d'agrandissement. Il est ouvert depuis le 12 juin 2009.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.21,
+      "mean_retweets": 1.96375,
+      "mean_likes": 3.3125
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 22,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Musées Gadagne",
+      "yelp_id": "TDYt_Jdg1LvtOzOxd4j5oA",
+      "yelp_phone": "+33478420361",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1830",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1830",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1830",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1830",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1100",
+              "end": "1830",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 725.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118136-hotel-de-sarron.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118136.jpg",
+    "name": "Hôtel de Sarron",
+    "address": "46 rue de la Charité",
+    "coordinates": {
+      "latitude": "45.7525",
+      "longitude": "4.83132"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel de Sarron est un bâtiment inscrit aux monuments historiques par arrêté du 19 novembre 19911, situé dans le 2e arrondissement de Lyon. Il a abrité les bureaux de l'imprimerie-librairie de Mathieu Paquet, devenus ceux de la Presse lyonnaise du Sud-Est, qui imprime le quotidien L'Express de Lyon.\nIl est situé au 46, rue de la Charité.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 17.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117819-hotel-de-varey.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117819.jpg",
+    "name": "Hôtel de Varey",
+    "address": "2 rue Auguste-Comte Place Bellecour",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Les façades et les toitures sur rues et sur cour ; l'escalier avec sa rampe en fer forgé et sa cage ; le grand salon du rez-de-chaussée avec son decor (cad. K 307) : inscription par arrêté du 21 décembre 1984",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135657-hotel-de-leurope.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135657.jpg",
+    "name": "Hôtel de l'Europe",
+    "address": "1 rue Colonel-Chambonnet 13 place Antonin-Gourju",
+    "coordinates": {
+      "latitude": "45.7592",
+      "longitude": "4.83043"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel de l'Europe (anciennement hôtel Senozan), situé dans le 2e arrondissement de Lyon, est un bâtiment classé et inscrit (pour parties) au titre des monuments historiques par arrêtés successifs dont le dernier en date du 10 septembre 19961.\nConstruit en 1653 par Girard Desargues à la demande d'un riche lyonnais anobli, Pierre Perrachon de Saint-Maurice, cet hôtel particulier est décoré vers 1721 d'œuvres de Daniel Sarrabat. Transformé en hôtel de voyageurs au lendemain de la Révolution, il acquiert une réputation de \"Palace des grands de ce monde\". Depuis la seconde moitié du xixe siècle, il a subi de nombreuses modifications et son activité hôtelière qui n'occupait plus la totalité de l'espace a cessé au début du xxe siècle.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 791,
+      "mean_replies": 1.1946902654867257,
+      "mean_retweets": 2.232616940581542,
+      "mean_likes": 5.793931731984829
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Hôtel de l'Europe",
+      "yelp_id": "C8vdLAmlzFXpQFrCOyc0AQ",
+      "yelp_phone": "+33478505555",
+      "yelp_hours": ""
+    },
+    "score_wiki": 64.725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117818-hotel-de-la-croix-laval.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117818.jpg",
+    "name": "Hôtel de la Croix-Laval",
+    "address": "30 rue de la Charité",
+    "coordinates": {
+      "latitude": "45.7536",
+      "longitude": "4.8319"
+    },
+    "city": "Lyon",
+    "description": "L’hôtel de la Croix-Laval est un hôtel particulier à Lyon, dans le département du Rhône.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117983-hotel-de-prefecture-du-rhone.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117983.jpg",
+    "name": "Hôtel de préfecture du Rhône",
+    "address": "29 cours de la Liberté 106 rue Pierre-Corneille",
+    "coordinates": {
+      "latitude": "45.7607",
+      "longitude": "4.84329"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel de préfecture du Rhône est un édifice abritant le siège de la préfecture de la circonscription départementale du Rhône, qui correspond depuis le 1er janvier 2015 à deux collectivités territoriales : le département du Rhône, appelé parfois aujourd'hui « Nouveau-Rhône », et la métropole de Lyon ou « Grand Lyon », qui remplace à la fois le Rhône et la communauté urbaine de Lyon sur le territoire correspondant à Lyon et 58 communes avoisinantes. Il accueille aussi le conseil départemental du Rhône, bien que situé en dehors dudit département et maintenu ici malgré la création de la métropole de Lyon le 1er janvier 2015. Il est situé dans le 3e arrondissement de Lyon.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 19,
+      "mean_replies": 0,
+      "mean_retweets": 0.05263157894736842,
+      "mean_likes": 0.21052631578947367
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 187.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117820-hotel-de-ville.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117820.jpg",
+    "name": "Hôtel de ville de Lyon",
+    "address": "Place des Terreaux",
+    "coordinates": {
+      "latitude": "45.767777777778",
+      "longitude": "4.835"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel de ville de Lyon, un des plus imposants bâtiments historiques de la ville, se situe entre la place des Terreaux et la place de la Comédie où il fait face à l'Opéra.\nIl fait l’objet d’un classement au titre des monuments historiques depuis le 12 juillet 18861.\nAujourd'hui, il accueille le conseil municipal dix fois dans l'année2.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.3775,
+      "mean_retweets": 3.30375,
+      "mean_likes": 4.46375
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 132,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Café des Fédérations",
+      "yelp_id": "T80I6TvMHB19QvPD1aADZw",
+      "yelp_phone": "+33478282600",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "2000",
+              "end": "2130",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1400",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1081.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000051-hotel-du-gouverneur-militaire-de-lyon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000051.jpg",
+    "name": "Hôtel du Gouverneur militaire de Lyon",
+    "address": "38 rue Maréchal Foch",
+    "coordinates": {
+      "latitude": "45.770907",
+      "longitude": "4.842616"
+    },
+    "city": "Lyon",
+    "description": "L'hôtel du Gouverneur militaire de Lyon est un bâtiment situé dans le 6e arrondissement de Lyon.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 41,
+      "mean_replies": 0.14634146341463414,
+      "mean_retweets": 3.4390243902439024,
+      "mean_likes": 5.682926829268292
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 47.23684210526316
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117821-hotel-dieu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117821.jpg",
+    "name": "Hôtel-Dieu de Lyon",
+    "address": "Rue de l'Hôpital",
+    "coordinates": {
+      "latitude": "45.75833333",
+      "longitude": "4.83638889"
+    },
+    "city": "Lyon",
+    "description": "L'Hôtel-Dieu de Lyon est l'un des plus grands bâtiments de la presqu'île de Lyon. Il est construit en bordure ouest du Rhône, dans le quartier de Bellecour. Premier hôpital lyonnais (les premiers bâtiments sont attestés en 1184). En 2007, il a été décidé de transférer ses services dans d'autres établissements afin de pouvoir vendre son bâtiment et son site exceptionnels. De 2010 à 2015, le bâtiment resta désaffecté, et d'importants travaux prévus sur environ trois ans pour une utilisation hôtelière, muséale et également pour accueillir la cité de la gastronomie en 2019. L'ensemble de l’édifice a été classé monument historique par arrêté le 21 novembre 20111,2.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 740,
+      "mean_replies": 0.19324324324324324,
+      "mean_retweets": 1.5648648648648649,
+      "mean_likes": 2.558108108108108
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 11,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Hotel Novotel Lyon la Part Dieu",
+      "yelp_id": "c3m72jQrPMuQ0icXB2npEA",
+      "yelp_phone": "+33472347997",
+      "yelp_hours": ""
+    },
+    "score_wiki": 2232.275
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117880-jardin-rosa-mir.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117880.jpg",
+    "name": "Jardin Rosa Mir",
+    "address": "83 grande-rue de la Croix Rousse",
+    "coordinates": {
+      "latitude": "45.780516",
+      "longitude": "4.832057"
+    },
+    "city": "Lyon",
+    "description": "Le jardin Rosa Mir est un jardin situé au cœur de la Croix-Rousse à Lyon, créé par Jules Senis. Il fait l’objet d’un classement au titre des monuments historiques depuis le 24 décembre 19871.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 279,
+      "mean_replies": 0.1039426523297491,
+      "mean_retweets": 1.10752688172043,
+      "mean_likes": 2.240143369175627
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 12,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Jardin Rosa Mir",
+      "yelp_id": "803wvrnMbcK0QdADLk4U9A",
+      "yelp_phone": "+33478392628",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 586.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117881-logis-de-labbe-dainay.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117881.jpg",
+    "name": "Logis de l'abbé d'Ainay",
+    "address": "15 rue Vaubecour",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "La porte Renaissance de l'ancien portail : inscription par arrêté du 15 septembre 1954",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117901-maison-thomassin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117901.jpg",
+    "name": "Maison Thomassin",
+    "address": "2 place du Change 3 quai Romain-Rolland",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Galerie sur cour et escalier à vis avec sa tourelle (cad. AE 15) : inscription par arrêté du 28 mai 1927 ; Façade et versant de toiture sur la place : classement par arrêté du 22 décembre 1941 ; Façades sur cour et toitures correspondantes ; façades et toitures sur le quai ; salles voûtées en cave (cad. AE 15) : inscription par arrêté du 17 juillet 1990 ; Plafond peint dans l'appartement du rez-de-chaussée surélevé de la partie Est de la maison (cad. AE 15) : classement par arrêté du 12 juin 1992",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 71,
+      "mean_replies": 0.15492957746478872,
+      "mean_retweets": 0.6056338028169014,
+      "mean_likes": 1.3943661971830985
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Maison Thomassin",
+      "yelp_id": "Dy9EBj40e0AN9lCI1sr2CQ",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117913-maison-aux-lions.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117913.jpg",
+    "name": "Maison aux Lions",
+    "address": "23 rue Juiverie",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Les façades sur rue et sur cour et les couvertures : inscription par arrêté du 17 avril 1952",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 85,
+      "mean_replies": 0.2823529411764706,
+      "mean_retweets": 0.9764705882352941,
+      "mean_likes": 3.235294117647059
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000019-maison-de-la-breda-dite-maison-pauline-jaricot.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000019.jpg",
+    "name": "Maison de la Bréda (dite Maison Pauline Jaricot)",
+    "address": "42 montée Saint-Barthélémy",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "La maison en totalité et ses constructions annexes, notamment les accès, la chapelle et le jardin (cad. AL 7) : inscription par arrêté du 10 février 2004",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117925-maison-de-la-providence.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117925.jpg",
+    "name": "Maison de la Providence",
+    "address": "27 montée Saint-Barthélémy",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Les façades et les toitures ; la chapelle et l'escalier d'accès à celle-ci ; le réfectoire dit aussi salle d'assemblée (cad. AH 114, 116) : inscription par arrêté du 22 juillet 1986",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 13,
+      "mean_replies": 0.07692307692307693,
+      "mean_retweets": 1.3076923076923077,
+      "mean_likes": 1.4615384615384615
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117817-maison-du-chamarier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117817.jpg",
+    "name": "Maison du Chamarier",
+    "address": "37 rue Saint-Jean",
+    "coordinates": {
+      "latitude": "45.76166667",
+      "longitude": "4.82722222"
+    },
+    "city": "Lyon",
+    "description": "La maison du Chamarier, aussi connue sous le nom d'hôtel d'Estaing1, est une maison située au 37 de la rue Saint-Jean dans le 5e arrondissement de Lyon. Elle fait l'angle avec la rue de la Bombarde.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 73,
+      "mean_replies": 0.0273972602739726,
+      "mean_retweets": 1.1095890410958904,
+      "mean_likes": 1.0684931506849316
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 44,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "A la Marquise",
+      "yelp_id": "EiA1L05IRq4Biodi6Vy1ww",
+      "yelp_phone": "+33478378985",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1930",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 123.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117886-maison-du-crible-dite-tour-rose.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117886.jpg",
+    "name": "Maison du Crible, dite Tour Rose",
+    "address": "16 rue du Bœuf",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Maison : inscription par arrêté du 12 avril 1937",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117975-manecanterie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117975.jpg",
+    "name": "Manécanterie (Lyon)",
+    "address": "10 place Saint-Jean",
+    "coordinates": {
+      "latitude": "45.760625",
+      "longitude": "4.82680556"
+    },
+    "city": "Lyon",
+    "description": "La Manécanterie est un monument historique situé à Lyon dans le quartier de Saint-Jean, accolé au sud sud-ouest de la cathédrale Saint-Jean en faisant partie de l'ancien cloître de la cathédrale. La Manécanterie servit tout d'abord aux chanoines de Saint-Jean, avant de devenir une manécanterie à proprement parler, c'est-à-dire une école pour le chant du clergé.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.09090909090909091,
+      "mean_retweets": 0,
+      "mean_likes": 1.1818181818181819
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 212.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117981-palais-saint-pierre-actuel-musee-des-beaux-arts.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117981.jpg",
+    "name": "Abbaye de Saint-Pierre-les-Nonnains de Lyon",
+    "address": "Place des Terreaux",
+    "coordinates": {
+      "latitude": "45.766846",
+      "longitude": "4.83363"
+    },
+    "city": "Lyon",
+    "description": "L'abbaye de Saint-Pierre-les-Nonnains de Lyon, aussi connue sous le nom d'abbaye des Dames de Saint-Pierre ou simplement palais Saint-Pierre, est un ancien édifice religieux catholique recevant des moniales bénédictines dès le xe siècle et reconstruit au xviie siècle. Fermée à la Révolution, l'ancienne abbaye abrite aujourd'hui le musée des Beaux-Arts de Lyon.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 314.125
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117978-palais-archiepiscopal-palais-st-jean.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117978.jpg",
+    "name": "Palais archiépiscopal de Lyon",
+    "address": "Avenue Adolphe-Max",
+    "coordinates": {
+      "latitude": "45.7602629",
+      "longitude": "4.8274773"
+    },
+    "city": "Lyon",
+    "description": "Le palais archiépiscopal de Lyon, ou palais Saint-Jean, est un édifice d'origine médiévale situé dans le 5e arrondissement de Lyon. Demeure des évêques et archevêques de Lyon durant de longs siècles, il a connu de multiples aménagements. Confisqué sous la Révolution, il a servi à partir de 1974 pour entreposer les archives municipales de Lyon.\nCe monument situé à proximité de la primatiale Saint-Jean fait l’objet d’une inscription au titre des monuments historiques depuis le 17 avril 19521.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 53.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117980-palais-de-justice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117980.jpg",
+    "name": "Palais de justice historique de Lyon",
+    "address": "1 rue du Palais-de-Justice Rue Saint-Jean Rue de la Bombarde Place Paul-Duquaire",
+    "coordinates": {
+      "latitude": "45.76194444",
+      "longitude": "4.82805556"
+    },
+    "city": "Lyon",
+    "description": "Le palais de justice historique de Lyon dont le décor intérieur est classé monument historique1, situé quai Romain-Rolland (rive droite de la Saône), dans le 5e arrondissement de Lyon en plein de cœur du Vieux Lyon. Avec ses nombreuses colonnes en façade du bâtiment, le palais est aussi connu sous le nom de « palais des vingt-quatre colonnes »2. Il abrite la cour d’assises du Rhône, les services de la cour d’appel de Lyon et le service administratif interrégional judiciaire Centre-Est.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 64,
+      "mean_replies": 0.015625,
+      "mean_retweets": 2.359375,
+      "mean_likes": 2.703125
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "EML",
+      "yelp_id": "hy9IJJca4-Yeglh_p5_OMQ",
+      "yelp_phone": "+33472419224",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1900",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 579.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117979-palais-de-la-bourse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117979.jpg",
+    "name": "Palais de la Bourse (Lyon)",
+    "address": "Place des Cordeliers Place de la Bourse 20 rue de la Bourse Rue de la République",
+    "coordinates": {
+      "latitude": "45.763888888889",
+      "longitude": "4.8363888888889"
+    },
+    "city": "Lyon",
+    "description": "Le palais de la Bourse ou palais du Commerce est un édifice situé dans le 2e arrondissement de Lyon. Il abrite actuellement le siège de la Chambre de commerce et d'industrie de Lyon.\nIl est bordé par la place des Cordeliers au sud, la place de la Bourse au nord, la rue de la République à l'ouest et la rue de la Bourse à l'est.\nL'édifice fait l’objet d’un classement au titre des monuments historiques depuis le 10 février 19941.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 461,
+      "mean_replies": 0.10845986984815618,
+      "mean_retweets": 1.945770065075922,
+      "mean_likes": 3.0260303687635575
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 438.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117982-ensemble-lie-au-parc-de-la-tete-dor-dont-le-monument.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117982.jpg",
+    "name": "Parc de la Tête d'or",
+    "address": "Place du Général-Leclerc Boulevard des Belges Quai Achille-Lignon Avenue Verguin",
+    "coordinates": {
+      "latitude": "45.7806",
+      "longitude": "4.85417"
+    },
+    "city": "Lyon",
+    "description": "Le parc de la Tête d'or est un parc urbain public situé à Lyon, l'un des plus grands de France. Œuvre des frères Denis et Eugène Bühler, le parc est ouvert dès 18572 alors que les travaux ne sont pas achevés. Il est exactement contemporain du Central Park de New York, créé la même année. Le parc est enrichi de nombreux bâtiments comme les grandes serres en 1865, le vélodrome, le chalet des gardes et le chalet en 1894, la clôture en 1896, les serres de collection en 1899, le monument aux morts de l'île aux Cygnes entre 1914 et 1930 ou encore la nouvelle roseraie entre 1961 et 19643.\nAujourd'hui géré par la ville de Lyon et véritable poumon de l'agglomération, le parc offre sur 117 hectares une vaste étendue naturelle au cœur de la cité. On y accède par huit entrées, la dernière ayant été ouverte en 2009, au niveau de l'esplanade de la Cité Internationale. Des événements divers, films, théâtre, expositions ou autres en font un haut lieu de la culture lyonnaise. Le jardin zoologique de Lyon prend place en son sein.\n",
+    "protection": "Inscrit MH, 04/11/19821",
+    "twitter": {
+      "len_tweets": 797,
+      "mean_replies": 0.3237139272271016,
+      "mean_retweets": 1.0288582183186952,
+      "mean_likes": 2.395232120451694
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 271,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Parc de la Tête d'Or",
+      "yelp_id": "3jQNghUugf3Gf1P5Tl1ohQ",
+      "yelp_phone": "+33472103030",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0630",
+              "end": "2230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 2449.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117785-primatiale-saint-jean.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117785.jpg",
+    "name": "Primatiale Saint-Jean de Lyon",
+    "address": "Place Saint-Jean",
+    "coordinates": {
+      "latitude": "45.7607",
+      "longitude": "4.8273"
+    },
+    "city": "Lyon",
+    "description": "La primatiale Saint-Jean-Baptiste-et-Saint-Étienne (dite aussi, plus simplement, cathédrale Saint-Jean) est le siège épiscopal de l'archidiocèse de Lyon. Elle a rang de cathédrale et de primatiale : l'archevêque de Lyon a le titre de Primat des Gaules ; le titulaire depuis 2002 est Mgr Philippe Barbarin.\nElle est située dans le cinquième arrondissement de Lyon, au cœur du quartier médiéval et Renaissance du Vieux Lyon, dont elle est un des éléments marquants. Au Moyen Âge, elle faisait partie d'un complexe d'églises et d'autres bâtiments ecclésiaux, le groupe cathédral, qui comprenait entre autres les églises Saint-Étienne et Sainte-Croix, détruites à la Révolution, ainsi que l'actuelle manécanterie.\nOriginellement, l'église a été consacrée sous le patronage de saint Étienne, tandis que son baptistère était consacré sous celui de saint Jean-Baptiste, mais, comme cela est fréquent, le vocable du baptistère s'est ensuite appliqué dans la désignation courante. La première cathédrale dont l'existence est attestée, et que les sources de l'époque se contentent d'appeler maxima ecclesia, c'est-à-dire la « grande église », a été bâtie par Patient. La seconde, plus grande et datée du ixe siècle, est l'œuvre de Leidrade.\nL'édifice actuel est un projet de longue haleine, porté dans sa conception par trois archevêques successifs au moment où l'architecture occidentale bascule du roman au gothique : Guichard de Pontigny envisage et entame la construction d'une église romane, Jean Belles-mains entame la transformation de l'édifice en un ouvrage gothique dont les ressorts techniques ne sont pas encore pleinement maîtrisés, enfin Renaud de Forez transforme le projet, grâce à l'évolution des savoir-faire, pour donner à la cathédrale son aspect actuel. La construction s'étale sur trois siècles, de 1175 à 1480. Le site contraint, entre colline et rivière, ainsi que les luttes politiques entre les différentes puissances régentant Lyon au Moyen Âge central, ont empêché la cathédrale de disposer d'un terrain aussi vaste et aussi favorable que ses concepteurs l'auraient souhaité. Par ailleurs, l'absence du savoir-faire particulier des bâtisseurs de cathédrale du Bassin parisien est une des causes de la relative modestie des dimensions et de l'ornementation de Saint-Jean.\nFortement endommagée par les guerres de religion en 1562, puis par la Révolution française et le siège de Lyon en 1793, la primatiale est restaurée au xixe siècle. Les premiers travaux sont assez modestes et fortement empreints de classicisme ; mais cette politique change vigoureusement avec l'arrivée d'un nouvel architecte, Tony Desjardins, qui donne un élan inédit à la restauration. De son point de vue, non seulement les travaux doivent rendre à l'église son aspect médiéval, mais cet aspect est à sublimer pour faire de Saint-Jean une « cathédrale idéale » reflétant l'esprit gothique du xiiie siècle. Ces travaux de modification de l'aspect de la cathédrale comprennent un relèvement de la charpente et l'ajout de flèches. Devant les critiques virulentes, ils ne sont pas tous réalisés. Au xxe siècle, les travaux d'embellissement et de réparation se poursuivent, mais la guerre interrompt les travaux. En septembre 1944, le retrait des troupes allemandes s'accompagne de sabotages, qui touchent indirectement l'édifice, brisant la plupart de ses vitraux. La remise en état des verrières, puis des façades et de l'aménagement intérieur, constitue l’essentiel des actions menées durant la seconde partie du xxe siècle et le début du xxie siècle.\nLa primatiale est classée monument historique depuis 1862. Outre cette protection, elle est intégrée depuis le 12 mai 1964 dans le premier secteur sauvegardé de France. Enfin, le 5 décembre 1998, elle a été reconnue patrimoine mondial au titre de sa localisation dans le site historique de Lyon.\nLieu de culte et de prière, la cathédrale est la première église de l'archidiocèse de Lyon, mais aussi une des églises paroissiales du Vieux Lyon. Elle est demeurée durant des siècles le lieu par excellence de l'expression du rite lyonnais, un des rites de l'Église catholique, notamment du fait de l'attachement du chapitre des chanoines à cette forme liturgique. Cette particularité locale vaut notamment à la primatiale d'avoir été la dernière cathédrale française à se doter d'un orgue (en 1841), et explique en partie la modestie de celui-ci.\nC'est aussi un lieu touristique fort prisé, pour sa localisation, pour les animations particulières qui y sont organisées, notamment durant la fête des Lumières, mais également pour son horloge astronomique du xive siècle.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 59,
+      "mean_replies": 0.3728813559322034,
+      "mean_retweets": 2.7966101694915255,
+      "mean_likes": 4.305084745762712
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 3196.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000040-prison-montluc.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000040.jpg",
+    "name": "Prison Montluc",
+    "address": "4 rue Jeanne-Hachette",
+    "coordinates": {
+      "latitude": "45.7504",
+      "longitude": "4.86184"
+    },
+    "city": "Lyon",
+    "description": "La prison Montluc, située 4, rue Jeanne-Hachette dans le 3e arrondissement de Lyon, est une prison militaire construite en 1921 sur les glacis du fort Montluc. Elle est particulièrement célèbre pour son rôle de lieu de détention pendant la Seconde Guerre mondiale. Plus de 9 000 personnes parmi lesquelles Jean Moulin et Marc Bloch ont transité par ce lieu entre le 17 février 1943 et le 24 août 19441.\nLa prison Montluc fait l’objet d’une inscription au titre des monuments historiques depuis le 25 juin 20092.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 98,
+      "mean_replies": 0.19387755102040816,
+      "mean_retweets": 0.7755102040816326,
+      "mean_likes": 1.1734693877551021
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Mémorial National de la Prison de Montluc",
+      "yelp_id": "ApnMaaEeNBP1lqDqiPdi7Q",
+      "yelp_phone": "+33478536041",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1730",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1438.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117988-sanctuaire-de-cybele.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117988.jpg",
+    "name": "Sanctuaire de Cybèle",
+    "address": "6, rue de l'Antiquaille 17, rue Cléberg",
+    "coordinates": {
+      "latitude": "45.759597",
+      "longitude": "4.818464"
+    },
+    "city": "Lyon",
+    "description": "Le sanctuaire de Cybèle, également dit prétoire d'Agrippa, désigne un ensemble de constructions d'époque romaine à Lyon, situé sur le plateau de la Sarra, à l’ouest du Théâtre antique de Fourvière, dont il est séparé par une voie romaine et un dénivelé formé par le bord du plateau. Plusieurs campagnes de fouilles ont été nécessaires pour comprendre son histoire. Leurs conclusions remettent en cause la dénomination de « sanctuaire de Cybèle ». Cet ensemble fait l’objet d’un classement au titre des monuments historiques depuis le 20 octobre 19831.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 1.7777777777777777,
+      "mean_likes": 1.2222222222222223
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 202.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117783-basilique-notre-dame-de-fourviere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117783.jpg",
+    "name": "Basilique Notre-Dame de Fourvière",
+    "address": "place de Fourvière",
+    "coordinates": {
+      "latitude": "45.762391",
+      "longitude": "4.822415"
+    },
+    "city": "Lyon",
+    "description": "La basilique Notre-Dame de Fourvière surplombe la ville de Lyon depuis le sommet de la colline de Fourvière depuis la fin du xixe siècle.\nElle est construite à peu près sur l'emplacement de l'ancien forum de Trajan Forum vetus, hypothèse étymologique la plus probable pour le nom actuel de Fourvière). Sur cet emplacement est institué au milieu du Moyen Âge un culte à saint Thomas de Cantorbéry puis, rapidement, à la Vierge. Ce double culte se concrétise avec la construction d'un lieu de dévotion, la chapelle Saint-Thomas. À la suite d'un vœu prononcé en 1642 pour éloigner une épidémie de peste de Lyon, un pèlerinage annuel se constitue. Au xixe siècle, une statue de Marie est érigée sur le clocher rehaussé et renforcé de la chapelle et la proposition de construire une basilique est acceptée, à la fois pour accueillir des visiteurs de plus en plus nombreux et en remerciement pour la protection de Lyon durant la guerre franco-allemande de 1870.\nSon architecture de style néo-byzantin ou romano-byzantin est l'œuvre de Pierre Bossan, lequel, obligé de superviser le chantier de loin pour raisons de santé, délègue une grande partie de l'exécution de l'œuvre à Louis Sainte-Marie Perrin. L'architecture très particulière de l'édifice lui vaut de nombreux admirateurs, mais aussi de très vives critiques.\nPropriété de la commission de Fourvière et non de l'archevêché depuis sa fondation, la basilique n'est donc pas concernée par la loi de 1905 et reste propriété privée, notamment grâce à la diplomatie du maire Édouard Herriot, moins anticlérical que son prédécesseur Victor Augagneur. Néanmoins, malgré ce statut, la basilique obtient à la fin du xxe siècle une reconnaissance officielle de son statut de monument lyonnais. L'édifice est inscrit à l'inventaire supplémentaire des monuments historiques le 26 septembre 1977 ; puis il est reconnu d'utilité publique le 15 octobre 1998, juste avant son inscription au patrimoine mondial le 5 décembre de la même année, au titre du Site historique de Lyon. Enfin, le 25 mars 2014, il est classé monument historique.\nLa basilique constitue un des repères les plus visibles de l'agglomération, et un des symboles de la ville de Lyon. Elle donne à Lyon son statut de « ville mariale ». Environ deux millions de touristes sont accueillis chaque année dans la basilique. Le complexe basilical comprend non seulement l'édifice, la chapelle saint-Thomas et la statue, mais aussi l'esplanade panoramique, le jardin du Rosaire et l'archevêché de Lyon.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.10125,
+      "mean_retweets": 0.635,
+      "mean_likes": 1.92625
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 113,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Basilique Notre Dame de Fourvière",
+      "yelp_id": "MdjM0HZKD-OU59oq8fbp_A",
+      "yelp_phone": "+33478258578",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 5642.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117984-site-archeologique-de-fourviere-odeon-antique-de-lyon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117984.jpg",
+    "name": "Odéon antique de Lyon",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "45.75861111",
+      "longitude": "4.81972222"
+    },
+    "city": "Lyon",
+    "description": "L’Odéon antique romain de Lugdunum est un des principaux monuments romains visibles à Lyon. Implanté à côté du Théâtre antique de Fourvière et comme lui adossé à la colline de Fourvière, près de son sommet, il forme un couple archéologique remarquable, rare dans le monde romain. En Gaule, seule Vienne possède également un théâtre accompagné d’un odéon.\nConstruit à l'extrême fin du ier siècle ou au début du iie siècle, il peut accueillir jusqu’à 3 000 spectateurs, pour des spectacles musicaux ou des lectures publiques, ou servir de salle de réunion. Abandonné à la fin de la période romaine, il est exploité au Moyen Âge comme carrière de matériaux de construction, puis est presque complètement enseveli sous les déblais. Des dessins tracés au xvie siècle montrent que seules émergent au milieu des vignes d’imposantes ruines, vestiges du puissant mur qui ceinturait l’édifice. Les érudits sont partagés sur l’interprétation de ces ruines : leur disposition en arc de cercle suggère qu’il s’agit d’un théâtre, tandis que les religieux le voient comme l’amphithéâtre des martyrs de Lyon. La controverse dure plusieurs siècles, jusqu’à ce qu’un chantier archéologique d’une ampleur sans précédent à Lyon dégage à partir de 1933 un grand théâtre puis l’odéon de 1941 à 1958. La construction à proximité d’un musée crée en 1975 un parc archéologique exceptionnel, dont l’odéon antique est un des principaux éléments.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 8,
+      "mean_replies": 0.375,
+      "mean_retweets": 1.5,
+      "mean_likes": 1.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 691.35
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117985-site-archeologique-de-saint-just-les-minimes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117985.jpg",
+    "name": "Site archéologique de Saint-Just Les Minimes",
+    "address": "Quartier Saint-Just",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Site archéologique de Saint-Just Les Minimes (vestiges) (cad. AS 81) : classement par arrêté du 2 janvier 1984",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117986-stade-de-gerland.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117986.jpg",
+    "name": "Stade de Gerland",
+    "address": "Rue Jean-Boin Rue Tony-Garnier Avenue Jean-Jaurès",
+    "coordinates": {
+      "latitude": "45.72375",
+      "longitude": "4.8324"
+    },
+    "city": "Lyon",
+    "description": "Le Matmut Stadium Gerland (nom commercial du stade de Gerland) est la principale enceinte sportive de la commune de Lyon, situé dans le 7e arrondissement, dans le quartier de Gerland. Sa capacité d'accueil est aujourd'hui de 35 029 personnes à la suite de différents travaux, ce qui fait de lui le onzième stade français en termes de places assises. Il fait l’objet d’une inscription au titre des monuments historiques depuis le 4 octobre 19673.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.48375,
+      "mean_retweets": 2.8175,
+      "mean_likes": 7.1325
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 46,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Le Stade de Gerland",
+      "yelp_id": "0pZ--YsdW1PZnxF2SEjIOw",
+      "yelp_phone": "+33472760170",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "2200",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 4250.275
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117989-temple-du-change.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117989.jpg",
+    "name": "Temple du Change",
+    "address": "Place du Change",
+    "coordinates": {
+      "latitude": "45.7645",
+      "longitude": "4.828"
+    },
+    "city": "Lyon",
+    "description": "Le Temple du Change ou Loge du Change est un ancien établissement de Bourse situé dans le Vieux Lyon. Il a été construit sur des plans de l'architecte Simon Gourdet entre 1631 et 1653, puis remanié sous la direction de Jacques-Germain Soufflot en 1748-1750. Il est affecté au culte protestant depuis 1803.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 285,
+      "mean_replies": 0.2736842105263158,
+      "mean_retweets": 0.8491228070175438,
+      "mean_likes": 2.43859649122807
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 7,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Temple du Change",
+      "yelp_id": "qy5vLloxlbKE_uus7oUwVQ",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 252.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000003-theatre-des-celestins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000003.jpg",
+    "name": "Théâtre des Célestins",
+    "address": "Place des Célestins Rue Gaspard-André Rue Charles-Dullin",
+    "coordinates": {
+      "latitude": "45.759942",
+      "longitude": "4.831367"
+    },
+    "city": "Lyon",
+    "description": "Le théâtre des Célestins est un théâtre lyonnais situé dans le quartier de Bellecour. C'est l'un des seuls théâtres en France, avec la Comédie-Française et le théâtre de l'Odéon, à fêter plus de 200 ans d'art dramatique.\nSon nom vient du couvent de célestins qui occupait l'emplacement de 1407 à 1789.\nC'est aujourd'hui un théâtre municipal en régie directe Ville de Lyon. Il programme un répertoire contemporain et classique et du théâtre[Quoi ?]\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 635,
+      "mean_replies": 0.16062992125984252,
+      "mean_retweets": 1.226771653543307,
+      "mean_likes": 2.425196850393701
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 37,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Théâtre des Célestins",
+      "yelp_id": "6xlrzZdgY4qCnDfhbdyktA",
+      "yelp_phone": "+33472774000",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1830",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1830",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1830",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1830",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1830",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 849.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117991-tombeaux-romains-de-trion.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117991.jpg",
+    "name": "Tombeau de Turpio",
+    "address": "Place Eugène Wernert Montée de Choulans",
+    "coordinates": {
+      "latitude": "45.755229",
+      "longitude": "4.816089"
+    },
+    "city": "Lyon",
+    "description": "Le tombeau de Turpio est un tombeau romain faisant partie d’un ensemble de dix monuments funéraires découverts à la sortie de Lyon en 1885, lors de travaux de déblaiement dans le quartier Saint-Just2.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 125.775
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118110-villa-gorge-de-loup.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118110.jpg",
+    "name": "Villa Gorge de Loup",
+    "address": "55 rue Sergent-Michel-Berthet",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Villa dite Gorge de Loup (cad. BT 48) : inscription par arrêté du 2 novembre 1989",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118109-villa-marius-berliet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118109.jpg",
+    "name": "Villa Berliet",
+    "address": "39 avenue Esquirol",
+    "coordinates": {
+      "latitude": "45.742244",
+      "longitude": "4.892139"
+    },
+    "city": "Lyon",
+    "description": "La villa Berliet est une villa du quartier de Grange-Blanche, à Lyon, dans le département du Rhône.\nCe monument fait l’objet d’une inscription au titre des monuments historiques depuis le 31 juillet 1989 et bénéficie du label « Patrimoine du xxe siècle »1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 70,
+      "mean_replies": 0.37142857142857144,
+      "mean_retweets": 8.842857142857143,
+      "mean_likes": 11.357142857142858
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Villa Berliet",
+      "yelp_id": "6GHfb2hBDwAJVs_apwSgHg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 50.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118138-villa-de-tony-garnier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118138.jpg",
+    "name": "Villa de Tony Garnier",
+    "address": "7 rue de la Mignonne",
+    "coordinates": {
+      "latitude": "45.7975",
+      "longitude": "4.8278"
+    },
+    "city": "Lyon",
+    "description": "La Villa de Mlle Bachelard est une villa du quartier de Saint-Rambert-l'Île-Barbe à Lyon, dans le département du Rhône. Elle est située 7 rue de la Mignonne. Cette villa constitue une concrétisation d'un des éléments de la « Cité industrielle » pensée par Tony Garnier.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0,
+      "mean_likes": 1.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 59.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118139-villa-de-madame-garnier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118139.jpg",
+    "name": "Villa de madame Garnier",
+    "address": "5 rue de la Mignonne",
+    "coordinates": {
+      "latitude": "45.7975",
+      "longitude": "4.8278"
+    },
+    "city": "Lyon",
+    "description": "La Villa de madame Garnier est une villa du quartier de Saint-Rambert-l'Île-Barbe à Lyon, dans le département du Rhône. Elle est située 5 rue de la Mignonne. Cette villa constitue une concrétisation d'un des éléments de la « Cité industrielle » pensée par Tony Garnier.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 36.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117993-villa-des-freres-lumiere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117993.jpg",
+    "name": "Villa Lumière",
+    "address": "25 rue du Premier-Film Place Ambroise-Courtois",
+    "coordinates": {
+      "latitude": "45.7451",
+      "longitude": "4.87079"
+    },
+    "city": "Lyon",
+    "description": "La Villa Lumière est une maison située à Lyon, dans la métropole de Lyon.\nCe monument situé à proximité du hangar du Premier-Film fait l’objet d’un classement au titre des monuments historiques depuis le 20 mai 19861. Il est également labellisé « Maison des Illustres » en 20112.\nElle présente une décoration luxueuse, dans laquelle s'exprime des tendances Art nouveau3.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 596,
+      "mean_replies": 0.2197986577181208,
+      "mean_retweets": 0.860738255033557,
+      "mean_likes": 1.7080536912751678
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 113.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118135-ecole-de-tissage.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118135.jpg",
+    "name": "École de tissage de Lyon",
+    "address": "43 cours Général-Giraud",
+    "coordinates": {
+      "latitude": "45.7691",
+      "longitude": "4.8205"
+    },
+    "city": "Lyon",
+    "description": "L'École de tissage de Lyon est un établissement d'enseignement fondé en 1883 par la municipalité d'Antoine Gailleton dans le but de perfectionner la formation des ouvriers en soie.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0,
+      "mean_retweets": 0.8,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 77.025
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00118134-eglise-notre-dame.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00118134.jpg",
+    "name": "Église Notre-Dame de Lyon",
+    "address": "Le Chatelard, Île Barbe",
+    "coordinates": {
+      "latitude": "45.7974",
+      "longitude": "4.83361"
+    },
+    "city": "Lyon",
+    "description": "L'église Notre-Dame de l'île Barbe est un édifice religieux situé dans le 9e arrondissement de la ville de Lyon en France, constituant l'un des uniques vestiges de l'ancienne abbaye de l'Île BarbeNote 1 du ve siècle, situé sur la même île. L'église en elle-même fut construit au xie ou xiie siècle par les religieux de l'abbaye bénédictine de l'île.\nL'église et les restes du cloître font l’objet d’un classement au titre des monuments historiques depuis le 13 décembre 19931.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 36,
+      "mean_replies": 0.1388888888888889,
+      "mean_retweets": 1.1944444444444444,
+      "mean_likes": 2.4444444444444446
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 23.925
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117805-eglise-notre-dame-saint-vincent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117805.jpg",
+    "name": "Église Notre-Dame-Saint-Vincent",
+    "address": "58, 59 quai Saint-Vincent",
+    "coordinates": {
+      "latitude": "45.767352",
+      "longitude": "4.829264"
+    },
+    "city": "Lyon",
+    "description": "L'église Notre-Dame-Saint-Vincent est une église affectée au culte catholique, située dans le 1er arrondissement de Lyon, sur les bords de Saône, quai Saint-Vincent. Il s'agit de l'ancienne église conventuelle des grands Augustins implantés dans le quartier depuis 1319.\nLes galeries du cloître de l'ancien couvent des Augustins, actuellement comprises dans l'école de la Martinière au 9 rue des Augustins, font l’objet d’une inscription au titre des monuments historiques depuis le 28 décembre 19841. L'église Saint-Vincent fait l’objet d’un classement au titre des monuments historiques depuis le 28 décembre 19841.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 0.17647058823529413,
+      "mean_retweets": 2.0588235294117645,
+      "mean_likes": 4.0588235294117645
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Église Notre Dame Saint-Vincent",
+      "yelp_id": "BUWZ-9-OmFrIcmVGbeWz1g",
+      "yelp_phone": "+33478286793",
+      "yelp_hours": ""
+    },
+    "score_wiki": 120.6
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117794-eglise-saint-bonaventure.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117794.jpg",
+    "name": "Église Saint-Bonaventure de Lyon",
+    "address": "place des Cordeliers",
+    "coordinates": {
+      "latitude": "45.763144",
+      "longitude": "4.836905"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Bonaventure est une église lyonnaise de la presqu'île, située sur la place des Cordeliers. Sanctuaire urbain depuis 19711, et non une église paroissiale, c'est le seul édifice médiéval qui reste en place après les travaux de percée de la rue Impériale (aujourd'hui rue de la République), sous le second Empire par le préfet Vaïsse.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.06666666666666667,
+      "mean_retweets": 0.6666666666666666,
+      "mean_likes": 0.8
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 301.75
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117795-eglise-saint-bruno-les-chartreux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117795.jpg",
+    "name": "Église Saint-Bruno-les-Chartreux de Lyon",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "45.771082",
+      "longitude": "4.822375"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Bruno-les-Chartreux est une église située dans le 1er arrondissement de Lyon, au-dessus du quai Saint-Vincent. C'était l'église de la chartreuse de Lyon jusqu'à la Révolution. C'est l'un des rares édifices religieux baroques de la ville, avec l'église Saint-Just, la chapelle de la Trinité et la chapelle de l'Hôtel-Dieu.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0.14285714285714285,
+      "mean_retweets": 0.2857142857142857,
+      "mean_likes": 1.5714285714285714
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Eglise Saint Bruno les Chartreux",
+      "yelp_id": "D40iUdzR5iO1Ilx9q5kHog",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 365.05
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117796-eglise-saint-denis-de-la-croix-rousse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117796.jpg",
+    "name": "Église Saint-Denis-de-la-Croix-Rousse de Lyon",
+    "address": "4 Rue Hénon",
+    "coordinates": {
+      "latitude": "45.77982",
+      "longitude": "4.831828"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Denis-de-la-Croix-Rousse de Lyon est une église située dans la rue Hénon, dans le quartier de la Croix-Rousse à Lyon, dans la région Auvergne-Rhône-Alpes.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 0.6666666666666666,
+      "mean_likes": 0.6666666666666666
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 102.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117797-eglise-saint-georges.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117797.jpg",
+    "name": "Église Saint-Georges de Lyon",
+    "address": "Place François-Bertras",
+    "coordinates": {
+      "latitude": "45.757672",
+      "longitude": "4.825471"
+    },
+    "city": "Lyon",
+    "description": "Le Sanctuaire Saint-Georges est une église de Lyon, située dans l'ensemble de quartiers qualifiés de Vieux Lyon. Elle dépend de la paroisse Primatiale.\nLa seconde église, fondée par Leidrade, a donné son nom au quartier environnant. L'édifice actuel, de style néogothique, est construit par l'architecte Pierre Bossan (qui est également l'auteur des plans de la basilique de Fourvière) en 1844-1845. Elle est nommée en l'honneur de Georges de Lydda.\nElle est située entre le quartier de la Quarantaine et le quartier Saint-Jean, à proximité de la place Benoît-Crépu, son ouverture sur le quai rappelant l'existence jusqu'au xixe siècle du Port Sablet, et de la place Bertras. Elle occupe l'ancien emplacement de la commanderie des chevaliers de l'ordre de Saint-Jean de Jérusalem.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 30,
+      "mean_replies": 0.1,
+      "mean_retweets": 2.1333333333333333,
+      "mean_likes": 3.3666666666666667
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 261.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117798-eglise-saint-irenee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117798.jpg",
+    "name": "Église Saint-Irénée de Lyon",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "45.755086",
+      "longitude": "4.813786"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Irénée, à Lyon, située sur les hauteurs de Lyon dans le quartier de Saint-Irénée, est, pour sa partie basse, l'une des plus anciennes de France.\nEn effet, la crypte de l'église date du ixe siècle, début de l'époque carolingienne, l'église elle-même ayant été rebâtie, après bien des vicissitudes, au début du xixe siècle et terminée en 1830. Elle en fait l'un des rares monument du haut Moyen Âge conservé partiellement en élévation.\nL'église fait l’objet d’un classement au titre des monuments historiques par la liste de 18621.\nÀ l'extérieur du chœur se trouvent un calvaire et un chemin de croix.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 74,
+      "mean_replies": 0.10810810810810811,
+      "mean_retweets": 1.2297297297297298,
+      "mean_likes": 2.135135135135135
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 249.8
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117799-eglise-saint-just.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117799.jpg",
+    "name": "Église Saint-Just de Lyon",
+    "address": "39, 41 rue des Farges",
+    "coordinates": {
+      "latitude": "45.755936",
+      "longitude": "4.82038"
+    },
+    "city": "Lyon",
+    "description": "La Collégiale Saint-Just ou Saint-Just des Macchabées, située 41 rue des Farges, à Lyon, est la reconstruction d'une des plus anciennes églises de Lyon, dédiée comme elle à saint Just, le 13e évêque de la ville au ive siècle, bâtie sur l'ancienne nécropole romaine.\nSa construction date du xvie siècle.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 14,
+      "mean_replies": 0.21428571428571427,
+      "mean_retweets": 0.21428571428571427,
+      "mean_likes": 1.6428571428571428
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 195.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117801-eglise-saint-nizier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117801.jpg",
+    "name": "Église Saint-Nizier de Lyon",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "45.764711",
+      "longitude": "4.833598"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Nizier est une église de la ville de Lyon, située au cœur de la Presqu'île, entre la place des Terreaux et celle des Jacobins, dans le quartier des Cordeliers. Elle constitue l'un des plus importants lieux de cultes de la capitale des Gaules, aussi bien en termes d'ancienneté et de prestige que de visibilité architecturale et monumentale.\nDédié à Nizier, l'un des évêques de Lyon, l'édifice est attesté dès le Haut Moyen Âge. Après l'an mille, alors que l'importance politique et économique de la ville s'affirme, celle de Saint-Nizier va croissant, ce qui n'est pas sans créer des tensions avec la principale église lyonnaise, la cathédrale Saint-Jean, et en particulier avec son chapitre canonial.\nEntièrement reconstruite aux xive et xve siècles en style gothique flamboyant, l'église fait l’objet d’un classement au titre des monuments historiques par la liste de 1840.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 24,
+      "mean_replies": 0.25,
+      "mean_retweets": 2.1666666666666665,
+      "mean_likes": 3.0833333333333335
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 628.275
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117802-eglise-saint-paul.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117802.jpg",
+    "name": "Église Saint-Paul de Lyon",
+    "address": "Rue Saint-Paul Place Gerson",
+    "coordinates": {
+      "latitude": "45.7669271",
+      "longitude": "4.8269479"
+    },
+    "city": "Lyon",
+    "description": "L’église Saint-Paul est l’une des plus anciennes églises de Lyon. C’est un édifice de style roman et gothique située dans le Vieux-Lyon, dans le quartier Saint-Paul. La tour-lanterne est classée monument historique depuis 1920, l’église dans sa globalité est classée monument historique depuis 1996.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.36363636363636365,
+      "mean_retweets": 5.090909090909091,
+      "mean_likes": 6.7272727272727275
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 212.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117803-eglise-saint-pierre-des-terreaux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117803.jpg",
+    "name": "Église Saint-Pierre-des-Terreaux de Lyon",
+    "address": "rue Paul Chenavard",
+    "coordinates": {
+      "latitude": "45.7663",
+      "longitude": "4.8335"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Pierre-des-Terreaux est une ancienne église catholique située à Lyon, en France1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 43.1
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117804-eglise-saint-polycarpe.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117804.jpg",
+    "name": "Église Saint-Polycarpe de Lyon",
+    "address": "25 rue René-Leynaud",
+    "coordinates": {
+      "latitude": "45.770096",
+      "longitude": "4.833746"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Polycarpe de Lyon est un édifice religieux situé dans le 1er arrondissement de Lyon, sur les pentes de la Croix-Rousse, entre les rues René Leynaud, Burdeau et les passages Mermet et Thiaffait. Affectée au culte catholique, c'est l’ancienne église des Oratoriens qui s'installèrent à Lyon en 1616 et sur les pentes de Croix-Rousse en 1642.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0.25,
+      "mean_retweets": 3,
+      "mean_likes": 9.25
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 128.05
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa69000037-eglise-saint-pothin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa69000037.jpg",
+    "name": "Église Saint-Pothin de Lyon",
+    "address": "Place Edgar-Quinet",
+    "coordinates": {
+      "latitude": "45.766176",
+      "longitude": "4.846092"
+    },
+    "city": "Lyon",
+    "description": "L'église Saint-Pothin est un édifice religieux de la ville de Lyon, situé place Édgar Quinet dans le quartier Foch, dans le 6e arrondissement. Par arrêté préfectoral du 2 mai 2007, elle a fait l’objet dans son intégralité d’une inscription au titre des Monuments Historiques1,2.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0.4,
+      "mean_likes": 0.8666666666666667
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 192.275
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00117806-egout-romain.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00117806.jpg",
+    "name": "Égout romain",
+    "address": "Rue Roger-Radisson 3 place de Fourvière",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Lyon",
+    "description": "Egout romain : classement par arrêté du 5 octobre 1960",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 61,
+      "mean_replies": 0.21311475409836064,
+      "mean_retweets": 0.9672131147540983,
+      "mean_likes": 0.8360655737704918
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  }
+]
