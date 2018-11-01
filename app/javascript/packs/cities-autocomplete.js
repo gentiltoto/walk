@@ -1,4 +1,10 @@
 import { autocomplete } from "../lib/autocomplete.js"
 
-const villes = ["Lille", "Orléans", "Olivet", "Rueil-Malmaison", "Cap town", "Levallois-Perret"]
+let data = gon.cities
+const villes = [];
+
+for (let i = 0; i < data.length; i++) {
+  villes.push(data[i].name);
+}
+
 autocomplete(document.getElementById("myInput"), villes);

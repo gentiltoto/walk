@@ -6,7 +6,8 @@ class CitiesController < ApplicationController
 
   def home
     # @cities = City.all
-    @cities = ["Lille", "Lille", "Lille", "Lille"] # Provisoire
+    @cities = City.all
+    gon.rabl
   end
 
   def search

@@ -35,8 +35,8 @@
 <div class="container-fiche-city">
   <% @cities.each do |city| %>
   <div class="fiche-city">
-    <%= image_tag("#{city}.jpg") %>
-    <h3><%= city %></h3>
+    <%= cl_image_tag(city.photo) %>
+    <h3><%= city.name %></h3>
   </div>
   <% end %>
 </div>
