@@ -1,5 +1,40 @@
-<h1>RECAP</h1>
+<div class="container-recap">
+  <div id="red">MAP</div>
+
+
+  <div class="container-fiche-delete">
+    <% @itineraire.monuments.each do |monument| %>
+
+      <div class="fiche-delete" card-id="<%= monument.id %>">
+        <%= image_tag("citadelle.jpg") %>
+
+        <%= link_to supprimer_path(@itineraire, monument.id), method: :post, remote: true do %>
+          <i class="far fa-times-circle"></i>
+        <% end %>
+        <div class="text-fiche-delete">
+        <h5><%= monument.name %> </h5>
+        </div>
+      </div>
+    <% end %>
+
+  </div>
+
+</div>
 
 
 
-<%= link_to "Itinéraire Final", itinary_path(@itineraire) %>
+
+<div class="button-recap">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+          <%= link_to itinary_path(@itineraire) do %>
+          <%= render "shared/button", calltoaction: "Mon itinéraire" %>
+          <% end  %>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
