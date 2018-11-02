@@ -15,7 +15,8 @@ class ItinerairesController < ApplicationController
     # Set the compteur to 0
     @itineraire.update(compteur: 0)
     # Make accessible to JS everything define in choice.json.rabl (in views)
-    gon.rabl
+    gon.itineraire = @itineraire
+    gon.monuments = @monuments
   end
 
   def ajout

@@ -34,5 +34,5 @@ group :development, :test do
 end
 
 gem 'gon'
-gem 'rabl-rails'
+# gem 'rabl-srails'
 gem 'carrierwave'

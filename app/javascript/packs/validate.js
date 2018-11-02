@@ -15,7 +15,7 @@ function validateButtons() {
 
   // Initialize the compteur
   let compteur = gon.itineraire.compteur;
-  let monument = itineraire.monuments[compteur];
+  let monument = gon.monuments[compteur];
 
   // TO-DO: Replace the h1 by the true card
   card.insertAdjacentHTML("beforeend", `
@@ -40,7 +40,7 @@ function validateButtons() {
     // Generate the POST request to add the monuments to the itineraire
     Rails.ajax({
       type: "POST",
-      url: `/vos-monuments/${itineraire.id}/${itineraire.monuments[compteur].id}`,
+      url: `/vos-monuments/${itineraire.id}/${monument.id}`,
       data: `compteur=${compteur}`,
       success: function() { console.log("Réussi boy!"); },
       error: function() { console.log("Shit!"); }
@@ -50,7 +50,7 @@ function validateButtons() {
     compteur += 1;
 
     // Test if there is still monuments left to display
-    if (compteur > gon.itineraire.monuments.length - 1) {
+    if (compteur > gon.monuments.length - 1) {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
@@ -59,7 +59,7 @@ function validateButtons() {
       noMore.style.display = "block";
     } else {
       // Reassign the name
-      let monument = itineraire.monuments[compteur];
+      let monument = gon.monuments[compteur];
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
@@ -89,7 +89,7 @@ function validateButtons() {
     compteur += 1;
 
     // Test if there is still monuments left to display
-    if (compteur > gon.itineraire.monuments.length - 1) {
+    if (compteur > gon.monuments.length - 1) {
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Remove the card
@@ -98,7 +98,7 @@ function validateButtons() {
       noMore.style.display = "block";
     } else {
       // Reassign the name
-      let monument = itineraire.monuments[compteur];
+      let monument = gon.monuments[compteur];
       // Clear the HTML of the precedent name
       card.innerHTML = "";
       // Add the new name
