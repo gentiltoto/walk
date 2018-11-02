@@ -134,10 +134,6 @@ GEM
     pry-rails (0.3.6)
       pry (>= 0.10.4)
     puma (3.12.0)
-    rabl-rails (0.5.3)
-      activesupport (>= 4.2)
-      concurrent-ruby (~> 1.0.0)
-      railties (>= 4.2)
     rack (2.0.5)
     rack-proxy (0.6.5)
       rack
@@ -255,7 +251,6 @@ DEPENDENCIES
   pry-byebug
   pry-rails
   puma
-  rabl-rails
   rails (= 5.2.1)
   redis
   sass-rails

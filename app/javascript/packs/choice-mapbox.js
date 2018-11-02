@@ -4,7 +4,7 @@ import { map, marker } from "../lib/mapbox.js"
 // ATTENTION, il faut rentrer un array d'array dans cette fonction, même s'il y a qu'un seul point.
 
 
-const gonVariable = gon.itineraire.monuments;
+const gonVariable = gon.monuments;
 const coordonees = new Array;
 
 for (let i = 0; i < gonVariable.length; i++) {

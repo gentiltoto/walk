@@ -6,7 +6,7 @@ class CitiesController < ApplicationController
 
   def home
     @cities = City.all
-    gon.rabl
+    gon.cities = @cities
   end
 
   def search

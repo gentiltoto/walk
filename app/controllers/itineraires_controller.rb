@@ -37,7 +37,7 @@ class ItinerairesController < ApplicationController
 
     @monuments = @itineraire.monuments
     #make accessible to JS what is done in recap
-    gon.rabl
+    gon.monuments = @monuments
   end
 
   def supprimer
