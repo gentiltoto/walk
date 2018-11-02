@@ -55,8 +55,29 @@ class ItinerairesController < ApplicationController
   end
 
   def show
+    @itineraire = Itineraire.find(params[:id])
+    @monuments = @itineraire.monuments
+    coord_initial = compute_array(@monuments)
+    x = []
+    coord_initial.each { |e| x.push(e[0].to_f) }
+    y = []
+    coord_initial.each { |e| y.push(e[1].to_f) }
+    @coord = Voyageur.new(x, y).call
+    @coord = transform(@coord)
+    gon.coordonees = @coord
+  end
 
+  private
+
+  def compute_array(monuments)
+    arr = []
+    monuments.each { |monument| arr.push([monument.latitude, monument.longitude]) }
+    return arr
+  end
+
+  def transform(coord)
+    arr_final = []
+    coord[:latitudes].size.times { |i| arr_final.push([coord[:latitudes][i], coord[:longitudes][i]]) }
+    return arr_final
   end
 end
-
-
