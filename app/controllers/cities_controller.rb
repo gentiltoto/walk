@@ -5,16 +5,16 @@ class CitiesController < ApplicationController
   end
 
   def home
-    # @cities = City.all
-    @cities = ["Lille", "Lille", "Lille", "Lille"] # Provisoire
+    @cities = City.all
+    gon.rabl
   end
 
   def search
-    redirect_to explications_path(params[:id])
+    redirect_to explications_path(params[:name])
   end
 
   def explications
     # Sélectionne la ville pour pouvoir afficher son nom
-    @city = City.find(params[:id])
+    @city = City.where(name: params[:name]).first
   end
 end

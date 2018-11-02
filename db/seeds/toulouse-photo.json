@@ -1,0 +1,4444 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00094674-abattoirs-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094674.jpg",
+    "name": "Les Abattoirs",
+    "address": "76 allées Charles-de-Fitte",
+    "coordinates": {
+      "latitude": "43.600913",
+      "longitude": "1.429542"
+    },
+    "city": "Toulouse",
+    "description": "Les Abattoirs est un lieu d'exposition d'art moderne et contemporain de la ville de Toulouse. Il bénéficie de l'appellation « musée de France ».\nInscrits sur la rive gauche de la Garonne, les Abattoirs offrent un large ensemble d'activités. Dans le cadre de missions de service public culturel, ils remplissent de multiples fonctions en rapport avec la diffusion et la compréhension des formes modernes et contemporaines d'expression artistique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 40,
+      "mean_replies": 0.425,
+      "mean_retweets": 1.425,
+      "mean_likes": 0.9
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 49,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Les Abattoirs",
+      "yelp_id": "OBwN-I1bqS0pTls86zTcYg",
+      "yelp_phone": "+33562485800",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1200",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 606.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094494-amphitheatre-romain-de-purpan-ancely.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094494.jpg",
+    "name": "Amphithéâtre romain de Purpan-Ancely",
+    "address": "Purpan",
+    "coordinates": {
+      "latitude": "43.614778",
+      "longitude": "1.397694"
+    },
+    "city": "Toulouse",
+    "description": "L'amphithéâtre romain de Purpan-Ancely est situé près de Toulouse entre le quartier de Purpan et la commune de Blagnac. Il est classé monument historique depuis le 23 octobre 19741 et placé sous la responsabilité du Musée Saint-Raymond de Toulouse. C'est l'un des seuls édifices romains pratiquement entiers de Toulouse2.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 259.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125572-ancien-college-de-lesquile.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125572.jpg",
+    "name": "Ancien Collège de l'Esquile",
+    "address": "1 rue de l'Esquile",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures donnant sur la rue des Lois et sur la rue de l'Esquile ; façades sur cour ; escalier monumental du 18e siècle (cad. 26AD 98) : inscription par arrêté du 29 novembre 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094635-ancien-grand-seminaire-de-toulouse-actuelle-bibliotheq.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094635.jpg",
+    "name": "Ancien grand séminaire de ToulouseÉcole supérieure d'audiovisuelChapelle des Carmélites",
+    "address": "1 rue du Périgord",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "La chapelle dite chapelle des Carmélites (cad. AB 103, 355) : classement par arrêté du 10 février 1909",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094528-ancien-hopital-larrey-actuel-conservatoire-a-rayonnem.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094528.jpg",
+    "name": "Hôpital Larrey",
+    "address": "17 rue Larrey",
+    "coordinates": {
+      "latitude": "43.552104",
+      "longitude": "1.4537"
+    },
+    "city": "Toulouse",
+    "description": "L’hôpital Larrey est un établissement public de santé situé en France à Toulouse Haute-Garonne. Il fait partie du centre hospitalier universitaire de Toulouse.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 1,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Hôpital Larrey",
+      "yelp_id": "ByKwyeE-Yzd_8unhb5adqg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 205.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094684-ancien-moulin-des-amidonniers-actuelle-eglise-saint-p.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094684.jpg",
+    "name": "Ancien moulin des Amidonniers",
+    "address": "37 rue des Amidonniers",
+    "coordinates": {
+      "latitude": "43.606059",
+      "longitude": "1.42621"
+    },
+    "city": "Toulouse",
+    "description": "L'ancien moulin des Amidonniers est une ancienne usine construite à la fin du xviiie siècle dans le quartier des Amidonniers, à Toulouse, qui héberge actuellement l'église Saint-Paul.\nUn grand nombre d'activités industrielles s'y succèdent de 1791 à 1922 : moulin à papier, filature de coton, manufacture d'indigo (dite Indigoterie impériale), usine de fabrication de pâtes alimentaires1.\nLe bâtiment est d'abord cédé aux sœurs des Missions étrangères (sœurs de Saint-Paul)2, puis au diocèse de Toulouse en 1939.\nLa paroisse Saint-Paul y est créée en 1964. À la suite de son inscription aux Monuments historiques en 19913, l'église est rénovée et inaugurée en 19954.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 28.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094637-ancien-petit-seminaire-de-lesquile-actuelle-cinemath.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094637.jpg",
+    "name": "Ancien petit Séminaire de l'Esquile (actuelle Cinémathèque de Toulouse)",
+    "address": "69 rue du Taur",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Porte dite de l'Esquile : classement par arrêté du 21 mars 1910 ; Ancienne chapelle (cad. AD 93) : inscription par arrêté du 2 juin 1992",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135704-ancien-prieure-de-la-daurade-actuelle-ecole-superieur.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135704.jpg",
+    "name": "École supérieure des beaux-arts de Toulouse",
+    "address": "5 quai de la Daurade",
+    "coordinates": {
+      "latitude": "43.6008",
+      "longitude": "1.44043"
+    },
+    "city": "Toulouse",
+    "description": "Successeur de l'Académie royale de peinture, sculpture et architecture de Toulouse, l’École des beaux-arts de Toulouse est l’un des deux établissements artistiques en région Occitanie à relever de la tutelle pédagogique du Ministère de la Culture. Dans le cadre de la réforme des écoles d’art françaises1, l'école est devenue en 2011 un Établissement public de coopération culturelle, l'institut supérieur des arts de Toulouse, et a incorporé le Centre d'études supérieures de musique et de danse de Toulouse, devenu le département spectacle vivant de l'isdaT.\nL'institut supérieur des arts de Toulouse — département beaux-arts assure une formation pratique, théorique et technique de créateurs plasticiens dans les domaines de l’art, du design et du design graphique, ainsi que de la musique et de la danse.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 445.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094634-ancien-seminaire-actuel-ilot-valade.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094634.jpg",
+    "name": "Ancien séminaire (actuel Îlot Valade)",
+    "address": "30bis, 32 rue Valade",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures des bâtiments entourant les deux cours sur la rue Valade, y compris le mur de clôture et les portes : inscription par arrêté du 22 mars 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094515-ancienne-ecole-de-medecine-de-toulouse-actuel-theatre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094515.jpg",
+    "name": "Théâtre Sorano",
+    "address": "35 allées Jules-Guesde",
+    "coordinates": {
+      "latitude": "43.593909",
+      "longitude": "1.449246"
+    },
+    "city": "Toulouse",
+    "description": "Le Théâtre Sorano, est créé en 1964 par Maurice Sarrazin dans l’ancien auditorium du Muséum d’Histoire Naturelle de Toulouse. La salle est destinée à accueillir le Centre Dramatique du Sud-Ouest fondé par Charles Dullin en 1945, qui était jusqu'alors installé au Grenier de Toulouse. Son nom est un hommage à Daniel Sorano, célèbre acteur toulousain et ami de Maurice Sarazzin. Situé au 35 allées Jules Guesde, avec une capacité d’accueil de 430 places, ce foyer originel du théâtre toulousain est dirigé par Sébastien Bournac, le metteur en scène de la compagnie Tabula Rasa. Le Théâtre Sorano aspire aujourd’hui à confirmer son identité de théâtre populaire focalisé sur la création et la jeunesse.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 16,
+      "mean_replies": 0.0625,
+      "mean_retweets": 0.875,
+      "mean_likes": 1.875
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 10,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Le Théâtre Sorano",
+      "yelp_id": "8Z9GUD5S1M_XuUuhIRDQ4g",
+      "yelp_phone": "+33581917919",
+      "yelp_hours": ""
+    },
+    "score_wiki": 185.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094519-basilique-notre-dame-de-la-daurade-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094519.jpg",
+    "name": "Basilique de la Daurade",
+    "address": "1, 2 place de la Daurade",
+    "coordinates": {
+      "latitude": "43.60083",
+      "longitude": "1.43972"
+    },
+    "city": "Toulouse",
+    "description": "La basilique Notre-Dame la Daurade, dite aussi Sainte-Marie la Daurade, est une église toulousaine ayant titre de basilique mineure. Elle se situe le long des quais de la Garonne, près de la place et du port du même nom. Elle jouxte l'école des Beaux-Arts. C'est une église apparemment sans clocher, à la façade classique, dont on peut mieux apprécier l'architecture de l'autre côté du fleuve : on aperçoit alors un petit clocher sous-dimensionné. Elle a été totalement reconstruite à la fin du xviiie siècle sur le site de l'une des plus anciennes églises de Toulouse, qui fut probablement la chapelle des rois wisigoths et dont l'abside était couverte de mosaïques dorées paléochrétiennes (d'où le nom daurada, dorée). Siège d'une abbaye bénédictine dont le prieur était l'un des principaux personnages de la Toulouse médiévale, elle était bordée de moulins jusqu'à la fin du xive siècle et donnait sur le principal pont de Toulouse du xiie au xviie siècle, le pont de la Daurade.\nElle fait l’objet d’un classement au titre des monuments historiques depuis le 1er février 19631.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 11,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Notre-Dame de la Daurade",
+      "yelp_id": "ncOa_c0H9xHpn5x-tr2gUA",
+      "yelp_phone": "+33561213832",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "2030",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 683.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094524-basilique-saint-sernin-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094524.jpg",
+    "name": "Basilique Saint-Sernin de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6084",
+      "longitude": "1.442"
+    },
+    "city": "Toulouse",
+    "description": "La basilique Saint-Sernin de Toulouse est un sanctuaire bâti pour abriter les reliques de saint Saturnin, premier évêque de Toulouse, martyrisé en 250. Devenu l'un des plus importants centres de pèlerinage de l'Occident médiéval, elle fut desservie, depuis le ixe siècle au plus tard et jusqu'à la Révolution française, par une communauté canoniale. Saint-Sernin est la plus grande église romane conservée en Europe.\nLa rue du Taur qui mène de la place du Capitole à la basilique tire d'ailleurs son nom des circonstances du martyre. Saint Saturnin, alors à la tête de la communauté chrétienne de Toulouse, fut pris à partie par les prêtres païens dans le forum au pied du Capitolium antique (actuelle place Esquirol). Selon la tradition, il fut sommé de se prosterner devant les statues païennes. Refusant de se prosterner, il fut attaché par les pieds à un taureau de sacrifice, sans aucune forme de procès. Devant les cris de la foule, le taureau furieux prit la fuite le long du cardo, franchit la porte Nord puis la corde rompit et le corps inerte resta sur ce qui était alors une route sortant de la ville. Deux jeunes filles, les saintes Puelles, l'enterrèrent sur place. La basilique conserve 260 chapiteaux romans1 et est le symbole de l'architecture romane méridionale. Toulouse recevait alors la visite de nombreux pèlerins sur le chemin de Saint-Jacques-de-Compostelle, ou venus honorer les reliques de saint Saturnin.\nLa basilique Saint-Sernin fait l’objet d’un classement au titre des monuments historiques par la liste de 18402. Elle est également inscrite au patrimoine mondial de l'UNESCO au titre des chemins de Saint-Jacques-de-Compostelle en France depuis 1998.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 4,
+      "mean_likes": 8
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel Du Grand Balcon",
+      "yelp_id": "JWsnMRmcCGeEO7VWME8wXQ",
+      "yelp_phone": "+33534254409",
+      "yelp_hours": ""
+    },
+    "score_wiki": 3613.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094496-cafe-bibent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094496.jpg",
+    "name": "Café Bibent",
+    "address": "5 place du Capitole",
+    "coordinates": {
+      "latitude": "43.6038",
+      "longitude": "1.44341"
+    },
+    "city": "Toulouse",
+    "description": "Le Bibent est un restaurant situé à Toulouse, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 262.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094497-capitole-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094497.jpg",
+    "name": "Capitole de Toulouse",
+    "address": "Place du Capitole",
+    "coordinates": {
+      "latitude": "43.604461111111",
+      "longitude": "1.4440305555556"
+    },
+    "city": "Toulouse",
+    "description": "Le Capitole est un monument de la ville française de Toulouse, qui abrite aujourd’hui l'Hôtel de ville et le théâtre du Capitole. Sa construction a été décidée par les Capitouls en 1190, afin d’y établir le siège du pouvoir municipal. Il est l’emblème de la ville et c’est l’emplacement du pouvoir municipal depuis plus de huit siècles. Le Capitole est entouré par la place du Capitole à l'ouest, la rue de la Pomme et la rue du Poids de l'Huile au Sud, le square Charles-de-Gaulle et la pseudo-rue Ernest Roschach à l'Est et la rue Lafayette au Nord.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 26,
+      "mean_replies": 0.15384615384615385,
+      "mean_retweets": 0.46153846153846156,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 25,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Capitole de Toulouse",
+      "yelp_id": "_C89miVkTyz-fpV5BJX_ZQ",
+      "yelp_phone": "+33561223412",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 3472
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125575-castelet-de-croix-daurade.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125575.jpg",
+    "name": "Castelet de Croix-Daurade",
+    "address": "147 route d'Albi",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Vestiges : castelet, porche d'entrée, orangerie, temple de l'Amour et pavillon carré (cad. AK 38, 39) : inscription par arrêté du 18 février 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094498-cathedrale-saint-etienne-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094498.jpg",
+    "name": "Cathédrale Saint-Étienne de Toulouse",
+    "address": "Place Saint-Étienne",
+    "coordinates": {
+      "latitude": "43.5999",
+      "longitude": "1.4504"
+    },
+    "city": "Toulouse",
+    "description": "La cathédrale Saint-Étienne de Toulouse est une cathédrale catholique romaine du centre historique de Toulouse, dans le département de la Haute-Garonne. Elle a donné son nom au quartier qui l'entoure. On ne connaît pas les origines de la cathédrale. Ses premières traces datent de 1071, quand l'évêque Isarn décida de reconstruire l'édifice, alors en ruine. Son architecture est particulière car elle est composée d'éléments architecturaux de diverses époques. La cathédrale jouxte l'ancien palais épiscopal, aujourd'hui occupé par la préfecture.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "InstaGallery - Yelp Photo Challenge",
+      "yelp_id": "R9lGeAcnoaWf94tACaXmNg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1471.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000083-centre-hospitalier-gerard-marchant.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000083.jpg",
+    "name": "Centre hospitalier Gérard-Marchant",
+    "address": "134 route d'Espagne",
+    "coordinates": {
+      "latitude": "43.5597",
+      "longitude": "1.42253"
+    },
+    "city": "Toulouse",
+    "description": "Le centre hospitalier Gérard Marchant est un établissement public départemental de santé qui s’adresse à la population haute-garonnaise. Plus de 1 200 agents assurent le suivi de 13,165 patients dans des structures de soins réparties sur l'ensemble du département1. Le site historique du 134, route d'Espagne est dédié uniquement à la prise en charge en hospitalisation à temps complet. Conformément à l'évolution des prises en charge en psychiatrie, moins de 20 % des patients suivis par le centre hospitalier Gérard Marchant feront l'objet d'une hospitalisation2.\nGérard Marchant fut un médecin toulousain, élève de Jean-Baptiste Delaye, avec lequel il œuvrera pour la construction de l'\"Asile de Braqueville\". Plus tard, il en deviendra le premier directeur et marquera en profondeur la vie de l'asile. « Mon existence à Toulouse n'a été consacrée qu'à une pensée unique, la construction d'un asile3. » C'est en 1937 en l'honneur de son fondateur et alors que les asiles deviennent des hôpitaux psychiatriques que l'\"Asile de Braqueville\" fut rebaptisé « centre Hospitalier Gérard Marchant ».\nCet hôpital psychiatrique ouvert en 1858, fut très gravement endommagé à deux reprises, lors de la Seconde Guerre mondiale, dans la nuit du 1er au 2 mai 1944 puis par l'explosion de l'usine AZF le 21 septembre 2001.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Centre Hospitalier Spécialisé Gérard Marchant",
+      "yelp_id": "HvTJJdVTH5O3O_4S8yTNNQ",
+      "yelp_phone": "+33562271499",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0600",
+              "end": "0530",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 206.9
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094499-chapelle-notre-dame-de-nazareth-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094499.jpg",
+    "name": "Chapelle Notre-Dame-de-Nazareth de Toulouse",
+    "address": "4 rue Philippe-Féral",
+    "coordinates": {
+      "latitude": "43.596222",
+      "longitude": "1.446054"
+    },
+    "city": "Toulouse",
+    "description": "La chapelle Notre-Dame-de-Nazareth est une chapelle située au no 6 rue Philippe-Féral, dans le centre-ville de Toulouse. Elle a donné son nom à la rue voisine, Grande-rue Nazareth. Elle est aujourd'hui affectée au culte catholique et dépend de la paroisse Notre-Dame-de-la-Dalbade.\nUne première chapelle est déjà connue au xiiie siècle, mais le bâtiment actuel a été construit entre la fin du xve siècle et le début du siècle suivant. L'architecture de l'ensemble est d'un très pur style gothique, sans remaniement de la Renaissance, mais elle a reçu une décoration plus tardive. Sa construction est due à des parlementaires et elle fut utilisée par la magistrature jusqu'à la Révolution.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 10.15625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094502-chapelle-saint-roch-du-feretra-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094502.jpg",
+    "name": "Chapelle Saint-Roch-du-Férétra de Toulouse",
+    "address": "Place Saint-Roch",
+    "coordinates": {
+      "latitude": "43.582134",
+      "longitude": "1.443999"
+    },
+    "city": "Toulouse",
+    "description": "La chapelle Saint-Roch-du-Férétra est une chapelle située place Saint-Roch1, à dix minutes du centre-ville de Toulouse, dans un quartier populaire à proximité d'immeubles HLM2. Elle porte désormais le nom de chapelle Notre-Dame du Férétra. Elle est toujours affectée au culte catholique : la messe y est célébrée quotidiennement en latin selon le missel romain de 1962 (rite tridentin). Elle dépend de la Fraternité sacerdotale Saint-Pie-X3.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 49.54838709677419
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000054-chateau-saint-simon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000054.jpg",
+    "name": "Château de Candie",
+    "address": "17 chemin de la Saudrune",
+    "coordinates": {
+      "latitude": "43.543727",
+      "longitude": "1.388955"
+    },
+    "city": "Toulouse",
+    "description": "Le château de Candie est le plus ancien château d'origine médiévale de la commune de Toulouse1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 65.96153846153847
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094504-chateau-deau-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094504.jpg",
+    "name": "Le Château d'eau",
+    "address": "1 place Laganne",
+    "coordinates": {
+      "latitude": "43.598694444444",
+      "longitude": "1.436925"
+    },
+    "city": "Toulouse",
+    "description": "Le Château d’eau pôle photographique de Toulouse, ou Galerie du Château d'eau, est une tour de briques située à la jonction du Cours Dillon et du Pont-Neuf, à Toulouse. Comme son nom le suggère le bâtiment servait initialement à la distribution d'eau dans le centre de la ville mais n'était pas à proprement parler un château d'eau puisqu'il ne comportait pas de réservoir de stockage. Il fut reconverti en 1974 en espace d'exposition consacré à la photographie et est désormais un lieu très apprécié des Toulousains, en même temps qu'un haut lieu de culture.\nLe bâtiment et sa station de pompage font l’objet d’une inscription au titre des monuments historiques depuis le 28 septembre 19871.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.13333333333333333,
+      "mean_retweets": 0.2,
+      "mean_likes": 0.8666666666666667
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 23,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Galerie du Château D'Eau",
+      "yelp_id": "LhPWlsdsl5oBdZ4NJQo0xg",
+      "yelp_phone": "+33561770940",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1300",
+              "end": "1900",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 200.8421052631579
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094505-chateau-de-la-cepiere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094505.jpg",
+    "name": "Château de La Cépière",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures ; pigeonnier (cad. AH 186, 206) : inscription par arrêté du 31 décembre 1980",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094506-chateau-de-reynerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094506.jpg",
+    "name": "Château de Reynerie",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.572926",
+      "longitude": "1.39747"
+    },
+    "city": "Toulouse",
+    "description": "Le château de Reynerie, son orangerie et ses jardins font partie d'un ancien domaine du xviiie siècle situé sur la commune de Toulouse. Il a été construit par Guillaume Dubarry de 1781 à 1783.\nL'édifice est classé au titre des monuments historiques en 19631.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Château De La Reynerie",
+      "yelp_id": "XFzrQT14rucjRjLIR5h6Uw",
+      "yelp_phone": "+33562274848",
+      "yelp_hours": ""
+    },
+    "score_wiki": 222.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132671-chateau-du-mirail.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132671.jpg",
+    "name": "Château du Mirail (Toulouse)",
+    "address": "5 allées Antonio-Machado",
+    "coordinates": {
+      "latitude": "43.576893",
+      "longitude": "1.398304"
+    },
+    "city": "Toulouse",
+    "description": "Le château du Mirail est un château situé à Toulouse. Il appartient depuis 1967 à l'Université Toulouse-Jean-Jaurès (anc. Le Mirail) à laquelle il a donné son nom.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 74.725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094507-college-de-foix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094507.jpg",
+    "name": "Collège de Foix (Toulouse)",
+    "address": "2 rue Deville",
+    "coordinates": {
+      "latitude": "43.604837",
+      "longitude": "1.441424"
+    },
+    "city": "Toulouse",
+    "description": "Le collège de Foix est un ensemble de bâtiments situé à Toulouse (Haute-Garonne) construit en 1457 par l’archevêque de Toulouse Pierre de Foix (1386-1464), dit le Vieux.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 86.5
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000080-college-des-jesuites-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000080.jpg",
+    "name": "Collège des Jésuites de Toulouse",
+    "address": "Collège Pierre de Fermat",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Le portail de l'ancien collège, y compris ses deux vantaux de bois, faisant partie du collège Pierre de Fermat (cad. 818 AB 719) : inscription par arrêté du 20 août 2007",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094514-couvent-de-la-visitation-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094514.jpg",
+    "name": "Couvent de la Visitation de Toulouse",
+    "address": "1, 5, 13, 15 rue de la Dalbade",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures sur rue, sur cours et sur jardin ; chapelle au n° 13 ; petit salon à l'étage au n° 5 (cad. AB 408, 413) : inscription par arrêté du 8 décembre 1981",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094510-couvent-des-augustins-de-toulouse-actuel-musee-des-au.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094510.jpg",
+    "name": "Musée des Augustins de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.601",
+      "longitude": "1.446"
+    },
+    "city": "Toulouse",
+    "description": "Le musée des Augustins est le musée des beaux-arts de Toulouse en Haute-Garonne. Créé par décision du 23 décembre 1793 et ouvert en 1795, il est abrité dans l'ancien couvent des Augustins de Toulouse. Il rassemble des collections importantes de peinture et de sculpture.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1132.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094520-couvent-des-minimes-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094520.jpg",
+    "name": "Couvent des Minimes de Toulouse",
+    "address": "28 rue du Général-Bourbaki",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "L'église des Minimes (cad. AC 235) : inscription par arrêté du 27 décembre 1974 - Les façades et toitures ainsi que les galeries du bâtiment subsistant du cloître (cad. AC 398) : inscription par arrêté du 27 décembre 1974",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094513-couvent-des-religieux-de-saint-antoine-du-salin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094513.jpg",
+    "name": "Couvent des religieux de Saint-Antoine-du-Salin",
+    "address": "18, 20 rue Pharaon",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Eglise (actuellement église paroissiale espagnole) ; façades et toitures sur rue et sur cour des bâtiments conventuels y compris le cloître (cad. AB 273, 434) : inscription par arrêté du 24 février 1976",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094512-ensemble-conventuel-des-jacobins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094512.jpg",
+    "name": "Ensemble conventuel des Jacobins",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6039",
+      "longitude": "1.43999"
+    },
+    "city": "Toulouse",
+    "description": "L'ensemble couventuel des Jacobins de Toulouse, situé dans le centre de la ville, à mi-chemin entre le Capitole et la Garonne, juste en face du lycée Pierre-de-Fermat, est constitué d'une église dite « église des Jacobins », d'un cloître, d'une salle capitulaire, d'un réfectoire et d'une chapelle, la chapelle Saint-Antonin. Il a été construit par l'ordre des frères prêcheurs, un ordre mendiant dont le premier couvent de la branche masculine a été fondé en 1215 à Toulouse par Dominique de Guzmán, futur saint Dominique, afin de promouvoir la prédication de l'Évangile et lutter contre l'hérésie cathare. Ces bâtiments entièrement faits de brique sont considérés comme des joyaux de l'art gothique languedocien en matière de construction monastique des xiiie siècle et xive siècle.\nLes frères prêcheurs ont été appelés dominicains dès le xiiie siècle et aussi jacobins, beaucoup plus tard, à la période moderne, en référence au grand couvent de Paris situé rue Saint-Jacques.\nL'église abrite depuis 1369 le corps de saint Thomas d'Aquin, auquel elle est consacrée. C'est également dans ces bâtiments qu'a été établie pendant plusieurs siècles l'ancienne université de Toulouse depuis sa fondation en 1229 jusqu'à sa suppression à la Révolution française.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 35,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Conventuel des Jacobins",
+      "yelp_id": "h58goBpo9f1gEq1n0VGUHQ",
+      "yelp_phone": "+33561222382",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1334.725
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000016-fabrique-de-ceramique-giscard.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000016.jpg",
+    "name": "Fabrique Giscard",
+    "address": "25 avenue de la Colonne",
+    "coordinates": {
+      "latitude": "43.608418",
+      "longitude": "1.459174"
+    },
+    "city": "Toulouse",
+    "description": "La fabrique Giscard, aussi appelée manufacture Giscard ou Maison Giscard, situé au no 25, avenue de la Colonne à Toulouse, est l'ancien atelier de la famille de statuaires Giscard.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 3,
+      "mean_likes": 6
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 53.125
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094632-fonderie-de-canons-de-toulouse-actuel-institut-catholi.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094632.jpg",
+    "name": "Fonderie de canons de ToulouseActuel Institut catholique de Toulouse",
+    "address": "31 rue de la Fonderie",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Partie du rempart gallo-romain sous la façade postérieure de l'Institut catholique (cad. II 218p) : classement par arrêté du 11 décembre 1963 - Fresque de Marcel Lenoir de la salle des évêques de l'Institut catholique (cad. 816AB 435) : inscription par arrêté du 12 avril 1996 - Vestiges de la fonderie de canons situés en partie basse du bâtiment ouest ainsi que dans les ailes en retour et comprenant les fours et tous les dispositifs s'y rattachant, ainsi que les ventouses, cheminées, ateliers techniques et rampes d'accès pour trinqueballes (cad. 816AB 435) : inscription par arrêté du 12 avril 1996",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094525-fontaine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094525.jpg",
+    "name": "Fontaine",
+    "address": "Place Saint-Étienne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Fontaine : inscription par arrêté du 18 avril 1925",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 40,
+      "mean_replies": 0.175,
+      "mean_retweets": 0.175,
+      "mean_likes": 0.525
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "La Fontaine Saint-Bernard",
+      "yelp_id": "fpyLEfHLmtxMCcu1srzijA",
+      "yelp_phone": "+33561124499",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1500",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": false
+        }
+      ]
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094526-fontaine-de-la-trinite.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094526.jpg",
+    "name": "Fontaine de la Trinité",
+    "address": "Place de la Trinité",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Fontaine de la Trinité : inscription par arrêté du 20 septembre 1946",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 5,
+      "mean_retweets": 13,
+      "mean_likes": 41
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Fontaine de la Trinité",
+      "yelp_id": "btNCQlEIRancBKKd4bmQzA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094527-gare-de-toulouse-matabiau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094527.jpg",
+    "name": "Gare de Toulouse-Matabiau",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.611322",
+      "longitude": "1.454112"
+    },
+    "city": "Toulouse",
+    "description": "La gare de Toulouse-Matabiau est une gare ferroviaire française des lignes de Bordeaux-Saint-Jean à Sète-Ville, de Toulouse à Bayonne et de Brive-la-Gaillarde à Toulouse-Matabiau via Capdenac. Elle est située à proximité du centre-ville de Toulouse, chef-lieu du département de la Haute-Garonne et de la région Occitanie.\nElle est l'élément central du réseau ferroviaire de Toulouse. En outre, la gare routière, située à proximité, permet d'effectuer les correspondances avec de nombreuses lignes d'autocars.\nSon bâtiment voyageurs fait l’objet d’une inscription au titre des monuments historiques depuis le 28 décembre 19841.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 30,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 5.033333333333333,
+      "mean_likes": 6.2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 33,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Gare de Toulouse-Matabiau",
+      "yelp_id": "F8oDnQsHUQWpo40mrp5qQg",
+      "yelp_phone": "+33561101000",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0530",
+              "end": "0100",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0630",
+              "end": "0100",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1580.65
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000082-greniers-du-chapitre-saint-sernin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000082.jpg",
+    "name": "Greniers du Chapitre Saint-Sernin",
+    "address": "1bis rue des Cuves-Saint-Sernin",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "L'immeuble en totalité (cad. 824 AB 241) : inscription par arrêté du 19 mars 2007",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094529-hospice-de-la-grave.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094529.jpg",
+    "name": "Hospice de la Grave",
+    "address": "Rue du Pont-Saint-Pierre",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Chapelle Saint-Joseph (cad. AD 20) : classement par arrêté du 17 juillet 1978 ; Façades de l'ensemble des bâtiments longeant la Garonne et disposés autour des cours Saint-Joseph, Sainte-Monique, de la Maternité et Sainte-Anne (sauf celles classées) et toutes les toitures de ces bâtiments ; façades et toitures des deux anciens pavillons d'entrée, des vestiges d'un bâtiment du 16e siècle et du bâtiment à colonnade des Dames-de-la-Porte ; grande salle voûtée du 17e siècle à l'intérieur de l'aile sur la Garonne (cad. AD 20) : inscription par arrêté du 31 octobre 1986 ; Toutes les façades donnant sur les bords de la Garonne et sur les cours Saint-Joseph, Sainte-Monique, de la Maternité et Sainte-Anne, ainsi que le sol de ces cours ; à l'intérieur de l'aile sur la Garonne : ancienne pharmacie, y compris ses boiseries et son parquet en marqueterie et la porte à linteau sculpté donnant accès à la grande salle voûtée du 17s (cad. AD 20) : classement par arrêté du 5 décembre 1988",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094531-hotel-arquata.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094531.jpg",
+    "name": "Hôtel Arquata",
+    "address": "1 place Sainte-Scarbes",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Rampe d'escalier en fer forgé : inscription par arrêté du 26 octobre 1927",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094540-hotel-caulet-resseguier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094540.jpg",
+    "name": "Hôtel Caulet-Resseguier",
+    "address": "3, rue du Lieutenant-Colonel-Pélissier",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade donnant sur la rue et portion de toiture correspondante, ainsi que la partie inférieure de l'escalier central (cad. JJ 1174p) : inscription par arrêté du 1er juillet 1961",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094544-hotel-dassier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094544.jpg",
+    "name": "Hôtel Dassier",
+    "address": "46 rue des Couteliers",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Rampe d'escalier en fer forgé : classement par décret du 27 août 1927",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125579-hotel-desplats.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125579.jpg",
+    "name": "Hôtel Desplats-Palaminy",
+    "address": "45 rue des Tourneurs",
+    "coordinates": {
+      "latitude": "43.601387",
+      "longitude": "1.444906"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel Desplats, désigné aussi comme l’hôtel Palaminy ou encore l’hôtel Sipière, est un hôtel particulier situé aux no 43-45 rue des Tourneurs, avec des issues au no 22 rue Peyras et dans l'impasse Saint-Géraud, dans le centre historique de Toulouse. Construit au début du xviie siècle pour le parlementaire Jean-Pierre Desplats, président à mortier du Parlement de Toulouse, il passe au milieu du xviiie siècle dans la famille de Palaminy. Il est ensuite profondément transformé au milieu du xixe siècle, lorsqu'une nouvelle façade majestueuse est élevée sur la rue des Tourneurs par l'architecte Louis Delor de Masbou pour M. Sipière.\nSi l'hôtel a donc été remanié dans le style néo-classique au xixe siècle, il conserve cependant des éléments représentatifs d'un style Renaissance tardif et baroque, de la première moitié du xviie siècle. L'hôtel est inscrit partiellement aux monuments historiques en 1993 sous deux noms différents, comme « hôtel Desplats ou Palaminy »1 et « ancien hôtel Sipière »2.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 26.107142857142858
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094546-hotel-dumay-actuel-musee-du-vieux-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094546.jpg",
+    "name": "Hôtel Dumay",
+    "address": "7 rue Dumay",
+    "coordinates": {
+      "latitude": "43.6024",
+      "longitude": "1.44304"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel Dumay est un hôtel particulier de Toulouse, construit pour le médecin Antoine Dumay en 1585. Il accueille aujourd'hui le musée du Vieux Toulouse.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 55.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094548-hotel-felzins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094548.jpg",
+    "name": "Hôtel de Felzins",
+    "address": "22 rue de la Dalbade",
+    "coordinates": {
+      "latitude": "43.596644",
+      "longitude": "1.442586"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Felzins, qui porta aussi les noms d’hôtel de Molinier et d’hôtel de Cathelan, est un hôtel particulier, situé au no 22 rue de la Dalbade, dans le centre historique de Toulouse. Construit au milieu du xvie siècle pour le conseiller au Parlement Gaspard Molinier, il est ensuite la propriété de la famille de Cathelan entre 1601 et 1794. C'est alors qu'il passe à Raymond Dumas, puis à son beau-fils, M. de Felzins. Les élévations sont modifiées par ce dernier et par son fils au cours du xixe siècle.\nL'hôtel est représentatif des hôtels particuliers toulousains, caractéristique avec ses motifs Renaissance. Il est particulièrement remarquable pour son portail maniériste sur la rue de la Dalbade, au décor riche et exubérant, un des plus beaux de la ville. L'hôtel est classé aux monuments historiques en 18891.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Hôtel de Felzins",
+      "yelp_id": "omdRTOwVQS381b-qdzPtCA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 38.7027027027027
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094552-hotel-jean-catel.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094552.jpg",
+    "name": "Hôtel Jean Catel",
+    "address": "6 place Saint-Étienne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade du 15e siècle sur cour, à droite de l'entrée : inscription par arrêté du 11 avril 1950",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094551-hotel-jean-du-barry.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094551.jpg",
+    "name": "Hôtel Dubarry",
+    "address": "1 place Saint-Sernin",
+    "coordinates": {
+      "latitude": "43.6082",
+      "longitude": "1.44068"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel Dubarry ou hôtel Jean du Barry est un hôtel particulier se trouvant place Saint-Sernin, face à la basilique Saint-Sernin, à Toulouse.\nL'hôtel fait de nos jours partie du lycée Saint-Sernin. Il a été partiellement classé au titre des monuments historiques par arrêté du 11 octobre 19841.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 1.3333333333333333,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Hôtel Le Barry",
+      "yelp_id": "VjpuLPaDgv0FkDiC1HxA4g",
+      "yelp_phone": "+33561822210",
+      "yelp_hours": ""
+    },
+    "score_wiki": 95.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094557-hotel-mansencal.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094557.jpg",
+    "name": "Hôtel Mansencal",
+    "address": "1 rue Espinasse",
+    "coordinates": {
+      "latitude": "43.596685",
+      "longitude": "1.447553"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel Mansencal est un hôtel particulier, situé au no 1 rue Espinasse, dans le centre historique de Toulouse. Construit dans le deuxième quart du xvie siècle, entre 1527 et 1547, pour un important parlementaire toulousain, Jean de Mansencal, il est profondément remanié et altéré aux siècles suivants. Après avoir été intégré au couvent des Dominicains de Toulouse dans le dernier quart du xixe siècle, il fait aujourd'hui partie du collège privé Saint-Thomas-d'Aquin.\nL'hôtel conserve des éléments représentatifs d'un style Renaissance très pur et se distingue par sa tour élevée et le décor sculpté de sa façade du côté jardin. L'hôtel est inscrit partiellement aux monuments historiques en 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 41.666666666666664
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094558-hotel-marvejol.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094558.jpg",
+    "name": "Hôtel Marvéjol",
+    "address": "47 rue Pharaon",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Hôtel Marvéjol, y compris le puits de la cour : inscription par arrêté du 6 juillet 1925",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094564-hotel-pierre-comere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094564.jpg",
+    "name": "Hôtel de Pierre Comère",
+    "address": "3 rue Saint-Rome 9 rue Tripières",
+    "coordinates": {
+      "latitude": "43.601773",
+      "longitude": "1.443414"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Pierre Comère est un hôtel particulier, situé entre le no 3 rue Saint-Rome et le no 9 rue Tripière, dans le centre historique de Toulouse. Construit entre 1616 et 1617 pour Pierre Comère, marchand et capitoul, il est agrandi par l'architecte Claude Pacot en 1626.\nL'hôtel conserve des éléments représentatifs d'un style de transition, combinant des motifs de la Renaissance tardive et un style plus baroque. L'hôtel est inscrit partiellement aux monuments historiques en 19501.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 15.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094568-hotel-reynier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094568.jpg",
+    "name": "Hôtel Reynier",
+    "address": "20 rue Mage",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Cinq balcons en ferronnerie des fenêtres du premier étage (cad. AB 298) : classement par arrêté du 20 octobre 1971 ; Façade et toiture sur rue (à l'exclusion des parties classées) et escalier situé dans la cour intérieure (cad. AB 298) : inscription par arrêté du 22 octobre 1971",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094567-hotel-requy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094567.jpg",
+    "name": "Hôtel Réquy",
+    "address": "9 rue Saint-Rémésy",
+    "coordinates": {
+      "latitude": "43.596106",
+      "longitude": "1.4436"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel Réquy, également connu comme l’hôtel Lamotte, est un hôtel particulier, situé au no 9 rue Saint-Rémésy, dans le centre historique de Toulouse. Construit en 1626 pour un avocat au Parlement, Augier de Lamotte, il est remanié au milieu de ce même siècle pour un riche marchand, Pierre de Réqui.\nL'hôtel conserve des éléments représentatifs d'un style de transition, combinant des motifs de la Renaissance tardive et un style plus baroque. L'hôtel est inscrit partiellement aux monuments historiques en 19331.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.567567567567568
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094571-hotel-saint-jean.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094571.jpg",
+    "name": "Prieuré hospitalier de Toulouse",
+    "address": "32 rue de la Dalbade Rue Saint-Jean",
+    "coordinates": {
+      "latitude": "43.59735",
+      "longitude": "1.4425333333333"
+    },
+    "city": "Toulouse",
+    "description": "Le prieuré hospitalier de Toulouse, appelé l’hôtel des chevaliers de Saint-Jean de Jérusalem ou simplement hôtel Saint-Jean, parfois désigné comme l’hôtel de Malte, est un hôtel particulier situé au no 32 rue de la Dalbade, dans le centre historique de Toulouse. Il constitue un ensemble exceptionnel de l'architecture tardive de la Renaissance et du baroque à Toulouse.\nL'hôtel fut pour les chevaliers de l'ordre de Saint-Jean de Jérusalem le siège, du début du xiie siècle à la fin du xviiie siècle, du grand prieuré hospitalier de Toulouse, le deuxième grand prieuré de la langue de Provence après celui de Saint-Gilles. Le prieuré médiéval, aménagé à partir du xiie siècle, est complètement reconstruit à la fin du xviie siècle. Les travaux, dirigés par l'architecte toulousain Jean-Pierre Rivalz entre 1668 et 1680, donnent naissance au bâtiment actuel. Ce vaste bâtiment, qui s'organisait d'un vaste cloître, comprenait une église, un collège, une bibliothèque, une tour pour les archives et le trésor, des logements pour les chevaliers et même des écuries. L'hôtel, malgré des travaux postérieurs, a conservé son identité.\nLa protection de l'hôtel n'est intervenue que tardivement. En 1986, il est partiellement inscrit aux monuments historiques, avant d'être classé en 1990.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 87.425
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125578-hotel-sipiere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125578.jpg",
+    "name": "Hôtel Desplats-Palaminy",
+    "address": "22 Rue Peyras Rue des Tourneurs",
+    "coordinates": {
+      "latitude": "43.601387",
+      "longitude": "1.444906"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel Desplats, désigné aussi comme l’hôtel Palaminy ou encore l’hôtel Sipière, est un hôtel particulier situé aux no 43-45 rue des Tourneurs, avec des issues au no 22 rue Peyras et dans l'impasse Saint-Géraud, dans le centre historique de Toulouse. Construit au début du xviie siècle pour le parlementaire Jean-Pierre Desplats, président à mortier du Parlement de Toulouse, il passe au milieu du xviiie siècle dans la famille de Palaminy. Il est ensuite profondément transformé au milieu du xixe siècle, lorsqu'une nouvelle façade majestueuse est élevée sur la rue des Tourneurs par l'architecte Louis Delor de Masbou pour M. Sipière.\nSi l'hôtel a donc été remanié dans le style néo-classique au xixe siècle, il conserve cependant des éléments représentatifs d'un style Renaissance tardif et baroque, de la première moitié du xviie siècle. L'hôtel est inscrit partiellement aux monuments historiques en 1993 sous deux noms différents, comme « hôtel Desplats ou Palaminy »1 et « ancien hôtel Sipière »2.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 26.107142857142858
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135453-hotel-thomas-de-montval.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135453.jpg",
+    "name": "Hôtel Thomas de Montval",
+    "address": "22 rue Croix-Baragnon",
+    "coordinates": {
+      "latitude": "43.599919444444",
+      "longitude": "1.4476777777778"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Thomas de Montval situé au no 22 de la rue Croix-Baragnon, dans le centre historique de Toulouse. Il fut bâti entre 1901 et 1904 par l'architecte Jules Calbairac. Dans la cour, on a notamment réemployé des éléments de l'hôtel de Jean de Pins du xvie siècle, de style Renaissance, lorsque ce dernier fut partiellement démoli par le percement de la rue du Languedoc.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 38.85
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125577-hotel-dallies.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125577.jpg",
+    "name": "Hôtel d'Alliès",
+    "address": "6, 8 rue des Couteliers",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade sur rue et toiture attenante (cad. AB 54) : inscription par arrêté du 7 décembre 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094530-hotel-darnaud-de-brucelles.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094530.jpg",
+    "name": "Hôtel de Brucelles",
+    "address": "19 rue des Changes",
+    "coordinates": {
+      "latitude": "43.6008",
+      "longitude": "1.44362"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel de Brucelles se situe au 19 rue des Changes, dans le centre historique de Toulouse et fut construit de 1527 à 1535 pour le capitoul Arnaud de Brucelles. L'hôtel à façade en corondage est orné de filetages de style gothique. Dans la cour, dans un style Renaissance, on trouve une des plus belles tours d'escalier octogonales de la ville, très richement ornée.\nCet hôtel particulier est inscrit monument historique le 18 septembre 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 12,
+      "mean_replies": 0.25,
+      "mean_retweets": 0.25,
+      "mean_likes": 2.75
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel Arnaud de Brucelles",
+      "yelp_id": "1WiyV94oL7q2W-ZsPChqSA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 35.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094532-hotel-dassezat-et-de-clemence-isaure.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094532.jpg",
+    "name": "Hôtel d'Assézat",
+    "address": "Rue de Metz",
+    "coordinates": {
+      "latitude": "43.6003",
+      "longitude": "1.44203"
+    },
+    "city": "Toulouse",
+    "description": "Situé à peu de distance de la place Esquirol à Toulouse dans la Haute-Garonne, l'hôtel d'Assézat est un hôtel particulier, élevé en 1555-1557 sur les plans de Nicolas Bachelier, le plus grand architecte toulousain de la Renaissance. Derrière un monumental portail en bois se cache une cour intérieure, rénovée en 1993. Il abrite le musée de la Fondation Bemberg qui présente une collection d'art, notamment de peinture, du xve au début du xxe siècle. Il est classé monument historique depuis 19141.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 6,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel d'Assézat",
+      "yelp_id": "no-BsZzpTCt6_aGIPh2Ssg",
+      "yelp_phone": "+33561122060",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "2100",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1230",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1330",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 728.75
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094570-hotel-dastorg-et-de-saint-germain.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094570.jpg",
+    "name": "Hôtel d'Astorg et de Saint-Germain",
+    "address": "16 rue des Changes",
+    "coordinates": {
+      "latitude": "43.600922",
+      "longitude": "1.443769"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel d'Astorg et Saint Germain se situe 16, rue des Changes, dans le centre historique de Toulouse.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 30.575
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094543-hotel-despie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094543.jpg",
+    "name": "Hôtel d'Espie",
+    "address": "Rue d'Aussargues 3 Rue Mage",
+    "coordinates": {
+      "latitude": "43.5974",
+      "longitude": "1.44724"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel d'Espie1, dit aussi hôtel Courtois de Viçose, est un hôtel particulier situé à Toulouse (Haute-Garonne) en France. C'est actuellement le consulat de Belgique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 61.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094561-hotel-dolmieres.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094561.jpg",
+    "name": "Hôtel d'Olmières",
+    "address": "3 rue Peyrolières",
+    "coordinates": {
+      "latitude": "43.600226",
+      "longitude": "1.440782"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel d'Olmières est un hôtel particulier, situé au no 3 rue Peyrolières, dans le centre historique de Toulouse. Construit au début du xvie siècle pour la famille d'Olmières, il est caractéristiques des hôtels particuliers qui se construisent à cette période à Toulouse, où les riches propriétaires s'isolent de la rue tout en montrant leur richesse. L'hôtel conserve cependant des éléments représentatifs du premier style de la Renaissance toulousaine, mêlés à des éléments gothiques, en particulier sa tour capitulaire. L'hôtel, passé dans d'autres mains que la famille d'Olmières aux siècles suivants est plusieurs fois remanié, en particulier au xviie siècle et au xviiie siècle. L'hôtel est inscrit partiellement aux monuments historiques en 19461.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 15.89655172413793
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094563-hotel-de-bagis.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094563.jpg",
+    "name": "Hôtel de Bagis",
+    "address": "25 rue de la Dalbade",
+    "coordinates": {
+      "latitude": "43.596969444444",
+      "longitude": "1.4421555555556"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel de Bagis, de Clary ou Daguin, est un hôtel particulier situé au no 25 rue de la Dalbade, dans le centre historique de Toulouse. Les Toulousains l'appellent l’hôtel de Pierre, car sa façade est toute en pierre, ce qui était unique à Toulouse au xviie siècle1. Il constitue un ensemble exceptionnel de la Renaissance toulousaine.\nLa construction d'un premier hôtel débute en 1537 sous la direction du célèbre architecte toulousain Nicolas Bachelier : la façade sur cour aux Atlantes en est le plus beau témoin. L'hôtel est modifié en 1611 par l'architecte Pierre Souffron, qui fait construire la nouvelle façade sur rue, entièrement en pierre. Le décor sculpté n'en sera cependant achevé qu'au xixe siècle2. L'hôtel est classé monument historique en 18893.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel de Bagis",
+      "yelp_id": "LkUy_Qk8Mjkcc3Kjm5AYpg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 185.2
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094533-hotel-de-bernuy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094533.jpg",
+    "name": "Hôtel de Bernuy",
+    "address": "Rue Gambetta",
+    "coordinates": {
+      "latitude": "43.602827",
+      "longitude": "1.441124"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel de Bernuy se situe dans la rue Gambetta, dans le centre historique de Toulouse et fut construit de 1503 à 1533. L'hôtel est classé monument historique en 18891.\nL'hôtel fut conçu par l'architecte et sculpteur Louis Privat qui sut combiner discrétion classique et redondance espagnole. Ce bâtiment représentatif du style renaissance possède de nombreux éléments gothiques : fenêtres, moulures, accolades, linteau en anse de panier... Sa tour d'escalier hexagonale avec sept fenêtres d'angle, est une des plus hautes de la ville (26,5 mètres).\nJean de Bernuy, venu d'Espagne, était un des commerçants les plus riches de Toulouse, ayant fait fortune dans le commerce de pastel. Il devint capitoul en 1533.\nDepuis 1567, l'hôtel abrite des écoles. Tout d'abord le collège des Jésuites de 1567 à 1762, puis le collège royal à partir de 1764. Il forme aujourd'hui un ensemble qui comprend le collège et le lycée Pierre-de-Fermat2.\nLe Porche Notice no PA31000080, base Mérimée, ministère français de la Culture\nLa tour Renaissance\nVue de la rue Gambetta\nLa voûte\nDétail de la voûte\nSous la voûte le portrait de l'architecte : Louis Privat\nLa cour Renaissance\nLa cour Renaissance\nLa cour Renaissance\nPortrait de Jean de Bernuy ?\nSur les autres projets Wikimedia :\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Hôtel De Bernuy",
+      "yelp_id": "060loNEuMqF9IxIV3z9_Kw",
+      "yelp_phone": "+33562154215",
+      "yelp_hours": ""
+    },
+    "score_wiki": 186.05
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094534-hotel-de-bonfontan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094534.jpg",
+    "name": "Hôtel de Bonfontan",
+    "address": "41 rue Croix-Baragnon",
+    "coordinates": {
+      "latitude": "43.599633333333",
+      "longitude": "1.4483472222222"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Bonfontan est un hôtel particulier situé au no 41 de la rue Croix-Baragnon, dans le centre historique de Toulouse. Construit entre 1768 et 1771 pour le marquis de Bonfontan, il conserve une imposante façade sur rue de style néo-classique et un portail monumentaux. Il est particulièrement remarquable pour les ferronneries de style baroque, dues au maître ferronnier toulousain Bernard Ortet1. La façade et les ferronneries sont protégées au titre des monuments historiques depuis 19252.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 27.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094535-hotel-de-bonnefoy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094535.jpg",
+    "name": "Hôtel de Bonnefoy",
+    "address": "19 rue Croix-Baragnon",
+    "coordinates": {
+      "latitude": "43.599630555556",
+      "longitude": "1.4468083333333"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Bonnefoy est un hôtel particulier situé au no 19 rue Croix-Baragnon, dans le centre-ville de Toulouse. Il est construit dans le style de la première Renaissance toulousaine, dans le premier quart du xvie siècle, vers 1513. Il conserve cependant des éléments plus anciens, avec des traces de fenêtres gothiques du xive siècle, comparables à celles de la Maison romano-gothique voisine.\nLa tour capitulaire de l'hôtel a été inscrite aux monuments historiques en 19501.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 40.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094537-hotel-de-boysson-actuelle-maison-de-loccitanie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094537.jpg",
+    "name": "Hôtel de Boysson-Cheverry",
+    "address": "11 rue Malcousinat",
+    "coordinates": {
+      "latitude": "43.6008",
+      "longitude": "1.4432"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Boysson, de Cheverry ou de Boysson-Cheverry est un hôtel particulier situé au no 11 rue Malcousinat, dans le centre historique de Toulouse. Construit dans la deuxième moitié du xve siècle pour un marchand enrichi, Huc de Boysson, il est remanié et considérablement agrandi au cours du siècle suivant par un autre marchand Jean de Cheverry. L'hôtel conserve des éléments représentatifs du style gothique, particulièrement pour les parties construites par Huc de Boysson, mais aussi des éléments Renaissance, dans les parties ajoutées par Jean de Cheverry.\nL'hôtel de Cheverry est inscrit partiellement aux monuments historiques en 1925, tandis que l'hôtel de Boysson est entièrement classé en 19281. L'hôtel, complètement restauré, abrite aujourd'hui la Maison de l'Occitanie.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 82.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000072-hotel-de-castagnier-dauriac.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000072.jpg",
+    "name": "Hôtel de Castagnier d'Auriac",
+    "address": "19 rue Ninau",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Les façades et toitures, ainsi que les deux escaliers monumentaux et leur cage respective (cad. Toulouse - Saint-Etienne 815 AC 266) : inscription par arrêté du 16 août 2005",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094541-hotel-de-cheverry.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094541.jpg",
+    "name": "Hôtel de Cheverry",
+    "address": "4 rue Malcousinat",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Hôtel dit de Cheverry : inscription par arrêté du 16 juillet 1925",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094542-hotel-de-claude-de-saint-felix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094542.jpg",
+    "name": "Hôtel Hébrard",
+    "address": "11 rue Saint-Rémésy",
+    "coordinates": {
+      "latitude": "43.596204",
+      "longitude": "1.443541"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel Hébrard, aussi désigné comme l’hôtel de Claude de Saint-Félix, est un hôtel particulier, situé au no 11 rue Saint-Rémésy, dans le centre historique de Toulouse. Construit dans la première moitié du xvie siècle pour le conseiller au Parlement Sanche Hébrard, il est habité par Claude de Saint-Félix, puis est agrandi et remanié dans la première moitié du xviie siècle par Charles Turle. Les élévations sont cependant profondément modifié au cours des siècles suivants.\nL'hôtel reste cependant représentatif des hôtels particuliers toulousains, combinant des motifs de l'architecture de la Renaissance et de l'architecture classique. Il est inscrit partiellement aux monuments historiques en 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0.5,
+      "mean_retweets": 0.16666666666666666,
+      "mean_likes": 1.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 11.864864864864865
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094549-hotel-de-gayssion.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094549.jpg",
+    "name": "Hôtel de Gayssion",
+    "address": "5 rue Boyer-Fonfrède",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures sur rue et sur cour et la tourelle d'escalier (cad. AB 605) : inscription par arrêté du 16 mai 1979",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094553-hotel-de-jean-de-ulmo.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094553.jpg",
+    "name": "Hôtel d'Ulmo",
+    "address": "15 rue Ninau",
+    "coordinates": {
+      "latitude": "43.5975",
+      "longitude": "1.4498"
+    },
+    "city": "Toulouse",
+    "description": "L'Hôtel d'Ulmo se situe au 15 rue Ninau, dans le centre historique de Toulouse et fut construit entre 1526 et 1536 sur une ancienne et importante bâtisse du xve siècle, pour le magistrat Jehan de Ulmo. Avocat général au Parlement de Toulouse en 1526, président à mortier en 1529. Reconnu coupable de corruption il fut en 1537 mis au pilori et marqué au fer Rouge. Emprisonné à vie, il falsifia les comptes de Fort de Saint Malo où il était incarcéré. Il finit pendu en 1549. Sa devise \"Durum Patientia frango \" gravée au-dessus de la port de la tour hexagonale, se traduit par : \"Ma persévérance triomphe de tout\".\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 59.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094554-hotel-de-lasbordes-ou-du-vieux-raisin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094554.jpg",
+    "name": "Hôtel du Vieux-Raisin",
+    "address": "36 rue du Languedoc",
+    "coordinates": {
+      "latitude": "43.5972",
+      "longitude": "1.44576"
+    },
+    "city": "Toulouse",
+    "description": "L'Hôtel du Vieux-Raisin, appelé aussi Hôtel Maynier et Hôtel de Lasbordes est un hôtel particulier de Toulouse, entre le quartier du Parlement et celui de Saint-Étienne. Son nom provient d'une taverne de la rue qui possédait une enseigne avec une grappe de raisin1.\nCet hôtel date de 1518, et représente sûrement un des plus beaux hôtels particuliers de l'époque. Il fut édifié pour Béringuier-Maynier, professeur de droit, seigneur de Canac et de Gallice et capitoul de 1515 à 1516 ; le style choisi fut donc celui de cette période, fortement influencé par la Renaissance italienne. On a longtemps pensé que c'est Jean Brunet, greffier civil au Parlement de Toulouse, qui avait complété l'hôtel quelques années plus tard (1547) selon les plans du célèbre architecte de l'époque de l'âge d'or toulousain : Nicolas Bachelier (auteur entre autres du Pont Neuf, de l'Hôtel d'Assézat). Mais des actes notariés récemment découverts montrent que ces travaux sont plutôt dus au propriétaire suivant : Pierre de Lancrau, évêque de Lombez2,3.\nLe bâtiment a été classé au titres des monuments historiques en 18894.\nDepuis la rue\nPortail\nLa tour\nDétail de la tour\nDécoration Renaissance des fenêtres\nSur les autres projets Wikimedia :\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Hôtel du Vieux Raisin",
+      "yelp_id": "GxlAlpKusNfrmL6V6rB8Wg",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 108.7
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094555-hotel-de-lestang.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094555.jpg",
+    "name": "Hôtel de Lestang",
+    "address": "20 rue Saint-Jacques",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade sur la place Montoulien-Saint-Jacques et la porte sur la rue Saint-Jacques, vantaux compris : inscription par arrêté du 28 avril 1947",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Hôtel de Lestang",
+      "yelp_id": "4dniqO7Enc1sTJfK1TirvA",
+      "yelp_phone": "+33561177021",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094560-hotel-de-nupces.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094560.jpg",
+    "name": "Hôtel de Nupces",
+    "address": "15 rue de la Bourse",
+    "coordinates": {
+      "latitude": "43.600808333333",
+      "longitude": "1.4422583333333"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel de Nupces est un hôtel particulier situé dans la rue de la Bourse, dans le centre historique de Toulouse. Il fut construit en 1716 pour Jean-Georges de Nupces, conseiller puis président au parlement de la ville.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 68.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135452-hotel-de-pins-et-hotel-antonin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135452.jpg",
+    "name": "Hôtel de Pins et hôtel Antonin",
+    "address": "46 rue du Languedoc",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Galerie sur cour (cad. 815AB 197, 198) : inscription par arrêté du 10 juillet 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094566-hotel-de-puivert.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094566.jpg",
+    "name": "Hôtel de Puivert",
+    "address": "8-8bis rue Bouquières",
+    "coordinates": {
+      "latitude": "43.598680555556",
+      "longitude": "1.4464861111111"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel de Puivert est un hôtel situé à Toulouse, en France1. Il est inscrit au titre des monuments historiques en 1998.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 22.95
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094565-hotel-de-puymaurin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094565.jpg",
+    "name": "Hôtel de Puymaurin",
+    "address": "34 rue du Languedoc",
+    "coordinates": {
+      "latitude": "43.596975",
+      "longitude": "1.4458055555556"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel Labat de Mourlens, dit aussi hôtel de Puymaurin est un hôtel particulier situé au no 34 de la rue du Languedoc à Toulouse. Ce monument fait l’objet d’une inscription au titre des monuments historiques depuis le 21 octobre 19251.\nAvant que la rue du Languedoc prenne ce nom, son adresse était au no 30 de la rue du Vieux-Raisin. Reconstruit au xviie siècle, il fut remanié et séparé des vestiges de l'hôtel d'Aussargues qu'il englobait lors du percement de la rue Ozenne en 1900. Différentes familles le possédèrent : les Dahus, Tournoer, Toupignon, Saint-Laurent. Jean-Pierre Labat de Mourlens, qui le fit transformer en 1770, a donné l'occasion aux archéologues et au Syndicat d'initiative de lui donner son nom. La famille de Puymaurin l'ayant par la suite possédé, on lui fait parfois porter ce nom. Jean-Pierre Labat de Mourlens était né à Lafitte-Vigordane (Haute-Garonne) le 1er juin 1725. Il succéda le 10 mai 1760 dans l'office de Conseiller en Parlement, à son oncle Jean-François de Saint-Laurent. Malgré une évidente conduite de \"bon civisme\" reconnue jusqu'à la Convention, il n'échappa pas à la guillotine et fut exécuté le 6 juillet 1794.\nFaçde Rue Ozenne\nCour intérieure.\nDétail de la cour intérieure.\nDétail du portail d'entrée.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 35.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094562-hotel-de-penautier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094562.jpg",
+    "name": "Hôtel de Pénautier",
+    "address": "16 rue Vélane",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Entrée des écuries : inscription par arrêté du 9 décembre 1946 - Façades sur la cour d'honneur : inscription par arrêté du 3 mai 1963 - Façades et toitures des communs ; jardin, y compris le nymphée ; au premier étage, salle à manger avec son décor de lambris (cad. AB815 353) : inscription par arrêté du 27 mai 1993 - Façades et toitures de l'hôtel sur cour et sur jardin ; cour d'honneur avec son mur sur rue et son portail ; salon 18e siècle au premier étage ; emprise du jardin avec le mur revêtu de son treillage en bois (cad. 815AB 353) : classement par arrêté du 3 octobre 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094572-hotel-de-saint-jory.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094572.jpg",
+    "name": "Hôtel de Saint-Jory",
+    "address": "10 rue Croix-Baragnon",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Balcons et rampe d'escalier en fer forgé : inscription par arrêté du 29 décembre 1927",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094536-hotel-de-la-bourse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094536.jpg",
+    "name": "Hôtel de la Bourse",
+    "address": "3 place de la Bourse",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures (cad. AB 385) : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094547-hotel-de-la-fage.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094547.jpg",
+    "name": "Hôtel de la Fage",
+    "address": "19 place Saint-Georges",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures sur rues et sur cour ainsi que l'escalier intérieur avec sa rampe en fer forgé et le grand salon du premier étage avec son décor (cad. AB 125) : inscription par arrêté du 13 mars 1978",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094556-hotel-de-la-mamye.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094556.jpg",
+    "name": "Hôtel de La Mamye",
+    "address": "31 rue de la Dalbade",
+    "coordinates": {
+      "latitude": "43.597361",
+      "longitude": "1.442044"
+    },
+    "city": "Toulouse",
+    "description": "L'Hôtel de La Mamye ou Lamamye se situe au no 31 rue de la Dalbade, dans le centre historique de Toulouse. Il a été construit à partir de 1528 pour N. de La Mamye et remanié tout au long du xvie siècle pour ses descendants, le conseiller au Parlement Guillaume de La Mamye, puis Pierre de La Mamye.\nL'hôtel est doté d'une tour capitulaire octogonale, avec une tourelle d'angle de style gothique. Dans la cour, la façade sud a conservé son décor Renaissance du début du xvie siècle où, pour la première fois à Toulouse, on retrouvait les trois ordres antiques superposés : dorique, ionique et corinthien. L'hôtel est inscrit partiellement aux monuments historiques en 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 9.108108108108109
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094539-hotel-du-capitoul-pierre-dahus.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094539.jpg",
+    "name": "Hôtel Dahus",
+    "address": "Rue d'Aussargues Rue Ozenne",
+    "coordinates": {
+      "latitude": "43.597293",
+      "longitude": "1.446435"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel du capitoul Pierre Dahus ou, simplement hôtel Dahus, est un hôtel particulier de Toulouse, situé au no 9 rue Théodore-Ozenne. Il est construit dans les années 1460 ou 1470 pour le juge Pierre Dahus, capitoul en 1474-1475. Il appartient, au début du xvie siècle, au fils du capitoul Pierre de Roquette, ce qui explique qu'on lui ait parfois appelé, à tort, hôtel Roquette. Il a en revanche bien appartenu à Guillaume de Tournoer, conseiller, puis président au Parlement de Toulouse, qui fit modifier la tour d'escalier en 1532, à laquelle on donne le nom de tour Tournoer. Au début du xxe siècle, l'hôtel est éventré par le percement de la rue Théodore-Ozenne, dont les travaux ne laissent subsister qu'une partie du logis principal.\nL'hôtel conserve des éléments caractéristiques de l'architecture civile gothique toulousaine de la fin du xve siècle. Le logis, couronné de mâchicoulis aveugles et de créneaux, signe de domination seigneuriale, possédait une tour d'escalier. En 1532, l'hôtel est remanié dans le goût de la Renaissance : de grandes fenêtres à meneaux sont percées et la tour est démolie pour être reconstruite – elle n'est cependant achevée que dans la 2e moitié du xviie siècle. L'hôtel est inscrit à l'inventaire supplémentaire des monuments historiques en 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 46.675
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000041-hotel-du-grand-balcon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000041.jpg",
+    "name": "Hôtel du Grand Balcon",
+    "address": "1 Rue des Lois 8 rue Romiguières",
+    "coordinates": {
+      "latitude": "43.604897222222",
+      "longitude": "1.442425"
+    },
+    "city": "Toulouse",
+    "description": "L'hôtel du Grand Balcon est un monument historique situé à Toulouse, dans le département de la Haute-Garonne Région de Midi-Pyrénées, à l'angle de la rue des Lois et de la rue Romiguières.\nL'hôtel est construit au milieu du xixe siècle. Il est notamment connu pour avoir été le lieu d'escale de l'Aéropostale dès 1919. L'aviateur Jean Mermoz séjournait dans la chambre no 20 tandis que Saint-Exupéry occupait la chambre no 32, dont le grand balcon donne sous la place du Capitole1. Une partie est inscrite aux monuments historiques en janvier 19992.\nListe des monuments historiques de Toulouse\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 5,
+      "mean_likes": 28.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Hôtel Du Grand Balcon",
+      "yelp_id": "JWsnMRmcCGeEO7VWME8wXQ",
+      "yelp_phone": "+33534254409",
+      "yelp_hours": ""
+    },
+    "score_wiki": 76.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094545-hotel-dieu-saint-jacques.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094545.jpg",
+    "name": "Hôtel-Dieu Saint-Jacques",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6",
+      "longitude": "1.43662"
+    },
+    "city": "Toulouse",
+    "description": "L'Hôtel-Dieu Saint-Jacques est un ancien établissement hospitalier de Toulouse situé 2 rue Viguerie. Déjà en fonction dès le xiie siècle sur la rive gauche de la Garonne, il devient le plus grand hôpital toulousain à la suite de ses nombreux agrandissements aux xviie et xviiie siècles.\nL'édifice est inscrit puis classé Monument historique en 1986 et 1988, et les derniers malades quittent les bâtiments en 1987. Il héberge aujourd'hui le centre administratif du CHU de Toulouse, ainsi que l’Institut européen de Télémédecine, le centre européen de recherche sur la peau et les épithéliums de revêtement ainsi qu'un musée d’histoire de la médecine.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Hôtel Dieu Saint Jacques",
+      "yelp_id": "e4wpWdlvB8yeLfj4w5U6-g",
+      "yelp_phone": "+33561322372",
+      "yelp_hours": ""
+    },
+    "score_wiki": 371.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094611-librairie-modern-style.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094611.jpg",
+    "name": "Librairie Modern Style",
+    "address": "66 rue Gambetta",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Extérieur (devanture) (cad. AB 200) : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094622-maison-empire.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094622.jpg",
+    "name": "Maison Empire",
+    "address": "57 place de la Trinité",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade sur la place : inscription par arrêté du 27 novembre 1946",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 28,
+      "mean_replies": 0.5,
+      "mean_retweets": 1.3214285714285714,
+      "mean_likes": 2.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094612-maison-de-calas.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094612.jpg",
+    "name": "Maison de Calas",
+    "address": "50 rue des Filatiers",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Maison de Calas (ancienne) (cad. AB 38) : inscription par arrêté du 15 janvier 1980",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094614-maison-de-pierre-delfau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094614.jpg",
+    "name": "Hôtel de Pierre Delfau",
+    "address": "20 rue de la Bourse",
+    "coordinates": {
+      "latitude": "43.60101",
+      "longitude": "1.44255"
+    },
+    "city": "Toulouse",
+    "description": "L’hôtel ou maison de Pierre Delfau est un hôtel particulier, situé au no 20 rue de la Bourse, dans le centre historique de Toulouse. Construit à la fin du xve siècle pour un marchand pastelier, Pierre Delfau, il est particulièrement représentatif des demeures gothiques des notables toulousains de cette période. Il est remanié au xviie siècle et a conservé dans la cour des éléments typiques de la Renaissance tardive toulousaine.\nL'hôtel, quoique remanié et modifié, reste un rare exemple de demeure marchande à avoir conservé sa boutique d'origine. Il est inscrit entièrement aux monuments historiques en 19251.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 52.325
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094619-maison-de-la-belle-paule.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094619.jpg",
+    "name": "Maison de la Belle-Paule",
+    "address": "16 rue du Languedoc",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade avec ses ferronneries : inscription par arrêté du 18 mai 1925",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094677-maison-des-verrieres.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094677.jpg",
+    "name": "Castel-Gesta",
+    "address": "22 avenue Honoré-Serres",
+    "coordinates": {
+      "latitude": "43.61347",
+      "longitude": "1.438756"
+    },
+    "city": "Toulouse",
+    "description": "Le Château des Verrières ou Maison du Verrier, Castel-Gesta pour les Monuments historiques, est une « villa castellisée » édifiée par Louis-Victor Gesta, peintre-verrier, à la fin du xixe siècle, dans ce qui était alors le faubourg Arnaud-Bernard à Toulouse (actuel quartier des Chalets). Vestige d'une ancienne manufacture de vitraux, parmi les plus importantes de France, à la fois lieu d'exposition et résidence1, il est situé 22, avenue Honoré-Serres et rue Godolin. Il est classé monument historique depuis le 3 octobre 19912. Cependant, après une histoire particulièrement agitée, l'édifice, objet d'une vaste escroquerie, est longtemps resté dans une situation particulièrement alarmante. Il a été depuis remarquablement restauré.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 150.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094621-maison-en-terre-cuite-de-virebent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094621.jpg",
+    "name": "Maison en terre cuite de Virebent",
+    "address": "28 rue des Marchands",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade et toiture sur rue (cad. AB 62) : inscription par arrêté du 29 octobre 1975 ; Façades sur cour ; escalier ; pièces décorées du premier étage (cad. AB 62) : inscription par arrêté du 26 octobre 1992",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094616-maison-en-terre-cuite-de-virebent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094616.jpg",
+    "name": "Maison en terre cuite de Virebent",
+    "address": "27 avenue de la Colonne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade et toiture sur l'avenue (cad. AE 46) : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094613-maison-en-terre-cuite-de-virebent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094613.jpg",
+    "name": "Maison en terre cuite de Virebent",
+    "address": "1 rue de Bornier 31 rue Paul-Dupin",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures sur rues (cad. AE 44) : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094617-maison-en-terre-cuite-de-virebent.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094617.jpg",
+    "name": "Maison en terre cuite de Virebent",
+    "address": "24 rue du Cimetière 1 rue Compans",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façade et toiture sur rue (cad. AE 113) : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094618-maison-romano-gothique.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094618.jpg",
+    "name": "Maison romano-gothique",
+    "address": "15 rue Croix-Baragnon",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Le deuxième étage de la façade : classement par décret du 7 décembre 1923 - L'immeuble (cad. 815AB 213) : classement par arrêté du 3 mars 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094680-manufacture-des-tabacs-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094680.jpg",
+    "name": "Manufacture des Tabacs de Toulouse",
+    "address": "1 rue des Amidonniers 21, 29 allées de Brienne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Bâtiment directorial (A) ; façades et toitures des bâtiments E, L, A, M, F, B, C, D, H, G, I, Q'(cad. AE 101) : inscription par arrêté du 2 mars 1990",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094624-monastere-des-religieux-de-vienne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094624.jpg",
+    "name": "Monastère des Religieux de Vienne",
+    "address": "10, rue du Lieutenant-Colonel-Pélissier",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures sur rue (cad. AB 260) : inscription par arrêté du 27 septembre 1972",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094508-musee-saint-raymond.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094508.jpg",
+    "name": "Musée Saint-Raymond, musée des Antiques de Toulouse",
+    "address": "Place Saint-Sernin",
+    "coordinates": {
+      "latitude": "43.60787",
+      "longitude": "1.44112"
+    },
+    "city": "Toulouse",
+    "description": "Le musée Saint-Raymond, ou musée des Antiques, est le musée archéologique de Toulouse ouvert en 1892. Il est installé dans les murs de l'ancien collège universitaire Saint-Raymond datant du xvie siècle1 qui voisine avec la basilique Saint-Sernin. Il conserve et présente des collections archéologiques de la protohistoire au haut Moyen Âge, essentiellement des périodes celte, romaine et paléochrétienne.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "La Buvette du Musée Saint-Raymond",
+      "yelp_id": "NVUFwGp_8UbKcOOq3tOLaQ",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 284.8636363636364
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094625-observatoire-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094625.jpg",
+    "name": "Observatoire de Toulouse",
+    "address": "Avenue de l'Observatoire",
+    "coordinates": {
+      "latitude": "43.61233",
+      "longitude": "1.46278"
+    },
+    "city": "Toulouse",
+    "description": "L'observatoire de Toulouse est un observatoire astronomique français, fondé en 1733 dans la ville de Toulouse par l'Académie des sciences, inscriptions et belles-lettres de Toulouse. Il fut déplacé en 1841 à Jolimont, dans le jardin de l'Observatoire puis encore en 1981 au campus scientifique de Toulouse-Rangueil. Il a depuis rejoint l'observatoire du Pic du Midi, pour devenir l'observatoire Midi-Pyrénées. Le bâtiment principal, créé par l’architecte Toulousain Urbain Vitry, et les trois bâtiments à coupole sont inscrits au titre des monuments historiques.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 1.5,
+      "mean_likes": 4.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 160.875
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094686-obelisque-du-10-avril-1814.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094686.jpg",
+    "name": "Bataille de Toulouse (1814)",
+    "address": "Avenue de l'Observatoire Avenue Camille-Flammarion",
+    "coordinates": {
+      "latitude": "43.604444444444",
+      "longitude": "1.4438888888889"
+    },
+    "city": "Toulouse",
+    "description": "La bataille de Toulouse s'est déroulée le 10 avril 1814, de 6 heures à 21 heures, et opposa les troupes de l'armée impériale commandée par le maréchal Soult aux troupes de la coalition anglo-hispano-portugaise, se soldant par une victoire défensive française, malgré la perte de la ville. La bataille a été livrée sur le seul territoire de la commune de Toulouse. Un odonyme local (« rue du 10-Avril ») et un monument commémoratif rappellent cet événement.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 712.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094678-palais-archiepiscopal-de-toulouse-actuelle-prefecture.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094678.jpg",
+    "name": "Palais archiépiscopal de Toulouse",
+    "address": "Place Saint-Étienne",
+    "coordinates": {
+      "latitude": "43.5992",
+      "longitude": "1.44998"
+    },
+    "city": "Toulouse",
+    "description": "Le palais archiépiscopal de Toulouse, actuellement hôtel de préfecture de la Haute-Garonne, est l'ancien palais de l'archevêque. Il est situé place Saint-Étienne à Toulouse.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 34.3
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132672-palais-de-justice-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132672.jpg",
+    "name": "Palais de justice de Toulouse",
+    "address": "Place du Salin",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Cour d'Appel (bâtiment A) : façades et toitures donnant sur la cour d'honneur (y compris les grilles et l'espace de la cour) , façade sur jardin (hors surélévation) de l'aile de la Première Présidence, façade sur cour et toitures de la Première Chambre, salle des pas perdus et son grand escalier ; Cour d'Assises (bâtiment B) : bâtiment dans sa totalité y compris la porte donnant sur la rue des Fleurs ; Tribunal de Grande Instance (bâtiment C) : façades et toitures nord et ouest donnant sur la Place du Salin et la Place du Parlement ; parties subsistantes du rempart au sud de l'îlot du Palais de Justice (cad. 815AB 2 à 11) : inscription par arrêté du 16 mars 1994 - Cour d'Appel : Première grande Chambre avec sa chapelle attenante ; Salon Doré ; Salon d'Hercule ; vestibule de la Troisième Chambre avec son décor peint du 15e siècle (cad. 815AB 6) : classement par arrêté du 8 septembre 1999",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 3,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094626-place-wilson.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094626.jpg",
+    "name": "Place Wilson (Toulouse)",
+    "address": "Place Wilson allées du Président-Franklin-Roosevelt",
+    "coordinates": {
+      "latitude": "43.605",
+      "longitude": "1.4475"
+    },
+    "city": "Toulouse",
+    "description": "La place du Président-Thomas-Wilson se situe à l'entrée est du centre-ville de Toulouse. Elle prolonge les allées Jean-Jaurès, reliant le cœur de la cité au canal du Midi. Construits autour de la place, des cafés et des cinémas concentrent l'activité nocturne estudiantine. C'est avec la place Saint-Pierre un des lieux animés de Toulouse. Accessible en métro grâce aux stations Capitole et Jean-Jaurès\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0.16666666666666666,
+      "mean_retweets": 5.833333333333333,
+      "mean_likes": 3.8333333333333335
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 33,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "The Winter Garden",
+      "yelp_id": "Ek1M7-aW9y5XJRxxxEippw",
+      "yelp_phone": "+33561214597",
+      "yelp_hours": ""
+    },
+    "score_wiki": 543.15
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094629-pont-sur-le-touch.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094629.jpg",
+    "name": "Pont sur le Touch",
+    "address": "Saint-Martin-du-Touch, RN 124",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Pont sur le Touch : inscription par arrêté du 11 avril 1950",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094627-pont-neuf.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094627.jpg",
+    "name": "Pont-Neuf de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.599444",
+      "longitude": "1.439722"
+    },
+    "city": "Toulouse",
+    "description": "Le Pont-Neuf enjambe la Garonne, et relie la place du Pont-Neuf à la rue de la République à Toulouse. En dépit de son nom, c’est le plus vieux pont de la ville encore debout qui enjambe la Garonne. Les autres ont été emportés par les crues du fleuve. Le pont de Tounis est antérieur mais il servait à relier l'ancienne île de Tounis à la rive droite. Le pont-Neuf conduisait autrefois à l'entrée de la cité, symbolisée par un arc de triomphe construit par Jules Hardouin-Mansart. Si l'arc a été détruit en 1860, le pont est toujours emprunté par les véhicules et les piétons.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 8,
+      "mean_replies": 0.375,
+      "mean_retweets": 1.25,
+      "mean_likes": 2.375
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 30,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Le Pont Neuf",
+      "yelp_id": "DgUOfn31EVWAtNMVT0FBiw",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1086.45
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094628-ponts-jumeaux-enjambant-le-canal-du-midi-et-le-canal-d.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094628.jpg",
+    "name": "Ponts-Jumeaux",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.611111",
+      "longitude": "1.419444"
+    },
+    "city": "Toulouse",
+    "description": "L'appellation Ponts-Jumeaux désigne un ensemble de trois ponts et un quartier de Toulouse.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0.8,
+      "mean_retweets": 3,
+      "mean_likes": 5.8
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Collège des Ponts Jumeaux",
+      "yelp_id": "06btRRGfGFo0QZ3nVoKf7A",
+      "yelp_phone": "+33561132494",
+      "yelp_hours": ""
+    },
+    "score_wiki": 313.225
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094630-porte-du-capitole.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094630.jpg",
+    "name": "Porte du Capitole",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Porte du Capitole (ancienne) réédifiée dans le jardin des Plantes de Toulouse : inscription par arrêté du 18 mai 1925",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0.6666666666666666,
+      "mean_retweets": 2,
+      "mean_likes": 5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000090-prison-saint-michel-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000090.jpg",
+    "name": "Prison Saint-Michel (Toulouse)",
+    "address": "18bis Grande-Rue Saint-Michel",
+    "coordinates": {
+      "latitude": "43.586297",
+      "longitude": "1.44814"
+    },
+    "city": "Toulouse",
+    "description": "La prison Saint-Michel est un bâtiment toulousain se situant au 18bis de la Grande rue Saint-Michel sur l'ancienne route qui reliait Toulouse à Narbonne, soit actuellement la Grande rue Saint-Michel dans le quartier Saint-Michel. Elle a été en partie inscrite monument historique par arrêté du 25 février 20111.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 416.75
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094679-rempart-gallo-romain-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094679.jpg",
+    "name": "Rempart gallo-romain de Toulouse",
+    "address": "1, 3 rue Bida Place Saint-Jacques",
+    "coordinates": {
+      "latitude": "43.598",
+      "longitude": "1.45127"
+    },
+    "city": "Toulouse",
+    "description": "Le rempart gallo-romain de Toulouse est un ensemble fortifié situé à Toulouse, en France1.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 101.175
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00135455-rempart-medieval-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00135455.jpg",
+    "name": "Rempart médiéval de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Sections du rempart situées allées Jules-Guesde et place des Hauts-Murats (cad. 815AB 17) : inscription par arrêté du 10 juillet 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000011-rempart-medieval-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000011.jpg",
+    "name": "Rempart médiéval de Toulouse",
+    "address": "Boulevard Armand-Duportal rue de la Boule",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Sections de courtines et tours subsistantes situées sur les parcelles AE 12, 122, 135, 160, 167, 171, 172 : inscription par arrêté du 13 août 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094633-remparts-saint-cyprien.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094633.jpg",
+    "name": "Remparts Saint-Cyprien",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Remparts comprenant quatre tours (tour de l'Isle, Tour de la Menuiserie, Tour du Matériel, Tour Taillefer) , la courtine partant de la Tour de l'Isle et reliant les tours entre elles, la partie du sol comprise entre les deux tours médianes (renferméepar la section C du plan du dossier) (cad. AD 20) : classement par arrêté du 5 décembre 1988",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094638-serres-municipales-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094638.jpg",
+    "name": "Serres municipales de Toulouse",
+    "address": "Boulevard de la Marne",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Serres municipales du 19e siècle (premières) (cad. AC 62) : inscription par arrêté du 16 juin 1987",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000013-soufflerie-de-banleve.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000013.jpg",
+    "name": "Soufflerie de Banlève",
+    "address": "Allée du Professeur-Camille-Soula",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Soufflerie, ainsi que le bâtiment qui l'abrite (cad. AH 2) : inscription par arrêté du 26 novembre 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094643-temple-du-salin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094643.jpg",
+    "name": "Temple du Salin",
+    "address": "Place du Salin",
+    "coordinates": {
+      "latitude": "43.5949222",
+      "longitude": "1.4446583"
+    },
+    "city": "Toulouse",
+    "description": "Le temple du Salin est un temple protestant situé à Toulouse, place du Salin. Installé dans l'ancienne Trésorerie royale, bâtiment du xiiie siècle remanié au cours des siècles, il est un des plus importants édifices protestants de Toulouse.\nUn premier bâtiment est construit à la fin du xiiie siècle pour héberger la Trésorerie royale. Ce premier édifice était constitué d'une haute tour carrée de 20 m de haut flanquée de deux ailes couronnées de machicoulis. Ce bâtiment aurait accueilli Louis XI, Charles IX et Louis XIII lors de leurs passages à Toulouse.\nAu xve siècle, la Trésorerie royale est remaniée. Des fenêtres à meneaux sont percées, ainsi que des portes dont une subsiste sur le mur ouest du temple.\nLa Trésorerie royale est démantelée à la Révolution et le bâtiment devient propriété de l'État. Des religieuses s'installent en 1807, et jusqu'à la dissolution de leur congrégation en 1904. Dans le courant du xixe siècle, des travaux sont entrepris : la tour perd ses créneaux pour être couverte d'un toit à un seul pan. Une importante façade à galeries est construite, puis détruite en 1905 pour élargir la place. Les travaux, qui durent de 1909 à 1911, sont dirigés par l'architecte Léon Daurès.\nL’Association cultuelle de l'Église réformée de Toulouse achète la Trésorerie en 1908. L'édifice est alors assez délabré. Des travaux sont faits pour transformer les lieux en temple protestant : pose de vitraux (de Calmels), percement de fenêtres néoclassiques sur la façade, ainsi que d'une grande rose sculptée. Un orgue du facteur Théodore Puget est également installé, ainsi que des tribunes.\nLe monument est classé aux Monuments historiques en mai 19901.\nSur les autres projets Wikimedia :\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Temple du Salin",
+      "yelp_id": "tdwZUGo41CVhPVZyNi1e5Q",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 92.375
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094641-tour-morand.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094641.jpg",
+    "name": "Tour Morand",
+    "address": "56 rue du Taur",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "La tour : classement par arrêté du 12 septembre 1931",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094639-tour-de-guillaume-garreri.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094639.jpg",
+    "name": "Tour de Guillaume Garreri",
+    "address": "30 rue du Languedoc",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Porte : inscription par arrêté du 11 avril 1950",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094642-tour-de-serta.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094642.jpg",
+    "name": "Tour de Serta",
+    "address": "2 rue Saint-Rome",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Tour de Serta (cad. AB 290) : inscription par arrêté du 9 juillet 1980",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0.4444444444444444,
+      "mean_likes": 0.6666666666666666
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094640-tour-des-hauts-murats.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094640.jpg",
+    "name": "Tour des Hauts-Murats",
+    "address": "Place des Hauts-Murats",
+    "coordinates": {
+      "latitude": "43.594646",
+      "longitude": "1.447671"
+    },
+    "city": "Toulouse",
+    "description": "La tour des Hauts-Murats est une vieille tour médiévale de Toulouse. Construite au ive siècle, durant la période romaine, pour renforcer le rempart de la ville, elle est profondément restaurée au cours du Moyen Âge. Durant cette période, un nouveau rempart est reconstruit plus en avant de la tour, qui perd son importance militaire. C'est probablement à ce moment qu'elle devient une prison et reçoit son nom de « Aumurats » ou « Hauts-Murats » ː la prison des Hauts-Murats devient alors une des prisons les plus redoutées de la ville. Au xixe siècle, la prison est restructurée et devient une prison militaire, connue comme la prison Furgole. Les événements les plus dramatiques interviennent durant la Seconde Guerre mondiale, lorsqu'elle sert de prison pour les résistants toulousains. Après la guerre, les bâtiments de la prison et la tour, dévolus à une école d'ingénieurs, sont aujourd'hui au cœur d'une vaste opération immobilière qui vise à remettre en valeur les éléments anciens de la tour et des remparts.\nRare témoignage du rempart romain qui ceinturait la Toulouse romaine et du développement du système défensif de la ville au Moyen Âge, la tour des Hauts-Murats est protégée au titre des monuments historiques depuis 1925. Une nouvelle inscription en 1995 est venue compléter et renforcer cette protection.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 27.64516129032258
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000012-usine-aeronautique-latecoere-de-montaudran.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000012.jpg",
+    "name": "Usine aéronautique Latécoère de Montaudran",
+    "address": "Montaudran, 2 chemin Carrosse 55 avenue Louis-Breguet",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Bâtiment de la salle d'attente des passagers (cad. AH 132) ; les trois nefs des anciennes halles de montage Latécoère (cad. AE 70) ; la piste, dans son emprise actuelle, allant de son extrémité nord-ouest jusqu'au droit sud-est du bâtiment de direction (cad. AH 132) ; façades et toitures du bâtiment de direction appelé château Petit Espinet Raynal et de son aile gauche en retour sur cour (cad. AH 132) (cf plan annexé à l'arrêté) : inscription par arrêté du 21 juillet 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094644-villa-gabes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094644.jpg",
+    "name": "Villa Gabès",
+    "address": "4 grande rue Saint-Michel",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Façades et toitures avec leurs éléments décoratifs (cad. AC 205) : inscription par arrêté du 18 décembre 1981",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 2.5,
+      "mean_likes": 15.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa31000034-ecluse-saint-pierre-sur-le-canal-de-brienne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa31000034.jpg",
+    "name": "Écluse Saint-Pierre sur le canal de Brienne",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "Ecluse (cad. domaine public, non cadastré) : inscription par arrêté du 24 avril 1998",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094518-eglise-notre-dame-de-la-dalbade.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094518.jpg",
+    "name": "Église Notre-Dame de la Dalbade",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.597635",
+      "longitude": "1.442467"
+    },
+    "city": "Toulouse",
+    "description": "L’église Notre-Dame la Dalbade se situe rue de la Dalbade dans le quartier des Carmes à Toulouse. Il ne faut pas la confondre avec la basilique de la Daurade sur le quai du même nom. Son nom actuel provient de l'ancienne église qui la précéda et qui était couverte d'un enduit blanc (de la chaux), lui conférant le nom de Santa Maria dealbata (Sainte-Marie la blanche). L'édifice actuel, assez austère de l'extérieur, est typique de l'architecture gothique méridionale.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Eglise Notre Dame de la Dalbade",
+      "yelp_id": "IOxn71a9o9VFCvm_NuLUkw",
+      "yelp_phone": "+33561255805",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0830",
+              "end": "1230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 391.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094521-eglise-notre-dame-du-taur.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094521.jpg",
+    "name": "Église Notre-Dame du Taur",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6056167",
+      "longitude": "1.4429111"
+    },
+    "city": "Toulouse",
+    "description": "Selon la légende, l'église Notre-Dame-du-Taur, à Toulouse, a été édifiée à l'endroit exact où le corps de saint Saturnin s'est détaché du taureau qui le traînait derrière lui. L'église est située dans la rue du Taur entre la place du Capitole et la basilique Saint-Sernin. Cette église fait l’objet d’un classement au titre des monuments historiques par la liste de 18401.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Notre-Dame du Taur",
+      "yelp_id": "nRegk2fKrD7rgpjRKaDhrA",
+      "yelp_phone": "+33561218045",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1900",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1030",
+              "end": "1230",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 359.7
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094511-eglise-saint-exupere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094511.jpg",
+    "name": "Église Saint-Exupère de Toulouse",
+    "address": "33, 35 allées Jules-Guesde",
+    "coordinates": {
+      "latitude": "43.5937",
+      "longitude": "1.449"
+    },
+    "city": "Toulouse",
+    "description": "L'église Saint-Exupère est une église paroissiale de style baroque qui se situe dans l'ancien quartier de Saint-Michel sur la rive droite de Toulouse. Son petit clocher octogonal abrite un carillon de 14 cloches.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 155.625
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094500-eglise-saint-jerome-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094500.jpg",
+    "name": "Église Saint-Jérôme de Toulouse",
+    "address": "2, rue du Lieutenant-Colonel-Pélissier",
+    "coordinates": {
+      "latitude": "43.6031",
+      "longitude": "1.446389"
+    },
+    "city": "Toulouse",
+    "description": "L'église du Sanctuaire Saint-Jérôme (ancienne chapelle des Pénitents bleus), rue du Lieutenant-Colonel-Pélissier (ancienne rue des Pénitents bleus), est une église construite par la Compagnie royale des Pénitents bleus de Toulouse. Elle a été édifiée au xviie siècle par l'architecte Pierre Levesville sous Louis XIII, premier roi de France membre de la confrérie. Les Pénitents bleus firent appel aux meilleurs artistes de Toulouse pour décorer leur chapelle, qui n'eut pas trop à souffrir de la Révolution française.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 197.4
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094522-eglise-saint-nicolas-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094522.jpg",
+    "name": "Église Saint-Nicolas de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.599271",
+      "longitude": "1.434257"
+    },
+    "city": "Toulouse",
+    "description": "L’église Saint-Nicolas se situe dans le quartier animé de Saint-Cyprien sur la rive gauche de Toulouse.\nL'église fait l’objet d’un classement au titre des monuments historiques depuis le 24 juillet 19861.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 171.475
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094503-eglise-saint-pierre-des-chartreux-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094503.jpg",
+    "name": "Église Saint-Pierre des Chartreux de Toulouse",
+    "address": "Rue Valade",
+    "coordinates": {
+      "latitude": "43.604413",
+      "longitude": "1.436648"
+    },
+    "city": "Toulouse",
+    "description": "L’église Saint-Pierre des Chartreux est une église toulousaine située rue Valade, près de la place Saint-Pierre. Elle doit son nom à la communauté monastique des Chartreux qui l'édifia au début du xviie siècle.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 198.25
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094523-eglise-saint-pierre-des-cuisines.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094523.jpg",
+    "name": "Église Saint-Pierre-des-Cuisines",
+    "address": "Place Saint-Pierre",
+    "coordinates": {
+      "latitude": "43.604166",
+      "longitude": "1.435555"
+    },
+    "city": "Toulouse",
+    "description": "L'église Saint-Pierre-des-Cuisines, située rue de la Boule, à côté de la place Saint-Pierre à Toulouse, est la plus vieille église du sud-ouest de la France. Elle est construite sur une ancienne nécropole gallo-romaine du ive siècle. Elle est classée monument historique depuis 19771 et placée sous la responsabilité du musée Saint-Raymond de Toulouse. Aujourd'hui, elle abrite un auditorium de 400 places pour le conservatoire à rayonnement régional de Toulouse.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 57.975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094517-eglise-des-cordeliers-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094517.jpg",
+    "name": "Église des Cordeliers de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.605498",
+      "longitude": "1.440693"
+    },
+    "city": "Toulouse",
+    "description": "L'église des Cordeliers de Toulouse est l’ancienne église du couvent des Cordeliers à Toulouse. Elle ferme après un incendie en 1798, puis est occupée par l'administration de la guerre jusqu'en 18711 où elle est ravagée par un nouvel incendie. Les ruines de cette église sont classées monument historique depuis 1862.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 160.55
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00094516-eglise-du-calvaire-de-toulouse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00094516.jpg",
+    "name": "Église du Calvaire de Toulouse",
+    "address": "no address",
+    "coordinates": {
+      "Address to geoloc": true
+    },
+    "city": "Toulouse",
+    "description": "L'église (cad. R 108) : inscription par arrêté du 15 octobre 1956",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132670-eglise-du-gesu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132670.jpg",
+    "name": "Église du Gésu de Toulouse",
+    "address": "22 bis rue des Fleurs",
+    "coordinates": {
+      "latitude": "43.594666",
+      "longitude": "1.44673"
+    },
+    "city": "Toulouse",
+    "description": "L’église du Gésu de Toulouse est une église toulousaine située 22 bis rue des Fleurs. Avec ses 23 mètres sous voûte, elle est l’un des grands édifices religieux de Toulouse.\nL'église, y compris les vitraux et le décor peint, fait l’objet d’une inscription au titre des monuments historiques depuis le 7 avril 19941.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 126.6
+  }
+]

@@ -1,71 +1,79 @@
-@media screen and (max-width: 550px) {
-  .container-fiche-city {
+.container-fiche-city {
     display: flex;
     width: 100vw;
     overflow-y: scroll;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 10px;
+    margin: 10px 0;
   }
 
-  .fiche-city {
-    width: 45vw;
-    height: 30vh;
-    margin-right: 10px;
-    border-radius: 3px;
-    margin-top: 20px;
-    background-color: $blue;
-    box-shadow: 2px 2px 2px 1px rgb(200,200,200);
-    img {
-      width: 45vw;
-      height: 23vh;
-      border-top-right-radius: 3px;
-      border-top-left-radius: 3px;
-      object-fit: cover;
-    }
-    h3 {
-      color: white;
-      font-weight: normal;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin: 8px;
 
-    }
+.link-fiche-city:hover {
+  text-decoration: none;
+}
+
+// Extra small devices (576px and down)
+.fiche-city {
+  height: 230px;
+  margin-right: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  transition: all 0.5s ease;
+
+  img {
+    width: 45vw;
+    height: 180px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    object-fit: cover;
+  }
+
+  .city-description {
+    background-color: $blue;
+    transition: all 0.2s ease;
+    padding: 10px 8px;
+    height: 50px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  h2 {
+    color: white;
+    font-weight: 700;
+    margin: 0;
+    font-size: $h2-font-size;
   }
 }
 
-@media screen and (min-width: 551px) {
-    .container-fiche-city {
-    display: flex;
-    width: 100vw;
-    overflow-y: scroll;
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
   .fiche-city {
     width: 30vw;
-    height: 35vh;
-    margin-right: 10px;
-    border-radius: 3px;
-    margin-top: 20px;
-    background-color: $blue;
-    box-shadow: 2px 2px 2px 1px rgb(200,200,200);
+
     img {
       width: 30vw;
-      height: 28vh;
-      border-top-right-radius: 3px;
-      border-top-left-radius: 3px;
-      object-fit: cover;
-    }
-    h3 {
-      color: white;
-      font-weight: normal;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin: 13px;
-      font-size: 20px;
-
     }
   }
 }
 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .fiche-city {
+    width: 25vw;
+
+    img {
+      width: 25vw;
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .fiche-city {
+    width: 20vw;
+
+    img {
+      width: 20vw;
+    }
+  }
+}

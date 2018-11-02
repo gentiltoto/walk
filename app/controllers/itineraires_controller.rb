@@ -32,9 +32,52 @@ class ItinerairesController < ApplicationController
 
   def recap
     @itineraire = Itineraire.find(params[:id])
+    #récupérer les monuments selectionnés
+
+    @monuments = Monument.all
+    #make accessible to JS what is done in recap
+    gon.rabl
+  end
+
+  def supprimer
+    # Find the itineraire
+    @itineraire = Itineraire.find(params[:id])
+    # Find the monument to delete
+    @monument = Monument.find(params[:monument_id])
+    #delete the monument of the itinary
+    @itineraire.monuments.destroy(@monument)
+
+    #permet à la vue de gérer si l'utilisateur utilise JS ou pas
+    respond_to do |format|
+      format.html { redirect_to recap_path(@itineraire) }
+      format.js # will render 'app/views/itineraries/supprimer.js.erb'
+    end
   end
 
   def show
+    @itineraire = Itineraire.find(params[:id])
+    @monuments = @itineraire.monuments
+    coord_initial = compute_array(@monuments)
+    x = []
+    coord_initial.each { |e| x.push(e[0].to_f) }
+    y = []
+    coord_initial.each { |e| y.push(e[1].to_f) }
+    @coord = Voyageur.new(x, y).call
+    @coord = transform(@coord)
+    gon.coordonees = @coord
+  end
 
+  private
+
+  def compute_array(monuments)
+    arr = []
+    monuments.each { |monument| arr.push([monument.latitude, monument.longitude]) }
+    return arr
+  end
+
+  def transform(coord)
+    arr_final = []
+    coord[:latitudes].size.times { |i| arr_final.push([coord[:latitudes][i], coord[:longitudes][i]]) }
+    return arr_final
   end
 end
