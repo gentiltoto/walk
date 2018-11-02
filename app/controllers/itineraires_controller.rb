@@ -34,7 +34,7 @@ class ItinerairesController < ApplicationController
     @itineraire = Itineraire.find(params[:id])
     #récupérer les monuments selectionnés
 
-    @monuments = Monument.all
+    @monuments = @itineraire.monuments
     #make accessible to JS what is done in recap
     gon.rabl
   end
@@ -62,7 +62,7 @@ class ItinerairesController < ApplicationController
     coord_initial.each { |e| x.push(e[0].to_f) }
     y = []
     coord_initial.each { |e| y.push(e[1].to_f) }
-    @coord = Voyageur.new(x, y).call
+    @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
     gon.coordonees = @coord
   end

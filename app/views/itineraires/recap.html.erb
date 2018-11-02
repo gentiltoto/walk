@@ -1,5 +1,5 @@
 <div class="container-recap">
-  <div id="red">MAP</div>
+  <div id="map-final"></div>
 
 
   <div class="container-fiche-delete">
@@ -37,4 +37,6 @@
 </div>
 
 
-
+<% content_for(:js) do %>
+  <% javascript_pack_tag 'choice-mapbox' %>
+<% end %>
