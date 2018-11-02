@@ -1,4 +1,6 @@
 class ItinerairesController < ApplicationController
+  skip_before_action :verify_authenticity_token, only: [:ajout]
+
   def search
     @city = City.find(params[:city_id])
     @itineraire = Itineraire.new(name: @city.name) # Ajout de city au modèle (ou through)
