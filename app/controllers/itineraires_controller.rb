@@ -13,7 +13,7 @@ class ItinerairesController < ApplicationController
   def choice
     @itineraire = Itineraire.find(params[:id])
     # pluck send a array of id
-    @monuments = Monument.where.not(id: @itineraire.monuments.pluck(:id)).order(score: :desc)
+    @monuments = Monument.where(city: @itineraire.city).where.not(id: @itineraire.monuments.pluck(:id)).order(score: :desc)
     # Set the compteur to 0
     @itineraire.update(compteur: 0)
     # Make accessible to JS everything define in choice.json.rabl (in views)
