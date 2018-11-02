@@ -1,5 +1,62 @@
+
+#map-final {
+  position: relative;
+  height: calc(100vh - 60px);
+  width: 100vw;
+  overflow-y: hidden;
+}
+
+
+.fa-times {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 25px;
+}
+
+.under-map {
+  position: absolute;
+  bottom: -500px;
+  height: 25vh;
+  width: 75vw;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+  overflow: hidden;
+  z-index: 99;
+  left: 50%;
+  transform: translate(-50%, 0);
+  transition: 0.5s;
+}
+
+.fiche-final {
+  position: absolute;
+  bottom: -750px;
+  overflow-y: hidden;
+  z-index: 100;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: white;
+  transition: 0.5s;
+  .container-texte-final {
+    position: relative;
+    width: 90vw;
+    color: black;
+    border: 1px solid black;
+  }
+  .close-fiche-monument {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 25px;
+  }
+}
+
+
 .container-map {
   height: calc(~"100vh - 150px");
   width: 100vw;
   color: red;
 }
+

@@ -9,6 +9,7 @@ gem 'puma'
 gem 'rails', '5.2.1'
 gem 'redis'
 gem 'cloudinary'
+gem 'jquery-rails'
 
 
 gem 'autoprefixer-rails'

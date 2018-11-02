@@ -1,8 +1,61 @@
-<div id='map'>
+
+<div id='map-final'>
+
+<%# @monuments.each do |monuemnt| %>
+<!-- ID RENTRE EN DUR POUR LE MOMENT -->
+<!--   ID-0   RECAP    -->
+  <div class='under-map' id='recap-monument-0'>
+    <i class="fas fa-times close-under-map"></i>
+    <h3> Musée d'histoire naturelle de Lille</h3>
+    <div class="btn btn-primary btn-block" id='btn-fiche-0'> afficher la fiche</div>
+  </div>
+
+<!-- ID-0    FICHE RECAP  -->
+
+  <div class="container fiche-final" id='fiche-monument-0'>
+      <%= image_tag("wault.jpg", alt: "monument", class: "monument-image") %>
+    <div class="container-texte-final">
+      <i class="fas fa-times close-fiche-monument"></i>
+      <h2 class="nom-test"></h2>
+      <p>Stars Yelp</p>
+      <p>Le quai du Wault est l'un des deux anciens ports de Lille celui de la haute Deûle avec celui de la Basse-Deûle, actuelle avenue du Peuple Belge. Contrairement à celui-ci, ce bassin est toujours en eau. Ces deux anciens ports qui étaient situés à l'intérieur des enceintes fortifiées font partie du vieux-Lille.e</p>
+      <h3>Horaires d'ouverture</h3>
+      <p>8H 00h</p>
+      <h3>Avis</h3>
+      <p>Super j'ai adoré</p>
+      <p>magnifiik surtout quand il fait beau</p>
+    </div>
+  </div>
 
 
+<!--   ID-1   RECAP    -->
+  <div class='under-map' id='recap-monument-1'>
+    <i class="fas fa-times close-under-map"></i>
+    <h3> Musée d'histoire naturelle de Lille</h3>
+    <div class="btn btn-primary btn-block" id='btn-fiche-1'> afficher la fiche</div>
+  </div>
+
+<!-- ID-1    FICHE RECAP  -->
+
+  <div class="container fiche-final" id='fiche-monument-1'>
+      <%= image_tag("wault.jpg", alt: "monument", class: "monument-image") %>
+    <div class="container-texte-final">
+      <i class="fas fa-times close-fiche-monument"></i>
+      <h2 class="nom-test"></h2>
+      <p>Stars Yelp</p>
+      <p>Le quai du Wault est l'un des deux anciens ports de Lille celui de la haute Deûle avec celui de la Basse-Deûle, actuelle avenue du Peuple Belge. Contrairement à celui-ci, ce bassin est toujours en eau. Ces deux anciens ports qui étaient situés à l'intérieur des enceintes fortifiées font partie du vieux-Lille.e</p>
+      <h3>Horaires d'ouverture</h3>
+      <p>8H 00h</p>
+      <h3>Avis</h3>
+      <p>Super j'ai adoré</p>
+      <p>magnifiik surtout quand il fait beau</p>
+    </div>
+  </div>
 </div>
+
+<%# end %>
 
 <% content_for(:js) do %>
   <% javascript_pack_tag 'itinary-mapbox-direction' %>
 <% end %>
+

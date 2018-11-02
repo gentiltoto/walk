@@ -50,3 +50,11 @@ export function getRoute(map, steps) {
   var duration = data.routes[0].duration
   });
 }
+
+
+export function displayMarker(map) {
+  el.addEventListener("click", () => {
+  map = document.getElementById('map-final');
+  map.insertAdjacentHTML('afterend',miniFiche);
+})
+}
