@@ -1,131 +1,162 @@
 <div class="navbar-walk">
+  <div class="circle-navbar">
 
-  <!-- Navbar for computers -->
-  <div class="navbar-walk-desktop hidden-xs hidden-sm">
-    <div class="navabar-logo logo-desktop">
-      <h1>LOGO</h1>
-    </div>
-
-    <% if user_signed_in? %>
-      <div class="navbar-menu-desktop">
-        <div class="navbar-link">
-          <div class="icon text-center"><i class="fas fa-home"></i></div>
-          <%= link_to "Accueil", root_path %>
-        </div>
-        <div class="navbar-link">
-          <div class="icon text-center"><i class="fas fa-walking"></i></div>
-          <%= link_to "Mes Itinéraires", components_path %>
-        </div>
-        <div class="navbar-link">
-          <div class="icon text-center"><i class="fas fa-info"></i></div>
-          <%= link_to "A propos", components_path %>
-        </div>
-
-        <div class="user-profile-desktop">
-          <div class="dropdown">
-            <%= image_tag "henri.jpg", class: "avatar", data: { toggle: 'dropdown' } %>
-            <ul class="dropdown-menu dropdown-menu-right navbar-walk-dropdown-menu">
-              <li>
-                <div class="drop-item">
-                  <div class="icon text-center"><i class="fas fa-user"></i></div>
-                  <%= link_to "Henri Terrasse", root_path %>
-                </div>
-              </li>
-              <li>
-                <div class="drop-item">
-                  <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
-                  <%= link_to "Déconnexion", destroy_user_session_path, method: :delete %>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-    <% else %>
-      <div class="navbar-walk-right">
-        <div class="navbar-menu-desktop">
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-home"></i></div>
-            <%= link_to "Accueil", root_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-info"></i></div>
-            <%= link_to "A propos", components_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-sign-in-alt"></i></div>
-            <%= link_to "Connexion", new_user_session_path %>
-          </div>
-          <div class="call-to">
-            <%= link_to new_user_registration_path  do %>
-              <%= render "shared/button", calltoaction: "Inscription" %>
-            <% end  %>
-          </div>
-        </div>
-      </div>
-    <% end %>
-  </div>
-
-
-  <!-- Navbar for mobile -->
-  <div class="navbar-walk-mobile hidden-md hidden-lg">
-
-    <div class="drop-menu">
-      <i class="fas fa-bars"></i>
-    </div>
-
-    <h1 class="navbar-logo">LOGO</h1>
-
-    <div id="side-navbar">
-      <div class="close"><i class="fas fa-times"></i></div>
+    <div class="navbar-walk-desktop hidden-xs hidden-sm">
 
       <% if user_signed_in? %>
-        <div class="user-profile-mobile">
-          <%= image_tag "henri.jpg", class: "avatar" %>
-          <h3><%= "Henri Terrasse" %></h3>
+
+
+      <div class="navbar-link">
+        <%= link_to "Accueil", root_path, class: "link-navbar" %>
+      </div>
+
+      <div class="navbar-link">
+        <%= link_to "Mes Itinéraires", root_path, class: "link-navbar" %>
+      </div>
+
+      <div class="navbar-link">
+        <%= link_to "Déconnexion", destroy_user_session_path, method: :delete, class: "link-navbar" %>
+      </div>
+
+
+      <% else %>
+
+
+      <div class="navbar-link">
+        <%= link_to "Accueil", root_path, class: "link-navbar" %>
+      </div>
+
+      <div class="navbar-link">
+        <%= link_to "Connexion", new_user_session_path, class: "link-navbar" %>
+      </div>
+
+      <div class="navbar-link">
+        <%= link_to new_user_registration_path  do %>
+        <%= render "shared/button", calltoaction: "Inscription" %>
+        <% end  %>
+      </div>
+
+
+      <% end %>
+
+    </div>
+
+
+    <div class="navbar-walk-mobile hidden-md hidden-lg">
+
+      <div class="mobile-links">
+        <% if user_signed_in? %>
+
+
+        <div class="navbar-link">
+          <%= link_to "Accueil", root_path, class: "link-navbar" %>
         </div>
 
-        <div class="navbar-menu-mobile">
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-home"></i></div>
-            <%= link_to "Accueil", root_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-walking"></i></div>
-            <%= link_to "Mes Itinéraires", components_path %></div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-info"></i></div>
-            <%= link_to "A propos", components_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
-            <%= link_to "Déconnexion", destroy_user_session_path, method: :delete %>
-          </div>
+        <div class="navbar-link">
+          <%= link_to "Mes Itinéraires", root_path, class: "link-navbar" %>
         </div>
-      <% else %>
-        <div class="call-to-sign-up">
+
+        <div class="navbar-link">
+          <%= link_to "Déconnexion", destroy_user_session_path, method: :delete, class: "link-navbar" %>
+        </div>
+
+
+        <% else %>
+
+
+        <div class="navbar-link">
+          <%= link_to "Accueil", root_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
+          <%= link_to "Connexion", new_user_session_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
           <%= link_to new_user_registration_path  do %>
-            <%= render "shared/button", calltoaction: "Inscription" %>
+          <%= render "shared/button", calltoaction: "Inscription" %>
           <% end  %>
         </div>
 
-        <div class="navbar-menu-mobile">
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-home"></i></div>
-            <%= link_to "Accueil", root_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-info"></i></div>
-            <%= link_to "A propos", components_path %>
-          </div>
-          <div class="navbar-link">
-            <div class="icon text-center"><i class="fas fa-sign-in-alt"></i></i></div>
-            <%= link_to "Connexion", new_user_session_path %>
-          </div>
-        </div>
-      <% end %>
+
+        <% end %>
+      </div>
+
+      <div class="drop-menu">
+        <i class="fas fa-bars"></i>
+      </div>
+
+      <div class="drop-menu-close">
+        <i class="fas fa-times"></i>
+      </div>
+
     </div>
 
+
   </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- Navbar for mobile -->
+<div class="navbar-walk-mobile-ex hidden-md hidden-lg" style="display: none;">
+
+  <div class="drop-menu">
+    <i class="fas fa-bars"></i>
+  </div>
+
+  <h1 class="navbar-logo">LOGO</h1>
+
+  <div id="side-navbar">
+    <div class="close"><i class="fas fa-times"></i></div>
+
+    <% if user_signed_in? %>
+    <div class="user-profile-mobile">
+      <%= image_tag "henri.jpg", class: "avatar" %>
+      <h3>
+        <%= "Henri Terrasse" %>
+      </h3>
+    </div>
+
+    <div class="navbar-menu-mobile">
+      <div class="navbar-link">
+        <div class="icon text-center"><i class="fas fa-home"></i></div>
+        <%= link_to "Accueil", root_path %>
+      </div>
+      <div class="navbar-link">
+        <div class="icon text-center"><i class="fas fa-walking"></i></div>
+        <%= link_to "Mes Itinéraires", components_path %>
+      </div>
+      <div class="navbar-link">
+        <div class="icon text-center"><i class="fas fa-sign-out-alt"></i></div>
+        <%= link_to "Déconnexion", destroy_user_session_path, method: :delete %>
+      </div>
+    </div>
+    <% else %>
+    <div class="call-to-sign-up">
+      <%= link_to new_user_registration_path  do %>
+      <%= render "shared/button", calltoaction: "Inscription" %>
+      <% end  %>
+    </div>
+
+    <div class="navbar-menu-mobile">
+      <div class="navbar-link">
+        <div class="icon text-center"><i class="fas fa-home"></i></div>
+        <%= link_to "Accueil", root_path %>
+      </div>
+      <div class="navbar-link">
+        <div class="icon text-center"><i class="fas fa-sign-in-alt"></i></i></div>
+        <%= link_to "Connexion", new_user_session_path %>
+      </div>
+    </div>
+    <% end %>
+  </div>
+
 </div>
