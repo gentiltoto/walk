@@ -10,9 +10,9 @@
 
 <div class="card">
   <div class="monument-image-div">
-    <%= cl_image_tag(@monument.photo, class: "monument-image-new") %>
+    <%= cl_image_tag(@monuments[0].photo, class: "monument-image-new") %>
   </div>
-  <h2 class="monument-name"><%= @monument.name %></h2>
+  <h2 class="monument-name"><%= @monuments[0].name %></h2>
 
   <div class="choice-maker">
     <div class="choice-validate choice-no">
