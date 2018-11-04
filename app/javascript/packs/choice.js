@@ -94,3 +94,12 @@ $(window).resize(function(event) {
 $("#green-choice").click((event) => {
   event.currentTarget.style.right = "-50px";
 });
+
+$(document).ready(function(){
+    $('#green-choice').transition({
+        debug     : true,
+        animation : 'jiggle',
+        duration  : 500,
+        interval  : 200
+    });
+});
