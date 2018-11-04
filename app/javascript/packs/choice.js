@@ -22,16 +22,6 @@ function addMarker(inp, map) {
   return marker
 }
 
-function appendToDOM(nb) {
-  const imageDiv = $(".monument-image-div");
-  const nameDiv = $(".monument-name");
-
-  imageDiv.html("");
-  nameDiv.html("");
-  imageDiv.append(`<img class="monument-image-new" src="${gonMonuments[nb].photo.url}">`);
-  nameDiv.append(`${gonMonuments[nb].name}`)
-}
-
 function formatCoord(nb) {
   let coord = [parseFloat(gonMonuments[nb].longitude), parseFloat(gonMonuments[nb].latitude)];
   return coord
@@ -67,8 +57,10 @@ if ($(window).width() < 992) {
 
 // Validate buttons handlers
 const choiceNo = $(".choice-no").click((event) => {
+  console.log($(`#monument-${gonMonuments[compteur].id}`));
+  $(`#monument-${gonMonuments[compteur].id}`).transition();
   compteur += 1;
-  appendToDOM(compteur);
+  $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
   defineNewMarker(compteur, mapObject, markerObject);
 });
 const choiceYes = $(".choice-yes").click((event) => {
@@ -79,8 +71,9 @@ const choiceYes = $(".choice-yes").click((event) => {
     success: function() { console.log("Réussi boy!"); },
     error: function() { console.log("Shit!"); }
   });
+  $(`#monument-${gonMonuments[compteur].id}`).transition('fly right');
   compteur += 1;
-  appendToDOM(compteur);
+  $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
   defineNewMarker(compteur, mapObject, markerObject);
 });
 

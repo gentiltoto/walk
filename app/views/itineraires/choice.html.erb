@@ -2,23 +2,24 @@
 
 <div id="map"></div>
 
-<div class="card">
-  <div class="monument-image-div">
-    <%= cl_image_tag(@monuments[0].photo, class: "monument-image-new") %>
-  </div>
-  <h2 class="monument-name"><%= @monuments[0].name %></h2>
 
-  <div class="choice-maker">
-    <div class="choice-validate choice-no">
-      <%= image_tag "close.svg" %>
+<% @monuments.each_with_index do |monument, index| %>
+  <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" unless index.zero? %>">
+    <div class="monument-image-div">
+      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
     </div>
-    <div class="choice-validate choice-yes">
-      <%= image_tag "check.svg" %>
+    <h2 class="monument-name"><%= monument.name %></h2>
+
+    <div class="choice-maker">
+      <div class="choice-validate choice-no">
+        <%= image_tag "close.svg" %>
+      </div>
+      <div class="choice-validate choice-yes">
+        <%= image_tag "check.svg" %>
+      </div>
     </div>
   </div>
-
-</div>
-
+<% end %>
 
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'choice' %>
