@@ -4,7 +4,7 @@
 
 
 <% @monuments.each_with_index do |monument, index| %>
-  <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" unless index.zero? %>">
+  <div class="card" id="monument-<%= monument.id %>" style="<%= "display: none;" unless index.zero? %>">
     <div class="monument-image-div">
       <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
     </div>

@@ -57,10 +57,12 @@ if ($(window).width() < 992) {
 
 // Validate buttons handlers
 const choiceNo = $(".choice-no").click((event) => {
-  console.log($(`#monument-${gonMonuments[compteur].id}`));
-  $(`#monument-${gonMonuments[compteur].id}`).transition();
+  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly left');
+  $(`#monument-${gonMonuments[compteur].id}`).hide();
   compteur += 1;
-  $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
+  console.log(gonMonuments[compteur].id);
+  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
+  $(`#monument-${gonMonuments[compteur].id}`).show();
   defineNewMarker(compteur, mapObject, markerObject);
 });
 const choiceYes = $(".choice-yes").click((event) => {
@@ -71,9 +73,11 @@ const choiceYes = $(".choice-yes").click((event) => {
     success: function() { console.log("Réussi boy!"); },
     error: function() { console.log("Shit!"); }
   });
-  $(`#monument-${gonMonuments[compteur].id}`).transition('fly right');
+  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly right');
+  $(`#monument-${gonMonuments[compteur].id}`).hide();
   compteur += 1;
-  $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
+  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
+  $(`#monument-${gonMonuments[compteur].id}`).show();
   defineNewMarker(compteur, mapObject, markerObject);
 });
 
@@ -95,11 +99,10 @@ $("#green-choice").click((event) => {
   event.currentTarget.style.right = "-50px";
 });
 
-$(document).ready(function(){
-    $('#green-choice').transition({
-        debug     : true,
-        animation : 'jiggle',
-        duration  : 500,
-        interval  : 200
-    });
+
+$('#green-choice').transition({
+    debug     : true,
+    animation : 'jiggle',
+    duration  : 500,
+    interval  : 200
 });
