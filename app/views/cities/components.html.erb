@@ -1,2 +1,40 @@
-<%= render "/itineraires/show" %>
+<div id="grey-linear">
 
+</div>
+
+
+<div id="green-choice">
+
+</div>
+
+<div id="map">
+
+</div>
+
+
+<div class="card">
+  <div class="monument-image-div">
+    <%= cl_image_tag(@monuments[0].photo, class: "monument-image-new") %>
+  </div>
+  <h2 class="monument-name"><%= @monuments[0].name %></h2>
+
+  <div class="choice-maker">
+    <div class="choice-validate choice-no">
+      <%= image_tag "close.svg" %>
+    </div>
+    <div class="choice-validate choice-yes">
+      <%= image_tag "check.svg" %>
+    </div>
+  </div>
+
+</div>
+
+
+<div id="purple-linear">
+
+</div>
+
+
+<% content_for(:js) do %>
+  <%= javascript_pack_tag 'components' %>
+<% end %>

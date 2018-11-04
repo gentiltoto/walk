@@ -2,6 +2,8 @@ class CitiesController < ApplicationController
   skip_before_action :authenticate_user!, only: [:home, :components]
 
   def components
+    @monuments = Monument.where(city: "1")
+    gon.monuments = @monuments
   end
 
   def home
