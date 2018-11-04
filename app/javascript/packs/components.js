@@ -88,3 +88,9 @@ $(window).resize(function(event) {
     markerObject = addMarker(formatCoord(compteur), mapObject);
   }
 });
+
+
+// Button listener
+$("#green-choice").click((event) => {
+  event.currentTarget.style.right = "-50px";
+});

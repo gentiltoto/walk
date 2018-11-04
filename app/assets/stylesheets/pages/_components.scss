@@ -1,20 +1,3 @@
-#grey-linear {
-  background: linear-gradient(180deg, rgba(118, 118, 121, 1), rgba(182, 182, 182, 0.1233), rgba(182, 182, 182, 0.1233), rgba(204, 204, 204, 0));
-  height: 200px;
-  width: 100vw;
-  position: absolute;
-  z-index: 200;
-}
-
-#purple-linear {
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(145, 21, 242, 0.25));
-  height: 150px;
-  width: 100vw;
-  position: absolute;
-  z-index: 200;
-  bottom: 0;
-}
-
 #map {
   position: absolute;
   z-index: 10;
@@ -85,7 +68,7 @@
 
 .monument-name {
   margin: 0;
-  font-size: 25px;
+  font-size: 20px;
   padding: 0 12px;
   color: rgba(66, 66, 114, 1);
   position: absolute;
@@ -116,6 +99,7 @@
   img {
     height: 40px;
     width: 40px;
+    stroke-width: 1;
   }
 }
 
@@ -125,4 +109,17 @@
 
 .choice-no {
   border-right: 0.5px dashed white;
+}
+
+
+#green-choice {
+  height: 100px;
+  width: 200px;
+  position: absolute;
+  z-index: 500;
+  top: 30%;
+  right: -150px;
+  border-radius: 50px;
+  background-color: #36E672;
+  transition: all 0.2s ease;
 }
