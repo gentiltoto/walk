@@ -57,12 +57,12 @@ if ($(window).width() < 992) {
 
 // Validate buttons handlers
 const choiceNo = $(".choice-no").click((event) => {
-  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly left');
-  $(`#monument-${gonMonuments[compteur].id}`).hide();
+  $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition in fly up");
+  $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition out fly right");
   compteur += 1;
   console.log(gonMonuments[compteur].id);
-  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
-  $(`#monument-${gonMonuments[compteur].id}`).show();
+  $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition out fly right")
+  $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition in fly up");
   defineNewMarker(compteur, mapObject, markerObject);
 });
 const choiceYes = $(".choice-yes").click((event) => {
@@ -73,11 +73,11 @@ const choiceYes = $(".choice-yes").click((event) => {
     success: function() { console.log("Réussi boy!"); },
     error: function() { console.log("Shit!"); }
   });
-  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly right');
-  $(`#monument-${gonMonuments[compteur].id}`).hide();
+  $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition in fly up");
+  $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition out fly left");
   compteur += 1;
-  // $(`#monument-${gonMonuments[compteur].id}`).transition('fly up');
-  $(`#monument-${gonMonuments[compteur].id}`).show();
+  $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition out fly right")
+  $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition in fly up");
   defineNewMarker(compteur, mapObject, markerObject);
 });
 
@@ -97,12 +97,4 @@ $(window).resize(function(event) {
 // Button listener
 $("#green-choice").click((event) => {
   event.currentTarget.style.right = "-50px";
-});
-
-
-$('#green-choice').transition({
-    debug     : true,
-    animation : 'jiggle',
-    duration  : 500,
-    interval  : 200
 });
