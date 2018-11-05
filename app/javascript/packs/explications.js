@@ -15,9 +15,3 @@ function map(inp, offset0, offset1) {
 // map([gon.city.lat], 0, 0)
 map([3.0667,50.6333], 0, 0)
 
-// event listener sur le bouton vert
-
-  $("#green-choice").click((event) => {
-    event.currentTarget.style.right = "-50px";
-  });
-
