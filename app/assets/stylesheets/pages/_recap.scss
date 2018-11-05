@@ -6,7 +6,7 @@
   }
 
   .delete-card {
-    top: -325%;
+    top: -105%;
   }
 
   .arrow-container {
@@ -25,7 +25,7 @@
   }
 
   .delete-card {
-    top: -300%;
+    top: -87%;
   }
 
   .arrow-container {
@@ -70,11 +70,10 @@
 
 .delete-card {
   position: relative;
-  right: -100%;
+  right: -94%;
   width: 30px;
   margin: 0;
   border-radius: 50%;
-  background-color: lightgray;
   display: flex;
   justify-content: center;
   cursor: pointer;
@@ -82,6 +81,6 @@
 
   i {
     font-size: 30px;
-    color: red;
+    color: #FB838D;
   }
 }
