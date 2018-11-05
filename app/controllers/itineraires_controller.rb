@@ -53,6 +53,7 @@ class ItinerairesController < ApplicationController
     gon.itineraire = @itineraire
   end
 
+  # A ENLEVER
   def supprimer
     # Find the itineraire
     @itineraire = Itineraire.find(params[:id])

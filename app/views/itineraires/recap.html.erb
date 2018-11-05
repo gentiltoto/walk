@@ -28,8 +28,9 @@
     <div class="left-arrow"><%= image_tag "arrow_left.svg", class: "img-arrow-left" %></div>
     <div class="right-arrow"><%= image_tag "arrow_right.svg", class: "img-arrow-right" %></div>
 
-    <%= link_to "Text", delete_path(@itineraire, monument.id), method: :delete, class: "delete-card" %>
-
+    <%= link_to delete_path(@itineraire, monument.id), method: :delete, class: "delete-card" do %>
+      <i class="fas fa-times"></i>
+    <% end %>
   </div>
   <% end %>
 </div>

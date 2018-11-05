@@ -28,7 +28,7 @@ function formatCoord(nb) {
 }
 
 function defineNewMarker(nb, map, marker) {
-  markerObject.remove()
+  $("#marker-0").remove();
   markerObject = addMarker(formatCoord(nb), mapObject);
   let flyToObject;
   if ($(window).width() < 992) {
@@ -49,11 +49,9 @@ const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
   mapObject = map(formatCoord(compteur), 0, 0.002);
-  markerObject.remove()
   markerObject = addMarker(formatCoord(compteur), mapObject);
 } else {
   mapObject = map(formatCoord(compteur), 0.007, 0);
-  markerObject.remove()
   markerObject = addMarker(formatCoord(compteur), mapObject);
 }
 
