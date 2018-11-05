@@ -1,12 +1,26 @@
 #map {
-  width: 45vw;
-  height: 45vh;
+  position: absolute;
+  z-index: 10;
+  height: 100vh;
+  width: 100vw;
 }
 
 .marker {
-  background-image: asset-url('icons8-marker-50.png');
-  background-size: cover;
-  width: 50px;
-  height: 50px;
+  mask-image: asset-url("map-marker-alt-solid.svg");
+  background-color: black;
+  mask-size: cover;
+  width: 30px;
+  height: 40px;
   cursor: pointer;
+  z-index: 500;
+}
+
+.marker-focus {
+  mask-image: asset-url("map-marker-alt-solid.svg");
+  background-color: #414171;
+  mask-size: cover;
+  width: 40px;
+  height: 53px;
+  cursor: pointer;
+  z-index: 501;
 }
