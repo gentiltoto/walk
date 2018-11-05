@@ -60,6 +60,7 @@ class ItinerairesController < ApplicationController
   def show
     @itineraire = Itineraire.find(params[:id])
     @monuments = @itineraire.monuments
+    @ids = @monuments.map { |monument| monument.id }
     coord_initial = compute_array(@monuments)
     x = []
     coord_initial.each { |e| x.push(e[0].to_f) }
@@ -68,6 +69,9 @@ class ItinerairesController < ApplicationController
     @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
     gon.coordonees = @coord
+    gon.monuments = @monuments
+    gon.ids = @ids
+
   end
 
   private
