@@ -6,56 +6,125 @@
   overflow-y: hidden;
 }
 
-
-// .fa-times {
-//   position: absolute;
-//   top: 15px;
-//   right: 15px;
-//   font-size: 25px;
-// }
-
-.under-map {
+.fermeture-minirecap {
   position: absolute;
-  bottom: -500px;
-  height: 25vh;
-  width: 75vw;
-  background-color: white;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  padding: 10px;
-  overflow: hidden;
-  z-index: 99;
-  left: 50%;
-  transform: translate(-50%, 0);
-  transition: 0.5s;
+  right: 15px;
 }
 
-.fiche-final {
-  position: absolute;
-  bottom: -750px;
-  overflow-y: hidden;
-  z-index: 100;
-  left: 50%;
-  transform: translate(-50%, 0);
-  background-color: white;
-  transition: 0.5s;
-  .container-texte-final {
-    position: relative;
-    width: 90vw;
-    color: black;
-    border: 1px solid black;
-  }
-  .close-fiche-monument {
-    position: absolute;
-    top: 15px;
-    right: 15px;
+
+
+.fa-chevron-circle-up {
     font-size: 25px;
-  }
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
+.fa-chevron-circle-down {
+    font-size: 25px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
 
 .container-map {
   height: calc(~"100vh - 150px");
   width: 100vw;
   color: red;
+}
+
+.card-recap-final {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  z-index: 300;
+  padding: 12px;
+  display: none;
+}
+
+.sous-card-recap-final {
+  position: relative;
+}
+
+@media (max-width: 992px) {
+
+  .container-metrics {
+    position: relative;
+    width: 80vw;
+    padding-left: 10px;
+  }
+
+  .metrics {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgba(#6F70EE, 0.21);
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    z-index: 300;
+    padding: 12px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: 0;
+    width: 350px;
+    height: 40px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    p {
+      margin: 0px;
+    }
+  }
+
+  .card-recap-final {
+    height: 200px;
+    width: 350px;
+    left: 50%;
+    margin-left: -175px;
+    top: 70%;
+    margin-top: -100px;
+  }
+}
+
+@media (min-width: 992px) {
+
+  .container-metrics {
+    position: relative;
+    width: 550px;
+    padding-left: 15px;
+  }
+  .metrics {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgba(#6F70EE, 0.21);
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    z-index: 300;
+    padding: 12px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: 0;
+    width: 500px;
+    height: 40px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    p {
+      margin: 0px;
+    }
+  }
+
+  .card-recap-final {
+    height: 400px;
+    width: 500px;
+    left: 50%;
+    margin-left: -250px;
+    top: 50%;
+    margin-top: -200px;
+  }
 }
