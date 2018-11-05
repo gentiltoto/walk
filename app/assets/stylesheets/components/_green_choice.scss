@@ -1,35 +1,46 @@
 #green-choice {
-  height: 100px;
-  width: 200px;
-  position: absolute;
-  z-index: 500;
-  top: 30%;
-  right: -150px;
-  border-radius: 50px;
-  background-color: #36E672;
-  transition: all 0.2s ease;
   display: flex;
-  padding: 0 50px;
+  position: absolute;
+  z-index: 900;
+  right: 0;
+  top: 30%;
+  height: 100px;
+}
+
+.green-choice-circle {
+  height: 100%;
+  width: 50px;
+  background-color: #36E672;
+  border-radius: 50px 0 0 50px;
+  display: flex;
   justify-content: center;
   align-items: center;
-
-  a {
-    color: white;
-    font-weight: 700;
-  }
-
-  .green-choice-i-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    top: 0;
-    right: 35px;
-    margin: 0;
-  }
 
   .green-choice-i {
     color: white;
     font-size: 25px;
+  }
+}
+
+.green-choice-container {
+  transition: all 0.2s ease;
+  background-color: #36E672;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.1s ease;
+
+  a {
+    display: none;
+    color: white;
+    font-weight: 700;
+    padding: 0 6px;
+    transition: all 0.1s ease;
+
+    &:hover {
+      color: white;
+      transform: scale(1.05);
+      transition: all 0.1s ease;
+    }
   }
 }
