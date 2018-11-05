@@ -82,7 +82,7 @@ if ($(window).width() < 992) {
   mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 50, right: 50});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
-  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 100, bottom: 300, left: 50, right: 50});
+  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 150, bottom: 300, left: 120, right: 30});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 }
 
