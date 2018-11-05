@@ -1,19 +1,25 @@
 <div id="green-choice">
-  <div class="green-choice-i-container">
+  <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
   </div>
-  <%= link_to "Je valide mon itinéraire", itinary_path(@itineraire), class: "choice-made" %>
+  <div class="green-choice-container">
+    <%= link_to "Je valide mon itinéraire", itinary_path(@itineraire), class: "choice-made" %>
+  </div>
 </div>
 
 <div id="map"></div>
 
-<div class="ball-monuments">
-  <% @monuments.each do |monument| %>
-    <div class="ball-monument" id="<%= "ball-#{monument.id}" %>"></div>
-  <% end %>
-</div>
 
-<% @monuments.each_with_index do |monument, index| %>
+
+<div class="cards">
+  <div class="ball-monuments">
+    <% @monuments.each do |monument| %>
+    <div class="ball-monument" id="<%= "ball-#{monument.id}" %>"></div>
+    <% end %>
+  </div>
+
+
+  <% @monuments.each_with_index do |monument, index| %>
   <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden" unless index.zero? %>">
     <div class="monument-image-div">
       <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
@@ -22,7 +28,8 @@
     <div class="left-arrow"><%= image_tag "arrow_left.svg", class: "img-arrow-left" %></div>
     <div class="right-arrow"><%= image_tag "arrow_right.svg", class: "img-arrow-right" %></div>
   </div>
-<% end %>
+  <% end %>
+</div>
 
 
 <% content_for(:js) do %>
