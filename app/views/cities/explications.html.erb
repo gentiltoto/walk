@@ -49,7 +49,10 @@
   </div>
 
   <div id="green-choice">
-    <%= link_to "C'est parti", post_city_path(@city) %>
+    <div class="green-choice-i-container">
+      <i class="far fa-check-circle green-choice-i"></i>
+    </div>
+    <%= link_to "C'est parti", post_city_path(@city), class: "choice-made", method: :post %>
   </div>
 
 </div>
@@ -58,4 +61,3 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'explications' %>
 <% end %>
-

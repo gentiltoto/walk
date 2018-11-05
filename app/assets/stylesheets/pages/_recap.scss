@@ -15,8 +15,12 @@
   height: 20px;
   width: 20px;
   border-radius: 50%;
-  background-color: #9877BE;
+  background-color: #6F70EE;
   cursor: pointer;
+}
+
+.ball-monument-focus {
+  background-color: black !important;
 }
 
 .left-arrow {
