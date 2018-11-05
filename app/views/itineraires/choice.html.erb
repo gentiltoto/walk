@@ -1,10 +1,16 @@
 <div id="green-choice">
-  <%= link_to "J'ai choisi mes monuments", recap_path(@itineraire), class: "choice-made" %>
+  <div class="green-choice-circle">
+    <i class="far fa-check-circle green-choice-i"></i>
+  </div>
+  <div class="green-choice-container">
+    <%= link_to "J'ai choisi mes monuments", recap_path(@itineraire), class: "choice-made" %>
+  </div>
 </div>
+
 
 <div id="map"></div>
 
-
+<div class="cards">
 <% @monuments.each_with_index do |monument, index| %>
   <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" unless index.zero? %>">
     <div class="monument-image-div">
@@ -22,6 +28,7 @@
     </div>
   </div>
 <% end %>
+</div>
 
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'choice' %>

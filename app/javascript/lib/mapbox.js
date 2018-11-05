@@ -1,7 +1,7 @@
 //Fonction qui affiche la map dans la div "map".
 //Array d'array de coordonnée, pour centrer la carte comme il le faut.
 
-export function map(inp) {
+export function map(coord, ids) {
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A'
   var map = new mapboxgl.Map({
     container: 'map-final',
@@ -13,9 +13,9 @@ export function map(inp) {
   });
 
   // Réduit inp en une seule géoloc puis centre la carte sur cette localisation
-  var bounds = inp.reduce(function(bounds, coord) {
+  var bounds = coord.reduce(function(bounds, coord) {
     return bounds.extend(coord);
-    }, new mapboxgl.LngLatBounds(inp[0], inp[0]));
+    }, new mapboxgl.LngLatBounds(coord[0], coord[0]));
 
   map.fitBounds(bounds, {
       padding: 50
@@ -23,12 +23,12 @@ export function map(inp) {
 
 // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
 
-  inp.forEach((coord, index) => {
+  ids.forEach((id, index) => {
     let el = document.createElement('div');
-    el.id = `marker-${index}`; // L'ID du marker devra être celui du monument dans la DATABASE
+    el.id = `marker-id-${id}`; // L'ID du marker devra être celui du monument dans la DATABASE
     el.classList.add("marker");
     new mapboxgl.Marker(el)
-      .setLngLat(coord)
+      .setLngLat(coord[index])
       .addTo(map)
   })
 
@@ -37,41 +37,68 @@ export function map(inp) {
 
 // Fonction qui affiche un recap lorsqu'on clic sur des markers. id = array des ID des monuments dans la DB affichés sur la map
 export function eventListener(ids) {
-// Mise en place des events listener sur les recaps
+// Mise en place des events listener sur les markers pour afficher un mini recap
+  var monuments = gon.monuments
   ids.forEach((id) => {
-    document.getElementById(`marker-${id}`).addEventListener("click", () => {
-      document.getElementById(`recap-monument-${id}`).style.bottom = "0px";
-    });
-  });
-// Faire rentrer tous les recap lorsqu'on clic sur la croix (= repositionner tous les recap à - 1000)
-  document.querySelectorAll(".close-under-map").forEach((e) => {
-    e.addEventListener("click", () => {
-      document.querySelectorAll(".under-map").forEach((e) => {
-        e.style.bottom = "-1000px";
-      });
+    console.log(id)
+    document.getElementById(`marker-id-${id}`).addEventListener("click", () => {
+      document.querySelector(".metrics").innerHTML = "";
+      var name = monuments.find((monument) => {return monument.id === id});
+      document.querySelector(".metrics").innerHTML = `
+        <div class="container-metrics">
+        <h5> ${name.name} </h5>
+        <i class="fas fa-chevron-circle-up id="open-id-${id}"></i>
+        </div>`;
+      document.querySelector(".fa-chevron-circle-up").addEventListener("click", () => {
+        document.getElementById(`id-${id}`).style.display = "block";
+        // Faire rentrer tous les recap lorsqu'on clic sur la croix
+        document.querySelectorAll(".fa-chevron-circle-down").forEach((e) => {
+          e.addEventListener("click", () => {
+            document.getElementById(`id-${id}`).style.display = "none";
+          })
+        })
+      })
     });
   });
 
-// Affiche la fiche établissement lorsque le bouton dans le recap est utilisé
-  // Mise en place des events listener sur les boutons fiche
-  ids.forEach((id) => {
-    document.getElementById(`btn-fiche-${id}`).addEventListener("click", () => {
-      document.getElementById(`fiche-monument-${id}`).style.bottom = "0px";
-    });
-  });
 
-// Rabaisse toutes les fiches
-  document.querySelectorAll(".close-fiche-monument").forEach((e) => {
+
+
+// Remise en place de la div metrics
+  document.querySelectorAll(".fermeture-minirecap").forEach((e) => {
     e.addEventListener("click", () => {
-      document.querySelectorAll(".fiche-final").forEach((e) => {
-        e.style.bottom = "-1000px";
-      })
-      document.querySelectorAll(".under-map").forEach((e) => {
-        e.style.bottom = "-1000px";
-      })
+      metrics.innerHTML("")
+      metrics.innerHTML(`
+      <div class='metrics'>
+        <p>
+        <b>Distance :</b> ${distance}
+        <b>Temps de trajet :</b> ${duration}
+        </p>
+      </div>`)
     });
   });
 }
+
+  // Affiche la fiche établissement lorsque le bouton dans le recap est utilisé
+  // Mise en place des events listener sur les boutons fiche
+//   ids.forEach((id) => {
+//     document.getElementById(`btn-fiche-${id}`).addEventListener("click", () => {
+//       document.getElementById(`fiche-monument-${id}`).style.bottom = "0px";
+//     });
+//   });
+
+// // Rabaisse toutes les fiches
+//   document.querySelectorAll(".close-fiche-monument").forEach((e) => {
+//     e.addEventListener("click", () => {
+//       document.querySelectorAll(".fiche-final").forEach((e) => {
+//         e.style.bottom = "-1000px";
+//       })
+//       document.querySelectorAll(".under-map").forEach((e) => {
+//         e.style.bottom = "-1000px";
+//       })
+//     });
+//   });
+// }
 
 
 //Fonction qui affiche un marker dans la map. CETTE FONCTION A ETE IMPLEMENTE DANS MAP

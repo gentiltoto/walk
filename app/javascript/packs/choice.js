@@ -95,15 +95,14 @@ $(window).resize(function(event) {
 
 
 // Button listener
-// Button listener
 let clicks = 0;
 $("#green-choice").click((event) => {
   if (clicks % 2 === 0) {
-    event.currentTarget.style.right = "-50px";
+    $(".choice-made").show();
     $(".green-choice-i").removeClass('far fa-check-circle').addClass('fas fa-times');
     clicks += 1;
   } else {
-    event.currentTarget.style.right = "-150px";
+    $(".choice-made").hide();
     $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
     clicks += 1;
   }
