@@ -1,68 +1,146 @@
-
-.wrapper-explications {
-  background-image: asset-url("sign-background.jpg");
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: calc(100vh - 60px);
+.page-explications {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  z-index: 500;
+  // background-color: blue;
   display: flex;
-  align-items: center
+  justify-content: space-around;
 }
 
-.text-explications {
-  text-align: center;
-
-}
-
-.btn-ok {
+.placement {
+  overflow-x: scroll;
   position: absolute;
-  bottom: 10px;
+  top: 120px;
+  height: 78vh;
 }
 
-.validate {
-  margin-top: 15px
-}
-
-
-.content-explications {
-  height: 75vh;
-  color: white;
-  border-radius: $border-radius-base;
-  background-color: $blue;
-  position: relative
-
-}
-
-.card {
+.encart {
+  // faire une media queries dessus
   background-color: white;
+  z-index: 550;
+  width: 70vw;
+  height: 20vh;
+  border-radius: 10px;
+  // border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  margin-bottom: 20px;
+
+  display: flex;
+}
+
+.bouton-explics {
+  flex: 0 0 20%;
+}
+
+.text-explics {
+  flex: 1 0 auto;
+  width: calc(70vw - 20%);
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+
+  p {
+    margin-bottom: 0px;
+  }
+}
+
+#green-choice-explics {
+  height: 100px;
+  width: 200px;
+  border-radius: 50px;
+  background-color: #36E672;
 
 }
 
-// For Mobile
-@media (max-width: 768px) {
-  .card {
-    height: 20vh;
-  }
-  .position-valid-button {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px
-  }
+.explics-image {
+  height: 18vh;
+  width: 14vw;
 }
 
-// For Desktop
-@media (min-width: 768px) {
-  .card {
-    height: 40vh
-  }
-  .position-valid-button {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 12px
-}
-}
+
+
+
+
+
+
+
+
+
+
+
+// #map {
+//   position: relative;
+//   z-index: 10;
+//   height: 100vh;
+//   width: 100vw;
+// }
+
+// .card-explics {
+// background-color: red;
+// position: absolute;
+// top: 100px;
+
+// }
+
+// .cards-explics {
+// position: absolute;
+// z-index: 300;
+// }
+
+// .card-explics {
+//   background-color: white;
+//   border-radius: 10px;
+//   border: 1px solid rgba(#6F70EE, 0.21);
+//   box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+//   position: absolute;
+//   z-index: 300;
+//   padding: 12px;
+// }
+
+// // For mobile
+// @media (max-width: 992px) {
+//   .card-explics {
+//     height: 200px;
+//     width: 350px;
+//     left: 50%;
+//     margin-left: -175px;
+//     top: 70%;
+//     margin-top: -100px;
+//   }
+
+//   .monument-image-div {
+//     height: 140px;
+//     width: 140px;
+//   }
+
+//   .monument-name {
+//     left: 160px;
+//   }
+// }
+
+// // For Desktop
+// @media (min-width: 992px) {
+//   .card-explics {
+//     height: 400px;
+//     width: 500px;
+//     left: 25%;
+//     margin-left: -250px;
+//     top: 50%;
+//     margin-top: -200px;
+//   }
+
+//   .monument-image-div {
+//     height: 200px;
+//     width: 200px;
+//   }
+
+//   .monument-name {
+//     left: 250px;
+//   }
+// }
+
+
 
 
 
