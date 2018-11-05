@@ -39,7 +39,7 @@
     color: white;
     font-weight: 700;
     margin: 0;
-    font-size: $h2-font-size;
+
   }
 }
 
@@ -54,6 +54,16 @@
       width: 30vw;
     }
   }
+  h3 {
+    font-size: 18px;
+  }
+
+  .city-description {
+    padding: 0px;
+    position: absolute;
+    bottom: -16px;
+    left: 17px;
+  }
 }
 
 //desktop
@@ -62,6 +72,9 @@
     width: 20vw;
     height: 230px;
 
+  h3 {
+    font-size: $h2-font-size;
+  }
 
     img {
       width: 20vw;

@@ -1,7 +1,24 @@
+.city-home-wrapper {
+  width: 100vw;
+}
+
+.presentation-wrapper {
+  background-image: linear-gradient(rgba(216, 191, 216, 0.7), rgba(255, 255, 255, 0.4)), asset-url('paris-2.jpg');
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+
+  p {
+    color: white
+  }
+}
+
+
 // Specific CSS for your home-page
 .home-wrapper {
   background-image: linear-gradient(rgba(216, 191, 216, 0.2), rgba(255, 255, 255, 0.4)), asset-url('fond.jpg');
-  height: 57vh;
   width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,11 +28,50 @@
 
 }
 
+// for small devices but not mobile
+@media only screen and (min-width: 768px) {
+  .city-home-wrapper {
+    height: 100vh
+  }
+}
+
 // for desktop
 @media (min-width: 992px) {
   .home-wrapper {
     height: 70vh;
     background-position: center;
+  }
+
+  .presentation-wrapper {
+    height: 70vh;
+    background-position:  top;
+
+
+  }
+
+  .city-home-wrapper {
+    height: 70vh
+  }
+}
+
+// for mobile
+@media (max-width: 992px) {
+  .home-wrapper {
+    height: 50vh;
+    background-position: center;
+  }
+
+  .presentation-wrapper {
+    height: 35vh;
+
+    h2 {
+      font-size: 25px;
+    }
+
+  }
+
+  .city-home-wrapper {
+    height: 45vh
   }
 }
 
@@ -52,18 +108,7 @@
 }
 
 .home-presentation {
-  margin: 5px;
-  padding: 55px 15px;
-}
-
-.home-footer {
-  height: 70px;
-  width: 100vw;
-  background-color: $blue;
-  padding: 15px 10px;
   display: flex;
-  justify-content: center;
-  align-items: center;
 
-  p { margin: 0; }
 }
+
