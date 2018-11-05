@@ -13,16 +13,15 @@
   background-color: rgba(111, 112, 238, 0.6);
   position: relative;
   transition: all 0.5s ease;
-  // opacity: 0.33;
 }
 
 // For Desktop
 @media (min-width: 992px) {
   .circle-navbar {
-    height: 500px;
-    width: 500px;
-    top: -200px;
-    border-radius: 20%;
+    height: 400px;
+    width: 400px;
+    top: -150px;
+    border-radius: 50%;
   }
 
   .navbar-walk-desktop {
