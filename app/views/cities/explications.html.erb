@@ -1,11 +1,17 @@
+
+
 <div class="page-explications">
 
+
+  <div id="map-explics">
+
+  </div>
 
   <div class="placement">
 
     <div class="encart">
       <div class="bouton-explics">
-        <%= image_tag("choix.png", alt: "carte-ville", class: "explics-image") %>
+        <%= image_tag("choix.png", alt: "carte-ville", id: "image-validate-explics") %>
       </div>
       <div class="text-explics">
       <p>Les fiches de monuments vont être affichées. Je peux donc valider celles que je souhaite.</p>
@@ -14,7 +20,7 @@
 
     <div class="encart">
       <div class="bouton-explics">
-        <%= image_tag("bouton-vert.png", alt: "carte-ville", class: "explics-image") %>
+        <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
       </div>
       <div class="text-explics">
         <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert.</p>
@@ -42,19 +48,11 @@
 
   </div>
 
-<div id="green-choice">
+  <div id="green-choice">
+    <%= link_to "C'est parti", post_city_path(@city) %>
+  </div>
 
 </div>
-
-
-
-
-</div>
-
-<!--
- <%= link_to post_city_path(@city), method: :post do %>
-    <%= render "shared/button", calltoaction: "C'est parti!" %>
-  <% end  %> -->
 
 
 <% content_for(:js) do %>

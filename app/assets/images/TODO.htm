@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)http://localhost:3000/explications/Lille -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>TODO</title>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="tdWBw7EobmPOcyjingaIoDssJpxBZZoXM+XZuXs9iIe/6nwg72wddWwLYe7E860gmyf5n9y2Vapj3OHKvOZQFA==">
+    <meta name="action-cable-url" content="/cable">
+    <link rel="stylesheet" media="all" href="./TODO_files/application-92d4d4ede590daec0f2c5d1ff8e752f390c0afe437fc43b401ca2e8df06918bc.css">
+
+    <link rel="stylesheet" href="./TODO_files/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+
+
+     <!-- Uncomment if you import CSS in app/javascript/packs/application.js -->
+
+
+    
+    <script src="./TODO_files/mapbox-gl.js"></script>
+    <link href="./TODO_files/mapbox-gl.css" rel="stylesheet">
+
+    <!-- <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script> -->
+
+  </head>
+  <body>
+    <div id="grey-linear"></div>
+    <div class="navbar-walk">
+  <div class="circle-navbar">
+
+    <div class="navbar-walk-desktop hidden-xs hidden-sm">
+
+
+
+      <div class="navbar-link">
+        <a class="link-navbar" href="http://localhost:3000/">Accueil</a>
+      </div>
+
+      <div class="navbar-link">
+        <a class="link-navbar" href="http://localhost:3000/">Mes Itinéraires</a>
+      </div>
+
+      <div class="navbar-link">
+        <a class="link-navbar" rel="nofollow" data-method="delete" href="http://localhost:3000/users/sign_out">Déconnexion</a>
+      </div>
+
+
+
+    </div>
+
+
+    <div class="navbar-walk-mobile hidden-md hidden-lg">
+
+      <div class="mobile-links">
+
+
+        <div class="navbar-link">
+          <a class="link-navbar" href="http://localhost:3000/">Accueil</a>
+        </div>
+
+        <div class="navbar-link">
+          <a class="link-navbar" href="http://localhost:3000/">Mes Itinéraires</a>
+        </div>
+
+        <div class="navbar-link">
+          <a class="link-navbar" rel="nofollow" data-method="delete" href="http://localhost:3000/users/sign_out">Déconnexion</a>
+        </div>
+
+
+      </div>
+
+      <div class="drop-menu">
+        <i class="fas fa-bars"></i>
+      </div>
+
+      <div class="drop-menu-close">
+        <i class="fas fa-times"></i>
+      </div>
+
+    </div>
+
+
+  </div>
+</div>
+
+    
+    
+
+<div class="page-explications">
+
+
+  <div id="map-explics" class="mapboxgl-map">
+
+  <div class="mapboxgl-canary" style="visibility: hidden;"></div><div class="mapboxgl-canvas-container mapboxgl-interactive mapboxgl-touch-drag-pan mapboxgl-touch-zoom-rotate"><canvas class="mapboxgl-canvas" tabindex="0" aria-label="Map" width="800" height="648" style="position: absolute; width: 400px; height: 324px;"></canvas></div><div class="mapboxgl-control-container"><div class="mapboxgl-ctrl-top-left"></div><div class="mapboxgl-ctrl-top-right"></div><div class="mapboxgl-ctrl-bottom-left"><div class="mapboxgl-ctrl" style="display: block;"><a class="mapboxgl-ctrl-logo mapboxgl-compact" target="_blank" href="https://www.mapbox.com/" aria-label="Mapbox logo" rel="noopener"></a></div></div><div class="mapboxgl-ctrl-bottom-right"><div class="mapboxgl-ctrl mapboxgl-ctrl-attrib mapboxgl-compact"><a href="https://www.mapbox.com/about/maps/" target="_blank">© Mapbox</a> <a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap</a> <a class="mapbox-improve-map" href="https://www.mapbox.com/feedback/?owner=mapbox&amp;id=light-v9&amp;access_token=pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A" target="_blank">Improve this map</a></div></div></div></div>
+
+  <div class="placement">
+
+    <div class="encart">
+      <div class="bouton-explics">
+        <img alt="carte-ville" id="image-validate-explics" src="./TODO_files/choix-60728b9a0defc75056f9d8b5354caac757896e77d6c728666ffcfe1f68ce82ab.png">
+      </div>
+      <div class="text-explics">
+      <p>Les fiches de monuments vont être affichées. Je peux donc valider celles que je souhaite.</p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+        <img alt="carte-ville" id="bouton-validate" src="./TODO_files/bouton-vert-2cfe6ead60ac7cb454d9855efd0ddaf2f8623011a51fbe2eb6510620ff513449.png">
+      </div>
+      <div class="text-explics">
+        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert.</p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+
+      </div>
+      <div class="text-explics">
+
+        <p>Je me suis trompé(e)? Aucuns problèmes, je peux réajuster mon choix!</p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+      </div>
+      <div class="text-explics">
+
+        <p>Je peux maintenant valider mon itinéraire et partir à la découverté de Lille! </p>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="green-choice">
+
+  </div>
+
+</div>
+
+
+
+<!--
+ <a rel="nofollow" data-method="post" href="/city/1">
+    <div class="btn btn-primary btn-block">C&#39;est parti!</div>
+
+  </a> -->
+
+
+
+
+    <div id="purple-linear"></div>
+    <script src="./TODO_files/application-996fc1384c8e47d6433e69afe8528fbc168917307b0c70d52cd2866b54432ffa.js"></script>
+    <script src="./TODO_files/application-9ba219527394b303f722.js"></script>
+      <script src="./TODO_files/explications-37a302ba021b210e3231.js"></script>
+
+  
+
+</body></html>
