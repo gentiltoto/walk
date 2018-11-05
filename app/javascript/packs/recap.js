@@ -65,6 +65,9 @@ function flyToMarker(id, map) {
   map.flyTo({
         center: flyToObject
     });
+
+  $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
+  $(`#marker-${id}`).removeClass("marker").addClass("marker-focus");
 }
 
 let mapObject;

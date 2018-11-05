@@ -34,39 +34,3 @@
   position: relative
 
 }
-
-.card {
-  background-color: white;
-
-}
-
-// For Mobile
-@media (max-width: 768px) {
-  .card {
-    height: 20vh;
-  }
-  .position-valid-button {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 20px
-  }
-}
-
-// For Desktop
-@media (min-width: 768px) {
-  .card {
-    height: 40vh
-  }
-  .position-valid-button {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 12px
-}
-}
-
-
-
-
-
-
-

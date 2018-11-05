@@ -10,6 +10,7 @@
   width: 100vw;
   position: absolute;
   z-index: 200;
+  pointer-events: none;
 }
 
 #purple-linear {
@@ -19,4 +20,5 @@
   position: absolute;
   z-index: 200;
   bottom: 0;
+  pointer-events: none;
 }
