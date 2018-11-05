@@ -1,36 +1,126 @@
+#map-explics {
+  z-index: 0;
+  height: 100vh;
+  width: 100vw;
+}
 
-.wrapper-explications {
-  background-image: asset-url("sign-background.jpg");
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: calc(100vh - 60px);
+.page-explications {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  z-index: 190;
   display: flex;
-  align-items: center
+  justify-content: space-around;
 }
 
-.text-explications {
-  text-align: center;
-
-}
-
-.btn-ok {
+.placement {
+  overflow-x: scroll;
   position: absolute;
-  bottom: 10px;
+  top: 120px;
+  height: 78vh;
 }
 
-.validate {
-  margin-top: 15px
+.encart {
+  background-color: white;
+  z-index: 550;
+  height: 20vh;
+  border-radius: 10px;
+  // border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  margin-bottom: 20px;
+
+  display: flex;
 }
 
 
-.content-explications {
-  height: 75vh;
-  color: white;
-  border-radius: $border-radius-base;
-  background-color: $blue;
-  position: relative
+.text-explics {
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+
+  p {
+    margin-bottom: 0px;
+  }
+}
+
+#green-choice-explics {
+  height: 100px;
+  width: 200px;
+  border-radius: 50px;
+  background-color: #36E672;
 
 }
+
+
+// For mobile
+@media (max-width: 992px) {
+  #image-validate-explics {
+    width: 28vw;
+    height: 14vh;
+    border-radius: 10px;
+    margin-left: 10px;
+  }
+
+  #bouton-validate {
+    width: 24vw;
+    height: 14vh;
+    border-radius: 10px;
+    margin-left: 10px;
+  }
+
+  .encart {
+    width: 68vw;
+    height: 25vh;
+  }
+
+  .bouton-explics {
+    flex: 0 0 35%;
+    display: flex;
+    align-items: center;
+  }
+
+  .text-explics {
+    width: calc(68vw - 41% - 20px);
+    margin-right: 10px;
+    flex: 1 0 auto;
+    margin-left: 10px;
+  }
+}
+
+ // For Desktop
+@media (min-width: 992px) {
+  #image-validate-explics {
+    width: 12vw;
+    height: 18vh;
+    border-radius: 10px;
+    margin-left: 2.75vw;
+    border-radius: 10px;
+  }
+
+  .encart {
+    width: 50vw;
+  }
+
+  .text-explics {
+    width: calc(50vw - 35% - 10px);
+    margin-right: 10px;
+    flex: 1 0 auto;
+  }
+
+  #bouton-validate {
+    width: 10vw;
+    height: 18vh;
+    border-radius: 10px;
+    margin-left: 3.75vw;
+    border-radius: 10px;
+  }
+
+  .bouton-explics {
+    flex: 0 0 35%;
+    display: flex;
+    align-items: center;
+  }
+}
+
+
+
