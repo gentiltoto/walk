@@ -28,3 +28,4 @@ $("#green-choice").click((event) => {
     clicks += 1;
   }
 });
+
