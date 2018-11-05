@@ -110,11 +110,8 @@ gonMonuments.forEach((mon) => {
       compteur = idBall;
     }
 
-    // Changer le marker
-
     // Function FlyTo
     flyToMarker(idBall, mapObject);
-
   });
 });
 
@@ -152,6 +149,28 @@ $(".img-arrow-left").click((event) => {
   flyToMarker(gonMonuments[index].id, mapObject);
 });
 
+// Event on marker
+gonMonuments.forEach((mon) => {
+  $(`#marker-${mon.id}`).click((envet) => {
+    // Get the id
+    let regex = /\d+/;
+    let idBall = parseInt(event.currentTarget.id.match(regex)[0]);
+
+    // Function FlyTo
+    flyToMarker(idBall, mapObject);
+
+    $("[id*='ball-']").removeClass("ball-monument-focus");
+    $(`#ball-${idBall}`).addClass("ball-monument-focus");
+
+    if (compteur !== idBall) {
+      $(`#monument-${compteur}`).removeClass("animating transition in fly right");
+      $(`#monument-${compteur}`).addClass("animating transition out fly left");
+      $(`#monument-${idBall}`).removeClass("animating transition out fly left");
+      $(`#monument-${idBall}`).addClass("animating transition in fly right");
+      compteur = idBall;
+    }
+  });
+});
 
 // Button listener
 let clicks = 0;
