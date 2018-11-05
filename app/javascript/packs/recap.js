@@ -15,8 +15,6 @@ function map(inp, offset0, offset1) {
   map.fitBounds(bounds, {
       padding: {top: 100, bottom: 300, left: 50, right: 50}
   });
-
-// // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
   return map
 }
 
@@ -55,6 +53,20 @@ function addMarkers(inp, ids, map) {
   return markers
 }
 
+function flyToMarker(id, map) {
+  // FlyTo la destination
+  let found = gonMonuments.find((e) => { return e.id === id });
+  let flyToObject;
+  if ($(window).width() < 992) {
+    flyToObject = [formatCoord(found)[0], formatCoord(found)[1] - 0.009];
+  } else {
+    flyToObject = [formatCoord(found)[0] - 0.007, formatCoord(found)[1]];
+  }
+  map.flyTo({
+        center: flyToObject
+    });
+}
+
 let mapObject;
 let markersObject;
 let compteur = gon.monuments[0].id;
@@ -89,17 +101,8 @@ gonMonuments.forEach((mon) => {
 
     // Changer le marker
 
-    // FlyTo la destination
-    let found = gonMonuments.find((e) => { return e.id === idBall });
-    let flyToObject;
-    if ($(window).width() < 992) {
-      flyToObject = [formatCoord(found)[0], formatCoord(found)[1] - 0.009];
-    } else {
-      flyToObject = [formatCoord(found)[0] - 0.007, formatCoord(found)[1]];
-    }
-    mapObject.flyTo({
-          center: flyToObject
-      });
+    // Function FlyTo
+    flyToMarker(idBall, mapObject);
 
   });
 });
@@ -116,6 +119,8 @@ $(".img-arrow-right").click((event) => {
   compteur = gonMonuments[index].id;
   $(`#monument-${compteur}`).removeClass("animating transition out fly left right");
   $(`#monument-${compteur}`).addClass("animating transition in fly right");
+
+  flyToMarker(gonMonuments[index].id, mapObject);
 });
 $(".img-arrow-left").click((event) => {
   $(`#monument-${compteur}`).removeClass("animating transition in fly left right");
@@ -123,9 +128,26 @@ $(".img-arrow-left").click((event) => {
   if (index === 0) {
     index = gonMonuments.length - 1;
   } else {
-    index -= 1    
+    index -= 1
   }
   compteur = gonMonuments[index].id;
   $(`#monument-${compteur}`).removeClass("animating transition out fly right left");
   $(`#monument-${compteur}`).addClass("animating transition in fly left");
+
+  flyToMarker(gonMonuments[index].id, mapObject);
+});
+
+
+// Button listener
+let clicks = 0;
+$("#green-choice").click((event) => {
+  if (clicks % 2 === 0) {
+    event.currentTarget.style.right = "-50px";
+    $(".green-choice-i").removeClass('far fa-check-circle').addClass('fas fa-times');
+    clicks += 1;
+  } else {
+    event.currentTarget.style.right = "-150px";
+    $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
+    clicks += 1;
+  }
 });
