@@ -15,3 +15,16 @@ function map(inp, offset0, offset1) {
 // map([gon.city.lat], 0, 0)
 map([3.0667,50.6333], 0, 0)
 
+// Button listener
+let clicks = 0;
+$("#green-choice").click((event) => {
+  if (clicks % 2 === 0) {
+    event.currentTarget.style.right = "-50px";
+    $(".green-choice-i").removeClass('far fa-check-circle').addClass('fas fa-times');
+    clicks += 1;
+  } else {
+    event.currentTarget.style.right = "-150px";
+    $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
+    clicks += 1;
+  }
+});

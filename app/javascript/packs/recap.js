@@ -87,8 +87,16 @@ if ($(window).width() < 992) {
   console.log(markersObject);
 }
 
+// Color the first marker
+$(`#marker-${compteur}`).removeClass('marker').addClass('marker-focus');
+// Color the first ball
+$(`#ball-${compteur}`).addClass("ball-monument-focus");
+
+// Event on ball
 gonMonuments.forEach((mon) => {
   $(`#ball-${mon.id}`).click((event) => {
+    $("[id*='ball-']").removeClass("ball-monument-focus");
+    event.currentTarget.classList.add('ball-monument-focus');
     // Get the id
     let regex = /\d+/;
     let idBall = parseInt(event.currentTarget.id.match(regex)[0]);
@@ -112,6 +120,7 @@ gonMonuments.forEach((mon) => {
 
 // Event on arrows
 $(".img-arrow-right").click((event) => {
+  $("[id*='ball-']").removeClass("ball-monument-focus");
   $(`#monument-${compteur}`).removeClass("animating transition in fly right left");
   $(`#monument-${compteur}`).addClass("animating transition out fly left");
   if (index === gonMonuments.length - 1) {
@@ -122,10 +131,12 @@ $(".img-arrow-right").click((event) => {
   compteur = gonMonuments[index].id;
   $(`#monument-${compteur}`).removeClass("animating transition out fly left right");
   $(`#monument-${compteur}`).addClass("animating transition in fly right");
+  $(`#ball-${compteur}`).addClass("ball-monument-focus");
 
   flyToMarker(gonMonuments[index].id, mapObject);
 });
 $(".img-arrow-left").click((event) => {
+  $("[id*='ball-']").removeClass("ball-monument-focus");
   $(`#monument-${compteur}`).removeClass("animating transition in fly left right");
   $(`#monument-${compteur}`).addClass("animating transition out fly right");
   if (index === 0) {
@@ -136,6 +147,7 @@ $(".img-arrow-left").click((event) => {
   compteur = gonMonuments[index].id;
   $(`#monument-${compteur}`).removeClass("animating transition out fly right left");
   $(`#monument-${compteur}`).addClass("animating transition in fly left");
+  $(`#ball-${compteur}`).addClass("ball-monument-focus");
 
   flyToMarker(gonMonuments[index].id, mapObject);
 });

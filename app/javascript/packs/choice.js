@@ -95,7 +95,6 @@ $(window).resize(function(event) {
 
 
 // Button listener
-// Button listener
 let clicks = 0;
 $("#green-choice").click((event) => {
   if (clicks % 2 === 0) {
