@@ -3,8 +3,10 @@
     <div class="row">
       <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
         <div class="home-description">
-          <h1 class="text-center">WALK</h1>
-          <h3 class="text-center">Construisez votre visite en un click</h3>
+          <h1 class="text-center">SEETY</h1>
+          <p class="text-center">
+            <span id="banner-typed-text"></span>
+          </p>
 
           <div class="container-flex">
 
@@ -30,7 +32,7 @@
 
 <div class="container">
   <div class="available-cities">
-    <h1>Les villes visitées par les autres voyageurs :</h1>
+    <h1>Les villes visitées par nos seetyseur c'est ici:</h1>
   </div>
 </div>
 
@@ -40,7 +42,7 @@
       <div class="fiche-city">
         <%= cl_image_tag(city.photo) %>
         <div class="city-description">
-          <h2><%= city.name %></h2>
+          <h3><%= city.name %></h3>
         </div>
       </div>
     <% end %>
@@ -52,7 +54,7 @@
   <div class="row">
     <div class="col-xs-12 col-sm-6">
       <div class="home-presentation">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Tu n'as qu'une journée pour visiter une ville? Que faire? Seety est là pour toi. Choisis, une ville ensuite nous prenons tout en main </p>
       </div>
     </div>
 
@@ -85,4 +87,5 @@
 
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'cities-autocomplete' %>
+  <%= javascript_pack_tag 'home' %>
 <% end %>

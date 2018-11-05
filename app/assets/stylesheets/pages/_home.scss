@@ -1,11 +1,22 @@
 // Specific CSS for your home-page
 .home-wrapper {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), asset-url('home.jpg');
+  background-image: linear-gradient(rgba(216, 191, 216, 0.2), rgba(255, 255, 255, 0.4)), asset-url('fond.jpg');
   height: 57vh;
   width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
+  display: flex;
+  align-items: center;
+
+}
+
+// for desktop
+@media (min-width: 992px) {
+  .home-wrapper {
+    height: 70vh;
+    background-position: center;
+  }
 }
 
 .home-description {
@@ -15,14 +26,15 @@
   align-items: center;
   flex-direction: column;
   margin-top: 50px;
+  z-index: 300;
 
   h1 {
-    color: black;
+    color: white;
     font-weight: 700;
   }
 
-  h3 {
-    color: black;
+  p {
+    color: white;
   }
 }
 
@@ -33,7 +45,7 @@
 
   h1 {
     font-size: 32px;
-    color: $blue;
+    color: black;
     margin: 0;
     font-weight: 700;
   }
