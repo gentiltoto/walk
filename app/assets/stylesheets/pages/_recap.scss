@@ -87,3 +87,21 @@
     cursor: pointer;
   }
 }
+
+.delete-card {
+  position: relative;
+  top: -300%;
+  right: -100%;
+  width: 30px;
+  margin: 0;
+  border-radius: 50%;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+
+  i {
+    font-size: 30px;
+    color: red;
+  }
+}

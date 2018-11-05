@@ -33,6 +33,16 @@ class ItinerairesController < ApplicationController
     redirect_to choice_path(@itineraire)
   end
 
+  def delete
+    # Find the itineraire
+    @itineraire = Itineraire.find(params[:id])
+    # # Find the monument
+    @monument = Monument.find(params[:monument_id])
+
+    @itineraire.monuments.delete(@monument)
+    redirect_to recap_path(@itineraire)
+  end
+
   def recap
     @itineraire = Itineraire.find(params[:id])
     #récupérer les monuments selectionnés
@@ -40,6 +50,7 @@ class ItinerairesController < ApplicationController
     @monuments = @itineraire.monuments
     #make accessible to JS what is done in recap
     gon.monuments = @monuments
+    gon.itineraire = @itineraire
   end
 
   def supprimer

@@ -49,9 +49,11 @@ const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
   mapObject = map(formatCoord(compteur), 0, 0.002);
+  markerObject.remove()
   markerObject = addMarker(formatCoord(compteur), mapObject);
 } else {
   mapObject = map(formatCoord(compteur), 0.007, 0);
+  markerObject.remove()
   markerObject = addMarker(formatCoord(compteur), mapObject);
 }
 

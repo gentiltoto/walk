@@ -27,6 +27,9 @@
     <h2 class="monument-name"><%= monument.name %></h2>
     <div class="left-arrow"><%= image_tag "arrow_left.svg", class: "img-arrow-left" %></div>
     <div class="right-arrow"><%= image_tag "arrow_right.svg", class: "img-arrow-right" %></div>
+
+    <%= link_to "Text", delete_path(@itineraire, monument.id), method: :delete, class: "delete-card" %>
+
   </div>
   <% end %>
 </div>
