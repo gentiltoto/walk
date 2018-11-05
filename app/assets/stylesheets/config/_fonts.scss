@@ -5,12 +5,70 @@
 $body-font: 'Arimo', "Helvetica", "sans-serif";
 $headers-font: $body-font;
 
-$h1-font-size: 38px;
-$h2-font-size: 30px;
-$h3-font-size: 22px;
-$h4-font-size: 14px;
-$h5-font-size: 10px;
-$p-font-size: 14px;
+
+// h1 {
+//   // For mobile
+//   @media (max-width: 992px) {
+//   font-size: 20px;
+//   }
+//   //For desktop
+//   @media (min-width: 992px) {
+//   font-size: 38px;
+//   }
+// }
+
+// h2 {
+//   // For mobile
+//   @media (max-width: 992px) {
+//   font-size: 18px;
+//   }
+//   //For desktop
+//   @media (min-width: 992px) {
+//   font-size: 30px;
+//   }
+// }
+
+// h3 {
+//   // For mobile
+//   @media (max-width: 992px) {
+//   font-size: 16px;
+//   }
+//   //For desktop
+//   @media (min-width: 992px) {
+//   font-size: 22px;
+//   }
+// }
+
+// h4 {
+//   // For mobile
+//   @media (max-width: 992px) {
+//   font-size: 14px;
+//   }
+//   //For desktop
+//   @media (min-width: 992px) {
+//   font-size: 16px;
+//   }
+// }
+
+// p {
+//   // For mobile
+//   @media (max-width: 992px) {
+//   font-size: 16px;
+//   }
+//   //For desktop
+//   @media (min-width: 992px) {
+//   font-size: 21px;
+//   }
+// }
+
+  $h1-font-size: 38px;
+  $h2-font-size: 30px;
+  $h3-font-size: 22px;
+  $h4-font-size: 14px;
+  $h5-font-size: 10px;
+  $p-font-size: 14px;
+
+
 
 h1 {
   font-size: $h1-font-size;
