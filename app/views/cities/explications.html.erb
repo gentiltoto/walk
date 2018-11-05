@@ -1,57 +1,63 @@
 
-<div class="wrapper-explications">
-  <div class="container explics">
-    <div class="row">
-      <div class="col-xs-10 col-sm-8 col-xs-offset-1 col-sm-offset-2">
-        <div class="content-explications">
 
-        <div class="row">
-          <div class="col-xs-12 col-sm-12">
-            <div class="text-explications">
-              <h3>Construisez votre visite sur mesure à <%= @city.name %>!</h3>
-              <p>Selectionnez les monuments que vous voulez ajouter à votre parcours.</p>
-            </div>
-          </div>
-        </div>
+<div class="page-explications">
 
 
-        <div class="row">
-          <div class="col-xs-8 col-sm-8 col-xs-offset-2 col-sm-offset-2">
-            <div class="card">
-              <h1>CARDS</h1>
-            </div>
-          </div>
-        </div>
+  <div id="map-explics">
 
-        <div class="row">
-          <div class="col-xs-8 col-xs-offset-2">
-            <div class="position-valid-button">
+  </div>
 
-              <div class="validate validate-no">
-                <%= image_tag "close.svg" %>
-              </div>
+  <div class="placement">
 
-              <div class="validate validate-yes">
-                <%= image_tag "check.svg" %>
-              </div>
-
-            </div>
-          </div>
-        </div>
-
-
-
-          <div class="row">
-            <div class="col-xs-6 col-sm-4 col-xs-offset-3 col-sm-offset-4">
-
-              <%= link_to post_city_path(@city), method: :post do %>
-                <%= render "shared/button", calltoaction: "C'est parti!" %>
-              <% end  %>
-          </div>
-          </div>
-
-        </div>
+    <div class="encart">
+      <div class="bouton-explics">
+        <%= image_tag("choix.png", alt: "carte-ville", id: "image-validate-explics") %>
+      </div>
+      <div class="text-explics">
+      <p>Les fiches de monuments vont être affichées. Je peux donc valider celles que je souhaite.</p>
       </div>
     </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+        <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
+      </div>
+      <div class="text-explics">
+        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert.</p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+
+      </div>
+      <div class="text-explics">
+
+        <p>Je me suis trompé(e)? Aucuns problèmes, je peux réajuster mon choix!</p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+      </div>
+      <div class="text-explics">
+
+        <p>Je peux maintenant valider mon itinéraire et partir à la découverté de <%= @city.name %>! </p>
+      </div>
+    </div>
+
   </div>
+
+  <div id="green-choice">
+    <div class="green-choice-i-container">
+      <i class="far fa-check-circle green-choice-i"></i>
+    </div>
+    <%= link_to "C'est parti", post_city_path(@city), class: "choice-made", method: :post %>
+  </div>
+
 </div>
+
+
+<% content_for(:js) do %>
+  <%= javascript_pack_tag 'explications' %>
+<% end %>

@@ -1,20 +1,58 @@
-#red {
-  background-color: black;
-  height: 50vh;
+.ball-monuments {
+  height: 25px;
+  width: 350px;
+  left: 50%;
+  margin-left: -175px;
+  top: 65%;
+  margin-top: -100px;
+  position: absolute;
+  z-index: 301;
+  display: flex;
+  justify-content: space-around;
 }
 
-.container-recap {
-  // position: relative;
-  height: 82vh;
-  width: 100vw;
+.ball-monument {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: #6F70EE;
+  cursor: pointer;
 }
 
-.button-recap {
-  margin-top: 10px;
-  margin-bottom: 5px
+.ball-monument-focus {
+  background-color: black !important;
 }
 
-.text-fiche-delete {
-  color: white;
-  text-align: center;
+.left-arrow {
+  background-color: transparent;
+  height: 200px;
+  width: 30px;
+  position: relative;
+  z-index: 300;
+  top: -88%;
+  right: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    cursor: pointer;
+  }
+}
+
+.right-arrow {
+  background-color: transparent;
+  height: 200px;
+  width: 30px;
+  position: relative;
+  z-index: 300;
+  top: -203%;
+  left: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    cursor: pointer;
+  }
 }

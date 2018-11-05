@@ -1,42 +1,30 @@
-<div class="container-recap">
-  <div id="map-final"></div>
-
-
-  <div class="container-fiche-delete">
-    <% @itineraire.monuments.each do |monument| %>
-
-      <div class="fiche-delete" card-id="<%= monument.id %>">
-        <%= image_tag("citadelle.jpg") %>
-
-        <%= link_to supprimer_path(@itineraire, monument.id), method: :post, remote: true do %>
-          <i class="far fa-times-circle"></i>
-        <% end %>
-        <div class="text-fiche-delete">
-        <h5><%= monument.name %> </h5>
-        </div>
-      </div>
-    <% end %>
-
+<div id="green-choice">
+  <div class="green-choice-i-container">
+    <i class="far fa-check-circle green-choice-i"></i>
   </div>
-
+  <%= link_to "Je valide mon itinéraire", itinary_path(@itineraire), class: "choice-made" %>
 </div>
 
+<div id="map"></div>
 
+<div class="ball-monuments">
+  <% @monuments.each do |monument| %>
+    <div class="ball-monument" id="<%= "ball-#{monument.id}" %>"></div>
+  <% end %>
+</div>
 
-
-<div class="button-recap">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-          <%= link_to itinary_path(@itineraire) do %>
-          <%= render "shared/button", calltoaction: "Mon itinéraire" %>
-          <% end  %>
-      </div>
+<% @monuments.each_with_index do |monument, index| %>
+  <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden" unless index.zero? %>">
+    <div class="monument-image-div">
+      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
     </div>
+    <h2 class="monument-name"><%= monument.name %></h2>
+    <div class="left-arrow"><%= image_tag "arrow_left.svg", class: "img-arrow-left" %></div>
+    <div class="right-arrow"><%= image_tag "arrow_right.svg", class: "img-arrow-right" %></div>
   </div>
-</div>
+<% end %>
 
 
 <% content_for(:js) do %>
-  <% javascript_pack_tag 'choice-mapbox' %>
+  <%= javascript_pack_tag 'recap' %>
 <% end %>
