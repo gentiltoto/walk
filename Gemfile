@@ -36,3 +36,5 @@ end
 gem 'gon'
 # gem 'rabl-srails'
 gem 'carrierwave'
+
+gem 'semantic-ui-sass'

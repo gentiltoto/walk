@@ -1,74 +1,28 @@
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-      <div class="monument-card active">
+<div id="green-choice">
+  <%= link_to "J'ai choisi mes monuments", recap_path(@itineraire), class: "choice-made" %>
+</div>
 
-          <div class="flip-card-3D-wrapper">
-            <div id="flip-card">
+<div id="map"></div>
 
-              <div id="flip-card-front">
-                <!-- JS -->
-              </div>
 
-             <div id="flip-card-back">
-               <!-- JS -->
-              </div>
-
-            </div>
-          </div>
-
-          <div class="container-texte">
-            <!-- JS -->
-          </div>
-      </div>
+<% @monuments.each_with_index do |monument, index| %>
+  <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" unless index.zero? %>">
+    <div class="monument-image-div">
+      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
     </div>
+    <h2 class="monument-name"><%= monument.name %></h2>
 
-
-    <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-      <div class="monument-card no-more" style="display: none;">
-
-          <div class="no-more-text">
-            <h1>NO MORE</h1>
-
-            <%= link_to "Recharger les monuments", choice_path(@itineraire), class: "link-fetch" %>
-          </div>
-
+    <div class="choice-maker">
+      <div class="choice-validate choice-no">
+        <%= image_tag "close.svg" %>
       </div>
-    </div>
-
-  </div>
-
-  <div class="row">
-    <div class="col-xs-8 col-xs-offset-2">
-      <div class="position-valid-button">
-
-        <div class="validate validate-no">
-          <%= image_tag "close.svg" %>
-        </div>
-
-        <div class="validate validate-yes">
-          <%= image_tag "check.svg" %>
-        </div>
-
+      <div class="choice-validate choice-yes">
+        <%= image_tag "check.svg" %>
       </div>
     </div>
   </div>
-</div>
-
-
-<div class="container">
-    <div class="row">
-      <div class="col-xs-12 col-sm-6 col-sm-offset-3 ">
-        <div class="bouton-compute">
-          <%= link_to recap_path(@itineraire)  do %>
-            <%= render "shared/button", calltoaction: "J'ai choisi tous mes monuments!" %>
-          <% end  %>
-        </div>
-      </div>
-    </div>
-</div>
+<% end %>
 
 <% content_for(:js) do %>
-  <%= javascript_pack_tag 'validate' %>
-  <%= javascript_pack_tag 'grandefichemonument' %>
+  <%= javascript_pack_tag 'choice' %>
 <% end %>

@@ -1,3 +1,5 @@
+# RAJOUTER CONDITION SUR LES LAT LONG NIL !!!!
+
 cities = ActiveSupport::JSON.decode(File.read('db/seeds/villes.json'))
 
 def scoring(monument)
