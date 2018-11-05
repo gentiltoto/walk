@@ -77,14 +77,11 @@ let index = 0;
 const gonMonuments = gon.monuments;
 
 if ($(window).width() < 992) {
-  console.log(formatCoordAll(gonMonuments));
   mapObject = map(formatCoordAll(gonMonuments), 0, 0.002);
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
-  console.log(markersObject);
 } else {
   mapObject = map(formatCoordAll(gonMonuments), 0.007, 0);
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
-  console.log(markersObject);
 }
 
 // Color the first marker
