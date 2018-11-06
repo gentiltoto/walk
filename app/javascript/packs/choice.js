@@ -121,7 +121,6 @@ $("#green-choice").click((event) => {
 
 let timer = setInterval(nbOfMonuments, 1000);
 function nbOfMonuments() {
-  console.log(compteurMonuments);
   if (compteurMonuments >= 3) {
     stopTimer();
     $(".green-choice-circle").css("background-color", "#36E672");
