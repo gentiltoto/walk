@@ -1,25 +1,32 @@
 .sign-wrapper {
-  background-color: white;
+  background-image: asset-url("carte.png");
+  background-size: cover;
+  background-position: center;
+
   height: 100vh;
   display: flex;
-  align-items: center
+  align-items: center;
+}
+
+.form-control {
+  background-color: rgba(192,192,192, 0.3)
 }
 
 // For Mobile
 @media (max-width: 768px) {
   .sign-form {
-    background-color: gray;
+    background-color: rgba(255,255,255,0.95);
     padding: 20px 30px;
-    margin-top: 10px;
+    margin-top: 20px;
   }
 }
 
 // For Desktop
 @media (min-width: 768px) {
   .sign-form {
-    background-color: gray;
+    background-color: rgba(255,255,255,0.95);
     padding: 20px 50px;
-    margin-top: 10px;
+    margin-top: 20px;
   }
 }
 
