@@ -1,12 +1,8 @@
+<% content_for :title, "Seety - Itinéraire Final" %>
+
 <div id='map-final'>
   <div id="metrics-distance">
   </div>
-
-
-
-
-
-
 
   <% @monuments.each do |monument| %>
 
@@ -16,7 +12,6 @@
       <i class="fas fa-chevron-circle-up" id="open-id-<%=monument.id%>"></i>
     </div>
   </div>
-
 
   <div class="card-recap-final" id="recap-final-<%=monument.id%>">
     <div class="flex-card-recap-final">
