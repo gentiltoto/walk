@@ -1,6 +1,5 @@
 //Fonction qui affiche la map dans la div "map".
 //Array d'array de coordonnée, pour centrer la carte comme il le faut.
-
 export function map(coord, ids) {
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A'
   var map = new mapboxgl.Map({
@@ -31,53 +30,58 @@ export function map(coord, ids) {
       .setLngLat(coord[index])
       .addTo(map)
   })
-
   return map
-}
+};
+
+
+function formatCoord(monument) {
+  let coord = [parseFloat(monument.longitude), parseFloat(monument.latitude)];
+  return coord
+};
+
+
 
 // Fonction qui affiche un recap lorsqu'on clic sur des markers. id = array des ID des monuments dans la DB affichés sur la map
-export function eventListener(ids) {
-// Mise en place des events listener sur les markers pour afficher un mini recap
+export function eventListener(ids, map) {
+  // Mise en place des events listener sur les markers pour afficher un mini recap
   var monuments = gon.monuments
   ids.forEach((id) => {
-    console.log(id)
+  //afficher le mini recap
     document.getElementById(`marker-id-${id}`).addEventListener("click", () => {
-      document.querySelector(".metrics").innerHTML = "";
-      var name = monuments.find((monument) => {return monument.id === id});
-      document.querySelector(".metrics").innerHTML = `
-        <div class="container-metrics">
-        <h5> ${name.name} </h5>
-        <i class="fas fa-chevron-circle-up id="open-id-${id}"></i>
-        </div>`;
-      document.querySelector(".fa-chevron-circle-up").addEventListener("click", () => {
-        document.getElementById(`id-${id}`).style.display = "block";
-        // Faire rentrer tous les recap lorsqu'on clic sur la croix
-        document.querySelectorAll(".fa-chevron-circle-down").forEach((e) => {
-          e.addEventListener("click", () => {
-            document.getElementById(`id-${id}`).style.display = "none";
-          })
-        })
-      })
+      document.querySelectorAll(".minirecap").forEach((miniRecap) => {
+        miniRecap.style.display = "none";
+      });
+      document.querySelectorAll(".card-recap-final").forEach((cardRecap) => {
+        cardRecap.style.display = "none";
+      });
+      document.getElementById(`minirecap-${id}`).style.display = "block"
+    });
+    //afficher le recap
+    document.getElementById(`open-id-${id}`).addEventListener("click", () => {
+      document.getElementById(`recap-final-${id}`).style.display = "block";
+        let found = monuments.find((e) => { return e.id === id });
+        let flyToObject;
+          if ($(window).width() < 992) {
+            flyToObject = [formatCoord(found)[0], formatCoord(found)[1]];
+          } else {
+            flyToObject = [formatCoord(found)[0], formatCoord(found)[1]];
+          }
+          map.flyTo({
+                center: flyToObject
+          });
+
+        $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
+        $(`#marker-${id}`).removeClass("marker").addClass("marker-focus");
+    });
+    // Faire rentrer recap + mini recap lorsqu'on clic sur le chevron down
+    document.querySelectorAll(".fa-chevron-circle-down").forEach((e) => {
+      e.addEventListener("click", () => {
+        document.getElementById(`minirecap-${id}`).style.display = "none";
+        document.getElementById(`recap-final-${id}`).style.display = "none";
+      });
     });
   });
-
-
-
-
-// Remise en place de la div metrics
-  document.querySelectorAll(".fermeture-minirecap").forEach((e) => {
-    e.addEventListener("click", () => {
-      metrics.innerHTML("")
-      metrics.innerHTML(`
-      <div class='metrics'>
-        <p>
-        <b>Distance :</b> ${distance}
-        <b>Temps de trajet :</b> ${duration}
-        </p>
-      </div>`)
-    });
-  });
-}
+};
 
   // Affiche la fiche établissement lorsque le bouton dans le recap est utilisé
   // Mise en place des events listener sur les boutons fiche

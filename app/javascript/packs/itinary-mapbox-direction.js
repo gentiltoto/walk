@@ -5,11 +5,21 @@ import { map, eventListener } from "../lib/mapbox"
 
 const mape = map(gon.coordonees, gon.ids);
 
-
 mape.on('load', function() {
   getRoute(mape, gon.coordonees);
 });
 // argument = ID des monuments dans la data base.
 
+mape.on("drag", function (e) {
+  document.querySelectorAll(".minirecap").forEach(minirecap => {
+    minirecap.style.display = "none"
+  });
+});
 
-eventListener(gon.ids);
+
+
+
+
+
+
+eventListener(gon.ids, mape);

@@ -1,7 +1,7 @@
 
 #map-final {
   position: relative;
-  height: calc(100vh - 60px);
+  height: 100vh;
   width: 100vw;
   overflow-y: hidden;
 }
@@ -10,8 +10,6 @@
   position: absolute;
   right: 15px;
 }
-
-
 
 .fa-chevron-circle-up {
     font-size: 25px;
@@ -49,22 +47,93 @@
   position: relative;
 }
 
-@media (max-width: 992px) {
+.container-minirecap {
+  h5 {
+    margin: 0px;
+    padding: 5px;
+  }
+}
 
-  .container-metrics {
-    position: relative;
-    width: 80vw;
-    padding-left: 10px;
+#metrics-distance {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  z-index: 300;
+  display: flex;
+  flex-direction: column;
+
+  .fa-walking {
+    display: block;
+    padding-right: 5px;
+    padding-left: 3px;
+    padding-right: 10px;
+  }
+  .fa-clock {
+    display: block;
+    padding-right: 5px;
   }
 
-  .metrics {
+  .time-wraper {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+  }
+
+  .distance-wraper {
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+  }
+}
+
+  .flex-card-recap-final {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    .monument-name {
+      position: initial;
+    }
+  }
+
+@media (max-width: 992px) {
+
+  #metrics-distance {
+  width: 100px;
+  padding: 7.5px;
+}
+
+  .fa-walking {
+    display: block;
+    padding-right: 5px;
+    font-size: 20px;
+  }
+
+  .fa-clock {
+    display: block;
+    padding-right: 5px;
+    font-size: 20px;
+  }
+
+  .container-minirecap {
+    position: relative;
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  .minirecap {
     background-color: white;
     border-radius: 10px;
     border: 1px solid rgba(#6F70EE, 0.21);
     box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
     position: absolute;
     z-index: 300;
-    padding: 12px;
     left: 50%;
     transform: translate(-50%, 0);
     bottom: 0;
@@ -74,6 +143,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    display: none;
     p {
       margin: 0px;
     }
@@ -84,26 +154,48 @@
     width: 350px;
     left: 50%;
     margin-left: -175px;
-    top: 70%;
     margin-top: -100px;
+    z-index: 350;
+    bottom: 5px;
   }
 }
 
 @media (min-width: 992px) {
 
-  .container-metrics {
-    position: relative;
-    width: 550px;
-    padding-left: 15px;
+  #metrics-distance {
+    width: 250px;
+    padding: 10px;
   }
-  .metrics {
+
+  .fa-walking {
+    display: block;
+    padding-right: 5px;
+    font-size: 25px;
+  }
+
+  .fa-clock {
+    display: block;
+    padding-right: 5px;
+    font-size: 25px;
+  }
+
+
+  .container-minirecap {
+    position: relative;
+    width: 100%;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+
+  .minirecap {
     background-color: white;
     border-radius: 10px;
     border: 1px solid rgba(#6F70EE, 0.21);
     box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
     position: absolute;
     z-index: 300;
-    padding: 12px;
     left: 50%;
     transform: translate(-50%, 0);
     bottom: 0;
@@ -113,6 +205,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    display: none;
 
     p {
       margin: 0px;
@@ -124,7 +217,7 @@
     width: 500px;
     left: 50%;
     margin-left: -250px;
-    top: 50%;
     margin-top: -200px;
+    bottom: 7px;
   }
 }
