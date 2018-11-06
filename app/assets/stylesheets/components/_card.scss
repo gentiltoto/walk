@@ -75,9 +75,9 @@
   position: relative;
   display: flex;
   justify-content: center;
+  overflow: hidden;
 
   img {
-    max-width: 100%;
     max-height: 100%;
   }
 }
@@ -105,5 +105,157 @@
   p {
     color: #7F59EE;
     margin: 0;
+  }
+}
+
+/////// FOCUS \\\\\\\\\\
+
+// For mobile
+@media (max-width: 992px) {
+  .card-info {
+    height: 450px;
+    width: 350px;
+    max-width: 90vw;
+    top: 10%;
+  }
+
+  .monument-image-div-info {
+    height: 300px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .monument-name-info {
+    margin: 20px 0;
+    font-size: 16px;
+    left: 2%;
+    top: 75%;
+  }
+
+  .card-infos {
+    p {
+      font-size: 15px;
+    }
+  }
+
+  .description-info {
+    top: 90%;
+  }
+
+  .card-stars-info {
+    top: 70%;
+    left: 3%;
+  }
+
+  .info-supp {
+    top: 80%;
+    left: 4%;
+  }
+}
+
+// For Desktop
+@media (min-width: 992px) {
+  .card-info {
+    height: 350px;
+    width: 500px;
+    left: 5%;
+    top: 30%;
+  }
+
+  .monument-image-div-info {
+    height: 250px;
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .monument-name-info {
+    font-size: 25px;
+    left: 54%;
+    top: 30px;
+  }
+
+  .card-infos {
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .card-stars-info {
+    top: 5%;
+    left: 55%;
+  }
+
+  .info-supp {
+    top: 30%;
+    right: 10%;
+  }
+}
+
+.card-info {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  z-index: 900;
+  padding: 12px;
+  max-width: 90vw;
+  overflow-x: scroll;
+}
+
+.monument-image-div-info {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+
+  img {
+    max-height: 100%;
+  }
+}
+
+.monument-name-info {
+  margin: 0;
+  padding-left: 5px;
+  color: rgba(66, 66, 114, 1);
+  position: absolute;
+}
+
+.card-stars-info {
+  position: absolute;
+}
+
+.card-infos {
+  position: absolute;
+  bottom: 15%;
+  left: 75%;
+  border-bottom: 2px solid #7F59EE;
+  cursor: pointer;
+
+  p {
+    color: #7F59EE;
+    margin: 0;
+  }
+}
+
+.description-info {
+  position: absolute;
+  margin-bottom: 30px;
+
+  h3 {
+    margin: 20px 0 !important; // To override semantic ui
+    color: rgba(66, 66, 114, 1);
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.info-supp {
+  position: absolute;
+
+  h3, h4 {
+    margin: 15px 0;
   }
 }

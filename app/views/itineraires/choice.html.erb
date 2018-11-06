@@ -37,9 +37,37 @@
       <i class="fas fa-star"></i>
     </div>
 
-    <div class="card-infos">
+    <div class="card-infos" id="plus-info-<%= monument.id %>">
       <p>Plus d'info</p>
     </div>
+  </div>
+<% end %>
+
+<% @monuments.each_with_index do |monument, index| %>
+  <div class="card-info" id="monument-info-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
+    <div class="monument-image-div-info">
+      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+    </div>
+    <h2 class="monument-name-info"><%= monument.name %></h2>
+
+    <div class="card-stars-info">
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+      <i class="fas fa-star"></i>
+    </div>
+
+    <div class="info-supp">
+      <h3>Inscrit au patrimoine</h3>
+      <h4>Addresse à mettre ici</h4>
+    </div>
+
+    <div class="description-info">
+      <h3>Description</h3>
+      <p><%= monument.description %></p>
+    </div>
+
   </div>
 <% end %>
 </div>
