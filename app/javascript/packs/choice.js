@@ -48,9 +48,11 @@ const gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
+  $("#marker-0").remove();
   mapObject = map(formatCoord(compteur), 0, 0.002);
   markerObject = addMarker(formatCoord(compteur), mapObject);
 } else {
+  $("#marker-0").remove();
   mapObject = map(formatCoord(compteur), 0.007, 0);
   markerObject = addMarker(formatCoord(compteur), mapObject);
 }
@@ -85,9 +87,11 @@ const choiceYes = $(".choice-yes").click((event) => {
 // Resize handler
 $(window).resize(function(event) {
   if ($(window).width() < 992) {
+    $("#marker-0").remove();
     mapObject = map(formatCoord(compteur), 0, 0.002);
     markerObject = addMarker(formatCoord(compteur), mapObject);
   } else {
+    $("#marker-0").remove();
     mapObject = map(formatCoord(compteur), 0.007, 0);
     markerObject = addMarker(formatCoord(compteur), mapObject);
   }
