@@ -7,7 +7,7 @@ export function map(coord, ids) {
 
   // center au milieu de la france, pour un petit effet par la suite
     center: [2.918381, 47.026351],
-    style: 'mapbox://styles/mapbox/basic-v9',
+    style: 'mapbox://styles/mapbox/light-v9',
     zoom: 12
   });
 
@@ -17,7 +17,7 @@ export function map(coord, ids) {
     }, new mapboxgl.LngLatBounds(coord[0], coord[0]));
 
   map.fitBounds(bounds, {
-      padding: 50
+      padding: 100 // Ce padding est utilisé dans la page itinéraire et recap ; il faudra peut etre différencier les deux
   });
 
 // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy

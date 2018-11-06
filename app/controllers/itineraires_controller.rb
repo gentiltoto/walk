@@ -73,7 +73,6 @@ class ItinerairesController < ApplicationController
   def show
     @itineraire = Itineraire.find(params[:id])
     @monuments = @itineraire.monuments
-    @ids = @monuments.map { |monument| monument.id }
     coord_initial = compute_array(@monuments)
     x = []
     coord_initial.each { |e| x.push(e[0].to_f) }
@@ -81,10 +80,10 @@ class ItinerairesController < ApplicationController
     coord_initial.each { |e| y.push(e[1].to_f) }
     @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
-    gon.coordonees = @coord
-    gon.monuments = @monuments
-    gon.ids = @ids
-
+    gon.coordonees = @coord #coord ordonnée par le service objet
+    gon.monuments = @monuments #monuments NON ordonnées
+    gon.idsOrdonee = refind(@coord, @monuments).map {|monument| monument[0][:id]} #Array des ID des monuments ordonénes par le service object
+    gon.monumentsOrdonne = refind(@coord, @monuments) #Array des monuments ordonnées par le service objet.
   end
 
   private
@@ -99,5 +98,16 @@ class ItinerairesController < ApplicationController
     arr_final = []
     coord[:latitudes].size.times { |i| arr_final.push([coord[:latitudes][i], coord[:longitudes][i]]) }
     return arr_final
+  end
+
+  def refind(coords, monuments)
+    arr = []
+    coords.each_with_index do |coord, index|
+      if index != coords.size - 1
+        selec = monuments.select { |monument| monument[:longitude] == coord[0].to_s && monument[:latitude] == coord[1].to_s }
+        arr.push(selec)
+      end
+    end
+    return arr
   end
 end
