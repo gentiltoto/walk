@@ -31,7 +31,7 @@
 // for small devices but not mobile
 @media only screen and (min-width: 768px) {
   .city-home-wrapper {
-    height: 100vh
+    height: 70vh
   }
 }
 
@@ -40,6 +40,14 @@
   .home-wrapper {
     height: 70vh;
     background-position: center;
+
+    h1 {
+      font-size: 38px;
+    }
+
+    p {
+      font-size: 25px
+    }
   }
 
   .presentation-wrapper {
@@ -50,14 +58,27 @@
   }
 
   .city-home-wrapper {
-    height: 70vh
+    height: 60vh
+  }
+  .available-cities {
+    margin-top: 41px;
+    margin-bottom: 16px;
+    margin-left: 15px;
+
+    h1 {
+      font-size: 32px;
+      color: black;
+      margin: 0;
+      font-weight: 700;
+    }
   }
 }
+
 
 // for mobile
 @media (max-width: 992px) {
   .home-wrapper {
-    height: 50vh;
+    height: 42vh;
     background-position: center;
   }
 
@@ -71,7 +92,20 @@
   }
 
   .city-home-wrapper {
-    height: 45vh
+    height: 38vh
+  }
+
+  .available-cities {
+  margin-top: 15px;
+  margin-bottom: -2px;
+  margin-left: 10px;
+
+    h1 {
+      font-size: 25px;
+      color: black;
+      margin: 0;
+      font-weight: 700;
+    }
   }
 }
 
@@ -94,18 +128,6 @@
   }
 }
 
-
-.available-cities {
-  margin-top: 30px;
-  margin-bottom: 10px;
-
-  h1 {
-    font-size: 32px;
-    color: black;
-    margin: 0;
-    font-weight: 700;
-  }
-}
 
 .home-presentation {
   display: flex;
