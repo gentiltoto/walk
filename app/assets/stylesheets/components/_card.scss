@@ -23,7 +23,8 @@
   }
 
   .monument-name {
-    left: 160px;
+    font-size: 16px;
+    left: 150px;
   }
 }
 
@@ -42,6 +43,7 @@
   }
 
   .monument-name {
+    font-size: 30px;
     left: 250px;
   }
 }
@@ -68,9 +70,8 @@
 
 .monument-name {
   margin: 0;
-  font-size: 20px;
-  padding: 0 12px;
+  padding-left: 5px;
   color: rgba(66, 66, 114, 1);
   position: absolute;
-  top: 12px;
+  top: 30px;
 }
