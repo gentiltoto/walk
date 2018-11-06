@@ -18,6 +18,7 @@ class ItinerairesController < ApplicationController
     @itineraire.update(compteur: 0)
     # Make accessible to JS everything define in choice.json.rabl (in views)
     gon.itineraire = @itineraire
+    gon.itineraireMonuments = @itineraire.monuments
     gon.monuments = @monuments
   end
 

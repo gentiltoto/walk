@@ -46,6 +46,13 @@ let markerObject;
 let compteur = 0;
 const gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
+const gonItiMonuments = gon.itineraireMonuments;
+let compteurMonuments = gonItiMonuments.length;
+
+// By default the button is not available
+$(".green-choice-circle").css("background-color", "#BCC1C1");
+$(".green-choice-circle").css("pointer-events", "none");
+
 
 if ($(window).width() < 992) {
   $("#marker-0").remove();
@@ -62,7 +69,6 @@ const choiceNo = $(".choice-no").click((event) => {
   $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition in fly up");
   $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition out fly right");
   compteur += 1;
-  console.log(gonMonuments[compteur].id);
   $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition out fly right")
   $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition in fly up");
   defineNewMarker(compteur, mapObject, markerObject);
@@ -81,6 +87,7 @@ const choiceYes = $(".choice-yes").click((event) => {
   $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition out fly right")
   $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition in fly up");
   defineNewMarker(compteur, mapObject, markerObject);
+  compteurMonuments += 1;
 });
 
 
@@ -111,3 +118,16 @@ $("#green-choice").click((event) => {
     clicks += 1;
   }
 });
+
+let timer = setInterval(nbOfMonuments, 1000);
+function nbOfMonuments() {
+  console.log(compteurMonuments);
+  if (compteurMonuments >= 3) {
+    stopTimer();
+    $(".green-choice-circle").css("background-color", "#36E672");
+    $(".green-choice-circle").css("pointer-events", "auto");
+  }
+}
+function stopTimer() {
+  clearInterval(timer);
+}
