@@ -137,11 +137,23 @@ function stopTimer() {
 gonMonuments.forEach((mon) => {
   $(`#plus-info-${mon.id}`).click((event) => {
     // Remove the card classic
-    $(`#monument-${mon.id}`).removeClass("transition visible animating in scale");
+    $(`#monument-${mon.id}`).removeClass("transition visible animating in scale fly right left");
     $(`#monument-${mon.id}`).addClass("transition visible animating out scale");
 
     // Add the card info
+    $(`#monument-info-${mon.id}`).css("z-index", "900")
     $(`#monument-info-${mon.id}`).removeClass("transition visible animating out scale");
     $(`#monument-info-${mon.id}`).addClass("transition visible animating in scale");
+  });
+
+  $(`#delete-info-${mon.id}`).click((event) => {
+    // Remove the card info
+    $(`#monument-info-${mon.id}`).css("z-index", "0")
+    $(`#monument-info-${mon.id}`).removeClass("transition visible animating in scale");
+    $(`#monument-info-${mon.id}`).addClass("transition visible animating out scale");
+
+    // Add the card classic
+    $(`#monument-${mon.id}`).removeClass("transition visible animating out scale");
+    $(`#monument-${mon.id}`).addClass("transition visible animating in scale");
   });
 });

@@ -60,12 +60,16 @@
 
     <div class="info-supp">
       <h3>Inscrit au patrimoine</h3>
-      <h4>Addresse à mettre ici</h4>
+      <h4><%= monument.address %></h4>
     </div>
 
     <div class="description-info">
       <h3>Description</h3>
       <p><%= monument.description %></p>
+    </div>
+
+    <div class="delete-card-info" id="delete-info-<%= monument.id %>">
+      <p>Fermer</p>
     </div>
 
   </div>
