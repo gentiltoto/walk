@@ -1,46 +1,59 @@
 <div class="navbar-walk">
-  <div class="circle-navbar">
+  <div class="circle-navbar-desktop hidden-xs hidden-sm">
 
     <div class="navbar-walk-desktop hidden-xs hidden-sm">
 
-      <% if user_signed_in? %>
+       <div class="desktop-links">
+        <% if user_signed_in? %>
 
 
-      <div class="navbar-link">
-        <%= link_to "Accueil", root_path, class: "link-navbar" %>
+        <div class="navbar-link">
+          <%= link_to "Accueil", root_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
+          <%= link_to "Mes Itinéraires", root_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
+          <%= link_to "Déconnexion", destroy_user_session_path, method: :delete, class: "link-navbar" %>
+        </div>
+
+
+        <% else %>
+
+
+        <div class="navbar-link">
+          <%= link_to "Accueil", root_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
+          <%= link_to "Connexion", new_user_session_path, class: "link-navbar" %>
+        </div>
+
+        <div class="navbar-link">
+          <%= link_to new_user_registration_path  do %>
+          <%= render "shared/button", calltoaction: "Inscription" %>
+          <% end  %>
+        </div>
+
+
+        <% end %>
       </div>
 
-      <div class="navbar-link">
-        <%= link_to "Mes Itinéraires", root_path, class: "link-navbar" %>
+      <div class="drop-menu-desktop">
+        <i class="fas fa-home"></i>
       </div>
 
-      <div class="navbar-link">
-        <%= link_to "Déconnexion", destroy_user_session_path, method: :delete, class: "link-navbar" %>
+      <div class="drop-menu-close-desktop">
+        <i class="fas fa-times"></i>
       </div>
-
-
-      <% else %>
-
-
-      <div class="navbar-link">
-        <%= link_to "Accueil", root_path, class: "link-navbar" %>
-      </div>
-
-      <div class="navbar-link">
-        <%= link_to "Connexion", new_user_session_path, class: "link-navbar" %>
-      </div>
-
-      <div class="navbar-link">
-        <%= link_to new_user_registration_path  do %>
-        <%= render "shared/button", calltoaction: "Inscription" %>
-        <% end  %>
-      </div>
-
-
-      <% end %>
 
     </div>
 
+  </div>
+
+  <div class="circle-navbar-mobile hidden-md hidden-lg">
 
     <div class="navbar-walk-mobile hidden-md hidden-lg">
 
@@ -82,16 +95,17 @@
         <% end %>
       </div>
 
-      <div class="drop-menu">
+      <div class="drop-menu-mobile">
         <i class="fas fa-bars"></i>
       </div>
 
-      <div class="drop-menu-close">
+      <div class="drop-menu-close-mobile">
         <i class="fas fa-times"></i>
       </div>
 
     </div>
 
-
   </div>
+
+
 </div>

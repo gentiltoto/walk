@@ -1,6 +1,9 @@
 import "bootstrap";
-import { openNav, closeNav } from "./navbar.js";
+import { openNavMobile, openNavDesktop, closeNavMobile, closeNavDesktop } from "./navbar.js";
 
 // Set Listeners for the Mobile Navbar
-openNav();
-closeNav();
+openNavMobile();
+openNavDesktop();
+closeNavMobile();
+closeNavDesktop();
+
