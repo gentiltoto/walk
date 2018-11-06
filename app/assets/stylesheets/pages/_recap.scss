@@ -1,41 +1,36 @@
 // For mobile
 @media (max-width: 992px) {
-  .left-arrow {
-    height: 200px;
-    top: -88%;
-    right: 10%;
-  }
-
-  .right-arrow {
-    height: 200px;
-    top: -203%;
-    left: 100%;
-  }
-
   .ball-monuments {
     top: 55%;
     width: 350px;
+  }
+
+  .delete-card {
+    top: -105%;
+  }
+
+  .arrow-container {
+    max-width: 95vw;
+    width: 370px;
+    top: -45%;
   }
 }
 
 // For Desktop
 @media (min-width: 992px) {
-  .left-arrow {
-    height: 300px;
-    top: -78%;
-    right: 8%;
-  }
-
-  .right-arrow {
-    height: 300px;
-    top: -187%;
-    left: 100%;
-  }
-
   .ball-monuments {
     left: 5%;
     top: 25%;
     width: 400px;
+  }
+
+  .delete-card {
+    top: -87%;
+  }
+
+  .arrow-container {
+    width: 420px;
+    top: -35%;
   }
 }
 
@@ -60,30 +55,32 @@
   background-color: black !important;
 }
 
-.left-arrow {
-  background-color: transparent;
-  width: 30px;
-  position: relative;
-  z-index: 300;
+.arrow-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  right: 22px;
 
-  img {
+  i {
+    font-size: 30px;
     cursor: pointer;
   }
 }
 
-.right-arrow {
-  background-color: transparent;
-  width: 30px;
+
+.delete-card {
   position: relative;
-  z-index: 300;
+  right: -94%;
+  width: 30px;
+  margin: 0;
+  border-radius: 50%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  cursor: pointer;
+  z-index: 700;
 
-  img {
-    cursor: pointer;
+  i {
+    font-size: 30px;
+    color: #FB838D;
   }
 }

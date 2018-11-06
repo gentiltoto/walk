@@ -77,6 +77,7 @@ let markersObject;
 let compteur = gon.monuments[0].id;
 let index = 0;
 const gonMonuments = gon.monuments;
+const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
   mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 50, right: 50});

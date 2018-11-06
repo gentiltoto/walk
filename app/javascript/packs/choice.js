@@ -28,7 +28,7 @@ function formatCoord(nb) {
 }
 
 function defineNewMarker(nb, map, marker) {
-  markerObject.remove()
+  $("#marker-0").remove();
   markerObject = addMarker(formatCoord(nb), mapObject);
   let flyToObject;
   if ($(window).width() < 992) {
