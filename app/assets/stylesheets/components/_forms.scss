@@ -1,23 +1,25 @@
 .sign-wrapper {
-  background-image: asset-url("sign-background.jpg");
-  height: calc(100vh - 60px);
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center
 }
 
 // For Mobile
 @media (max-width: 768px) {
   .sign-form {
-    background-color: $light-gray;
+    background-color: gray;
     padding: 20px 30px;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 }
 
 // For Desktop
 @media (min-width: 768px) {
   .sign-form {
-    background-color: $light-gray;
+    background-color: gray;
     padding: 20px 50px;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 }
 
