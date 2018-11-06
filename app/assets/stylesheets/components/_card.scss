@@ -26,6 +26,12 @@
     font-size: 16px;
     left: 150px;
   }
+
+  .card-infos {
+    p {
+      font-size: 15px;
+    }
+  }
 }
 
 // For Desktop
@@ -45,6 +51,12 @@
   .monument-name {
     font-size: 25px;
     left: 53%;
+  }
+
+  .card-infos {
+    p {
+      font-size: 20px;
+    }
   }
 }
 
@@ -82,4 +94,16 @@
   position: absolute;
   top: 5%;
   left: 55%;
+}
+
+.card-infos {
+  position: absolute;
+  bottom: 15%;
+  left: 75%;
+  border-bottom: 2px solid #7F59EE;
+
+  p {
+    color: #7F59EE;
+    margin: 0;
+  }
 }
