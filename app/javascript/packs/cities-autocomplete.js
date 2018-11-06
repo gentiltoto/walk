@@ -12,9 +12,8 @@ autocomplete(document.getElementById("myInput"), villes);
 // Validation
 document.querySelector(".form-container").addEventListener("submit", (event) => {
   const input = document.getElementById("myInput").value;
-  if (input in villes) {
-    //pass
-    // TO-DO: notifier l'utilisateur
+  if (villes.includes(input)) {
+    // Pass
   } else {
     event.preventDefault();
   }

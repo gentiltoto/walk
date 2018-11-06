@@ -60,12 +60,13 @@ function flyToMarker(id, map) {
   let found = gonMonuments.find((e) => { return e.id === id });
   let flyToObject;
   if ($(window).width() < 992) {
-    flyToObject = [formatCoord(found)[0], formatCoord(found)[1] - 0.009];
+    flyToObject = [formatCoord(found)[0], formatCoord(found)[1] - 0.002];
   } else {
     flyToObject = [formatCoord(found)[0] - 0.007, formatCoord(found)[1]];
   }
   map.flyTo({
-        center: flyToObject
+        center: flyToObject,
+        zoom: 15
     });
 
   $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
@@ -80,7 +81,7 @@ const gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
-  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 50, right: 50});
+  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 350, left: 50, right: 50});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
   mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 150, bottom: 300, left: 120, right: 30});
@@ -181,4 +182,8 @@ $("#green-choice").click((event) => {
     $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
     clicks += 1;
   }
+});
+
+$(window).resize(function(event) {
+  console.log($(window).height());
 });
