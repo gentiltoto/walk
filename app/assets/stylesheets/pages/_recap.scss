@@ -5,14 +5,10 @@
     width: 350px;
   }
 
-  .delete-card {
-    top: -103%;
-  }
 
   .arrow-container {
     max-width: 95vw;
     width: 370px;
-    top: -45%;
   }
 }
 
@@ -24,13 +20,9 @@
     width: 400px;
   }
 
-  .delete-card {
-    top: -87%;
-  }
 
   .arrow-container {
     width: 420px;
-    top: -35%;
   }
 }
 
@@ -59,8 +51,9 @@
 .arrow-container {
   display: flex;
   justify-content: space-between;
-  position: relative;
-  right: 22px;
+  position: absolute;
+  top: 40%;
+  right: -10px;
 
   i {
     font-size: 30px;
@@ -70,8 +63,9 @@
 
 
 .delete-card {
-  position: relative;
-  right: -93%;
+  position: absolute;
+  top: 0;
+  right: 0;
   width: 30px;
   margin: 0;
   border-radius: 50%;
