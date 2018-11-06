@@ -46,21 +46,26 @@ export function getRoute(map, steps) {
     });
   })
   // récupération des data sur la route en question (distance en metre + temps en seconde) (5km/h pour la marche)
-  var distance = Number(Math.round(data.routes[0].distance/1000 + 'e2') + 'e-2') + 'km    '.replace(".", ",");
+  var distance = Number(Math.round(data.routes[0].distance/1000 + 'e2') + 'e-2') + ' km    '.replace(".", ",");
   var duration = data.routes[0].duration
   if (duration > 3600) {
-    duration = Math.trunc(duration/3600) + 'h' + Math.round((duration%3600)/60) + 'mn'
+    duration = Math.trunc(duration/3600) + 'h' + Math.round((duration%3600)/60) + ' mn'
   } else {
-    duration = Math.round(duration/60) + 'mn'
+    duration = Math.round(duration/60) + ' mn'
   };
-  var metrics =
-  `<div class='metrics'>
-    <p>
-    <b>Distance :</b> ${distance}
-    <b>Temps de trajet :</b> ${duration}
-    </p>
-   </div>`
-  document.getElementById('map-final').insertAdjacentHTML('beforeend', metrics);
+  var metricsDistance =
+  `<div class="distance-wraper">
+  <i class="fas fa-walking"></i>
+  <p>${distance}</p>
+  </div>`
+
+   var metricsTemps =
+  `<div class="time-wraper">
+  <i class="far fa-clock"></i>
+  <p>${duration}</p>
+  </div>`
+  document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsDistance);
+  document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsTemps);
   });
 }
 

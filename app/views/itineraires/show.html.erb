@@ -1,23 +1,35 @@
 <div id='map-final'>
-
-<% @monuments.each do |monument| %>
-
-<div class="card-recap-final" id="id-<%=monument.id%>">
-  <div class="flex-card-recap-final">
-    <div class="monument-image-div">
-      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
-    </div>
-    <h2 class="monument-name"><%=monument.name %></h2>
-    <i class="fas fa-chevron-circle-down"></i>
+  <div id="metrics-distance">
   </div>
+
+
+
+
+
+
+
+  <% @monuments.each do |monument| %>
+
+  <div class="minirecap" id="minirecap-<%=monument.id%>"</div>
+    <div class="container-minirecap" id="<%=monument.id%>">
+      <h5><%=monument.name%></h5>
+      <i class="fas fa-chevron-circle-up" id="open-id-<%=monument.id%>"></i>
+    </div>
+  </div>
+
+
+  <div class="card-recap-final" id="recap-final-<%=monument.id%>">
+    <div class="flex-card-recap-final">
+      <div class="monument-image-div">
+        <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+      </div>
+      <h2 class="monument-name"><%=monument.name %></h2>
+      <i class="fas fa-chevron-circle-down"></i>
+    </div>
+  </div>
+<%end%>
 </div>
 
-<%end%>
-
-
-
-
-<% content_for(:js) do %>
-  <% javascript_pack_tag 'itinary-mapbox-direction' %>
-<% end %>
-
+  <% content_for(:js) do %>
+    <% javascript_pack_tag 'itinary-mapbox-direction' %>
+  <% end %>
