@@ -6,6 +6,11 @@
   height: 100vh;
   display: flex;
   align-items: center;
+
+}
+
+.form-actions {
+margin-top: 10px;
 }
 
 .form-control {
@@ -18,7 +23,19 @@
     background-color: rgba(255,255,255,0.95);
     padding: 20px 30px;
     margin-top: 20px;
+    z-index: 230;
+    border-radius: 10px;
   }
+
+  .bouton-seety {
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  width: 150px;
+  height: 50px;
+  border-radius: 40px;
+  color: white;
+
+  }
+
 }
 
 // For Desktop
@@ -27,6 +44,21 @@
     background-color: rgba(255,255,255,0.95);
     padding: 20px 50px;
     margin-top: 20px;
+    z-index: 230;
+    border-radius: 10px;
+  }
+
+  .form-action {
+    height: 50px;
+  }
+
+  .bouton-seety {
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  width: 150px;
+  height: 50px;
+  border-radius: 40px;
+  color: white;
+
   }
 }
 
@@ -69,4 +101,13 @@
 
 input[type="checkbox"] {
   margin: 4px 4px 0 0;
+}
+
+.bouton-seety {
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  width: 150px;
+  height: 50px;
+  border-radius: 40px;
+  color: white;
+
 }

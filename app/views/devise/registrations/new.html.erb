@@ -25,17 +25,27 @@
             input_html: { autocomplete: "new-password" } %>
           </div>
 
-          <div class="form-actions">
-            <%= f.button :submit, "Inscription", class: "choice maker" %>
-          </div>
-          <% end %>
-
-          <div class="form-other-link">
-            <p>Vous avez déjà un compte ?</p>
-            <div class="other-link">
-              <%= render "devise/shared/links" %>
+          <div class="row">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-4">
+              <div class="form-actions">
+            <%= f.button :submit, "Inscription", class: "bouton-seety" %>
+              </div>
             </div>
           </div>
+                <% end %>
+
+          <div class="row">
+            <div class="col-xs-10 col-xs-offset-1">
+              <div class="form-other-link">
+                <p>Vous avez déjà un compte ?</p>
+                <div class="other-link">
+                  <%= render "devise/shared/links" %>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
 
         </div>
 
