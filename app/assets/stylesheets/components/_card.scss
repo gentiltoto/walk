@@ -11,14 +11,14 @@
 // For mobile
 @media (max-width: 992px) {
   .card {
-    height: 200px;
+    height: 150px;
     width: 350px;
     max-width: 90vw;
-    top: 45%;
+    top: 54%;
   }
 
   .monument-image-div {
-    height: 140px;
+    height: 125px;
     width: 140px;
   }
 
@@ -31,7 +31,7 @@
 // For Desktop
 @media (min-width: 992px) {
   .card {
-    height: 300px;
+    height: 250px;
     width: 400px;
     left: 5%;
     top: 30%;
@@ -43,8 +43,8 @@
   }
 
   .monument-name {
-    font-size: 30px;
-    left: 250px;
+    font-size: 25px;
+    left: 53%;
   }
 }
 
@@ -61,6 +61,8 @@
 
 .monument-image-div {
   position: relative;
+  display: flex;
+  justify-content: center;
 
   img {
     max-width: 100%;
@@ -74,4 +76,10 @@
   color: rgba(66, 66, 114, 1);
   position: absolute;
   top: 30px;
+}
+
+.card-stars {
+  position: absolute;
+  top: 5%;
+  left: 55%;
 }

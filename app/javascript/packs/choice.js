@@ -51,7 +51,7 @@ let compteurMonuments = gonItiMonuments.length;
 
 // By default the button is not available
 $(".green-choice-circle").css("background-color", "#BCC1C1");
-$(".green-choice-circle").css("pointer-events", "none");
+$("#green-choice").css("pointer-events", "none");
 
 
 if ($(window).width() < 992) {
@@ -124,7 +124,7 @@ function nbOfMonuments() {
   if (compteurMonuments >= 3) {
     stopTimer();
     $(".green-choice-circle").css("background-color", "#36E672");
-    $(".green-choice-circle").css("pointer-events", "auto");
+    $("#green-choice").css("pointer-events", "auto");
   }
 }
 function stopTimer() {
