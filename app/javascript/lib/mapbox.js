@@ -7,7 +7,7 @@ export function map(coord, ids) {
 
   // center au milieu de la france, pour un petit effet par la suite
     center: [2.918381, 47.026351],
-    style: 'mapbox://styles/mapbox/basic-v9',
+    style: 'mapbox://styles/mapbox/light-v9',
     zoom: 12
   });
 
