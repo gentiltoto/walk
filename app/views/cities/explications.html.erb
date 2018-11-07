@@ -25,7 +25,7 @@
         <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
       </div>
       <div class="text-explics">
-        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert.</p>
+        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert. (min deux monuments)</p>
       </div>
     </div>
 
@@ -53,7 +53,7 @@
 
   <div class="choice">
     <div class="choice-container">
-      <%= link_to "J'ai compris !", post_city_path(@city), class: "bouton-seety", method: :post %>
+      <%= link_to "J'ai compris !", post_city_path(@city), method: :post %>
     </div>
   </div>
 
