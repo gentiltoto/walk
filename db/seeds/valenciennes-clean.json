@@ -5,7 +5,8 @@
     "name": "Auberge du Bon Fermier",
     "address": "64, 66 rue de Famars",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3551505,
+      "longitude": 3.5212612
     },
     "city": "Valenciennes",
     "description": "Façades et toitures (cad. AT 362, 394) : inscription par arrêté du 28 avril 1970",
@@ -34,7 +35,8 @@
     "name": "Château d'eau de la Place Verte",
     "address": "4 rue Louis Bracq",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3593209,
+      "longitude": 3.5308391
     },
     "city": "Valenciennes",
     "description": "Le château d'eau pour ses façades et toitures, avec le bâtiment des pompes et les ateliers (cad. AR 935, 936) : inscription par arrêté du 22 mars 2012",
@@ -63,7 +65,8 @@
     "name": "Citadelle",
     "address": "Parc de la Citadelle Rue des Bigorneurs Rue de Roubaix",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.359893,
+      "longitude": 3.5095279
     },
     "city": "Valenciennes",
     "description": "Vestiges du bastion des Repenties ; écluse des Repenties et son radier ; vestiges de l'écluse des fossés Notre-Dame, batardeau, vestiges de l'écluse de Bruillé, pont de la citadelle, vestiges du bastion du calvaire, vestiges de la demi-lune 17 ainsi que les parties enfouies : inscription par arrêté du 21 avril 1987",
@@ -111,7 +114,8 @@
     "name": "Faïencerie",
     "address": "48 rue de l'Intendance",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.4412595,
+      "longitude": 3.4203803
     },
     "city": "Valenciennes",
     "description": "Façade et toiture sur rue : inscription par arrêté du 14 mars 1944",
@@ -170,7 +174,8 @@
     "name": "Hôpital général",
     "address": "Place de l'Hôpital-Général",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3626165,
+      "longitude": 3.5271309
     },
     "city": "Valenciennes",
     "description": "Hôpital général : classement par arrêté du 18 juin 1945",
@@ -199,7 +204,8 @@
     "name": "Hôtel Floréal",
     "address": "56 rue de Paris",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.35,
+      "longitude": 3.53333
     },
     "city": "Valenciennes",
     "description": "Façades et toitures de l'aile sur rue et de l'aile sur cour ; grande salle à manger au rez-de-chaussée du bâtiment sur cour y compris les boiseries qui la décorent : classement par arrêté du 31 janvier 1946",
@@ -228,7 +234,8 @@
     "name": "Hôtel Hamoir",
     "address": "8 Rue du Grand-Fossart",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3404811,
+      "longitude": 3.5777474
     },
     "city": "Valenciennes",
     "description": "Façade sur rue et toiture : inscription par arrêté du 8 mai 1944 ; Façades sur cour de l'hôtel Hamoir au numéro 8 (cad. AS 537) : inscription par arrêté du 7 juillet 1988",
@@ -257,7 +264,8 @@
     "name": "Hôtel Mer",
     "address": "14 rue du Grand-Fossart",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.577502,
+      "longitude": 1.5808325
     },
     "city": "Valenciennes",
     "description": "Le jardin d'hiver avec son décor mural peint et sa verrière (cad. AS 458) : inscription par arrêté du 7 juillet 1988",
@@ -365,7 +373,8 @@
     "name": "Hôtel de Barneville",
     "address": "16 avenue des Dentellières",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.355954,
+      "longitude": 3.519141
     },
     "city": "Valenciennes",
     "description": "Façades et toitures sur rue et sur cour intérieure (cad. AT 859) : inscription par arrêté du 30 novembre 1972",
@@ -394,7 +403,8 @@
     "name": "Hôtel de Lambesc",
     "address": "70 rue du Quesnoy",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.35,
+      "longitude": 3.53333
     },
     "city": "Valenciennes",
     "description": "Portail d'entrée ainsi que le balcon en fer forgé au devant de la fenêtre au premier étage et les vantaux en menuiserie de la porte cochère au rez-de-chaussée : inscription par arrêté du 18 octobre 1944",
@@ -423,7 +433,8 @@
     "name": "Hôtel de ville",
     "address": "Place d'Armes",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3578712,
+      "longitude": 3.5220527
     },
     "city": "Valenciennes",
     "description": "Toutes les façades et toitures, ainsi que le volume du grand hall d'accueil du public (cad. AV 304) : inscription par arrêté du 26 février 2001",
@@ -519,7 +530,8 @@
     "name": "Maison du Prévôt",
     "address": "13 rue Notre-Dame",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3566405,
+      "longitude": 3.518377
     },
     "city": "Valenciennes",
     "description": "Façades et toitures : classement par décret du 21 avril 1923",
@@ -548,7 +560,8 @@
     "name": "Maison à pans de bois",
     "address": "12 rue de Famars",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.35,
+      "longitude": 3.53333
     },
     "city": "Valenciennes",
     "description": "Façades sur rue et sur cour ainsi que la toiture : inscription par arrêté du 22 juin 1943",
@@ -577,7 +590,8 @@
     "name": "Maison à pans de bois",
     "address": "53 rue de Mons",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.35,
+      "longitude": 3.53333
     },
     "city": "Valenciennes",
     "description": "Façades et toitures : classement par arrêté du 17 décembre 1924",
@@ -606,7 +620,8 @@
     "name": "Mont-de-Piété",
     "address": "10, 12 place Verte",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.35,
+      "longitude": 3.53333
     },
     "city": "Valenciennes",
     "description": "Parcelle cadastrale AW 69 : inscription par arrêté du 27 novembre 1968 ; Parcelle cadastrale AW 70 : classement par arrêté du 13 janvier 1994",
@@ -672,7 +687,8 @@
     "name": "Tour de la Dodenne",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.3537886,
+      "longitude": 3.5270935
     },
     "city": "Valenciennes",
     "description": "Tour de Dodenne : classement par arrêté du 17 février 1904",

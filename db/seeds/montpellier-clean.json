@@ -1,0 +1,3343 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa00103535-basilique-notre-dame-des-tables.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103535.jpg",
+    "name": "Basilique Notre-Dame des Tables",
+    "address": "1 rue du Collège",
+    "coordinates": {
+      "latitude": "43.61222",
+      "longitude": "3.87917"
+    },
+    "city": "Montpellier",
+    "description": "La basilique Notre-Dame des Tables est une église-basilique située en plein cœur de Montpellier, rue du Collège, elle est intimement liée à l'histoire de la ville de Montpellier. Cette église est église mère de Montpellier et la ville est sous son patronage ainsi que celui de saint Firmin.\nLa construction de l'édifice de style baroque que l'on peut admirer aujourd'hui a commencé en 1707 sous la direction de l'architecte Jean Giral et terminé en 1748. Il s'agit de l'ancienne chapelle du collège des Jésuites (actuel musée Fabre), qui devint l’église paroissiale Notre-Dame des Tables en 1802.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 14,
+      "mean_replies": 0.5,
+      "mean_retweets": 8.642857142857142,
+      "mean_likes": 11.642857142857142
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 291.4634146341463
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103521-bureau-doctroi-du-pont-juvenal.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103521.jpg",
+    "name": "Bureau d'octroi du pont Juvénal",
+    "address": "Place Christophe Colomb",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façades et toitures (cad. CO 111) : inscription par arrêté du 20 octobre 1978",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103522-cathedrale-saint-pierre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103522.jpg",
+    "name": "Cathédrale Saint-Pierre de Montpellier",
+    "address": "Place Saint-Pierre",
+    "coordinates": {
+      "latitude": "43.613333",
+      "longitude": "3.874167"
+    },
+    "city": "Montpellier",
+    "description": "La cathédrale Saint-Pierre de Montpellier est la cathédrale catholique de Montpellier dans l'Hérault. Située dans l'écusson, cœur de la vieille ville, c'est le monument de style gothique le plus important de la ville de Montpellier et la plus grande église de l'ex-région Languedoc-Roussillon.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 177,
+      "mean_replies": 0.1864406779661017,
+      "mean_retweets": 5.581920903954802,
+      "mean_likes": 7.497175141242938
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1115.0243902439024
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103532-chapelle-des-cordeliers.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103532.jpg",
+    "name": "Chapelle des Cordeliers",
+    "address": "20 rue de Verdun",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "L'ancienne chapelle en totalité, avec son décor intérieur, ainsi que les vestiges du portail en retour à l'ouest (cad. HM 491, 293) : inscription par arrêté du 27 février 2007",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 286,
+      "mean_replies": 0.11888111888111888,
+      "mean_retweets": 2.0174825174825175,
+      "mean_likes": 4.458041958041958
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103523-chapelle-des-penitents-blancs.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103523.jpg",
+    "name": "Chapelle des Pénitents blancs",
+    "address": "14 rue Jacques-Cœur",
+    "coordinates": {
+      "latitude": 43.5013165,
+      "longitude": 3.711605
+    },
+    "city": "Montpellier",
+    "description": "Eglise (cad. HN 32) : classement par arrêté du 17 février 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 181,
+      "mean_replies": 0.09944751381215469,
+      "mean_retweets": 1.2486187845303867,
+      "mean_likes": 2.6243093922651934
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103526-chateau-levat.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103526.jpg",
+    "name": "Château Levat",
+    "address": "44 Avenue Saint-Lazare",
+    "coordinates": {
+      "latitude": "43.6229278",
+      "longitude": "3.889425"
+    },
+    "city": "Montpellier",
+    "description": "Le château Levat est une folie montpelliéraine située au 44 Avenue Saint-Lazare, à Montpellier, dans l'Hérault.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 70.41463414634147
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103529-chateau-do.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103529.jpg",
+    "name": "Château d'Ô (Montpellier)",
+    "address": "Rond-point du Château-d'Ô Avenue Ernest-Hemingway",
+    "coordinates": {
+      "latitude": "43.63322222",
+      "longitude": "3.839030556"
+    },
+    "city": "Montpellier",
+    "description": "Le château d'Ô est une folie montpelliéraine du milieu du xviiie siècle située avenue des Moulins, rond-point du château d'Ô et accessible via la rue de la Carrièrasse, au nord-ouest de Montpellier, dans l’Hérault.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 93,
+      "mean_replies": 0.10752688172043011,
+      "mean_retweets": 0.6881720430107527,
+      "mean_likes": 1.2580645161290323
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 210.41463414634146
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103525-chateau-de-flaugergues.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103525.jpg",
+    "name": "Château de Flaugergues",
+    "address": "Rue de la Mogère Avenue Albert-Einstein (CD24)",
+    "coordinates": {
+      "latitude": "43.6103",
+      "longitude": "3.920041667"
+    },
+    "city": "Montpellier",
+    "description": "Le château de Flaugergues est une folie montpelliéraine classée au titre des monuments historiques.\nCet édifice est situé 1744 avenue Albert Einstein, à l’est de Montpellier, dans l'Hérault, près du domaine de Grammont.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 519,
+      "mean_replies": 0.046242774566473986,
+      "mean_retweets": 0.6088631984585742,
+      "mean_likes": 0.9672447013487476
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 8,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Chateau de Flaugergues",
+      "yelp_id": "UgpZfN_RNDL2gEg_XFU7IQ",
+      "yelp_phone": "+33499526637",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0930",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1430",
+              "end": "1800",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 332.8048780487805
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103527-chateau-de-la-mogere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103527.jpg",
+    "name": "Château de la Mogère",
+    "address": "Route de Vauguières Impasse des Mourons",
+    "coordinates": {
+      "latitude": "43.60049722",
+      "longitude": "3.925719444"
+    },
+    "city": "Montpellier",
+    "description": "Le château de la Mogère, localisé à Montpellier près du nouveau quartier d’Odysseum, est une folie montpelliéraine caractéristique, construite en 1715 et classé monument historique depuis 1945.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 90,
+      "mean_replies": 0.05555555555555555,
+      "mean_retweets": 0.6333333333333333,
+      "mean_likes": 1.5444444444444445
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Chateau de la Mogere",
+      "yelp_id": "Fr0jk1wCCrpiHV44qaVguw",
+      "yelp_phone": "+33467657201",
+      "yelp_hours": ""
+    },
+    "score_wiki": 197.2439024390244
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103528-chateau-de-la-mosson.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103528.jpg",
+    "name": "Château de la Mosson",
+    "address": "Impasse du Point-du-Jour Impasse du Buffet-d'Eau Allée Bonnier-de-la-Mosson",
+    "coordinates": {
+      "latitude": "43.61372222",
+      "longitude": "3.819119444"
+    },
+    "city": "Montpellier",
+    "description": "Le château de la Mosson, aussi appelé château ou domaine Bonnier de la Mosson, est situé sur le bord de la Mosson, à la limite entre les communes de Montpellier et de Juvignac, en France. Il fait partie des folies montpelliéraines. Il se situe dans un espace naturel ouvert au public depuis 19841.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 13,
+      "mean_likes": 17.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 162.3170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103524-chateau-de-la-piscine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103524.jpg",
+    "name": "Château de la Piscine",
+    "address": "Avenue de Lodève",
+    "coordinates": {
+      "latitude": "43.61222222",
+      "longitude": "3.841416667"
+    },
+    "city": "Montpellier",
+    "description": "Le château de la Piscine est une folie montpelliéraine de la seconde moitié du xviiie siècle, située 129, avenue de Lodève, à Montpellier, dans l’Hérault.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 35,
+      "mean_replies": 0.11428571428571428,
+      "mean_retweets": 1.0285714285714285,
+      "mean_likes": 1.7428571428571429
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 178.70731707317074
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000007-cinema-pathe.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000007.jpg",
+    "name": "Cinéma Pathé",
+    "address": "29 boulevard Sarrail",
+    "coordinates": {
+      "latitude": 43.6107003,
+      "longitude": 3.8802726
+    },
+    "city": "Montpellier",
+    "description": "Façade (cad. HN 16, 95) : inscription par arrêté du 9 avril 1996",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.23625,
+      "mean_retweets": 1.1775,
+      "mean_likes": 1.7525
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103530-citadelle.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103530.jpg",
+    "name": "Citadelle de Montpellier",
+    "address": "Rue d'Argencourt Allée Henri II de Montmorency",
+    "coordinates": {
+      "latitude": "43.611667",
+      "longitude": "3.886111"
+    },
+    "city": "Montpellier",
+    "description": "La Citadelle de Montpellier est une ancienne place forte située au cœur même du centre historique de la cité héraultaise. Elle a été construite entre 1624 et 1627, sur ordre du roi Louis XIII, pour surveiller la ville après plusieurs révoltes. Devenue la caserne Joffre à la fin du xixe siècle, elle accueille depuis 1947 un établissement scolaire : Le lycée et collège Joffre.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 21,
+      "mean_replies": 2.238095238095238,
+      "mean_retweets": 12.047619047619047,
+      "mean_likes": 39.42857142857143
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 288.780487804878
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000095-college-des-ecossaisen.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000095.jpg",
+    "name": "Collège des Écossais, Montpellier",
+    "address": "Impasse Berthe Rochas 533, avenue Abbé Paul Parguel 179, rue de l'Espérou",
+    "coordinates": {
+      "latitude": "43.63602",
+      "longitude": "3.85859"
+    },
+    "city": "Montpellier",
+    "description": "Le collège des Écossais à Montpellier a été fondé en 1924 comme lieu d'étude par le botaniste et urbaniste Patrick Geddes et réalisé par l'architecte Edmond Leenhardt. Il est propriété de l'État et bénéficie d'une inscription aux Monuments historiques par arrêté du 19 décembre 2013 pour l'ensemble de l'espace de la parcelle, qui comprend des terrasses et des jardins, et des bâtiments, notamment l'Outlook Tower, ainsi que les façades et les toitures des bâtiments, et le monument à Jeanne d'Arc.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0.5,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 82.78787878787878
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000084-couvent-ou-chapelle-des-recollets.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000084.jpg",
+    "name": "Couvent (ou Chapelle) des Récollets",
+    "address": "Rue Proudhon",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "La chapelle de l'ancien couvent en totalité, y compris son décor (cad. CD 289) : inscription par arrêté du 14 avril 2011",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103531-couvent-de-la-visitation.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103531.jpg",
+    "name": "Couvent de la Visitation",
+    "address": "Rue de l'Université Rue de l'Arc-des-Mourgues",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Ancienne église (cad. BY 139) : inscription par arrêté du 10 avril 1989",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 237,
+      "mean_replies": 0.11814345991561181,
+      "mean_retweets": 0.7848101265822784,
+      "mean_likes": 1.620253164556962
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103771-couvent-des-ursulines.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103771.jpg",
+    "name": "Couvent des Ursulines de Montpellier",
+    "address": "Boulevard Louis-Blanc Rue de l'Université Rue des Écoles-Laïques Rue Sainte-Ursule",
+    "coordinates": {
+      "latitude": "43.61417",
+      "longitude": "3.87833"
+    },
+    "city": "Montpellier",
+    "description": "Le couvent des Ursulines est un couvent du xviie siècle transformé en prison au xixe siècle. Situé dans le quartier de la rue Sainte-Ursule, à Montpellier, dans l'Hérault, cet édifice est inscrit aux monuments historiques et abrite actuellement le siège du centre chorégraphique national de Montpellier.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0.4,
+      "mean_retweets": 1.4,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 111.78048780487805
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103541-fontaine-de-la-prefecture.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103541.jpg",
+    "name": "Fontaine de la Préfecture",
+    "address": "Place Chabaneau",
+    "coordinates": {
+      "latitude": 43.6113415,
+      "longitude": 3.8761732
+    },
+    "city": "Montpellier",
+    "description": "Fontaine de la Préfecture : inscription par arrêté du 9 juillet 1926",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 3.5,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103540-fontaine-des-licornes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103540.jpg",
+    "name": "Fontaine des Licornes",
+    "address": "Place de la Canourgue",
+    "coordinates": {
+      "latitude": 43.6120662,
+      "longitude": 3.8747953
+    },
+    "city": "Montpellier",
+    "description": "La fontaine (cad. L 215) : inscription par arrêté du 5 août 1963",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 10,
+      "mean_replies": 2,
+      "mean_retweets": 10.4,
+      "mean_likes": 46
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103542-fontaine-des-trois-graces.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103542.jpg",
+    "name": "Fontaine des Trois Grâces",
+    "address": "Place de la Comédie",
+    "coordinates": {
+      "latitude": "43.60861",
+      "longitude": "3.87944"
+    },
+    "city": "Montpellier",
+    "description": "La fontaine des Trois Grâces est un monument historique classé situé sur la place de la Comédie, à Montpellier (Hérault).\nEmblématique de la ville, cet ensemble sculptural illustre les personnages de la mythologie grecque nommés : Aglaé, Euphrosine et Thalie. Ces trois Charites, filles de Zeus, sont des déesses qui traduisent la séduction, la beauté, la nature, la créativité humaine et la fécondité1.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 129,
+      "mean_replies": 0.21705426356589147,
+      "mean_retweets": 1.930232558139535,
+      "mean_likes": 2.9844961240310077
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 491.8536585365854
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103543-gare-de-montpellier-saint-roch.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103543.jpg",
+    "name": "Gare de Montpellier-Saint-Roch",
+    "address": "Place Auguste-Gibert",
+    "coordinates": {
+      "latitude": "43.604642",
+      "longitude": "3.880985"
+    },
+    "city": "Montpellier",
+    "description": "La gare de Montpellier-Saint-Roch est une gare ferroviaire française située sur le territoire de la commune de Montpellier, dans le département de l'Hérault, en région Occitanie. Elle est desservie par des trains de la Société nationale des chemins de fer français (SNCF).\nJusque dans les années 2000, elle était juste appelée la gare de Montpellier, ou gare PLM (de la compagnie des chemins de fer de Paris à Lyon et à la Méditerranée) par les amateurs d'histoire. Vers 2003, Georges Frêche a commencé à utiliser le terme de Gare Saint-Roch dans les institutions qu'il dirigeait : mairie de Montpellier, communauté d'agglomération de Montpellier et réseau de transports publics TaM1. Devenu président de la région Languedoc-Roussillon en 2004, il a pu faire modifier le nom officiel de la gare le 31 mars 20052. Le nom rappelle saint Roch, natif de la ville au xive siècle, le quartier du centre-ville situé autour de l'église Saint Roch, et l'opération immobilière Nouveau Saint-Roch sur les terrains de l'ancienne gare de marchandises.\nDepuis les années 2000, elle occupe un point central dans la politique urbaine de la ville de Montpellier :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 795,
+      "mean_replies": 0.2540880503144654,
+      "mean_retweets": 1.5018867924528303,
+      "mean_likes": 2.4037735849056605
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 24,
+        "score_yelp_rating": 2.5
+      },
+      "yelp_name": "Gare de Montpellier Saint-Roch",
+      "yelp_id": "hADa2t5b4vwz6vFxKAIkPA",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1289.0975609756097
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000022-halle-castellane.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000022.jpg",
+    "name": "Halle Castellane",
+    "address": "Rue de la Loge Rue Saint-Guilhem Rue Draperie-Rouge Place Castellane",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "La halle en totalité (cad. HT 1) : inscription par arrêté du 28 juillet 1999",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.09090909090909091,
+      "mean_retweets": 0.6363636363636364,
+      "mean_likes": 0.18181818181818182
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Halles Castellane",
+      "yelp_id": "1DR2coUhCLyQixxUkHXF9g",
+      "yelp_phone": "+33467662090",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000045-hostal-des-carcassonne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000045.jpg",
+    "name": "Hostal des Carcassonne",
+    "address": "3 rue de la Vieille",
+    "coordinates": {
+      "latitude": 43.6096686,
+      "longitude": 3.8773189
+    },
+    "city": "Montpellier",
+    "description": "L'immeuble en totalité (partie correspondant à l'ancien hostal médiéval et à l'hôtel classique, occupée par le \"foyer de la jeune fille\", donnant sur la rue de la Vieille, à l'exclusion de la partie donnant sur la rue de la Loge) (cad. HT 4) : inscription par arrêté du 30 juin 2004",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103544-hopital-general-saint-charles.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103544.jpg",
+    "name": "Hôpital Général Saint-Charles",
+    "address": "300 rue Auguste-Broussonnet Place Albert-Ier",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Chapelle : classement par arrêté du 1er avril 1947 - Ensemble des bâtiments anciens (des 17e et 18e siècles) de l'hôpital général, avec l'aile dite \"des Incurables\", à l'exclusion de la chapelle classée ; bâtiment des cliniques avec ses pavillons d'entrée et son jardin (construit dans le second quart du 20e siècle) , à l'exclusion des adjonctions nord en rez-de-chaussée (cad. BV 164) : inscription par arrêté du 13 novembre 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103548-hotel-bardy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103548.jpg",
+    "name": "Hôtel Bardy",
+    "address": "3 rue Philippy",
+    "coordinates": {
+      "latitude": "43.6101",
+      "longitude": "3.8748083333333"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel Bardy est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 3 mars 19541.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 12,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0.4166666666666667,
+      "mean_likes": 1.5833333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 10.804878048780488
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103547-hotel-baschy-du-cayla.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103547.jpg",
+    "name": "Hôtel Baschy-du-Cayla",
+    "address": "1 rue Embouque-d'Or",
+    "coordinates": {
+      "latitude": "43.6105",
+      "longitude": "3.8786"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel Baschy-du-Cayla est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 26 juillet 19901.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 5,
+      "mean_likes": 5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 14.170731707317072
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103559-hotel-deyde.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103559.jpg",
+    "name": "Hôtel Deydé",
+    "address": "8 rue du Cannau",
+    "coordinates": {
+      "latitude": 43.6122972,
+      "longitude": 3.8787251
+    },
+    "city": "Montpellier",
+    "description": "Porte sur rue : inscription par arrêté du 16 septembre 1943 ; Façades et toitures sur cour et grand escalier intérieur (cad. HP 263) : inscription par arrêté du 21 décembre 1984",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 3,
+      "mean_retweets": 1,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000035-hotel-duffau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000035.jpg",
+    "name": "Hôtel Duffau",
+    "address": "Rue de l'Abbé-Marcel-Montels Boulevard Pasteur Rue de la Providence",
+    "coordinates": {
+      "latitude": "43.6143",
+      "longitude": "3.875"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel Duffau (ou Sénard-Pasquier) est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 7 mars 20021.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 8,
+      "mean_replies": 0,
+      "mean_retweets": 0.125,
+      "mean_likes": 0.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.658536585365853
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103560-hotel-estorc.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103560.jpg",
+    "name": "Hôtel Estorc",
+    "address": "29 rue de l'Aiguillerie",
+    "coordinates": {
+      "latitude": 43.6113875,
+      "longitude": 3.8785383
+    },
+    "city": "Montpellier",
+    "description": "Gypseries du salon à rez-de-chaussée (actuellement librairie) (cad. L 2257) : inscription par arrêté du 9 septembre 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103597-hotel-faulquier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103597.jpg",
+    "name": "Hôtel Faulquier",
+    "address": "6 rue Boussairolles",
+    "coordinates": {
+      "latitude": 43.605482,
+      "longitude": 3.8917774
+    },
+    "city": "Montpellier",
+    "description": "Escalier monumental avec son décor : inscription par arrêté du 29 octobre 1975",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0.5,
+      "mean_retweets": 0.5,
+      "mean_likes": 9
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103568-hotel-haguenot.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103568.jpg",
+    "name": "Hôtel Haguenot",
+    "address": "6 rue de la Merci 3 rue Clapiès",
+    "coordinates": {
+      "latitude": "43.61356",
+      "longitude": "3.83996"
+    },
+    "city": "Montpellier",
+    "description": "L'hôtel Haguenot, dit villa Haguenot est une folie montpelliéraine de la deuxième moitié du xviiie siècle.\nCet édifice classé et inscrit au titre des monuments historiques est situé 6 rue de la Merci et 3 rue Clapiès, à Montpellier, dans le département de l'Hérault.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.13333333333333333,
+      "mean_retweets": 1.6,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 56.170731707317074
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103569-hotel-hortoles.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103569.jpg",
+    "name": "Hôtel de Ginestous",
+    "address": "15 rue des Trésoriers-de-la-Bourse",
+    "coordinates": {
+      "latitude": "43.609622222222",
+      "longitude": "3.8767305555556"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Ginestous (ou Hortolès) est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’un inscription au titre des monuments historiques depuis le 18 octobre 19441.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 9.585365853658537
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103570-hotel-hostalier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103570.jpg",
+    "name": "Hôtel Hostalier",
+    "address": "8 rue de l'Argenterie",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Porte d'entrée sur rue ; escalier et façade en loggia de l'escalier ; les trois autres façades sur cour : inscription par arrêté du 18 octobre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103599-hotel-lamouroux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103599.jpg",
+    "name": "Hôtel Lamouroux",
+    "address": "5 Grand Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": 43.6083116,
+      "longitude": 3.878254
+    },
+    "city": "Montpellier",
+    "description": "Façades et toitures sur rue et sur cour ; cour et grand escalier (cad. HT 119) : inscription par arrêté du 15 décembre 1994",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 38,
+      "mean_replies": 2.9210526315789473,
+      "mean_retweets": 2.736842105263158,
+      "mean_likes": 6.394736842105263
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000096-hotel-lecourt.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000096.jpg",
+    "name": "Hôtel Lecourt",
+    "address": "13, rue de l'Ancien-Courrier",
+    "coordinates": {
+      "latitude": 43.6090301,
+      "longitude": 3.8768037
+    },
+    "city": "Montpellier",
+    "description": "Les façades et toitures sur rues et sur cour, y compris le portail et les ferronneries des baies du premier étage, la cour, l'escalier, ainsi que les vestiges de décor du 18e siècle au quatrième étage (cad. HT 72) : inscription par arrêté du 15 janvier 2013 - L'ensemble des premier et deuxième étages abritant des salons peints du 18e siècle (cad. HT 72) : classement par arrêté du 12 juillet 2013",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103598-hotel-lefevre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103598.jpg",
+    "name": "Hôtel Lefèvre",
+    "address": "27 rue des Deux-Ponts",
+    "coordinates": {
+      "latitude": 43.6040191,
+      "longitude": 3.8807228
+    },
+    "city": "Montpellier",
+    "description": "Immeuble dit Hôtel Lefèvre (cad. EW 296) : inscription par arrêté du 19 novembre 1985",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 170,
+      "mean_replies": 0.4411764705882353,
+      "mean_retweets": 0.24705882352941178,
+      "mean_likes": 1.6352941176470588
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103579-hotel-pas-de-beaulieu.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103579.jpg",
+    "name": "Hôtel Pas de Beaulieu",
+    "address": "10 rue Saint-Firmin",
+    "coordinates": {
+      "latitude": 43.6104665,
+      "longitude": 3.8752507
+    },
+    "city": "Montpellier",
+    "description": "Façade sur rue, y compris les trois grilles d'appui en fer forgé ; toiture correspondante ; grand escalier dans la cour (cad. L 2052) : inscription par arrêté du 20 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.4444444444444444,
+      "mean_retweets": 0,
+      "mean_likes": 0.2222222222222222
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103581-hotel-pomier-layrargues.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103581.jpg",
+    "name": "Hôtel Pomier-Layrargues",
+    "address": "3 rue de l'Argenterie",
+    "coordinates": {
+      "latitude": 43.6093617,
+      "longitude": 3.8778884
+    },
+    "city": "Montpellier",
+    "description": "Ensemble des façades sur rue et des toitures correspondantes ; escalier avec sa rampe en fer forgé (cad. L 1544, 1549) : inscription par arrêté du 7 août 1963",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103580-hotel-perier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103580.jpg",
+    "name": "Hôtel Périer",
+    "address": "11 Grand Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": 43.6084434,
+      "longitude": 3.8784223
+    },
+    "city": "Montpellier",
+    "description": "Façades sur rue et sur cour et toitures correspondantes ; escalier avec rampe en fer forgé ; galeries avec grilles en fer forgé (cad. L 1075) : inscription par arrêté du 1er juin 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 78,
+      "mean_replies": 0.1282051282051282,
+      "mean_retweets": 0.8076923076923077,
+      "mean_likes": 1.7564102564102564
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103583-hotel-rey.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103583.jpg",
+    "name": "Hôtel Rey",
+    "address": "21 Grand Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": "43.608138888889",
+      "longitude": "3.8779277777778"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel Rey est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 26 décembre 20121.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 796,
+      "mean_replies": 0.2399497487437186,
+      "mean_retweets": 1.3316582914572865,
+      "mean_likes": 2.9610552763819094
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 10.390243902439025
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103586-hotel-saint-come.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103586.jpg",
+    "name": "Hôtel Saint-Côme",
+    "address": "32 Grand'Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": "43.608027777778",
+      "longitude": "3.8773472222222"
+    },
+    "city": "Montpellier",
+    "description": "Situé au 32 Grand'rue Jean-Moulin à Montpellier, l'hôtel Saint-Côme est le siège de la chambre de commerce et d'industrie de Montpellier depuis 1920.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 37,
+      "mean_replies": 0.05405405405405406,
+      "mean_retweets": 2.135135135135135,
+      "mean_likes": 3.135135135135135
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "instant terroir",
+      "yelp_id": "X5jN9kDM7U-16NcW0zL65g",
+      "yelp_phone": "+33650481023",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 75.36585365853658
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103595-hotel-verchant.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103595.jpg",
+    "name": "Hôtel Verchant",
+    "address": "9 rue Rebuffy",
+    "coordinates": {
+      "latitude": 43.6106241,
+      "longitude": 3.8758105
+    },
+    "city": "Montpellier",
+    "description": "Portail sur rue (imposte comprise) (cad. L 2153) : inscription par arrêté du 27 juillet 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 788,
+      "mean_replies": 0.13324873096446702,
+      "mean_retweets": 0.6725888324873096,
+      "mean_likes": 1.483502538071066
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Domaine de Verchant",
+      "yelp_id": "W_WM9D57vVl5JW60ASzoPA",
+      "yelp_phone": "+33467072600",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103545-hotel-daures.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103545.jpg",
+    "name": "Hôtel d'Aurès",
+    "address": "14 rue Eugène-Lisbonne",
+    "coordinates": {
+      "latitude": 43.6103825,
+      "longitude": 3.8740657
+    },
+    "city": "Montpellier",
+    "description": "Façades et couvertures sur la rue et sur la cour, y compris la ferronnerie de l'escalier à vis ; entrée, vestibule et grand escalier avec sa rampe en fer forgé ; décoration intérieure des salles du rez-de-chaussée (Conseil des Prud'hommes) : inscription par arrêté du 12 février 1951",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 0.6666666666666666,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103546-hotel-daveze.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103546.jpg",
+    "name": "Hôtel d'Avèze",
+    "address": "3 rue du Cannau",
+    "coordinates": {
+      "latitude": 43.6121804,
+      "longitude": 3.8779815
+    },
+    "city": "Montpellier",
+    "description": "La cage d'escalier et la façade sur cour : inscription par arrêté du 25 septembre 1943",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103571-hotel-dhostalier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103571.jpg",
+    "name": "Hôtel d'Hostalier",
+    "address": "6 rue de la Croix-d'Or 3 impasse Barnabé",
+    "coordinates": {
+      "latitude": 43.6090289,
+      "longitude": 3.8781856
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cour (cad. L 1540, 1545) : inscription par arrêté du 5 août 1963",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103593-hotel-duston.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103593.jpg",
+    "name": "Hôtel d'Uston",
+    "address": "3 rue Fournarié",
+    "coordinates": {
+      "latitude": "43.611922",
+      "longitude": "3.877087"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel d'Uston est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCet hôtel fut aménagé au xviiie siècle par le président de la cour des aides de Montpellier, Antoine Samuel Bonnier d'Alco (père d'Antoine Bonnier d'Alco). Il a ensuite appartenu à la famille d'Uston de Villeréglan.\nIl fait l’objet d'une inscription au titre des monuments historiques depuis 19441.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.21951219512195
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103549-hotel-de-baudon-de-mauny.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103549.jpg",
+    "name": "Hôtel de Baudon de Mauny",
+    "address": "1 rue de la Carbonnerie",
+    "coordinates": {
+      "latitude": "43.611788888889",
+      "longitude": "3.8782027777778"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Baudon de Mauny est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nL'hôtel est construit en 1777 pour Guillaume Charles Baudon de Mauny, administrateur des domaines de la Couronne et directeur des domaines du roi à Montpellier.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 10 janvier 19641.\nDe nos jours, il est possible d'y séjourner, le lieu étant transformé en Boutique-Hôtel depuis 20082.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0.3333333333333333,
+      "mean_likes": 0.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 16.926829268292682
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103550-hotel-de-beaulac.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103550.jpg",
+    "name": "Hôtel de Beaulac",
+    "address": "6 rue du Cannau",
+    "coordinates": {
+      "latitude": 43.612088,
+      "longitude": 3.8784117
+    },
+    "city": "Montpellier",
+    "description": "Ensemble des façades et des toitures (comprenant les élévations sur la rue de Cannau, sur l'impasse Broussonnet avec l'arceau qui l'enjambe et sur la cour intérieure) et ensemble du grand escalier et des trois pièces décorées en enfilade au premier étage (antichambre, grand salon et pièce contiguë) (cad. HP 270) : inscription par arrêté du 19 juillet 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0.25,
+      "mean_retweets": 1.25,
+      "mean_likes": 1.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103551-hotel-de-belleval.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103551.jpg",
+    "name": "Hôtel de Belleval",
+    "address": "Place de la Canourgue",
+    "coordinates": {
+      "latitude": "43.61194",
+      "longitude": "3.87472"
+    },
+    "city": "Montpellier",
+    "description": "L'hôtel de Belleval est un édifice inscrit aux monuments historiques, situé place de la Canourgue, à Montpellier, dans l'Hérault.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 77.70731707317073
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103553-hotel-de-boussugues.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103553.jpg",
+    "name": "Hôtel de Boussugues",
+    "address": "27 Grand Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": 43.6077814,
+      "longitude": 3.8775115
+    },
+    "city": "Montpellier",
+    "description": "Les façades sur cour et le passage voûté (cad. L 1111, 1111bis) : inscription par arrêté du 12 décembre 1963",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103552-hotel-de-benezet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103552.jpg",
+    "name": "Hôtel de Bénézet",
+    "address": "11bis rue de la Loge",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cour et toitures correspondantes ; grand escalier, y compris le plafond peint (cad. L 1057) : inscription par arrêté du 10 mars 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103578-hotel-de-cambaceres-murles.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103578.jpg",
+    "name": "Hôtel de Cambacérès-Murles",
+    "address": "3 rue Sainte-Croix",
+    "coordinates": {
+      "latitude": 43.6120368,
+      "longitude": 3.874368
+    },
+    "city": "Montpellier",
+    "description": "Ensemble des façades et des toitures (y compris la façade arrière sur la rue Coste-Frège) ; totalité de la cour avec le passage d'entrée ; ensemble du grand escalier ainsi que le petit escalier secondaire sur la cour (y compris l'ensemble des ferronneries des façades et des escaliers) , et les caves établies dans plusieurs niveaux de sous-sols (cad. HR 118) : inscription par arrêté du 23 mars 1995",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103555-hotel-de-campan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103555.jpg",
+    "name": "Hôtel de Campan",
+    "address": "43 rue Saint-Guilhem",
+    "coordinates": {
+      "latitude": 43.6086923,
+      "longitude": 3.8735477
+    },
+    "city": "Montpellier",
+    "description": "Escalier avec sa rampe en fer forgé (cad. L 1263) : inscription par arrêté du 10 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103556-hotel-de-castan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103556.jpg",
+    "name": "Hôtel de Castan",
+    "address": "1 rue Collot",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façade sur rue et versant de toiture correspondant (cad. L 1024) : inscription par arrêté du 3 février 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 0.3333333333333333,
+      "mean_likes": 0.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103557-hotel-de-castries.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103557.jpg",
+    "name": "Hôtel de Castries",
+    "address": "31 rue Saint-Guilhem",
+    "coordinates": {
+      "latitude": 43.6089117,
+      "longitude": 3.8743471
+    },
+    "city": "Montpellier",
+    "description": "L'ancien hôtel en totalité (cad. HV 5) : inscription par arrêté du 28 février 2014",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 140,
+      "mean_replies": 0.15714285714285714,
+      "mean_retweets": 0.8857142857142857,
+      "mean_likes": 1.1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103558-hotel-de-claris.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103558.jpg",
+    "name": "Hôtel de Claris",
+    "address": "34 rue Saint-Guilhem",
+    "coordinates": {
+      "latitude": 43.6094539,
+      "longitude": 3.8746279
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cours ; vestibule ; escalier avec sa rampe en fer forgé (cad. L 1912, 1975, 1985) : inscription par arrêté du 16 juin 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0,
+      "mean_retweets": 0.5,
+      "mean_likes": 2.25
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103561-hotel-de-fesquet.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103561.jpg",
+    "name": "Hôtel de Fesquet",
+    "address": "3 rue de l'École-de-Médecine",
+    "coordinates": {
+      "latitude": 43.61256,
+      "longitude": 3.87399
+    },
+    "city": "Montpellier",
+    "description": "Grand escalier avec ses ferronneries (cad. L 136) : inscription par arrêté du 11 mars 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 1,
+      "mean_retweets": 0,
+      "mean_likes": 16
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103562-hotel-de-fizes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103562.jpg",
+    "name": "Hôtel de Fizes",
+    "address": "6 rue du Puits-du-Temple",
+    "coordinates": {
+      "latitude": 43.6089476,
+      "longitude": 3.8746976
+    },
+    "city": "Montpellier",
+    "description": "Portail d'entrée avec l'imposte en menuiserie ; balcons en fer forgé des trois fenêtres sur rue ; escalier avec sa rampe en fer forgé : inscription par arrêté du 18 octobre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103563-hotel-de-fourques.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103563.jpg",
+    "name": "Hôtel de Fourques",
+    "address": "25 Grand Rue Jean-Moulin",
+    "coordinates": {
+      "latitude": 43.60789,
+      "longitude": 3.8779827
+    },
+    "city": "Montpellier",
+    "description": "Façade : inscription par arrêté du 25 septembre 1942",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 3,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103564-hotel-de-ganges-hotel-de-la-prefecture.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103564.jpg",
+    "name": "Hôtel de Ganges (Hôtel de la préfecture)",
+    "address": "Place Chabaneau 10 Rue Cambacérès",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façade sur la place et les quatre façades sur cour : inscription par arrêté du 12 novembre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103565-hotel-de-gayon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103565.jpg",
+    "name": "Hôtel de Gayon",
+    "address": "1 rue de la Vieille",
+    "coordinates": {
+      "latitude": 43.6096686,
+      "longitude": 3.8773189
+    },
+    "city": "Montpellier",
+    "description": "Portail (cad. L 1560, 1561, 1561bis, 1562) : inscription par arrêté du 8 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 10,
+      "mean_replies": 0.2,
+      "mean_retweets": 8.3,
+      "mean_likes": 6.7
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000092-hotel-de-grave.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000092.jpg",
+    "name": "Hôtel de Grave",
+    "address": "5 rue de la Salle l'Évêque",
+    "coordinates": {
+      "latitude": 43.6125393,
+      "longitude": 3.8794023
+    },
+    "city": "Montpellier",
+    "description": "L'ensemble formé par l'ancien hôtel de Sartre, puis de Vignes, puis d'Espous, dit \" Hôtel de Grave \", en totalité, y compris ses pavillons d'entrée, son parc, sa cour et l'immeuble dit \" hôtel de Villarmois \" (à l'exclusion de la maison Poujol donnant sur la rue Bocaud), ainsi que les façades, les toitures et l'escalier de l'immeuble dit \" Hôtel de Noailles \" (cad. HO 106, 115, 145) : inscription par arrêté du 21 novembre 2012",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 694,
+      "mean_replies": 0.3414985590778098,
+      "mean_retweets": 1.3328530259365994,
+      "mean_likes": 2.2564841498559076
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103566-hotel-de-griffy.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103566.jpg",
+    "name": "Hôtel de Griffy",
+    "address": "26 rue de l'Aiguillerie",
+    "coordinates": {
+      "latitude": "43.611075",
+      "longitude": "3.8784861111111"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Griffy est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 16,
+      "mean_replies": 0.0625,
+      "mean_retweets": 3.375,
+      "mean_likes": 9.1875
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 15.975609756097562
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103567-hotel-de-guidais.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103567.jpg",
+    "name": "Hôtel de Guidais",
+    "address": "3 place Pierre Flotte",
+    "coordinates": {
+      "latitude": "43.6107",
+      "longitude": "3.8683"
+    },
+    "city": "Montpellier",
+    "description": "L'hôtel de Guidais est un hôtel particulier bâti dans la deuxième moitié du xviiie siècle à Montpellier dans l'Hérault, et classé au titre des monuments historiques depuis 19771.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 19.073170731707318
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103572-hotel-de-joubert.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103572.jpg",
+    "name": "Hôtel de Joubert (Montpellier)",
+    "address": "14 rue du Collège",
+    "coordinates": {
+      "latitude": "43.611330555556",
+      "longitude": "3.8791222222222"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Joubert (ou hôtel Coste) est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nMonsieur de Joubert fut le dernier Trésorier de la Bourse des Etats du Languedoc, supprimés à la révolution. Ce bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 16 octobre 19441.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 11.121951219512194
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103573-hotel-de-lunas.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103573.jpg",
+    "name": "Hôtel de Lunas",
+    "address": "10 rue de la Valfère 16 rue Poitevine 3 boulevard Ledru-Rollin",
+    "coordinates": {
+      "latitude": "43.610346",
+      "longitude": "3.872713"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Lunas ou hôtel d'Hébrard est un hôtel particulier situé, dans le centre ville de l'Écusson, à Montpellier (Hérault). Il a connu, depuis le xvie siècle, différents propriétaires qui ont chacun modifié et agrandi la grande maison d'origine pour en faire un hôtel aux attraits particuliers. La moitié de ces illustres acquéreurs ont laissé leurs noms dans les rues de la ville. Pierre Sabatier (1892-1989), de la famille Sabatier d'Espeyran, a fait don de l’historique hôtel de Lunas. Propriété de l'État depuis 1974, il est géré et animé par le centre des monuments nationaux du Ministère de la Culture.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 721,
+      "mean_replies": 0.3065187239944521,
+      "mean_retweets": 0.7059639389736477,
+      "mean_likes": 1.7711511789181693
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 61.90243902439025
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103554-hotel-de-magny.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103554.jpg",
+    "name": "Hôtel de Magny",
+    "address": "3 rue Collot",
+    "coordinates": {
+      "latitude": 43.6100899,
+      "longitude": 3.8784888
+    },
+    "city": "Montpellier",
+    "description": "Ensemble des façades et des toitures sur la rue Collot, sur la cour intérieure (y compris les parties en rez-de-chaussée sous verrière) et sur la cour arrière (à l'exception du corps de bâtiment en retour établi sur la rue Embouque-d'Or) ; le porche, les salles voûtées (y compris la partie en entresol) ainsi que l'ensemble du grand escalier et du vestibule supérieur (y compris l'ensemble des ferronneries des façades sur cour et de l'escalier) (cad. HN 57) : inscription par arrêté du 7 septembre 1995 - Les trois pièces du premier étage avec leur décor (les deux salons au décor de gypseries, y compris le boudoir, et la pièce sud sur la rue Collot ornée d'un plafond peint) (cad. HN 57) : classement par arrêté du 24 mars 1997",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 49,
+      "mean_replies": 0.12244897959183673,
+      "mean_retweets": 0.2653061224489796,
+      "mean_likes": 0.673469387755102
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103574-hotel-de-manse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103574.jpg",
+    "name": "Hôtel de Manse",
+    "address": "4 rue Embouque-d'Or",
+    "coordinates": {
+      "latitude": 43.6105029,
+      "longitude": 3.878554
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cour intérieure et cage d'escalier : inscription par arrêté du 8 septembre 1943",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103575-hotel-de-mirman.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103575.jpg",
+    "name": "Hôtel de Mirman",
+    "address": "7 place du Marché-aux-Fleurs",
+    "coordinates": {
+      "latitude": 43.6112162,
+      "longitude": 3.8779637
+    },
+    "city": "Montpellier",
+    "description": "L'ancien hôtel en totalité, y compris l'ensemble du décor intérieur (cad. HP 282) : inscription par arrêté du 19 septembre 2011",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 5,
+      "mean_replies": 0,
+      "mean_retweets": 0.2,
+      "mean_likes": 0.6
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103576-hotel-de-montcalm.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103576.jpg",
+    "name": "Hôtel de Montcalm",
+    "address": "3 rue de l'Ancien-Courrier 5 plan du Sauvage 5 rue Friperie",
+    "coordinates": {
+      "latitude": "43.60955",
+      "longitude": "3.8756361111111"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Montcalm est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’un inscription au titre des monuments historiques depuis le 16 octobre 19441.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.3333333333333333,
+      "mean_retweets": 6.777777777777778,
+      "mean_likes": 6.666666666666667
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 64.78048780487805
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103577-hotel-de-montferrier.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103577.jpg",
+    "name": "Hôtel de Montferrier",
+    "address": "23 rue de l'Aiguillerie",
+    "coordinates": {
+      "latitude": 43.6109964,
+      "longitude": 3.8779068
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cour et grand escalier ; porche voûté : inscription par arrêté du 18 octobre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103582-hotel-de-querelles.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103582.jpg",
+    "name": "Hôtel de Querelles",
+    "address": "20 rue Sainte-Anne",
+    "coordinates": {
+      "latitude": 43.6097124,
+      "longitude": 3.8747588
+    },
+    "city": "Montpellier",
+    "description": "Escalier et portes palières (cad. L 2015) : inscription par arrêté du 8 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103584-hotel-de-ricard.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103584.jpg",
+    "name": "Hôtel de Ricard (Montpellier)",
+    "address": "35 rue Saint-Guilhem",
+    "coordinates": {
+      "latitude": "43.608922222222",
+      "longitude": "3.8739888888889"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Ricard est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\nCe bâtiment fait l’objet d’une inscription au titre des monuments historiques depuis le 28 juillet 19451.\nSur les autres projets Wikimedia :\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 11.926829268292684
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103585-hotel-de-roquemore.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103585.jpg",
+    "name": "Hôtel de Roquemore",
+    "address": "1 rue du Cannau Rue de Girone",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façades sur rue et cour et toitures : classement par arrêté du 23 avril 1945",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103587-hotel-de-saint-felix.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103587.jpg",
+    "name": "Hôtel de Saint-Félix",
+    "address": "17 rue de l'Ancien-Courrier",
+    "coordinates": {
+      "latitude": 43.6088383,
+      "longitude": 3.8771645
+    },
+    "city": "Montpellier",
+    "description": "Façades sur cour et escalier (cad. L 1600) : inscription par arrêté du 8 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 2,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103588-hotel-de-sarret.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103588.jpg",
+    "name": "Hôtel de Sarret",
+    "address": "6 rue du Palais des Guilhem Rue de la Coquille",
+    "coordinates": {
+      "latitude": 43.6113699,
+      "longitude": 3.8737676
+    },
+    "city": "Montpellier",
+    "description": "L'ancien hôtel en totalité (cad. HR 197) : inscription par arrêté du 21 décembre 2012",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 1,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103590-hotel-de-solas.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103590.jpg",
+    "name": "Hôtel de Solas",
+    "address": "1 rue Fournarié",
+    "coordinates": {
+      "latitude": 43.6118358,
+      "longitude": 3.8772034
+    },
+    "city": "Montpellier",
+    "description": "Façades sur les rues Fournarié et Girone, y compris les gargouilles ; portail et ses vantaux ; grilles d'appui en fer forgé (cad. L 765) : inscription par arrêté du 9 septembre 1965",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 99,
+      "mean_replies": 0.1717171717171717,
+      "mean_retweets": 0.8585858585858586,
+      "mean_likes": 1.8585858585858586
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103594-hotel-de-varennes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103594.jpg",
+    "name": "Hôtel de Varennes",
+    "address": "2 place Pétrarque",
+    "coordinates": {
+      "latitude": "43.610666666667",
+      "longitude": "3.8784861111111"
+    },
+    "city": "Montpellier",
+    "description": "L’hôtel de Varennes est un hôtel particulier situé à Montpellier, dans le département de l'Hérault.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 38,
+      "mean_replies": 0,
+      "mean_retweets": 0.5263157894736842,
+      "mean_likes": 0.7631578947368421
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 3
+      },
+      "yelp_name": "Musée du Vieux Montpellier - Hôtel de Varennes",
+      "yelp_id": "2BbwbJBaX5c12lXf_pe3xQ",
+      "yelp_phone": "+33467660294",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1300",
+              "day": 6
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 28.878048780487806
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103589-hotel-de-la-societe-royale-des-sciences.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103589.jpg",
+    "name": "Hôtel de la Société royale des Sciences",
+    "address": "31 rue de l'Aiguillerie",
+    "coordinates": {
+      "latitude": 43.6115048,
+      "longitude": 3.8784893
+    },
+    "city": "Montpellier",
+    "description": "Portail sur rue, y compris les vantaux et le marteau en fer forgé ; escalier et sa rampe en fer forgé (cad. L 2258) : inscription par arrêté du 16 mars 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103592-hotel-des-tresoriers-de-france.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103592.jpg",
+    "name": "Hôtel des Trésoriers de France",
+    "address": "5 rue des Trésoriers-de-France",
+    "coordinates": {
+      "latitude": "43.609577777778",
+      "longitude": "3.8787416666667"
+    },
+    "city": "Montpellier",
+    "description": "L'Hôtel des Trésoriers de France ou Palais Jacques Cœur de Montpellier est l'un des plus anciens hôtels particuliers de cette ville.\n\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 3,
+      "mean_retweets": 0.3333333333333333,
+      "mean_likes": 1.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 54.93333333333333
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103591-hotel-des-tresoriers-de-la-bourse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103591.jpg",
+    "name": "Hôtel des Trésoriers de la Bourse",
+    "address": "4 rue des Trésoriers-de-la-Bourse",
+    "coordinates": {
+      "latitude": 43.6094838,
+      "longitude": 3.8764704
+    },
+    "city": "Montpellier",
+    "description": "Façades sur rue et cour, couvertures et escalier ouvert sur la cour d'honneur : classement par arrêté du 2 décembre 1945",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 9,
+      "mean_replies": 0.7777777777777778,
+      "mean_retweets": 2.5555555555555554,
+      "mean_likes": 4
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103596-hotel-des-vignes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103596.jpg",
+    "name": "Hôtel des Vignes",
+    "address": "35 rue de l'Aiguillerie",
+    "coordinates": {
+      "latitude": 43.6116739,
+      "longitude": 3.8786868
+    },
+    "city": "Montpellier",
+    "description": "Ensemble formé par l'escalier, les terrasses et les galeries sur cour (cad. L 792) : inscription par arrêté du 20 janvier 1964",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 325,
+      "mean_replies": 0.07692307692307693,
+      "mean_retweets": 0.5507692307692308,
+      "mean_likes": 0.9138461538461539
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000075-jardin-de-la-reine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000075.jpg",
+    "name": "Jardin de la Reine",
+    "address": "Rue du Faubourg-Saint-Jaumes Rue du Jardin de la Reine Rue du Carré du Roi",
+    "coordinates": {
+      "latitude": 43.6134034,
+      "longitude": 3.8702443
+    },
+    "city": "Montpellier",
+    "description": "Le Jardin de la Reine et les bâtiments de l'ancien Rectorat, y compris les sols des parcelles et les éléments d'architecture subsistants, l'ancienne conciergerie et le portail, situés rue du Faubourg-Saint-Jaumes (cad. BW 94 à 96, 246, 249, 250 et 108 - Jardin de la Reine) : inscription par arrêté du 13 mai 2009",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 171,
+      "mean_replies": 0.13450292397660818,
+      "mean_retweets": 0.7368421052631579,
+      "mean_likes": 1.280701754385965
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103773-jardin-des-plantes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103773.jpg",
+    "name": "Jardin des plantes de Montpellier",
+    "address": "Boulevard Henri IV",
+    "coordinates": {
+      "latitude": "43.6143",
+      "longitude": "3.8717"
+    },
+    "city": "Montpellier",
+    "description": "Le jardin des plantes de Montpellier, ou le Jardin des plantesa, est un jardin botanique universitaire fondé en 1593 et qui fait partie intégrante du patrimoine de la faculté de Médecine de Montpellier et de l'université de Montpellier. C'est le plus ancien jardin botanique de France devant celui de Strasbourg fondé en 1619, celui de Paris créé en 1635 et celui de Caen en 1736. Ce jardin a une triple vocation : botanique, historique et universitaire.\nLors de sa fondation en 1593 par Pierre Richer de Belleval, le jardin des plantes de Montpellier était destiné à la culture des « simples », mais le projet de Richer dépassa rapidement les seules plantes médicinales qui servaient à l’enseignement des futurs médecins et apothicaires pour devenir un véritable outil d’étude botanique, inédit à l’époque.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 392,
+      "mean_replies": 0.09183673469387756,
+      "mean_retweets": 1.7678571428571428,
+      "mean_likes": 3.170918367346939
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 4,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Université de Montpellier",
+      "yelp_id": "o0ieagqAMEDFsVKsBWcHxA",
+      "yelp_phone": "+33467417400",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0800",
+              "end": "1800",
+              "day": 4
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 669.7073170731708
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103603-logis-du-chapeau-rouge.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103603.jpg",
+    "name": "Logis du Chapeau Rouge",
+    "address": "27 rue du Pila-Saint-Gély Rue du Chapeau-Rouge",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Façades et couvertures, escalier à vis, degré à balustres et terrasse : inscription par arrêté du 12 février 1951",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000040-maison-de-la-misericorde.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000040.jpg",
+    "name": "Maison de la Miséricorde",
+    "address": "Rue de la Monnaie",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "L'ancienne maison de la Miséricorde et bureau de bienfaisance, à l'exception des parties classées (cad. HN 10) : inscription par arrêté du 13 juin 2003 - Les deux pharmacies et la chapelle, en totalité (cad. HN 232, lot 3) : classement par arrêté du 10 mai 2006",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 110,
+      "mean_replies": 0.14545454545454545,
+      "mean_retweets": 0.7272727272727273,
+      "mean_likes": 0.8
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00132613-palais-de-justice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00132613.jpg",
+    "name": "Palais de justice de Montpellier",
+    "address": "Rue Foch",
+    "coordinates": {
+      "latitude": "43.61139",
+      "longitude": "3.87278"
+    },
+    "city": "Montpellier",
+    "description": "Le palais de justice de Montpellier, dans l'Hérault, est un édifice situé rue Foch, inscrit aux monuments historiques.\nLe bâtiment abrite actuellement la Cour d'assises et la cour d'appel. Les autres administrations judiciaires ayant été transférées dans le nouveau Palais de Justice (cité judiciaire).\nDans le cadre du secteur sauvegardé, cette construction commencée en 1846 et achevée en 1853 dans le style néoclassique fait l’objet d’une inscription au titre des monuments historiques depuis le 25 mars 19941.\nL'ancien Palais de Justice, actuel siège de la Cour d'assise et de la cour d'appel\nPalais de justice, ensemble\nPalais de justice, détail colonnes\nPalais de justice, détail chapiteau\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 75,
+      "mean_replies": 0.5866666666666667,
+      "mean_retweets": 6.84,
+      "mean_likes": 6.68
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 189.3170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103607-palais-des-rois-daragon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103607.jpg",
+    "name": "Palais des Rois d'Aragon",
+    "address": "10 rue de l'Argenterie",
+    "coordinates": {
+      "latitude": 43.6092356,
+      "longitude": 3.8773765
+    },
+    "city": "Montpellier",
+    "description": "Portail du 14e siècle sur rue ; portail du 17e siècle sur la façade cour ; les deux niches du 18e siècle sur la petite cour : inscription par arrêté du 18 octobre 1944",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 2,
+      "mean_likes": 5.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000073-palais-episcopal.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000073.jpg",
+    "name": "Palais épiscopal",
+    "address": "22 rue Lallemand",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Les façades et les toitures sur rues et sur cour, la cour d'honneur avec son jardin et sa clôture, la chapelle, le grand escalier, les salons et la salle à manger du rez-de-chaussée, la bibliothèque et les galeries - corridors qui les desservent (à l'exception de la maison accolée en retour rue Pradel) (cad. BY 123) : inscription par arrêté du 20 août 2008",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 505,
+      "mean_replies": 0.27524752475247527,
+      "mean_retweets": 1.4178217821782177,
+      "mean_likes": 2.9306930693069306
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103608-porte-de-la-blanquerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103608.jpg",
+    "name": "Porte de la Blanquerie",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "43.6146",
+      "longitude": "3.87747"
+    },
+    "city": "Montpellier",
+    "description": "La porte de la Blanquerie est un vestige des anciens remparts de Montpellier, dans l'Hérault, situé au croisement de la rue de l'université et du boulevard Louis Blanc. Elle est aussi appelée Vieille porte.\nLa porte de la Blanquerie est un élément des vingt-cinq tours de l'enceinte fortifiée qui protégeait la ville de Montpellier à la fin du xiie siècle, début du xiiie siècle. Elle en reste un des derniers vestiges avec la tour de la Babote, la Porte du Pila Saint Gély et la Tour des Pins.\nLa porte est inscrite au titre des monuments historiques en 19381.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 65.3170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103534-prieure-saint-pierre-de-montauberou.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103534.jpg",
+    "name": "Prieuré Saint-Pierre de Montaubérou",
+    "address": "1975 avenue Albert-Einstein",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Ensemble des bâtiments, à savoir : chapelle (cad. RW 20) et bâtiments adjacents, avec tourelle de l'escalier à vis et salle voûtée (cad. RW 21) ; passage couvert et construction attenante avec puits (cad. RW 19) : classement par arrêté du 27 décembre 1996",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00125495-prison.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00125495.jpg",
+    "name": "Prison",
+    "address": "Place du Château Boulevard Henri IV",
+    "coordinates": {
+      "latitude": 43.6120082,
+      "longitude": 3.8727794
+    },
+    "city": "Montpellier",
+    "description": "Ancienne prison (cad. HR 206) : inscription par arrêté du 9 août 1993",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.38875,
+      "mean_retweets": 1.52,
+      "mean_likes": 2.895
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 2,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Centre des Monuments Nationaux",
+      "yelp_id": "mGWmidE-Q46T_QQgrZfvhQ",
+      "yelp_phone": "+33466536155",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103609-promenade-du-peyrou3-ou-place-royale-du-peyrou-ensem.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103609.jpg",
+    "name": "Promenade du Peyrou",
+    "address": "Promenade du Peyrou",
+    "coordinates": {
+      "latitude": "43.6113",
+      "longitude": "3.87012"
+    },
+    "city": "Montpellier",
+    "description": "La promenade du Peyrou, également appelée place royale du Peyrou, est une esplanade de 4,59 ha1 située à l'ouest du quartier de l'Écusson dans la ville de Montpellier (Hérault), en bordure de l'ancienne enceinte « commune-clôture ». Cet ensemble, classé parmi les monuments historiques, représente une conjonction de cinq œuvres : la promenade et ses terrasses permettant de contempler les Cévennes et les Pyrénées qui a été aménagée en 1689, la porte du Peyrou ou l'Arc de Triomphe avec son pont et ses rampes d'accès, réalisés en 1691, la statue équestre de Louis XIV érigée en 1718, l'aqueduc Saint-Clément et son réservoir construit à partir 1753, le château d'eau dont le projet fut retenu en 1766, les statues enfant et lion d'Injalbert et les grilles des entrées en 18832. Plus tard, en 1927, la construction d'un cadran solaire analemmatique, réalisé à l'initiative du Pr Pierre Humbert et en 1939, la prise de la photo symbolique du résistant Jean Moulin. D'importants travaux de rénovation ont été effectués depuis les années 1980 pour préserver les lieux.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 453,
+      "mean_replies": 0.1479028697571744,
+      "mean_retweets": 1.2869757174392935,
+      "mean_likes": 2.337748344370861
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 33,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Promenade du Peyrou",
+      "yelp_id": "452Vh1B3S0cWWoz5FV197w",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 1323.219512195122
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103772-synagogue.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103772.jpg",
+    "name": "Synagogue",
+    "address": "1 rue Barralerie 20 rue du Palais-des-Guilhem",
+    "coordinates": {
+      "latitude": 51.9002311,
+      "longitude": -2.080774
+    },
+    "city": "Montpellier",
+    "description": "Les immeubles comportant les vestiges de l'ancienne synagogue, y compris l'espace de l'ancienne venelle (actuellement en coeur d'îlot, située sur la parcelle HR 172) (cad. HR 172 à 174) : inscription par arrêté du 14 janvier 2002 - L'immeuble comportant les vestiges de l'ancienne synagogue, ensemble cultuel hébraïque, avec notamment l'ancien bain rituel juif, en totalité (cad. HR 174) : classement pararrêté du 5 mai 2004",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 796,
+      "mean_replies": 0.3957286432160804,
+      "mean_retweets": 1.2160804020100502,
+      "mean_likes": 2.459798994974874
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000038-temple-reforme.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000038.jpg",
+    "name": "Temple réformé",
+    "address": "25 rue Maguelone",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Le temple en totalité, y compris sa grille de clôture extérieure (cad. HM 336) : inscription par arrêté du 10 février 2003",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 145,
+      "mean_replies": 0.30344827586206896,
+      "mean_retweets": 1.282758620689655,
+      "mean_likes": 2.220689655172414
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103606-tour-de-la-babotte.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103606.jpg",
+    "name": "Tour de la Babotte",
+    "address": "Boulevard de l'Observatoire Boulevard Victor-Hugo",
+    "coordinates": {
+      "latitude": "43.60639",
+      "longitude": "3.8775"
+    },
+    "city": "Montpellier",
+    "description": "La tour de la Babotte ou tour de la Babote1, est un vestige des anciens remparts de Montpellier, dans l'Hérault, classé au titre des monuments historiques. Au xviiie siècle, elle a fait fonction d'observatoire d'astronomie.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 32,
+      "mean_replies": 0.09375,
+      "mean_retweets": 0.65625,
+      "mean_likes": 1.1875
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 6,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Il Mercato",
+      "yelp_id": "3eEQHVOb0pPqDDAXiUXkZg",
+      "yelp_phone": "+33467602471",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "2300",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 299.6585365853659
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103610-tour-des-pins.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103610.jpg",
+    "name": "Tour des Pins (Montpellier)",
+    "address": "Boulevard Henri IV",
+    "coordinates": {
+      "latitude": "43.61361",
+      "longitude": "3.87306"
+    },
+    "city": "Montpellier",
+    "description": "La tour des Pins est un vestige des anciens remparts de Montpellier, dans l'Hérault. Elle est située boulevard Henri IV et inscrite aux monuments historiques.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 30,
+      "mean_replies": 0.1,
+      "mean_retweets": 4.2,
+      "mean_likes": 4.133333333333334
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 217
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103536-eglise-saint-denis.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103536.jpg",
+    "name": "Église Saint-Denis de Montpellier",
+    "address": "Place Saint-Denis Rue du Grand-Saint-Jean",
+    "coordinates": {
+      "latitude": "43.60513889",
+      "longitude": "3.874916667"
+    },
+    "city": "Montpellier",
+    "description": "L'église Saint-Denis de Montpellier, située dans le département de l'Hérault, en France, est un édifice religieux du xviiie siècle de style jésuite, inscrit aux monuments historiques.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 6,
+      "mean_replies": 0,
+      "mean_retweets": 0.8333333333333334,
+      "mean_likes": 0.8333333333333334
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 79.53658536585365
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000021-eglise-saint-francois-de-la-pierre-rouge-ou-de-lencl.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000021.jpg",
+    "name": "Église Saint-François de la Pierre-Rouge (ou de l'enclos Saint-François)",
+    "address": "14 avenue de Castelnau",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "Eglise (cad. CD 331) : inscription par arrêté du 28 juillet 1999",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103533-eglise-saint-michel-de-montels-ancienne2.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103533.jpg",
+    "name": "Église Saint-Michel de Montels (ancienne)[2]",
+    "address": "Rue des Perce-Neige",
+    "coordinates": {
+      "latitude": 43.61092,
+      "longitude": 3.87723
+    },
+    "city": "Montpellier",
+    "description": "L'ancienne église située sur le chemin de Montels au Pré d'Arène : inscription par arrêté du 27 août 1927",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103537-eglise-sainte-croix-de-celleneuve.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103537.jpg",
+    "name": "Église Sainte-Croix de Celleneuve",
+    "address": "Celleneuve Rue Tour-de-l'église Place de l'Église",
+    "coordinates": {
+      "latitude": "43.61333",
+      "longitude": "3.82611"
+    },
+    "city": "Montpellier",
+    "description": "L'église Sainte-Croix de Celleneuve est un lieu de culte des xiie siècle et xive siècle situé sur l'ancienne commune de Celleneuve, à Montpellier dans le département français de l'Hérault et la région Occitanie.\nCet édifice roman, classé monument historique, est une des plus anciennes églises de Montpellier. Elle a résisté à la guerre de Cent Ans, aux guerres de religion et à la Révolution. Elle est la seule église romane de Montpellier ouverte au culte.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 8,
+      "mean_replies": 0.25,
+      "mean_retweets": 8.75,
+      "mean_likes": 7.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 84.07317073170732
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00103538-eglise-sainte-eulalie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00103538.jpg",
+    "name": "Église Sainte-Eulalie de Montpellier",
+    "address": "12 rue de la Merci",
+    "coordinates": {
+      "latitude": "43.60944",
+      "longitude": "3.87056"
+    },
+    "city": "Montpellier",
+    "description": "L'église Sainte-Eulalie est une église catholique de Montpellier, située au 12 rue La Merci, au cœur de la ville, au pied de la promenade royale du Peyrouet de l'Arc de triomphe. Construite pour les mercédaires, son principal intérêt est sa façade du xviiie siècle, son orgue de Joseph Merklin & Schütze et un ensemble de peintures murales décoratives du xixe siècle. Partie intégrante de la paroisse cathédrale2, la messe sous la forme extraordinaire du rite romain y est célébrée en semaine et le dimanche. Divers groupes d'étudiants et du Chemin néocatechuménal s'y réunissent régulièrement et des concerts y sont fréquemment donnés.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 104.4390243902439
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa34000034-eglise-sainte-therese-de-lisieux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa34000034.jpg",
+    "name": "Église Sainte-Thérèse-de-Lisieux",
+    "address": "42 avenue d'Assas",
+    "coordinates": {
+      "latitude": 43.6154256,
+      "longitude": 3.8643787
+    },
+    "city": "Montpellier",
+    "description": "L'église en totalité (cad. KM 74, 222) : inscription par arrêté du 7 mars 2002",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 71,
+      "mean_replies": 0.28169014084507044,
+      "mean_retweets": 4.056338028169014,
+      "mean_likes": 5.352112676056338
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 0
+  }
+]

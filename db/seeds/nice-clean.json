@@ -858,7 +858,8 @@
     "name": "Maison du 15 rue Alexandre-Mari",
     "address": "15 rue Alexandre-Mari",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.70313,
+      "longitude": 7.26608
     },
     "city": "Nice",
     "description": "Porte d'entrée ; escalier : inscription par arrêté du 29 décembre 1949",

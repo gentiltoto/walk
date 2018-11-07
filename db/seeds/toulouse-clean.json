@@ -102,7 +102,8 @@
     "name": "Ancien Collège de l'Esquile",
     "address": "1 rue de l'Esquile",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Façades et toitures donnant sur la rue des Lois et sur la rue de l'Esquile ; façades sur cour ; escalier monumental du 18e siècle (cad. 26AD 98) : inscription par arrêté du 29 novembre 1993",
@@ -131,7 +132,8 @@
     "name": "Ancien grand séminaire de ToulouseÉcole supérieure d'audiovisuelChapelle des Carmélites",
     "address": "1 rue du Périgord",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "La chapelle dite chapelle des Carmélites (cad. AB 103, 355) : classement par arrêté du 10 février 1909",
@@ -220,7 +222,8 @@
     "name": "Ancien petit Séminaire de l'Esquile (actuelle Cinémathèque de Toulouse)",
     "address": "69 rue du Taur",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Porte dite de l'Esquile : classement par arrêté du 21 mars 1910 ; Ancienne chapelle (cad. AD 93) : inscription par arrêté du 2 juin 1992",
@@ -279,7 +282,8 @@
     "name": "Ancien séminaire (actuel Îlot Valade)",
     "address": "30bis, 32 rue Valade",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Façades et toitures des bâtiments entourant les deux cours sur la rue Valade, y compris le mur de clôture et les portes : inscription par arrêté du 22 mars 1965",
@@ -556,7 +560,8 @@
     "name": "Castelet de Croix-Daurade",
     "address": "147 route d'Albi",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.63551,
+      "longitude": 1.46743
     },
     "city": "Toulouse",
     "description": "Vestiges : castelet, porche d'entrée, orangerie, temple de l'Amour et pavillon carré (cad. AK 38, 39) : inscription par arrêté du 18 février 1993",
@@ -857,7 +862,8 @@
     "name": "Château de La Cépière",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Façades et toitures ; pigeonnier (cad. AH 186, 206) : inscription par arrêté du 31 décembre 1980",
@@ -976,7 +982,8 @@
     "name": "Collège des Jésuites de Toulouse",
     "address": "Collège Pierre de Fermat",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Le portail de l'ancien collège, y compris ses deux vantaux de bois, faisant partie du collège Pierre de Fermat (cad. 818 AB 719) : inscription par arrêté du 20 août 2007",
@@ -1005,7 +1012,8 @@
     "name": "Couvent de la Visitation de Toulouse",
     "address": "1, 5, 13, 15 rue de la Dalbade",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Façades et toitures sur rue, sur cours et sur jardin ; chapelle au n° 13 ; petit salon à l'étage au n° 5 (cad. AB 408, 413) : inscription par arrêté du 8 décembre 1981",
@@ -1064,7 +1072,8 @@
     "name": "Couvent des Minimes de Toulouse",
     "address": "28 rue du Général-Bourbaki",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6181014,
+      "longitude": 1.435893
     },
     "city": "Toulouse",
     "description": "L'église des Minimes (cad. AC 235) : inscription par arrêté du 27 décembre 1974 - Les façades et toitures ainsi que les galeries du bâtiment subsistant du cloître (cad. AC 398) : inscription par arrêté du 27 décembre 1974",
@@ -1093,7 +1102,8 @@
     "name": "Couvent des religieux de Saint-Antoine-du-Salin",
     "address": "18, 20 rue Pharaon",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Eglise (actuellement église paroissiale espagnole) ; façades et toitures sur rue et sur cour des bâtiments conventuels y compris le cloître (cad. AB 273, 434) : inscription par arrêté du 24 février 1976",
@@ -1225,7 +1235,8 @@
     "name": "Fonderie de canons de ToulouseActuel Institut catholique de Toulouse",
     "address": "31 rue de la Fonderie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Partie du rempart gallo-romain sous la façade postérieure de l'Institut catholique (cad. II 218p) : classement par arrêté du 11 décembre 1963 - Fresque de Marcel Lenoir de la salle des évêques de l'Institut catholique (cad. 816AB 435) : inscription par arrêté du 12 avril 1996 - Vestiges de la fonderie de canons situés en partie basse du bâtiment ouest ainsi que dans les ailes en retour et comprenant les fours et tous les dispositifs s'y rattachant, ainsi que les ventouses, cheminées, ateliers techniques et rampes d'accès pour trinqueballes (cad. 816AB 435) : inscription par arrêté du 12 avril 1996",
@@ -1254,7 +1265,8 @@
     "name": "Fontaine",
     "address": "Place Saint-Étienne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6093503,
+      "longitude": 1.3538557
     },
     "city": "Toulouse",
     "description": "Fontaine : inscription par arrêté du 18 avril 1925",
@@ -1326,7 +1338,8 @@
     "name": "Fontaine de la Trinité",
     "address": "Place de la Trinité",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5997283,
+      "longitude": 1.4440783
     },
     "city": "Toulouse",
     "description": "Fontaine de la Trinité : inscription par arrêté du 20 septembre 1946",
@@ -1434,7 +1447,8 @@
     "name": "Greniers du Chapitre Saint-Sernin",
     "address": "1bis rue des Cuves-Saint-Sernin",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6090915,
+      "longitude": 1.4415752
     },
     "city": "Toulouse",
     "description": "L'immeuble en totalité (cad. 824 AB 241) : inscription par arrêté du 19 mars 2007",
@@ -1463,7 +1477,8 @@
     "name": "Hospice de la Grave",
     "address": "Rue du Pont-Saint-Pierre",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Chapelle Saint-Joseph (cad. AD 20) : classement par arrêté du 17 juillet 1978 ; Façades de l'ensemble des bâtiments longeant la Garonne et disposés autour des cours Saint-Joseph, Sainte-Monique, de la Maternité et Sainte-Anne (sauf celles classées) et toutes les toitures de ces bâtiments ; façades et toitures des deux anciens pavillons d'entrée, des vestiges d'un bâtiment du 16e siècle et du bâtiment à colonnade des Dames-de-la-Porte ; grande salle voûtée du 17e siècle à l'intérieur de l'aile sur la Garonne (cad. AD 20) : inscription par arrêté du 31 octobre 1986 ; Toutes les façades donnant sur les bords de la Garonne et sur les cours Saint-Joseph, Sainte-Monique, de la Maternité et Sainte-Anne, ainsi que le sol de ces cours ; à l'intérieur de l'aile sur la Garonne : ancienne pharmacie, y compris ses boiseries et son parquet en marqueterie et la porte à linteau sculpté donnant accès à la grande salle voûtée du 17s (cad. AD 20) : classement par arrêté du 5 décembre 1988",
@@ -1492,7 +1507,8 @@
     "name": "Hôtel Arquata",
     "address": "1 place Sainte-Scarbes",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5980305,
+      "longitude": 1.4485221
     },
     "city": "Toulouse",
     "description": "Rampe d'escalier en fer forgé : inscription par arrêté du 26 octobre 1927",
@@ -1521,7 +1537,8 @@
     "name": "Hôtel Caulet-Resseguier",
     "address": "3, rue du Lieutenant-Colonel-Pélissier",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6036382,
+      "longitude": 1.4463431
     },
     "city": "Toulouse",
     "description": "Façade donnant sur la rue et portion de toiture correspondante, ainsi que la partie inférieure de l'escalier central (cad. JJ 1174p) : inscription par arrêté du 1er juillet 1961",
@@ -1550,7 +1567,8 @@
     "name": "Hôtel Dassier",
     "address": "46 rue des Couteliers",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5994334,
+      "longitude": 1.4415907
     },
     "city": "Toulouse",
     "description": "Rampe d'escalier en fer forgé : classement par décret du 27 août 1927",
@@ -1669,7 +1687,8 @@
     "name": "Hôtel Jean Catel",
     "address": "6 place Saint-Étienne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5996157,
+      "longitude": 1.448647
     },
     "city": "Toulouse",
     "description": "Façade du 15e siècle sur cour, à droite de l'entrée : inscription par arrêté du 11 avril 1950",
@@ -1758,7 +1777,8 @@
     "name": "Hôtel Marvéjol",
     "address": "47 rue Pharaon",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5970275,
+      "longitude": 1.4439362
     },
     "city": "Toulouse",
     "description": "Hôtel Marvéjol, y compris le puits de la cour : inscription par arrêté du 6 juillet 1925",
@@ -1817,7 +1837,8 @@
     "name": "Hôtel Reynier",
     "address": "20 rue Mage",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5978027,
+      "longitude": 1.4474332
     },
     "city": "Toulouse",
     "description": "Cinq balcons en ferronnerie des fenêtres du premier étage (cad. AB 298) : classement par arrêté du 20 octobre 1971 ; Façade et toiture sur rue (à l'exclusion des parties classées) et escalier situé dans la cour intérieure (cad. AB 298) : inscription par arrêté du 22 octobre 1971",
@@ -1966,7 +1987,8 @@
     "name": "Hôtel d'Alliès",
     "address": "6, 8 rue des Couteliers",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5981185,
+      "longitude": 1.4420376
     },
     "city": "Toulouse",
     "description": "Façade sur rue et toiture attenante (cad. AB 54) : inscription par arrêté du 7 décembre 1993",
@@ -2374,7 +2396,8 @@
     "name": "Hôtel de Castagnier d'Auriac",
     "address": "19 rue Ninau",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5972253,
+      "longitude": 1.4504285
     },
     "city": "Toulouse",
     "description": "Les façades et toitures, ainsi que les deux escaliers monumentaux et leur cage respective (cad. Toulouse - Saint-Etienne 815 AC 266) : inscription par arrêté du 16 août 2005",
@@ -2403,7 +2426,8 @@
     "name": "Hôtel de Cheverry",
     "address": "4 rue Malcousinat",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.600465,
+      "longitude": 1.443311
     },
     "city": "Toulouse",
     "description": "Hôtel dit de Cheverry : inscription par arrêté du 16 juillet 1925",
@@ -2462,7 +2486,8 @@
     "name": "Hôtel de Gayssion",
     "address": "5 rue Boyer-Fonfrède",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6016147,
+      "longitude": 1.440415
     },
     "city": "Toulouse",
     "description": "Façades et toitures sur rue et sur cour et la tourelle d'escalier (cad. AB 605) : inscription par arrêté du 16 mai 1979",
@@ -2551,7 +2576,8 @@
     "name": "Hôtel de Lestang",
     "address": "20 rue Saint-Jacques",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5976712,
+      "longitude": 1.4504802
     },
     "city": "Toulouse",
     "description": "Façade sur la place Montoulien-Saint-Jacques et la porte sur la rue Saint-Jacques, vantaux compris : inscription par arrêté du 28 avril 1947",
@@ -2610,7 +2636,8 @@
     "name": "Hôtel de Pins et hôtel Antonin",
     "address": "46 rue du Languedoc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Galerie sur cour (cad. 815AB 197, 198) : inscription par arrêté du 10 juillet 1995",
@@ -2699,7 +2726,8 @@
     "name": "Hôtel de Pénautier",
     "address": "16 rue Vélane",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5962325,
+      "longitude": 1.4488621
     },
     "city": "Toulouse",
     "description": "Entrée des écuries : inscription par arrêté du 9 décembre 1946 - Façades sur la cour d'honneur : inscription par arrêté du 3 mai 1963 - Façades et toitures des communs ; jardin, y compris le nymphée ; au premier étage, salle à manger avec son décor de lambris (cad. AB815 353) : inscription par arrêté du 27 mai 1993 - Façades et toitures de l'hôtel sur cour et sur jardin ; cour d'honneur avec son mur sur rue et son portail ; salon 18e siècle au premier étage ; emprise du jardin avec le mur revêtu de son treillage en bois (cad. 815AB 353) : classement par arrêté du 3 octobre 1997",
@@ -2728,7 +2756,8 @@
     "name": "Hôtel de Saint-Jory",
     "address": "10 rue Croix-Baragnon",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.59987,
+      "longitude": 1.4465604
     },
     "city": "Toulouse",
     "description": "Balcons et rampe d'escalier en fer forgé : inscription par arrêté du 29 décembre 1927",
@@ -2757,7 +2786,8 @@
     "name": "Hôtel de la Bourse",
     "address": "3 place de la Bourse",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6012956,
+      "longitude": 1.4424773
     },
     "city": "Toulouse",
     "description": "Façades et toitures (cad. AB 385) : inscription par arrêté du 29 octobre 1975",
@@ -2786,7 +2816,8 @@
     "name": "Hôtel de la Fage",
     "address": "19 place Saint-Georges",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6021981,
+      "longitude": 1.4480827
     },
     "city": "Toulouse",
     "description": "Façades et toitures sur rues et sur cour ainsi que l'escalier intérieur avec sa rampe en fer forgé et le grand salon du premier étage avec son décor (cad. AB 125) : inscription par arrêté du 13 mars 1978",
@@ -2935,7 +2966,8 @@
     "name": "Librairie Modern Style",
     "address": "66 rue Gambetta",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Extérieur (devanture) (cad. AB 200) : inscription par arrêté du 29 octobre 1975",
@@ -2964,7 +2996,8 @@
     "name": "Maison Empire",
     "address": "57 place de la Trinité",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5996971,
+      "longitude": 1.44375
     },
     "city": "Toulouse",
     "description": "Façade sur la place : inscription par arrêté du 27 novembre 1946",
@@ -2993,7 +3026,8 @@
     "name": "Maison de Calas",
     "address": "50 rue des Filatiers",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5993612,
+      "longitude": 1.4442421
     },
     "city": "Toulouse",
     "description": "Maison de Calas (ancienne) (cad. AB 38) : inscription par arrêté du 15 janvier 1980",
@@ -3052,7 +3086,8 @@
     "name": "Maison de la Belle-Paule",
     "address": "16 rue du Languedoc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5951064,
+      "longitude": 1.4457788
     },
     "city": "Toulouse",
     "description": "Façade avec ses ferronneries : inscription par arrêté du 18 mai 1925",
@@ -3111,7 +3146,8 @@
     "name": "Maison en terre cuite de Virebent",
     "address": "28 rue des Marchands",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5998566,
+      "longitude": 1.4429604
     },
     "city": "Toulouse",
     "description": "Façade et toiture sur rue (cad. AB 62) : inscription par arrêté du 29 octobre 1975 ; Façades sur cour ; escalier ; pièces décorées du premier étage (cad. AB 62) : inscription par arrêté du 26 octobre 1992",
@@ -3140,7 +3176,8 @@
     "name": "Maison en terre cuite de Virebent",
     "address": "27 avenue de la Colonne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5998566,
+      "longitude": 1.4429604
     },
     "city": "Toulouse",
     "description": "Façade et toiture sur l'avenue (cad. AE 46) : inscription par arrêté du 29 octobre 1975",
@@ -3169,7 +3206,8 @@
     "name": "Maison en terre cuite de Virebent",
     "address": "1 rue de Bornier 31 rue Paul-Dupin",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5998566,
+      "longitude": 1.4429604
     },
     "city": "Toulouse",
     "description": "Façades et toitures sur rues (cad. AE 44) : inscription par arrêté du 29 octobre 1975",
@@ -3198,7 +3236,8 @@
     "name": "Maison en terre cuite de Virebent",
     "address": "24 rue du Cimetière 1 rue Compans",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5998566,
+      "longitude": 1.4429604
     },
     "city": "Toulouse",
     "description": "Façade et toiture sur rue (cad. AE 113) : inscription par arrêté du 29 octobre 1975",
@@ -3227,7 +3266,8 @@
     "name": "Maison romano-gothique",
     "address": "15 rue Croix-Baragnon",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Le deuxième étage de la façade : classement par décret du 7 décembre 1923 - L'immeuble (cad. 815AB 213) : classement par arrêté du 3 mars 1997",
@@ -3256,7 +3296,8 @@
     "name": "Manufacture des Tabacs de Toulouse",
     "address": "1 rue des Amidonniers 21, 29 allées de Brienne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6053259,
+      "longitude": 1.4313626
     },
     "city": "Toulouse",
     "description": "Bâtiment directorial (A) ; façades et toitures des bâtiments E, L, A, M, F, B, C, D, H, G, I, Q'(cad. AE 101) : inscription par arrêté du 2 mars 1990",
@@ -3285,7 +3326,8 @@
     "name": "Monastère des Religieux de Vienne",
     "address": "10, rue du Lieutenant-Colonel-Pélissier",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6031364,
+      "longitude": 1.4471147
     },
     "city": "Toulouse",
     "description": "Façades et toitures sur rue (cad. AB 260) : inscription par arrêté du 27 septembre 1972",
@@ -3434,7 +3476,8 @@
     "name": "Palais de justice de Toulouse",
     "address": "Place du Salin",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.593494,
+      "longitude": 1.4446976
     },
     "city": "Toulouse",
     "description": "Cour d'Appel (bâtiment A) : façades et toitures donnant sur la cour d'honneur (y compris les grilles et l'espace de la cour) , façade sur jardin (hors surélévation) de l'aile de la Première Présidence, façade sur cour et toitures de la Première Chambre, salle des pas perdus et son grand escalier ; Cour d'Assises (bâtiment B) : bâtiment dans sa totalité y compris la porte donnant sur la rue des Fleurs ; Tribunal de Grande Instance (bâtiment C) : façades et toitures nord et ouest donnant sur la Place du Salin et la Place du Parlement ; parties subsistantes du rempart au sud de l'îlot du Palais de Justice (cad. 815AB 2 à 11) : inscription par arrêté du 16 mars 1994 - Cour d'Appel : Première grande Chambre avec sa chapelle attenante ; Salon Doré ; Salon d'Hercule ; vestibule de la Troisième Chambre avec son décor peint du 15e siècle (cad. 815AB 6) : classement par arrêté du 8 septembre 1999",
@@ -3493,7 +3536,8 @@
     "name": "Pont sur le Touch",
     "address": "Saint-Martin-du-Touch, RN 124",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5615123,
+      "longitude": 1.296764
     },
     "city": "Toulouse",
     "description": "Pont sur le Touch : inscription par arrêté du 11 avril 1950",
@@ -3582,7 +3626,8 @@
     "name": "Porte du Capitole",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6053913,
+      "longitude": 1.4427734
     },
     "city": "Toulouse",
     "description": "Porte du Capitole (ancienne) réédifiée dans le jardin des Plantes de Toulouse : inscription par arrêté du 18 mai 1925",
@@ -3671,7 +3716,8 @@
     "name": "Rempart médiéval de Toulouse",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6086278,
+      "longitude": 1.4351136
     },
     "city": "Toulouse",
     "description": "Sections du rempart situées allées Jules-Guesde et place des Hauts-Murats (cad. 815AB 17) : inscription par arrêté du 10 juillet 1995",
@@ -3700,7 +3746,8 @@
     "name": "Rempart médiéval de Toulouse",
     "address": "Boulevard Armand-Duportal rue de la Boule",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6086278,
+      "longitude": 1.4351136
     },
     "city": "Toulouse",
     "description": "Sections de courtines et tours subsistantes situées sur les parcelles AE 12, 122, 135, 160, 167, 171, 172 : inscription par arrêté du 13 août 1997",
@@ -3729,7 +3776,8 @@
     "name": "Remparts Saint-Cyprien",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Remparts comprenant quatre tours (tour de l'Isle, Tour de la Menuiserie, Tour du Matériel, Tour Taillefer) , la courtine partant de la Tour de l'Isle et reliant les tours entre elles, la partie du sol comprise entre les deux tours médianes (renferméepar la section C du plan du dossier) (cad. AD 20) : classement par arrêté du 5 décembre 1988",
@@ -3758,7 +3806,8 @@
     "name": "Serres municipales de Toulouse",
     "address": "Boulevard de la Marne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5837326,
+      "longitude": 1.4605784
     },
     "city": "Toulouse",
     "description": "Serres municipales du 19e siècle (premières) (cad. AC 62) : inscription par arrêté du 16 juin 1987",
@@ -3787,7 +3836,8 @@
     "name": "Soufflerie de Banlève",
     "address": "Allée du Professeur-Camille-Soula",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5879635,
+      "longitude": 1.4371411
     },
     "city": "Toulouse",
     "description": "Soufflerie, ainsi que le bâtiment qui l'abrite (cad. AH 2) : inscription par arrêté du 26 novembre 1997",
@@ -3846,7 +3896,8 @@
     "name": "Tour Morand",
     "address": "56 rue du Taur",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6070982,
+      "longitude": 1.4423591
     },
     "city": "Toulouse",
     "description": "La tour : classement par arrêté du 12 septembre 1931",
@@ -3875,7 +3926,8 @@
     "name": "Tour de Guillaume Garreri",
     "address": "30 rue du Languedoc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5966438,
+      "longitude": 1.445953
     },
     "city": "Toulouse",
     "description": "Porte : inscription par arrêté du 11 avril 1950",
@@ -3904,7 +3956,8 @@
     "name": "Tour de Serta",
     "address": "2 rue Saint-Rome",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.6016671,
+      "longitude": 1.4437028
     },
     "city": "Toulouse",
     "description": "Tour de Serta (cad. AB 290) : inscription par arrêté du 9 juillet 1980",
@@ -3963,7 +4016,8 @@
     "name": "Usine aéronautique Latécoère de Montaudran",
     "address": "Montaudran, 2 chemin Carrosse 55 avenue Louis-Breguet",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.57259,
+      "longitude": 1.48907
     },
     "city": "Toulouse",
     "description": "Bâtiment de la salle d'attente des passagers (cad. AH 132) ; les trois nefs des anciennes halles de montage Latécoère (cad. AE 70) ; la piste, dans son emprise actuelle, allant de son extrémité nord-ouest jusqu'au droit sud-est du bâtiment de direction (cad. AH 132) ; façades et toitures du bâtiment de direction appelé château Petit Espinet Raynal et de son aile gauche en retour sur cour (cad. AH 132) (cf plan annexé à l'arrêté) : inscription par arrêté du 21 juillet 1997",
@@ -3992,7 +4046,8 @@
     "name": "Villa Gabès",
     "address": "4 grande rue Saint-Michel",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.5846238,
+      "longitude": 1.4481624
     },
     "city": "Toulouse",
     "description": "Façades et toitures avec leurs éléments décoratifs (cad. AC 205) : inscription par arrêté du 18 décembre 1981",
@@ -4021,7 +4076,8 @@
     "name": "Écluse Saint-Pierre sur le canal de Brienne",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.60426,
+      "longitude": 1.44367
     },
     "city": "Toulouse",
     "description": "Ecluse (cad. domaine public, non cadastré) : inscription par arrêté du 24 avril 1998",
@@ -4388,7 +4444,8 @@
     "name": "Église du Calvaire de Toulouse",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 43.583628,
+      "longitude": 1.4438215
     },
     "city": "Toulouse",
     "description": "L'église (cad. R 108) : inscription par arrêté du 15 octobre 1956",

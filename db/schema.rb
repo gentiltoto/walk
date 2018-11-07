@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_31_172047) do
+ActiveRecord::Schema.define(version: 2018_11_07_153348) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -20,6 +20,8 @@ ActiveRecord::Schema.define(version: 2018_10_31_172047) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "photo"
+    t.string "latitude"
+    t.string "longitude"
   end
 
   create_table "intermediaires", force: :cascade do |t|
@@ -56,6 +58,7 @@ ActiveRecord::Schema.define(version: 2018_10_31_172047) do
     t.string "score"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "protection"
     t.index ["city_id"], name: "index_monuments_on_city_id"
   end
 

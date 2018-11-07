@@ -40,7 +40,7 @@ end
 
 cities.each do |city|
   # Create the city
-  ville = City.new(name: city['name'])
+  ville = City.new(name: city['name'], latitude: city['latitude'], longitude: city['longitude'])
   ville.remote_photo_url = city['photo']
   ville.save
   puts "#{ville.name} created"
@@ -54,9 +54,9 @@ cities.each do |city|
       latitude: monument['coordinates']['latitude'],
       longitude: monument['coordinates']['longitude'],
       description: monument['description'],
-      score: scoring(monument, city['json']).to_i
-      # Ajouter horaires quand présent
-      # Ajouter protection
+      score: scoring(monument, city['json']).to_s,
+      protection: monument['protection'] ? monument['protection'] : "Non inscrit"
+      # Ajouter horaires quand présent ?
     )
     mon.city = ville
     mon.remote_photo_url = monument['photo']

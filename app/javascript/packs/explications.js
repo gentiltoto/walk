@@ -5,15 +5,16 @@ function map(inp, offset0, offset1) {
 
     center: [inp[0] - offset0, inp[1] - offset1],
     style: 'mapbox://styles/mapbox/light-v9',
-    zoom: 15
+    zoom: 10
   });
 
 // // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
   return map
 }
 
+
 // map([gon.city.lat], 0, 0)
-map([3.0667,50.6333], 0, 0)
+map([gon.city.longitude, gon.city.latitude], 0, 0)
 
 // Button listener
 let clicks = 0;

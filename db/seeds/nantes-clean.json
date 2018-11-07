@@ -1,0 +1,2160 @@
+[
+  {
+    "link": "https://monuments.guide/fr/p/pa44000056-ancien-observatoire-astronomique-de-la-marine-de-nante.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000056.jpg",
+    "name": "Ancien observatoire astronomique de la Marine de Nantes",
+    "address": "18 rue Flandres-Dunkerque-40",
+    "coordinates": {
+      "latitude": "47.211569",
+      "longitude": "-1.566"
+    },
+    "city": "Nantes",
+    "description": "L'ancien observatoire astronomique de la Marine de Nantes est un bâtiment situé au no 18 de la rue Flandres-Dunkerque-40 à Nantes, en France. Bâti au début du xixe siècle, il fait partie des bâtiments de l'ancienne école d'hydrographie, en activité de 1827 à 1887.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 54.58536585365854
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108661-basilique-saint-nicolas.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108661.jpg",
+    "name": "Basilique Saint-Nicolas de Nantes",
+    "address": "Place Félix-Fournier",
+    "coordinates": {
+      "latitude": "47.215552777778",
+      "longitude": "-1.5578277777778"
+    },
+    "city": "Nantes",
+    "description": "La basilique Saint-Nicolas de Nantes est une basilique française de style néo-gothique située dans le centre-ville de Nantes. C'est l'une des deux basiliques de la ville, avec la basilique Saint-Donatien-et-Saint-Rogatien.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 80,
+      "mean_replies": 0.225,
+      "mean_retweets": 1.8,
+      "mean_likes": 3.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 450.1707317073171
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108654-cathedrale-saint-pierre-et-saint-paul.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108654.jpg",
+    "name": "Cathédrale Saint-Pierre-et-Saint-Paul de Nantes",
+    "address": "Place Saint-Pierre",
+    "coordinates": {
+      "latitude": "47.218315",
+      "longitude": "-1.550864"
+    },
+    "city": "Nantes",
+    "description": "La cathédrale Saint-Pierre-et-Saint-Paul (appelée aussi localement « cathédrale Saint-Pierre »1) est une cathédrale catholique située place Saint-Pierre, à Nantes (Loire-Atlantique). C'est la cathédrale du diocèse de Nantes, siège de l’évêque de Nantes. Sa construction s’est étalée sur 457 ans, de 1434 à 1891, mais ces délais n’altèrent en rien la qualité ni la cohérence de son style gothique. Elle est classée monument historique depuis 18622.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 54,
+      "mean_replies": 0.18518518518518517,
+      "mean_retweets": 1.462962962962963,
+      "mean_likes": 4.388888888888889
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 21,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Cathédrale Saint-Pierre-et-Saint-Paul de Nantes",
+      "yelp_id": "EaHXbUOvAIVWXUrdUtWYTQ",
+      "yelp_phone": "+33240478464",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "0900",
+              "end": "1800",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 2037.7073170731708
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108655-chapelle-notre-dame-de-bonsecours.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108655.jpg",
+    "name": "Chapelle Notre-Dame-de-Bonsecours (Nantes)",
+    "address": "1bis quai Turenne 12 rue Bon-Secours",
+    "coordinates": {
+      "latitude": "47.2133",
+      "longitude": "-1.55355"
+    },
+    "city": "Nantes",
+    "description": "La chapelle Notre-Dame-de-Bonsecours est une ancienne chapelle située à Nantes dans le département français de la Loire-Atlantique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 40.170731707317074
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108850-chapelle-notre-dame-de-limmaculee-conception.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108850.jpg",
+    "name": "Chapelle Notre-Dame-de-l'Immaculée-Conception",
+    "address": "Rue Malherbe",
+    "coordinates": {
+      "latitude": "47.218178",
+      "longitude": "-1.546419"
+    },
+    "city": "Nantes",
+    "description": "La chapelle Notre-Dame-de-l'Immaculée-Conception, couramment appelée chapelle de l'Immaculée, est un édifice religieux qui se trouve rue Malherbe dans le quartier Richebourg à Nantes en France. Construite à partir de 1470, elle prend le nom de « chapelle Saint-Antoine-de-Pade », puis après 1604 « chapelle des Minimes », avant de prendre son nom actuel après 1855. Le bâtiment a été inscrit à l'inventaire supplémentaire des monuments historiques en 1991.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 16,
+      "mean_replies": 0,
+      "mean_retweets": 0.4375,
+      "mean_likes": 0.625
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 93.92682926829268
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108656-chapelle-saint-etienne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108656.jpg",
+    "name": "Chapelle Saint-Étienne de Nantes",
+    "address": "Place des Enfants-Nantais",
+    "coordinates": {
+      "latitude": "47.229135",
+      "longitude": "-1.5417445"
+    },
+    "city": "Nantes",
+    "description": "La chapelle Saint-Étienne est un édifice religieux qui se trouve dans le quartier Malakoff - Saint-Donatien de la ville de Nantes en France. Le bâtiment a été inscrit au titre des monuments historiques en 1984.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 37.78048780487805
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108657-chateau-des-ducs-de-bretagne.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108657.jpg",
+    "name": "Château des ducs de Bretagne",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "47.215555556",
+      "longitude": "-1.549722222"
+    },
+    "city": "Nantes",
+    "description": "Le château des ducs de Bretagne est un château défensif et de plaisance situé à Nantes, en Loire-Atlantique. Classé monument historique depuis 1840, il a principalement été construit au xve siècle mais il comprend aussi des éléments datant du xive au xviiie siècle.\nFondé par les ducs de Bretagne au xiiie siècle pour constituer une base défensive à Nantes, le château est devenu sous François II la principale résidence ducale bretonne. Sa fonction militaire est également utilisée par le duc lors de la Guerre folle au cours de laquelle il s'oppose au roi de France. Sa fille, la duchesse Anne, est plus tard contrainte d'épouser deux rois de France successifs, Charles VIII et Louis XII. Ces mariages entraînent l'union de la Bretagne à la France, définitivement scellée par un édit signé au château en 1532, par François Ier. Dès lors, le château perd son statut de résidence ducale pour devenir une forteresse royale. Il voit passer la plupart des rois de France, lorsque ceux-ci visitent la Bretagne, et il est la résidence officielle des gouverneurs de la province. Néanmoins, les séjours de ces derniers sont généralement brefs, à l'exception notable du duc de Mercœur, un gouverneur qui y tient une véritable cour pendant les Guerres de religion.\nSous l'Ancien régime, le château sert aussi de prison d'État, et surtout de caserne et d'arsenal militaire. Il ne subit aucune dégradation pendant la Révolution, mais l'explosion des réserves de poudre en 1800 détruisit une bonne part du monument. Au xixe siècle, le château conserve sa fonction militaire, mais son intérêt patrimonial est peu à peu découvert et quelques restaurations sont entreprises. Devenu propriété de la ville de Nantes en 1915, le château devient un musée en 1924. De 1990 à 2007, le château bénéficie d’une rénovation de grande ampleur et il accueille depuis 2007 le Musée d'histoire de Nantes.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.29625,
+      "mean_retweets": 2.0975,
+      "mean_likes": 4.4175
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 63,
+        "score_yelp_rating": 4
+      },
+      "yelp_name": "Château des Ducs de Bretagne",
+      "yelp_id": "UfW_feRQZH1VNVecUXv3rg",
+      "yelp_phone": "+33811464644",
+      "yelp_hours": ""
+    },
+    "score_wiki": 3258.512195121951
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108658-chateau-du-grand-blottereau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108658.jpg",
+    "name": "Château du Grand-Blottereau",
+    "address": "Boulevard Auguste-Péneau",
+    "coordinates": {
+      "latitude": "47.2261697",
+      "longitude": "-1.5107167"
+    },
+    "city": "Nantes",
+    "description": "Le château du Grand-Blottereau est un château situé à Nantes, dans le quartier Doulon - Bottière, en France.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 15,
+      "mean_replies": 0.13333333333333333,
+      "mean_retweets": 0.9333333333333333,
+      "mean_likes": 2.2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 3,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Parc exotique du Grand Blottereau",
+      "yelp_id": "SuM2N_EDMARLh7aLzB9K1A",
+      "yelp_phone": "+33240931482",
+      "yelp_hours": ""
+    },
+    "score_wiki": 113.82926829268293
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108659-couvent-de-la-visitation.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108659.jpg",
+    "name": "Couvent de la Visitation (Nantes)",
+    "address": "108 rue Gambetta",
+    "coordinates": {
+      "latitude": "47.2202",
+      "longitude": "-1.54769"
+    },
+    "city": "Nantes",
+    "description": "Le couvent de la Visitation est un ancien couvent de visitandines situé à Nantes, en France. Confisqué sous la Révolution française, il est devenu hôpital, cercle de garnison puis résidence pour personnes âgées. Il a été inscrit à l'inventaire supplémentaire des monuments historiques en 1925.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 68.21951219512195
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108662-enceinte-gallo-romaine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108662.jpg",
+    "name": "Enceinte gallo-romaine de Nantes",
+    "address": "rue des Cordeliers",
+    "coordinates": {
+      "latitude": "47.219",
+      "longitude": "-1.55285"
+    },
+    "city": "Nantes",
+    "description": "L'enceinte gallo-romaine de Nantes est une muraille entourant la ville de Portus Namnetum (aujourd'hui Nantes, en France), de l'époque de la Gaule romaine jusqu'au Haut Moyen Âge, et dont il ne reste que des vestiges.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 6.5,
+      "mean_likes": 18.5
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 146.3170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa44000046-ensemble-paroissial-dont-leglise-sainte-therese.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000046.jpg",
+    "name": "Église Sainte-Thérèse de Nantes",
+    "address": "Place Alexandre-Vincent, Rue Chanoine-Larose",
+    "coordinates": {
+      "latitude": "47.2323333",
+      "longitude": "-1.5777397"
+    },
+    "city": "Nantes",
+    "description": "L’église Sainte-Thérèse est une église de Nantes construite au xxe siècle. L'ensemble, formé par l'église, le presbytère, ainsi que l'« école Sainte-Agnès et Théophane Venard » qui est voisine, a été inscrit monument historique par arrêté du 27 janvier 20111.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 12,
+      "mean_replies": 0,
+      "mean_retweets": 1.6666666666666667,
+      "mean_likes": 4.75
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 234.46341463414635
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa44000012-hopital-saint-jacques.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000012.jpg",
+    "name": "Hôpital Saint-Jacques (Nantes)",
+    "address": "Rue Saint-Jacques",
+    "coordinates": {
+      "latitude": "47.1978049",
+      "longitude": "-1.5366697"
+    },
+    "city": "Nantes",
+    "description": "L’hôpital Saint-Jacques est le deuxième plus ancien des sept établissements hospitaliers gérés par le centre hospitalier universitaire de la ville de Nantes, en France, sur le territoire de laquelle il est implanté. Il se situe le long de la rive gauche de la Loire (bras de Pirmil), dans le quartier Nantes Sud (micro quartier « Saint-Jacques-Pirmil »).\nÉdifié au début du xixe siècle sur l'emplacement d'un ancien prieuré devenu dépôt de mendicité, il est destiné à remplacer l'hospice municipal alors en activité, baptisé Sanitat, devenu vétuste. À l'origine, le rôle de Saint-Jacques est d'offrir un hospice pour les aliénés, les vieillards indigents et les orphelins. Conçu selon les connaissances les plus avancées du début du xixe siècle, il est l'objet d'aménagements réguliers pour répondre à l'évolution des techniques médicales et sanitaires, et à l'augmentation de la population accueillie. La destruction de l'Hôtel-Dieu, en 1943, fait de Saint-Jacques le grand hôpital généraliste de l'agglomération nantaise jusqu'en 1967. Il retrouve par la suite sa vocation d'origine, et est consacré à la gériatrie et à la psychiatrie.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 138,
+      "mean_replies": 0.07971014492753623,
+      "mean_retweets": 1.065217391304348,
+      "mean_likes": 0.6014492753623188
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 601.8048780487804
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108847-hotel-allard.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108847.jpg",
+    "name": "Hôtel Allard",
+    "address": "1 place Général-Mellinet 36 boulevard de Launay",
+    "coordinates": {
+      "latitude": "47.2114",
+      "longitude": "-1.57569"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Allard est un hôtel particulier bâti entre 1828 et 1856, situé au no 1 de la place Général-Mellinet entre la rue de Belleville et le boulevard de Launay, dans le quartier Dervallières - Zola de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1991 et 2008.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 117,
+      "mean_replies": 0.358974358974359,
+      "mean_retweets": 0.6068376068376068,
+      "mean_likes": 2.58974358974359
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 17.73170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108849-hotel-blon-et-amouroux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108849.jpg",
+    "name": "Hôtel Blon-et-Amouroux",
+    "address": "5 place Général-Mellinet",
+    "coordinates": {
+      "latitude": "47.2113697",
+      "longitude": "-1.5756905"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Blon-et-Amouroux est un hôtel particulier bâti entre 1828 et 1856, situé au no 5 de la place Général-Mellinet, dans le quartier Dervallières - Zola de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1991.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 11.024390243902438
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108668-hotel-cazenove-de-pradines.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108668.jpg",
+    "name": "Hôtel Cazenove de Pradines",
+    "address": "17 rue Georges-Clemenceau",
+    "coordinates": {
+      "latitude": "47.2187",
+      "longitude": "-1.54792"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Cazenove de Pradines ou hôtel de Bouillé est un hôtel particulier de style néo-classique bâti à la fin du xviiie siècle, situé dans la rue Georges-Clemenceau, à Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1988. Il est bâti symétriquement avec un hôtel jumeau, l'hôtel de la Pilorgerie.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 21.75609756097561
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108731-hotel-ceineray.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108731.jpg",
+    "name": "Hôtel Ceineray",
+    "address": "1 rue Sully Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.21993",
+      "longitude": "-1.54959"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Ceineray, bâti au xviiie siècle, est situé au no 1 de la rue Sully à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0.2857142857142857,
+      "mean_retweets": 4.714285714285714,
+      "mean_likes": 4.428571428571429
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.048780487804878
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108736-hotel-cottin-de-melleville.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108736.jpg",
+    "name": "Hôtel Cottin de Melleville",
+    "address": "1 rue Tournefort Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.21998",
+      "longitude": "-1.55079"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Cottin de Melleville est un hôtel particulier bâti au xviiie siècle, situé au no 1 de la rue Tournefort à Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 9.24390243902439
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108663-hotel-deurbroucq.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108663.jpg",
+    "name": "Hôtel Deurbroucq",
+    "address": "5 allée de l'Île-Gloriette",
+    "coordinates": {
+      "latitude": "47.211",
+      "longitude": "-1.55775"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Deurbroucq est un hôtel particulier de style néo-classique bâti au xviiie siècle, situé sur l'allée de l'Île-Gloriette, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1945.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 7,
+      "mean_replies": 0,
+      "mean_retweets": 1.2857142857142858,
+      "mean_likes": 2
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 73.92682926829268
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108751-hotel-durbe.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108751.jpg",
+    "name": "Hôtel Durbé",
+    "address": "86 quai de la Fosse",
+    "coordinates": {
+      "latitude": "47.2086",
+      "longitude": "-1.56914"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Durbé, ou hôtel Durbé et Collin, est un hôtel particulier de style néo-classique bâti au milieu du xviiie siècle à Nantes, en France. Il est situé à l'angle du quai de la Fosse et de la rue Mathurin-Brissonneau, dans le quartier Dervallières - Zola. L'immeuble est inscrit au titre des monuments historiques en 1926.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 101.95121951219512
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108664-hotel-garreau.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108664.jpg",
+    "name": "Hôtel Garreau",
+    "address": "13 rue Dobrée",
+    "coordinates": {
+      "latitude": "47.2106",
+      "longitude": "-1.56925"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Garreau est un hôtel particulier de style néo-classique bâti en 1845, situé à l'angle de la rue Dobrée et de la rue Damrémont, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1975. Au sud, l'hôtel est adossé à l'église Notre-Dame-de-Bon-Port.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 11,
+      "mean_replies": 0.2727272727272727,
+      "mean_retweets": 0,
+      "mean_likes": 0.18181818181818182
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 27.4390243902439
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108723-hotel-grou.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108723.jpg",
+    "name": "Hôtel Grou",
+    "address": "32 rue Kervégan 2 place de la Petite-Hollande",
+    "coordinates": {
+      "latitude": "47.2123",
+      "longitude": "-1.55708"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Grou est un hôtel particulier de style néo-classique bâti à la fin du xviiie siècle, situé à l'angle de la rue Kervégan et de la place de la Petite-Hollande, à l'extrémité ouest de l'île Feydeau, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1932 et 1986.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 491,
+      "mean_replies": 0.032586558044806514,
+      "mean_retweets": 0.1670061099796334,
+      "mean_likes": 0.22606924643584522
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 50.4390243902439
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108665-hotel-lelasseur-chapelle-de-loratoire.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108665.jpg",
+    "name": "Hôtel Lelasseur",
+    "address": "13 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2189",
+      "longitude": "-1.54833"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Lelasseur, également appelé hôtel Lelasseur-Lorgeril, est un hôtel particulier de style néo-classique, bâti vers 1775 et modifié vers 1890, situé place de l'Oratoire, à l'angle de la rue Henri-IV et de la rue Georges-Clemenceau, dans le quartier Malakoff - Saint-Donatien (à la limite du centre-ville) de Nantes, en France. L'immeuble a été classé au titre des monuments historiques en 1952.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 28,
+      "mean_replies": 0.35714285714285715,
+      "mean_retweets": 0.2857142857142857,
+      "mean_likes": 3
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 23.75609756097561
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108734-hotel-maurice.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108734.jpg",
+    "name": "Hôtel Maurice",
+    "address": "4 rue Sully Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.2206",
+      "longitude": "-1.55"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Maurice (ou Hôtel Mabille des Granges) est un hôtel particulier bâti au xviiie siècle, situé au no 4 de la rue Sully, dans le quartier Malakoff - Saint-Donatien de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 799,
+      "mean_replies": 0.17146433041301626,
+      "mean_retweets": 1.9449311639549436,
+      "mean_likes": 3.0588235294117645
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 16.609756097560975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108694-hotel-maes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108694.jpg",
+    "name": "Hôtel Maës",
+    "address": "4 place Général-Mellinet",
+    "coordinates": {
+      "latitude": "47.2117",
+      "longitude": "-1.57683"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Maës est un hôtel particulier bâti en 1827, situé au no 4 de la place Général-Mellinet entre le boulevard Allard et la rue Richer, dans le quartier Dervallières - Zola de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 2011.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 765,
+      "mean_replies": 0.1411764705882353,
+      "mean_retweets": 0.15555555555555556,
+      "mean_likes": 0.7673202614379085
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.121951219512194
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108739-hotel-mellient.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108739.jpg",
+    "name": "Hôtel Mellient",
+    "address": "7 rue Tournefort Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.22117",
+      "longitude": "-1.55179"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Mellient est un hôtel particulier bâti au xviiie siècle, situé au no 7 de la rue Tournefort, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954.\nIl fait désormais partie du groupe de bâtiments formant l'« hôtel du département », siège du Conseil départemental de la Loire-Atlantique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 9.048780487804878
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108666-hotel-montaudouin1.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108666.jpg",
+    "name": "Hôtel Montaudouin",
+    "address": "Place Maréchal-Foch",
+    "coordinates": {
+      "latitude": "47.2192",
+      "longitude": "-1.5507"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Montaudouin (ou de Montaudoin, ou Montaudoin, ou hôtel des Colonnes), est un hôtel particulier de style néo-classique bâti à la fin du xviiie siècle, situé sur la place Maréchal-Foch, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1951 (pour sa partie nord) et 1954 (pour sa partie sud).\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 1
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 74.3170731707317
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108750-hotel-oriordan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108750.jpg",
+    "name": "Hôtel O'Riordan",
+    "address": "70 quai de la Fosse",
+    "coordinates": {
+      "latitude": "47.2095",
+      "longitude": "-1.56611"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel O'Riordan est un hôtel particulier, de style néo-classique, bâtie au milieu du xviiie siècle, située au no 70 du quai de la Fosse, dans le centre-ville de Nantes, en France. L'immeuble est classé au titre des monuments historiques en 1938.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 130,
+      "mean_replies": 0.19230769230769232,
+      "mean_retweets": 0.676923076923077,
+      "mean_likes": 2.046153846153846
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 21.975609756097562
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108695-hotel-philippe.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108695.jpg",
+    "name": "Hôtel Philippe",
+    "address": "7 place Général-Mellinet",
+    "coordinates": {
+      "latitude": "47.2109",
+      "longitude": "-1.57634"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Philippe est un hôtel particulier bâti en 1828, situé au no 7 de la place Général-Mellinet entre la rue Rollin et le boulevard Saint-Aignan, dans le quartier Dervallières - Zola de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 2011.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.215,
+      "mean_retweets": 1.65,
+      "mean_likes": 3.29375
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 11.487804878048781
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa44000023-hotel-pepin-de-bellisle.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000023.jpg",
+    "name": "Hôtel Pépin de Bellisle",
+    "address": "15 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2194",
+      "longitude": "-1.54917"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Pépin de Bellisle est un bâtiment d'habitation de style néo-classique bâti sur des plans de Jean-Baptiste Ceineray à la fin du xviiie siècle, situé dans la rue Henri-IV à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1957. Il est bâti symétriquement à l'hôtel Ceineray, situé dans la rue Sully.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 24.073170731707318
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108669-hotel-saint-aignan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108669.jpg",
+    "name": "Hôtel Saint-Aignan",
+    "address": "8 rue Saint-Jean",
+    "coordinates": {
+      "latitude": "47.2187",
+      "longitude": "-1.55315"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Saint-Aignan est un hôtel particulier de style gothique flamboyant bâti à la fin du xve siècle, situé rue Saint-Jean, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1926.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 107,
+      "mean_replies": 0.11214953271028037,
+      "mean_retweets": 0.794392523364486,
+      "mean_likes": 2.0934579439252334
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 36.19512195121951
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108670-hotel-saint-pern.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108670.jpg",
+    "name": "Hôtel Saint-Pern",
+    "address": "7 rue Malherbe",
+    "coordinates": {
+      "latitude": "47.21806",
+      "longitude": "-1.54681"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Saint-Pern est un ancien hôtel particulier bâti au xviiie siècle, situé dans la rue Malherbe, dans le quartier Malakoff - Saint-Donatien de Nantes, en France, dont l'unique vestige est le portail, qui a été classé au titre des monuments historiques en 1952.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 14.341463414634147
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108671-hotel-scheult.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108671.jpg",
+    "name": "Hôtel Scheult",
+    "address": "8 rue de l'Héronnière Cours Cambronne",
+    "coordinates": {
+      "latitude": "47.2121",
+      "longitude": "-1.56214"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Scheult, ou hôtel Seheult est un hôtel particulier de style néo-classique et éclectique bâti au début du xixe siècle, donnant sur le cours Cambronne et la rue de l'Héronnière, dans le centre-ville de Nantes, en France. L'immeuble a été classé au titre des monuments historiques en 1976. Sa façade sud a été entièrement restaurée en 2015 remettant en valeur toutes ses sculptures et huisseries.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 71,
+      "mean_replies": 0.16901408450704225,
+      "mean_retweets": 0.5915492957746479,
+      "mean_likes": 1.0140845070422535
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 54.65853658536585
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108674-hotel-urvoy-de-saint-bedan.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108674.jpg",
+    "name": "Hôtel Urvoy de Saint-Bedan",
+    "address": "2 rue d'Argentré rue Tournefort",
+    "coordinates": {
+      "latitude": "47.2209",
+      "longitude": "-1.55162"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Urvoy de Saint-Bedan est un hôtel particulier bâti en 1840, situé à l'angle de la rue Tournefort et de la rue d'Argentré, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954.\nIl fait désormais partie du groupe de bâtiments formant l'« hôtel du département », siège du Conseil départemental de la Loire-Atlantique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 23.463414634146343
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108693-hotel-vauloup.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108693.jpg",
+    "name": "Hôtel Vauloup",
+    "address": "3 place Général-Mellinet",
+    "coordinates": {
+      "latitude": "47.211757",
+      "longitude": "-1.576393"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel Vauloup est un hôtel particulier bâti entre 1828 et 1856, situé au no 3 de la place Général-Mellinet, dans le quartier Dervallières - Zola de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1988.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.170731707317072
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108724-hotel-daux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108724.jpg",
+    "name": "Hôtel d'Aux",
+    "address": "2 place Maréchal-Foch Rue Tournefort",
+    "coordinates": {
+      "latitude": "47.2196",
+      "longitude": "-1.5506"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel d'Aux devenu par la suite hôtel du 11e Corps d'Armée est un hôtel particulier de style néo-classique bâti à la fin du xviiie siècle, situé à l'angle la place Maréchal-Foch et de la rue Tournefort, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 2012.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0.3333333333333333
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 57.58536585365854
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108846-hotel-de-goulaine-de-harrouys.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108846.jpg",
+    "name": "Hôtel de Goulaine de Harrouys",
+    "address": "14 rue du Château",
+    "coordinates": {
+      "latitude": "47.2163",
+      "longitude": "-1.55244"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de Goulaine de Harrouys est un hôtel particulier bâti à la fin du xviiie siècle, situé dans la rue du château, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1991.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 28.097560975609756
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108672-hotel-de-la-villestreux.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108672.jpg",
+    "name": "Hôtel de La Villestreux",
+    "address": "3 place de la Petite-Hollande Rue Kervégan Quai Turenne",
+    "coordinates": {
+      "latitude": "47.2121",
+      "longitude": "-1.5569"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de La Villestreux (ou hôtel Villetreux1) est un hôtel particulier de style néo-classique bâti au milieu du xviiie siècle, situé sur la place de la Petite-Hollande, à l'extrémité ouest de l'île Feydeau, dans le centre-ville de Nantes, en France.\nL'immeuble a été inscrit à l'inventaire supplémentaire des monuments historiques en 1932 et 1986. L'accès au bâtiment se fait à l'ouest au no 3 de la place de la Petite-Hollande, deux autres façades donnent au nord sur la rue Kervégan et au sud sur le quai Turenne.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 102.8048780487805
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108690-hotel-de-luynes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108690.jpg",
+    "name": "Hôtel de Luynes (Nantes)",
+    "address": "1 rue Du Guesclin Allée Duguay-Trouin (façade) Rue Kervégan (façade)",
+    "coordinates": {
+      "latitude": "47.212904",
+      "longitude": "-1.555841"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de Luynes est un hôtel particulier, bâti au xviiie siècle, dont l'entrée est située sur sa façade ouest, au no 1 de la rue Du Guesclin, dans le quartier de l'île Feydeau à Nantes, en France. Il présente également une façade sur la rue Kervégan, et une autre sur l'allée Duguay-Trouin. Il a été inscrit au titre des monuments historiques en 1943.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 15.731707317073171
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108692-hotel-de-la-marine.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108692.jpg",
+    "name": "Hôtel de la Marine (Nantes)",
+    "address": "2 place Général-Mellinet",
+    "coordinates": {
+      "latitude": "47.2117",
+      "longitude": "-1.57586"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de la Marine, appelé à l'origine hôtel Massion, est un hôtel particulier de style néo-classique et de style « néo-Louis-XV » bâti en 1874, situé au no 2 de la place Général-Mellinet entre le boulevard Paul-Langevin et la rue de Belleville, dans le quartier Dervallières - Zola à Nantes, en France. L'immeuble est inscrit au titre des monuments historiques en 1988 et 2011.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0,
+      "mean_retweets": 1.25,
+      "mean_likes": 1.75
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 41.97560975609756
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108667-hotel-de-la-pilorgerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108667.jpg",
+    "name": "Hôtel de la Pilorgerie",
+    "address": "15 rue Georges-Clemenceau",
+    "coordinates": {
+      "latitude": "47.2187",
+      "longitude": "-1.54781"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de la Pilorgerie est un hôtel particulier de style néo-classique bâti à la fin du xviiie siècle, situé dans la rue Georges-Clemenceau, à Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1988. Il est bâti symétriquement avec un hôtel jumeau, l'hôtel Cazenove de Pradines.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 14.048780487804878
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108758-hotel-de-prefecture-de-la-loire-atlantique.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108758.jpg",
+    "name": "Hôtel de préfecture de la Loire-Atlantique",
+    "address": "6 quai Ceineray Place Roger-Salengro",
+    "coordinates": {
+      "latitude": "47.2206",
+      "longitude": "-1.55306"
+    },
+    "city": "Nantes",
+    "description": "L'hôtel de préfecture de la Loire-Atlantique est un bâtiment situé à Nantes, en France. Il est le siège de la préfecture du département de la Loire-Atlantique.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 3,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 141.09756097560975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108653-la-cigale.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108653.jpg",
+    "name": "La Cigale (brasserie)",
+    "address": "Place Graslin",
+    "coordinates": {
+      "latitude": "47.212728",
+      "longitude": "-1.562101"
+    },
+    "city": "Nantes",
+    "description": "La Cigale est une brasserie située dans la commune de Nantes, dans le département français de la Loire-Atlantique. Elle est classée monument historique depuis le 12 octobre 19641.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 130,
+      "mean_replies": 0.2,
+      "mean_retweets": 0.8846153846153846,
+      "mean_likes": 2.9846153846153847
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 262,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "La Cigale",
+      "yelp_id": "BHOaedUNiV7h96or0fDlNw",
+      "yelp_phone": "+33251849494",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 0
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 1
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 2
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 3
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 4
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 5
+            },
+            {
+              "is_overnight": true,
+              "start": "0730",
+              "end": "0030",
+              "day": 6
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 599.9512195121952
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108651-la-psalette.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108651.jpg",
+    "name": "La Psallette",
+    "address": "Impasse Saint-Laurent",
+    "coordinates": {
+      "latitude": "47.2179686",
+      "longitude": "-1.5500057"
+    },
+    "city": "Nantes",
+    "description": "La Psallette est un manoir bâti au xve siècle, situé à Nantes, en France. L'immeuble a été classé au titre des monuments historiques en 1910.\n",
+    "protection": false,
+    "twitter": {
+      "len_tweets": 48,
+      "mean_replies": 0.125,
+      "mean_retweets": 0.4791666666666667,
+      "mean_likes": 0.8333333333333334
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 107.09756097560975
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108727-maison-charron.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108727.jpg",
+    "name": "Maison Charron",
+    "address": "17 allée Duguay-Trouin 1 place de la Petite-Hollande",
+    "coordinates": {
+      "latitude": "47.2125",
+      "longitude": "-1.55732"
+    },
+    "city": "Nantes",
+    "description": "La maison Charron est un immeuble de style néo-classique bâti au milieu du xviiie siècle, situé à l'angle de l'allée Duguay-Trouin et de la place de la Petite-Hollande, à l'ouest de l'île Feydeau, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit à l'inventaire supplémentaire des monuments historiques en 1984.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 241,
+      "mean_replies": 0.3070539419087137,
+      "mean_retweets": 0.7095435684647303,
+      "mean_likes": 4.265560165975104
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 26.097560975609756
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108710-maison-minee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108710.jpg",
+    "name": "Maison Minée",
+    "address": "12 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2182",
+      "longitude": "-1.54814"
+    },
+    "city": "Nantes",
+    "description": "La maison Minée est un immeuble de rapport de style néo-classique bâti à la fin du xviiie siècle, situé entre les nos 8 et 12 rue Henri-IV, le long du cours Saint-Pierre à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 1.411764705882353,
+      "mean_retweets": 5,
+      "mean_likes": 4.823529411764706
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.536585365853657
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108706-maison-minee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108706.jpg",
+    "name": "Maison Minée",
+    "address": "8 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2182",
+      "longitude": "-1.54814"
+    },
+    "city": "Nantes",
+    "description": "La maison Minée est un immeuble de rapport de style néo-classique bâti à la fin du xviiie siècle, situé entre les nos 8 et 12 rue Henri-IV, le long du cours Saint-Pierre à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 1.411764705882353,
+      "mean_retweets": 5,
+      "mean_likes": 4.823529411764706
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.536585365853657
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108709-maison-minee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108709.jpg",
+    "name": "Maison Minée",
+    "address": "11 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2182",
+      "longitude": "-1.54814"
+    },
+    "city": "Nantes",
+    "description": "La maison Minée est un immeuble de rapport de style néo-classique bâti à la fin du xviiie siècle, situé entre les nos 8 et 12 rue Henri-IV, le long du cours Saint-Pierre à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 1.411764705882353,
+      "mean_retweets": 5,
+      "mean_likes": 4.823529411764706
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.536585365853657
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108707-maison-minee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108707.jpg",
+    "name": "Maison Minée",
+    "address": "9 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2182",
+      "longitude": "-1.54814"
+    },
+    "city": "Nantes",
+    "description": "La maison Minée est un immeuble de rapport de style néo-classique bâti à la fin du xviiie siècle, situé entre les nos 8 et 12 rue Henri-IV, le long du cours Saint-Pierre à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 1.411764705882353,
+      "mean_retweets": 5,
+      "mean_likes": 4.823529411764706
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.536585365853657
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108708-maison-minee.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108708.jpg",
+    "name": "Maison Minée",
+    "address": "10 rue Henri-IV",
+    "coordinates": {
+      "latitude": "47.2182",
+      "longitude": "-1.54814"
+    },
+    "city": "Nantes",
+    "description": "La maison Minée est un immeuble de rapport de style néo-classique bâti à la fin du xviiie siècle, situé entre les nos 8 et 12 rue Henri-IV, le long du cours Saint-Pierre à Nantes, en France, à la limite du quartier Malakoff - Saint-Donatien. L'immeuble a été inscrit au titre des monuments historiques en 1954.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 17,
+      "mean_replies": 1.411764705882353,
+      "mean_retweets": 5,
+      "mean_likes": 4.823529411764706
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 20.536585365853657
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108749-maison-trochon.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108749.jpg",
+    "name": "Maison Trochon",
+    "address": "17 quai de la Fosse",
+    "coordinates": {
+      "latitude": "47.2114",
+      "longitude": "-1.56084"
+    },
+    "city": "Nantes",
+    "description": "La maison Trochon, ou hôtel Trochon, ou hôtel des Zéphyrs, est un hôtel particulier de style néo-classique bâti au milieu du xviiie siècle, situé sur le quai de la Fosse, dans le centre-ville de Nantes, en France. L'immeuble est inscrit au titre des monuments historiques en 1926.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 30,
+      "mean_replies": 0.43333333333333335,
+      "mean_retweets": 3.033333333333333,
+      "mean_likes": 8.466666666666667
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 48.26829268292683
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108747-maison-des-apothicaires.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108747.jpg",
+    "name": "Maison des Apothicaires",
+    "address": "2 rue des Carmes",
+    "coordinates": {
+      "latitude": "47.2158",
+      "longitude": "-1.55496"
+    },
+    "city": "Nantes",
+    "description": "La maison des Apothicaires (appelé aussi parfois maison du Change1) est une maison à colombage, située au no 2, rue Carmes (côté est, au débouché sur la place du Change), dans le centre-ville de Nantes, en France.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 1,
+      "mean_replies": 0,
+      "mean_retweets": 19,
+      "mean_likes": 69
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 91.6829268292683
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108733-maison-du-chapitre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108733.jpg",
+    "name": "Immeuble au 3, rue Sully de Nantes",
+    "address": "3 rue Sully Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.2204",
+      "longitude": "-1.5499"
+    },
+    "city": "Nantes",
+    "description": "L'immeuble, bâti au xviiie siècle, est situé au no 3 de la rue Sully et sur le cours Saint-André à Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954. L'immeuble dans son entier, formé des no 2 et no 3 de la rue Sully, constitue la maison du Chapitre.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 8.073170731707316
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108732-maison-du-chapitre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108732.jpg",
+    "name": "Immeuble au 2, rue Sully de Nantes",
+    "address": "2 rue Sully Cours Saint-André",
+    "coordinates": {
+      "latitude": "47.2202",
+      "longitude": "-1.54974"
+    },
+    "city": "Nantes",
+    "description": "L'immeuble, bâti au xviiie siècle, est situé au no 3 de la rue Sully et sur le cours Saint-André à Nantes, en France. L'immeuble a été inscrit au titre des monuments historiques en 1954. L'immeuble dans son entier, formé des no 2 et no 3 de la rue Sully, constitué la maison du Chapitre.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 6.121951219512195
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108754-manoir-de-la-hautiere.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108754.jpg",
+    "name": "Manoir de la Hautière",
+    "address": "14, rue Claude-Guillon-Verne",
+    "coordinates": {
+      "latitude": "47.2029",
+      "longitude": "-1.5828"
+    },
+    "city": "Nantes",
+    "description": "Manoir de la Hautière est un manoir bâti vers la fin du xive siècle, situé rue Claude-Guillon-Verne, dans le quartier Bellevue - Chantenay - Sainte-Anne, à Nantes en France. Le bâtiment a été inscrit à l'inventaire supplémentaire des monuments historiques en 1926.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 2,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 94.51219512195122
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108755-musee-des-beaux-arts-de-nantes.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108755.jpg",
+    "name": "Musée d'Arts de Nantes",
+    "address": "10 rue Georges-Clemenceau",
+    "coordinates": {
+      "latitude": "47.219415",
+      "longitude": "-1.547152"
+    },
+    "city": "Nantes",
+    "description": "Le musée d'Arts de Nantes (anciennement musée des Beaux-Arts de Nantes), est créé, comme quatorze autres musées de province, par arrêté consulaire du 14 fructidor an IX (1er septembre 1801). Il fait partie des plus grands musées en région.\nLes façades, les toitures et l'escalier d'honneur du bâtiment qui abrite les collections sont inscrits au titre des monuments historiques depuis le 29 octobre 19752.\nLe 18 décembre 2011, le musée a fermé ses portes pour une durée initialement prévue à deux ans maximum, afin d'effectuer de vastes travaux d'expansion. À la suite de problèmes liés à la découverte de présence d'eau souterraine dans les fondations nécessitant près de quatre années de travaux supplémentaires, la réouverture de la totalité de l'équipement (rebaptisé « musée d'Arts de Nantes ») a été effective le 23 juin 20173.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 576,
+      "mean_replies": 0.09895833333333333,
+      "mean_retweets": 1.546875,
+      "mean_likes": 3.1753472222222223
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 1,
+        "score_yelp_rating": 5
+      },
+      "yelp_name": "Musée d'histoire de Nantes",
+      "yelp_id": "IM5f5FdDBKNiCNlRPri18Q",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 648.3333333333334
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108652-palais-de-la-bourse.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108652.jpg",
+    "name": "Palais de la Bourse (Nantes)",
+    "address": "Place du Commerce",
+    "coordinates": {
+      "latitude": "47.2128455",
+      "longitude": "-1.5584975"
+    },
+    "city": "Nantes",
+    "description": "Le palais de la Bourse est un monument situé sur la commune de Nantes (Loire-Atlantique), en France. Construit à la fin du xviiie siècle et achevé au xixe siècle pour accueillir une bourse de commerce, il est inscrit à l'inventaire supplémentaire des monuments historiques le 24 janvier 19471. Situé sur la place du Commerce, centre névralgique de la ville, il a été réhabilité à la fin du xxe siècle pour devenir un magasin de la Fnac.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 74,
+      "mean_replies": 0.0945945945945946,
+      "mean_retweets": 0.8378378378378378,
+      "mean_likes": 1.5810810810810811
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 214.2439024390244
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108756-passage-pommeraye.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108756.jpg",
+    "name": "Passage Pommeraye",
+    "address": "no address",
+    "coordinates": {
+      "latitude": "47.213333333333",
+      "longitude": "-1.5597222222222"
+    },
+    "city": "Nantes",
+    "description": "Le passage Pommeraye est une galerie marchande du centre-ville de Nantes, en France. Construit à partir de fin 1840, il est mis en service le 3 juillet 1843, et classé monument historique depuis le 26 décembre 1976. Tirant sa particularité d'être construit sur un terrain présentant une forte déclivité, il s'étend sur trois niveaux distribués par un escalier central, et est un des attraits touristiques de la ville. Si sa construction a entraîné la ruine de son promoteur, Louis Pommeraye, le passage, considéré comme une réussite architecturale, est resté un lieu de commerce florissant. Il a bénéficié d'une rénovation achevée en 2015.\nLe 7 mai 2015, le nom « Passage Pommeraye » devient une marque commerciale déposée auprès de l'Institut national de la propriété industrielle (INPI)1.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 800,
+      "mean_replies": 0.205,
+      "mean_retweets": 1.1475,
+      "mean_likes": 3.085
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 45,
+        "score_yelp_rating": 4.5
+      },
+      "yelp_name": "Passage Pommeraye",
+      "yelp_id": "CxhAwzWS2TvVLFcq6FwkDw",
+      "yelp_phone": "+33240487817",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 0
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1900",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 1644.1951219512196
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108757-porte-saint-pierre.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108757.jpg",
+    "name": "Porte Saint-Pierre (Nantes)",
+    "address": "Rue de l'Évêché",
+    "coordinates": {
+      "latitude": "47.2189",
+      "longitude": "-1.55031"
+    },
+    "city": "Nantes",
+    "description": "La porte Saint-Pierre (appelée aussi porte du bastion Saint-Pierre ou Manoir Guéguen) est le vestige le mieux conservé des remparts de la ville de Nantes en France.\nDatant du xve siècle pour la partie basse et reposant sur des fondations d'époque gallo-romaine (iiie siècle), intégrant également des vestiges des enceintes des ixe et xiiie siècles, elle est située au débouché de la rue de l'Évêché donnant sur le cours Saint-Pierre et la place Maréchal-Foch, à proximité du chevet de la cathédrale Saint-Pierre-et-Saint-Paul\nProtégée par un pont-levis jeté au-dessus des fossés creusés par Guy de Thouars, elle était alors flanquée de deux grosses tours, au nord celle « de Guy de Thouars » et au Sud celle « de l'évêché ». La demeure des évêques, longtemps voisine du château, avait en effet déménagé sur le flanc nord de la cathédrale après l'incendie de Nantes en 1118. Au début du xvie siècle, l'évêque Guéguen choisit de se faire bâtir un logis au-dessus de la porte même. Une partie fut démolie lors du percement de la rue Royale (actuelle rue du Roi-Albert) au xviiie siècle.\nLe roi Henri IV la franchit, dit-on, lorsqu'il pénétra dans la ville, en 1598, pour venir y signer l'Édit de Nantes. En effet, la route venant de Paris1 aboutissait à la porte Saint-Pierre.\nAu xviiie siècle, le pont-levis fut remplacé par une chaussée de pierres pour faciliter l'accès aux Cours Saint-Pierre et Saint-André nouvellement aménagées.\nAprès la séparation de l'Église et de l'État, la porte Saint-Pierre, les bâtiments contigus et cheminées sont classés au titre des monuments historiques par arrêté du 17 septembre 19092, en même temps que le manoir de La Psallette situé de l'autre côté du chevet de la cathédrale3.\nEn 1910, la porte Saint-Pierre est dégagé de l'ancien évêché.\nDes années 1920 aux années 1960, le bâtiment accueillit le « Musée de Nantes par l'image » qui présentait en particulier une maquette du port. Depuis, les collections de ce musée ont été transférées au château des ducs de Bretagne.\nLes façades de la porte ont fait l'objet d'une restauration complète qui s'est achevée au printemps 20144.\nFace est avec la cathédrale en arrière-plan\nFace ouest de la porte (côté situé à l'intérieur de l'enceinte au Moyen Âge).\nSur les autres projets Wikimedia :\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 13,
+      "mean_replies": 0.07692307692307693,
+      "mean_retweets": 1.1538461538461537,
+      "mean_likes": 3.4615384615384617
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 146.85365853658536
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108759-presbytere-saint-nicolas.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108759.jpg",
+    "name": "Presbytère Saint-Nicolas",
+    "address": "3 rue Affre",
+    "coordinates": {
+      "latitude": "47.2154",
+      "longitude": "-1.55752"
+    },
+    "city": "Nantes",
+    "description": "Le presbytère Saint-Nicolas est un immeuble bâti au xixe siècle, situé dans la rue Affre sur le côté est de la basilique Saint-Nicolas, dans le centre-ville de Nantes, en France. L'immeuble a été inscrit à l'inventaire supplémentaire des monuments historiques en 1986.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 10,
+      "mean_replies": 0.2,
+      "mean_retweets": 0.9,
+      "mean_likes": 1.9
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 13.365853658536585
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108689-temple-du-gout.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108689.jpg",
+    "name": "Temple du Goût",
+    "address": "16 allée Duguay-Trouin 30 rue Kervégan",
+    "coordinates": {
+      "latitude": "47.2126",
+      "longitude": "-1.55681"
+    },
+    "city": "Nantes",
+    "description": "Le Temple du Goût est un hôtel particulier construit de 1753 à 1754 par l'architecte Pierre Rousseau (1716-1797) sur l'île Feydeau à Nantes (Loire-Atlantique), dont la façade principale se trouve actuellement au 16 allée Duguay-Trouin1.\nClassé aux monuments historiques le 17 août 19452, il est l'un des rares hôtels particuliers nantais3 à être entièrement classé4. Remarquable notamment par sa façade de forme pyramidale, il est l'un des plus beaux témoignages du style caractéristique des immeubles nantais du xviiie siècle parfois appelé « baroque nantais » — variante locale du style rocaille.\n",
+    "protection": "Classé MH",
+    "twitter": {
+      "len_tweets": 329,
+      "mean_replies": 0.5258358662613982,
+      "mean_retweets": 1.4741641337386018,
+      "mean_likes": 4.072948328267477
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 183.97560975609755
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108760-theatre-graslin.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108760.jpg",
+    "name": "Théâtre Graslin",
+    "address": "Place Graslin",
+    "coordinates": {
+      "latitude": "47.21361",
+      "longitude": "-1.56222"
+    },
+    "city": "Nantes",
+    "description": "Le théâtre Graslin est la salle d'opéra de Nantes (Loire-Atlantique). Édifié à la fin du xviiie siècle, il est inscrit à l'inventaire des monuments historiques depuis le 8 décembre 19981.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 555,
+      "mean_replies": 0.1945945945945946,
+      "mean_retweets": 2.0774774774774776,
+      "mean_likes": 3.9567567567567568
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 11,
+        "score_yelp_rating": 3.5
+      },
+      "yelp_name": "Théâtre de Poche Graslin",
+      "yelp_id": "0Qum9PsMH9KgAJ2XQkFm6Q",
+      "yelp_phone": "+33240080044",
+      "yelp_hours": [
+        {
+          "open": [
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "2200",
+              "day": 1
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "2200",
+              "day": 2
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "2200",
+              "day": 3
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "2200",
+              "day": 4
+            },
+            {
+              "is_overnight": false,
+              "start": "1000",
+              "end": "1200",
+              "day": 5
+            },
+            {
+              "is_overnight": false,
+              "start": "1400",
+              "end": "2200",
+              "day": 5
+            }
+          ],
+          "hours_type": "REGULAR",
+          "is_open_now": true
+        }
+      ]
+    },
+    "score_wiki": 687.6585365853658
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa44000013-villa-de-la-chantrerie.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000013.jpg",
+    "name": "Villa de la Chantrerie",
+    "address": "Route de Gachet",
+    "coordinates": {
+      "latitude": "47.2874",
+      "longitude": "-1.52593"
+    },
+    "city": "Nantes",
+    "description": "Villa de la Chantrerie est un manoir bâti au xixe siècle, situé à Nantes, sur la rive gauche de l'Erdre, route de Gachet, dans le quartier Nantes Erdre, en France. Le bâtiment a été inscrit au titre des monuments historiques en 1997.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 58.75609756097561
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108660-eglise-notre-dame-de-bon-port.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108660.jpg",
+    "name": "Église Notre-Dame-de-Bon-Port",
+    "address": "Place du Sanitat",
+    "coordinates": {
+      "latitude": "47.210278",
+      "longitude": "-1.568889"
+    },
+    "city": "Nantes",
+    "description": "Notre-Dame-de-Bon-Port (appelé aussi localement église Saint-Louis), est une église construite en 1852 à Nantes par les architectes Saint-Félix Seheult et Joseph-Fleury Chenantais. Elle est inscrite au titre des monuments historiques en octobre 1975, et la partie instrumentale de son orgue, construit par le facteur nantais Louis Debierre en 1891, est classé au titre objet des monuments historiques en décembre 1975.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 40,
+      "mean_replies": 0.2,
+      "mean_retweets": 0.875,
+      "mean_likes": 1.775
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 367.4634146341463
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa44000011-eglise-saint-jacques-de-pirmil.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa44000011.jpg",
+    "name": "Église Saint-Jacques de Pirmil",
+    "address": "Rue Saint-Jacques",
+    "coordinates": {
+      "latitude": "47.1965",
+      "longitude": "-1.538212"
+    },
+    "city": "Nantes",
+    "description": "L'église Saint-Jacques de Pirmil est la plus ancienne église de Nantes en France ; elle date de la fin du xiie siècle.\nL'église fait l'objet d'une inscription au titre des monuments historiques depuis le 24 avril 19971.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 0,
+      "mean_replies": 0,
+      "mean_retweets": 0,
+      "mean_likes": 0
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 57.951219512195124
+  },
+  {
+    "link": "https://monuments.guide/fr/p/pa00108844-eglise-saint-martin-de-chantenay.html",
+    "photo": "https://d3jwkh28c6i8q8.cloudfront.net/p/1/pa00108844.jpg",
+    "name": "Église Saint-Martin de Chantenay",
+    "address": "Rue de Tréméac",
+    "coordinates": {
+      "latitude": "47.1993157",
+      "longitude": "-1.5927842"
+    },
+    "city": "Nantes",
+    "description": "L’église Saint-Martin de Chantenay est une église paroissiale située dans la ville de Nantes en France, plus précisément dans l’ancienne commune de Chantenay-sur-Loire et l’actuel quartier Bellevue - Chantenay - Sainte-Anne. Elle est inscrite au titre des monuments historiques depuis 1990.\n",
+    "protection": "Inscrit MH",
+    "twitter": {
+      "len_tweets": 4,
+      "mean_replies": 0,
+      "mean_retweets": 2.25,
+      "mean_likes": 3.25
+    },
+    "yelp": {
+      "score_yelp": {
+        "score_yelp_review_count": 0,
+        "score_yelp_rating": 0
+      },
+      "yelp_name": "",
+      "yelp_id": "",
+      "yelp_phone": "",
+      "yelp_hours": ""
+    },
+    "score_wiki": 53.68292682926829
+  }
+]

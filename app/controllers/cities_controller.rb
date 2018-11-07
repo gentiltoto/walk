@@ -18,5 +18,6 @@ class CitiesController < ApplicationController
   def explications
     # Sélectionne la ville pour pouvoir afficher son nom
     @city = City.where(name: params[:name]).first
+    gon.city = @city
   end
 end

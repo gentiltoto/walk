@@ -84,7 +84,8 @@
     "name": "Ancien Couvent de la Visitation",
     "address": "21bis-23 rue Roger-Radisson 14 montée du Télégraphe",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Les façades et toitures du couvent, de ses bâtiments, du cloître et de ses galeries, sa chapelle en totalité, ainsi que la parcelle cadastrée AO 58 sur laquelle sont construits ces bâtiments : inscription par arrêté du 12 décembre 2013",
@@ -143,7 +144,8 @@
     "name": "Atelier Mattelon",
     "address": "10 rue Richan",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "L'ensemble des façades et toitures de l'immeuble situé 10, rue Richan, (y compris celles de la cage d'escalier et de l'atelier mécanique situé dans la cour), ainsi que l'atelier du deuxième étage en totalité (cad. AX 48) : inscription par arrêté du 15 mars 2013",
@@ -469,7 +471,8 @@
     "name": "Chartreuse",
     "address": "58 rue Pierre-Dupont",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.6742003,
+      "longitude": 4.9199599
     },
     "city": "Lyon",
     "description": "Façades et toitures sur cour des bâtiments situés au nord et au sud de la chapelle des Chartreux (cad. AD 2) : inscription par arrêté du 27 janvier 1987. Chapelle des Chartreux (cad. AD 2) : classement par arrêté du 27 janvier 1987. Façades et toitures de la petite maison et de la maison du Prieur ; grille d'entrée (cad. AD 1, 2) : inscription par arrêté du 18 mai 1992. Petit cloître avec ses galeries ; maison des Hôtes ; ancienne salle capitulaire ; grand réfectoire (cad. AD 1, 2) : classement par arrêté du 3 février 1995",
@@ -691,7 +694,8 @@
     "name": "Couvent des Carmélites",
     "address": "8, 10, 12, montée des Carmélites 15, rue de Flesselles",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Couvent des Carmélites (ancien) : inscription par arrêté du 26 octobre 1942",
@@ -840,7 +844,8 @@
     "name": "Fontaine du Taurobole",
     "address": "Rue des Macchabées",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Fontaine du Taurobole : inscription par arrêté du 2 février 1987",
@@ -1260,7 +1265,8 @@
     "name": "Hôtel de Cuzieu",
     "address": "30 rue Sainte-Hélène",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.7540387,
+      "longitude": 4.8313384
     },
     "city": "Lyon",
     "description": "Façades et toitures sur rue, sur cour et sur jardin y compris le portail d'entrée ; le grand escalier avec sa rampe en fer forgé ; les pièces du rez-de-chaussée avec leur décor : le grand salon, le petit salon et la chambre à alcôve ; les pièces du premier étage avec leur décor : le salon central, la grande chambre et la salle à manger (cad. L 478) : inscription par arrêté du 25 mars 1982",
@@ -1386,7 +1392,8 @@
     "name": "Hôtel de Varey",
     "address": "2 rue Auguste-Comte Place Bellecour",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.7564994,
+      "longitude": 4.8319558
     },
     "city": "Lyon",
     "description": "Les façades et les toitures sur rues et sur cour ; l'escalier avec sa rampe en fer forgé et sa cage ; le grand salon du rez-de-chaussée avec son decor (cad. K 307) : inscription par arrêté du 21 décembre 1984",
@@ -1723,7 +1730,8 @@
     "name": "Logis de l'abbé d'Ainay",
     "address": "15 rue Vaubecour",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.7543487,
+      "longitude": 4.8266442
     },
     "city": "Lyon",
     "description": "La porte Renaissance de l'ancien portail : inscription par arrêté du 15 septembre 1954",
@@ -1752,7 +1760,8 @@
     "name": "Maison Thomassin",
     "address": "2 place du Change 3 quai Romain-Rolland",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.76436,
+      "longitude": 4.8287626
     },
     "city": "Lyon",
     "description": "Galerie sur cour et escalier à vis avec sa tourelle (cad. AE 15) : inscription par arrêté du 28 mai 1927 ; Façade et versant de toiture sur la place : classement par arrêté du 22 décembre 1941 ; Façades sur cour et toitures correspondantes ; façades et toitures sur le quai ; salles voûtées en cave (cad. AE 15) : inscription par arrêté du 17 juillet 1990 ; Plafond peint dans l'appartement du rez-de-chaussée surélevé de la partie Est de la maison (cad. AE 15) : classement par arrêté du 12 juin 1992",
@@ -1781,7 +1790,8 @@
     "name": "Maison aux Lions",
     "address": "23 rue Juiverie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Les façades sur rue et sur cour et les couvertures : inscription par arrêté du 17 avril 1952",
@@ -1810,7 +1820,8 @@
     "name": "Maison de la Bréda (dite Maison Pauline Jaricot)",
     "address": "42 montée Saint-Barthélémy",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "La maison en totalité et ses constructions annexes, notamment les accès, la chapelle et le jardin (cad. AL 7) : inscription par arrêté du 10 février 2004",
@@ -1839,7 +1850,8 @@
     "name": "Maison de la Providence",
     "address": "27 montée Saint-Barthélémy",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Les façades et les toitures ; la chapelle et l'escalier d'accès à celle-ci ; le réfectoire dit aussi salle d'assemblée (cad. AH 114, 116) : inscription par arrêté du 22 juillet 1986",
@@ -1941,7 +1953,8 @@
     "name": "Maison du Crible, dite Tour Rose",
     "address": "16 rue du Bœuf",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Maison : inscription par arrêté du 12 avril 1937",
@@ -2502,7 +2515,8 @@
     "name": "Site archéologique de Saint-Just Les Minimes",
     "address": "Quartier Saint-Just",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Site archéologique de Saint-Just Les Minimes (vestiges) (cad. AS 81) : classement par arrêté du 2 janvier 1984",
@@ -2725,7 +2739,8 @@
     "name": "Villa Gorge de Loup",
     "address": "55 rue Sergent-Michel-Berthet",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.7666015,
+      "longitude": 4.8056899
     },
     "city": "Lyon",
     "description": "Villa dite Gorge de Loup (cad. BT 48) : inscription par arrêté du 2 novembre 1989",
@@ -3294,7 +3309,8 @@
     "name": "Égout romain",
     "address": "Rue Roger-Radisson 3 place de Fourvière",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 45.74846,
+      "longitude": 4.84671
     },
     "city": "Lyon",
     "description": "Egout romain : classement par arrêté du 5 octobre 1960",
