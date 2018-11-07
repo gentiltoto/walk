@@ -52,9 +52,9 @@
       <i class="fas fa-chevron-right img-arrow-right"></i>
     </div>
 
-    <%= link_to delete_path(@itineraire, monument.id), method: :delete, class: "delete-card" do %>
-      <i class="fas fa-times"></i>
-    <% end %>
+      <div class="delete-card" id="delete-id-<%= monument.id %>">
+        <i class="fas fa-times"></i>
+      </div>
   </div>
   <% end %>
 </div>

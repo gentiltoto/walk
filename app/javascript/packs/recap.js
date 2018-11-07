@@ -78,14 +78,14 @@ let mapObject;
 let markersObject;
 let compteur = gon.monuments[0].id;
 let index = 0;
-const gonMonuments = gon.monuments;
+let gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
   mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 40, right: 40});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
-  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0.002, {top: 150, bottom: 300, left: 600, right: 50});
+  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0.002, {top: 150, bottom: 300, left: 500, right: 30});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 }
 
@@ -183,4 +183,36 @@ $("#green-choice").click((event) => {
     $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
     clicks += 1;
   }
+});
+
+// Delete listener
+gonMonuments.forEach((mon) => {
+  $(`#delete-id-${mon.id}`).click((event) => {
+    event.preventDefault();
+
+    Rails.ajax({
+      type: "DELETE",
+      url: `/vos-monuments/delete/${itineraire.id}/${mon.id}`,
+      data: "rien=rien",
+      success: function() { console.log("Réussi boy!"); },
+      error: function() { console.log("Shit!"); }
+    });
+    $(`#ball-${mon.id}`).remove();
+    $(`#monument-${mon.id}`).remove();
+    $(`#marker-${mon.id}`).remove();
+    index = gonMonuments.findIndex(function(e) { return e.id === mon.id});
+    gonMonuments = gonMonuments.filter(function(value, index, arr) {
+      return value.id != mon.id
+    });
+
+    const idNext = gonMonuments[index].id;
+    // Display all - monument, ball, marker
+    $(`#monument-${idNext}`).removeClass("animating transition out fly left");
+    $(`#monument-${idNext}`).addClass("animating transition in fly right");
+
+    $("[id*='ball-']").removeClass("ball-monument-focus");
+    $(`#ball-${idNext}`).addClass("ball-monument-focus");
+
+    flyToMarker(idNext, mapObject);
+  });
 });
