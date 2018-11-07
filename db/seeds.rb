@@ -54,7 +54,7 @@ cities.each do |city|
       latitude: monument['coordinates']['latitude'],
       longitude: monument['coordinates']['longitude'],
       description: monument['description'],
-      score: scoring(monument, city['json'])
+      score: scoring(monument, city['json']).to_i
       # Ajouter horaires quand présent
       # Ajouter protection
     )
