@@ -54,6 +54,7 @@ let compteurMonuments = gonItiMonuments.length;
 $(".green-choice-circle").css("background-color", "#BCC1C1");
 $("#green-choice").css("pointer-events", "none");
 
+$("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0) ? "s" : "" }</p>`).show();
 
 if ($(window).width() < 992) {
   $("#marker-0").remove();
@@ -88,7 +89,10 @@ const choiceYes = $(".choice-yes").click((event) => {
   $(`#monument-${gonMonuments[compteur].id}`).removeClass("animating transition out fly right")
   $(`#monument-${gonMonuments[compteur].id}`).addClass("animating transition in fly up");
   defineNewMarker(compteur, mapObject, markerObject);
+
+  // Update compteur
   compteurMonuments += 1;
+  $("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0) ? "s" : "" }</p>`);
 });
 
 

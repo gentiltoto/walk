@@ -1,5 +1,9 @@
 <% content_for :title, "Seety - Choix des monuments" %>
 
+<%= link_to url_for(:back) do %>
+  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
 <div id="green-choice">
   <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
@@ -13,6 +17,12 @@
 <div id="map"></div>
 
 <div class="cards">
+
+<div id="metrics-distance">
+
+</div>
+
+
 <% @monuments.each_with_index do |monument, index| %>
   <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" unless index.zero? %>">
     <div class="monument-image-div">
@@ -38,7 +48,7 @@
     </div>
 
     <div class="card-infos" id="plus-info-<%= monument.id %>">
-      <p>Plus d'info</p>
+      <i class="fas fa-info-circle"></i>
     </div>
   </div>
 <% end %>
@@ -69,7 +79,7 @@
     </div>
 
     <div class="delete-card-info" id="delete-info-<%= monument.id %>">
-      <p>Fermer</p>
+      <i class="fas fa-undo-alt"></i>
     </div>
 
   </div>
@@ -79,3 +89,14 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'choice' %>
 <% end %>
+
+
+<style>
+  body, html {
+    overflow: hidden;
+  }
+
+  body {
+    position: relative;
+  }
+</style>

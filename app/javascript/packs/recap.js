@@ -13,7 +13,6 @@ function map(inp, offset0, offset1, padding) {
   var bounds = inp.reduce(function(bounds, coord) {
     return bounds.extend(coord);
   }, new mapboxgl.LngLatBounds(inp[0], inp[0]));
-  console.log(bounds);
   map.fitBounds(bounds, {
       padding: padding
   });
@@ -81,10 +80,10 @@ const gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
-  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 350, left: 50, right: 50});
+  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 40, right: 40});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
-  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 150, bottom: 300, left: 120, right: 30});
+  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0.002, {top: 150, bottom: 300, left: 230, right: 0});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 }
 
@@ -182,8 +181,4 @@ $("#green-choice").click((event) => {
     $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
     clicks += 1;
   }
-});
-
-$(window).resize(function(event) {
-  console.log($(window).height());
 });
