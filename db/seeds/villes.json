@@ -2,46 +2,85 @@
   {
     "name": "Lille",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lille_vue_gd_place.JPG",
-    "json": "lille-photo"
+    "json": "lille-clean",
+    "latitude": "50.637222",
+    "longitude": "3.063333"
   },
   {
     "name": "Lyon",
     "photo": "https://uploads.lebonbon.fr/source/2017/lyon/aout/lyon_tournimage.jpg",
-    "json": "lyon-photo"
+    "json": "lyon-clean",
+    "latitude": "45.759723",
+    "longitude": "4.842223"
   },
   {
     "name": "Orléans",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Orl%C3%A9ans%2C_pavoisement_pour_les_F%C3%AAtes_de_Jeanne_d%27Arc_2017.jpg",
-    "json": "orleans-photo"
+    "json": "orleans-clean",
+    "latitude": "47.9025",
+    "longitude": "1.909"
   },
   {
     "name": "Toulouse",
     "photo": "http://www.myurbanr.com/wp-content/uploads/2018/03/toulouse-presentation-min.jpg",
-    "json": "toulouse-photo"
+    "json": "toulouse-clean",
+    "latitude": "43.604482",
+    "longitude": "1.443962"
   },
   {
     "name": "Bordeaux",
     "photo": "https://www.medoc-atlantique.com/sites/medococean/files/styles/contenu_slider/public/content/images/reference_a001_-_credit_thomas_sanson.jpg?itok=FIj1l4af",
-    "json": "bordeaux-photo"
-  },
-  {
-    "name": "Fort de France",
-    "photo": "https://d1bvpoagx8hqbg.cloudfront.net/originals/erasmus-experience-fort-de-france-martinique-ben-0c6ba261d691f1066051ac6454c70cba.jpg",
-    "json": "fort-de-france-photo"
+    "json": "bordeaux-clean",
+    "latitude": "44.837912",
+    "longitude": "-0.579541"
   },
   {
     "name": "Nice",
     "photo": "https://media.routard.com/image/25/5/nice.1466255.jpg",
-    "json": "nice-photo"
+    "json": "nice-clean",
+    "latitude": "43.695949",
+    "longitude": "7.271413"
   },
   {
     "name": "Marseille",
     "photo": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Marseille/Marseille%20lead%202-xlarge.jpg",
-    "json": "marseille-photo"
+    "json": "marseille-clean",
+    "latitude": "43.296346",
+    "longitude": "5.369889"
   },
   {
     "name": "Valenciennes",
     "photo": "http://www.laforet.com/sites/default/files/styles/slide-home__1366x627_/public/immobilier-valenciennes-1.jpg?itok=IB7kDzfp",
-    "json": "valenciennes-photo"
+    "json": "valenciennes-clean",
+    "latitude": "50.358056",
+    "longitude": "3.523333"
+  },
+  {
+    "name": "Montpellier",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Montpellier_Place_de_la_Com%C3%A9die.jpg/1200px-Montpellier_Place_de_la_Com%C3%A9die.jpg",
+    "json": "montpellier-clean",
+    "latitude": "43.611944444444",
+    "longitude": "3.8772222222222"
+  },
+  {
+    "name": "Nantes",
+    "photo": "https://www.cagette.net/wp-content/uploads/2018/08/nantes.jpg",
+    "json": "nantes-clean",
+    "latitude": "47.21806",
+    "longitude": "-1.55278"
+  },
+  {
+    "name": "Reims",
+    "photo": "https://www.tourisme-champagne-ardenne.com/sites/champagne-ardenne/files/styles/gallery_lightbox/public/content/images/00_reims_place_royale_credit_photo_g._raskin_0.jpg?itok=PLJAJBpt",
+    "json": "reims-clean",
+    "latitude": "49.26278",
+    "longitude": "4.03472"
+  },
+  {
+    "name": "Rennes",
+    "photo": "https://carnetdetipiment.com/wp-content/uploads/rennes-une.jpg",
+    "json": "rennes-clean",
+    "latitude": "48.114722",
+    "longitude": "-1.679444"
   }
 ]

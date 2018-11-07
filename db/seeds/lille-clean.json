@@ -825,7 +825,8 @@
     "name": "Hôtel Cardon de Montreuil",
     "address": "26, 28 rue Négrier",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.6424098,
+      "longitude": 3.0577162
     },
     "city": "Lille",
     "description": "Façades et toitures, y compris le portail d'entrée ; l'escalier principal avec sa rampe en fer forgé ; l'escalier secondaire avec sa rampe en bois ; la salle à manger dite aussi antichambre avec ses lambris au rez-de-chaussée (cad. KX 39) : classement par arrêté du 1er décembre 1980",
@@ -914,7 +915,8 @@
     "name": "Hôtel Delbecque",
     "address": "105 boulevard de la Liberté",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.6336548,
+      "longitude": 3.0587039
     },
     "city": "Lille",
     "description": "Façade sur rue (cad. NY 84) : inscription par arrêté du 9 décembre 1986",
@@ -1153,7 +1155,8 @@
     "name": "Hôtel de Madre",
     "address": "23 rue de Gand 4 rue A-Claques",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 50.6419445,
+      "longitude": 3.0657866
     },
     "city": "Lille",
     "description": "Façades et toitures sur rue et sur cour des bâtiments d'origine (cad. KY 214) : inscription par arrêté du 15 mars 1988",

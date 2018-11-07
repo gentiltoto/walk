@@ -174,7 +174,8 @@
     "name": "Boutique",
     "address": "34 rue des Ayres",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8368776,
+      "longitude": -0.5737918
     },
     "city": "Bordeaux",
     "description": "La devanture d'époque Directoire (cad. P 620) : inscription par arrêté du 15 janvier 1962",
@@ -325,7 +326,8 @@
     "name": "Centre hospitalier spécialisé Charles-Perrens",
     "address": "121 rue de la Béchade",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Les façades et les toitures des deux bâtiments occidental et oriental encadrant la cour d'honneur ; les anciennes cuisines ; les anciens pavillons des bains ; la chapelle ; la fontaine datée de 1761 (cad. IE 35) : inscription par arrêté du 9 septembre 1997",
@@ -354,7 +356,8 @@
     "name": "Chapelle Saint-Joseph",
     "address": "Rue Paul-Louis-Lande Rue Magendie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.833252,
+      "longitude": -0.5762648
     },
     "city": "Bordeaux",
     "description": "Chapelle Saint-Joseph, y compris le retable en pierre (cad. U 1316p) : classement par arrêté du 22 mai 1978",
@@ -383,7 +386,8 @@
     "name": "Chartreuse de Mirande",
     "address": "20 avenue de Mirande",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.843173,
+      "longitude": -0.6018913
     },
     "city": "Bordeaux",
     "description": "Les façades et les toitures ; les trois chambres et les quatre salons avec décor au rez-de-chaussée (cad. C 372) : classement par arrêté du 10 octobre 1980",
@@ -412,7 +416,8 @@
     "name": "Chartreuse le Caoulet",
     "address": "29 rue Thérésia-Cabarrus",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.823301,
+      "longitude": -0.595605
     },
     "city": "Bordeaux",
     "description": "La chartreuse avec son portail et sa clôture, en totalité (cad. HY 78) : inscription par arrêté du 6 mars 2009",
@@ -550,7 +555,8 @@
     "name": "Cimetière des Juifs portugais",
     "address": "105 cours de la Marne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.823179,
+      "longitude": -0.5690345
     },
     "city": "Bordeaux",
     "description": "Mur de clôture et la porte d'entrée ; sol et sous-sol (cad. DE 19) : inscription par arrêté du 27 septembre 1995",
@@ -579,7 +585,8 @@
     "name": "Cimetière des Juifs portugais",
     "address": "176 cours de l'Yser",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.823179,
+      "longitude": -0.5690345
     },
     "city": "Bordeaux",
     "description": "Mur de clôture, sol et sous-sol (cad. CR 1) : inscription par arrêté du 27 septembre 1995",
@@ -735,7 +742,8 @@
     "name": "Distillerie Sécrestat",
     "address": "40 à 50 cours du Médoc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.857511,
+      "longitude": -0.5663575
     },
     "city": "Bordeaux",
     "description": "Façades et toitures (cad. RP 23) : inscription par arrêté du 16 juillet 1993",
@@ -794,7 +802,8 @@
     "name": "Fontaine Amédée-Larrieu",
     "address": "Place Amédée-Larrieu",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8302249,
+      "longitude": -0.5814422
     },
     "city": "Bordeaux",
     "description": "Fontaine ; le mur du fond du marché ; les deux fontaines adossées aux extrémités : inscription par arrêté du 29 octobre 1975",
@@ -823,7 +832,8 @@
     "name": "Fontaine Saint-Projet",
     "address": "Place Saint-Projet",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Fontaine (non cadastré) : classement par arrêté du 18 mai 1908",
@@ -852,7 +862,8 @@
     "name": "Fontaine Sainte-Croix",
     "address": "no address",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8307246,
+      "longitude": -0.5596539
     },
     "city": "Bordeaux",
     "description": "Fontaine Sainte-Croix, ou des Bénédictins, dans l'enceinte de l'Ecole Municipale des Beaux-Arts : classement par arrêté du 15 septembre 1890",
@@ -911,7 +922,8 @@
     "name": "Formes de radoub du port",
     "address": "Quai du Maroc Rue des Etrangers",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Les deux formes de radoub en totalité, avec leur machinerie, en totalité, y compris le bâtiment qui les abrite (cad. non cadastré, domaine public) : inscription par arrêté du 31 janvier 2008",
@@ -1182,7 +1194,8 @@
     "name": "Hôtel Baour",
     "address": "9 cours du Chapeau-Rouge",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8426964,
+      "longitude": -0.5717497
     },
     "city": "Bordeaux",
     "description": "La façade, y compris les vantaux de portes et ferronneries, et la toiture (cad. KP 0057) : inscription par arrêté du 8 octobre 1935",
@@ -1211,7 +1224,8 @@
     "name": "Hôtel Boyer-Fonfrède",
     "address": "1 cours du Chapeau-Rouge",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8426944,
+      "longitude": -0.571184
     },
     "city": "Bordeaux",
     "description": "Les façades et toitures sur rue ; le vestibule ; l'escalier ; les trois pièces ornées d'un ensemble de boiseries Louis XVI se trouvant au premier étage, chez M. Rivel (cad. E 170) : inscription par arrêté du 8 février 1963",
@@ -1240,7 +1254,8 @@
     "name": "Hôtel Fenwick",
     "address": "1 cours Xavier-Arnozan",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8489132,
+      "longitude": -0.570998
     },
     "city": "Bordeaux",
     "description": "Hôtel Fenwick : inscription par arrêté du 7 octobre 1935",
@@ -1329,7 +1344,8 @@
     "name": "Hôtel Lisleferme",
     "address": "5 place Bardineau",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8483574,
+      "longitude": -0.5800915
     },
     "city": "Bordeaux",
     "description": "Hôtel Lisleferme : inscription par arrêté du 8 octobre 1935",
@@ -1478,7 +1494,8 @@
     "name": "Hôtel de Babylone",
     "address": "22 rue Castéja",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8424247,
+      "longitude": -0.5832612
     },
     "city": "Bordeaux",
     "description": "L'hôtel, ses dépendances et son jardin, en totalité (cad. KX 120) : classement par arrêté du 8 novembre 2004",
@@ -1507,7 +1524,8 @@
     "name": "Hôtel de Basquiat",
     "address": "29 cours d'Albret",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Hôtel de Basquiat (l'ensemble) (cad. O 506) : classement par arrêté du 21 février 1959",
@@ -1814,7 +1832,8 @@
     "name": "Hôtel des archives départementales de la Gironde",
     "address": "13, 25 rue d'Aviau",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8502962,
+      "longitude": -0.5764114
     },
     "city": "Bordeaux",
     "description": "Hôtel en totalité (cad. PN 187) : inscription par arrêté du 8 avril 1998",
@@ -1933,7 +1952,8 @@
     "name": "Mairerie",
     "address": "20 rue des Ayres",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8368265,
+      "longitude": -0.5730901
     },
     "city": "Bordeaux",
     "description": "Bâtiments du 17e siècle de l'ancienne mairerie : galeries de circulation ; façades et toitures du presbytère situé entre cour et jardin ; travée du balcon et toiture correspondante de l'immeuble situé dans la partie Ouest de la cour ; façades et toitures de l'ancienne cuisine et de la tourelle d'angle édifiée dans l'ancien jardin (cad. HD 411) : inscription par arrêté du 8 octobre 1993",
@@ -1962,7 +1982,8 @@
     "name": "Maison Acquart",
     "address": "8 rue Porte-Saint-Jean 23 rue Ausone",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.8377256,
+      "longitude": -0.5681504
     },
     "city": "Bordeaux",
     "description": "Immeuble (cad. HE 26) : inscription par arrêté du 4 décembre 1996",
@@ -2021,7 +2042,8 @@
     "name": "Maison de Bourdieu de la Jalle",
     "address": "99 rue Pasteur",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "La maison en totalité (cad. MW 146) : inscription par arrêté du 1er mars 2005",
@@ -2050,7 +2072,8 @@
     "name": "Maison de Montaigne",
     "address": "23 rue de la Rousselle",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Oratoire ; pièce centrale du rez-de-chaussée avec sa cheminée et sa porte murée du 15e siècle ; tourelle d'escalier ; dallage ancien constituant le sol de l'ensemble du rez-de-chaussée (cad. HE 330) : inscription par arrêté du 27 décembre 1991",
@@ -2338,7 +2361,8 @@
     "name": "Passage",
     "address": "82 quai des Chartrons",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.7097696,
+      "longitude": -0.402477
     },
     "city": "Bordeaux",
     "description": "Façades et voûtes (cad. RE 65) : inscription par arrêté du 18 décembre 1991",
@@ -2488,7 +2512,8 @@
     "name": "Petit hôtel Labottière",
     "address": "13 rue Saint-Laurent",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.849103,
+      "longitude": -0.5824275
     },
     "city": "Bordeaux",
     "description": "Petit hôtel (cad. PD 114) et son petit jardin (cad. PD 173) : classement par arrêté du 12 juillet 2001",
@@ -2970,7 +2995,8 @@
     "name": "Théâtre de l'Alhambra",
     "address": "24 rue d'Alzon",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Les façades sur la rue d'Alzon, avec retour sur deux travées (cad. LA 125) : inscription par arrêté du 28 décembre 1984",
@@ -3120,7 +3146,8 @@
     "name": "École de médecine et de chirurgie",
     "address": "42 rue Lalande",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 44.84044,
+      "longitude": -0.5805
     },
     "city": "Bordeaux",
     "description": "Façades et toitures de l'ensemble du bâtiment du 19s ; amphithéâtre, y compris ses gradins ; hall d'entrée (cad. DS 145) : classement par arrêté du 13 septembre 1990",

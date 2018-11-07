@@ -125,7 +125,8 @@
     "name": "Chapelle Saint-Jacques",
     "address": "Jardins de l'Hôtel Groslot",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Façade, déposée et réédifiée dans le jardin de l'Hôtel de Ville : classement par liste de 1846",
@@ -184,7 +185,8 @@
     "name": "Couvent des Minimes",
     "address": "6 rue d'Illiers Rue des Minimes",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.9027275,
+      "longitude": 1.9019432
     },
     "city": "Orléans",
     "description": "Cloître et chapelle : classement par arrêté du 10 septembre 1941",
@@ -213,7 +215,8 @@
     "name": "Crypte Saint-Avit",
     "address": "Rue du Bourdon-Blanc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Crypte Saint-Avit, dans le lycée de jeunes filles : classement par liste de 1862",
@@ -242,7 +245,8 @@
     "name": "Hôtel Brachet",
     "address": "24-26-28 rue de la Bretonnerie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Le corps de logis situé 26 et 28, rue de la Bretonnerie, en totalité, c'est à dire : le corps principal et ses tours d'escalier, les ailes sud-ouest sur cour et nord-ouest sur jardin (cad. BR 111, 193) ; le corps de passage accolé à l'aile sud-ouest de la partie du corps de logis située 28, rue de la Bretonnerie (cad. BR 111) et reliant l'hôtel à la rue des Huguenots, en totalité ; le corps de bâtiment abritant, au 18e siècle, les annexes de l'hôtel, en totalité, situé 24, rue de la Bretonnerie, dit bâtiment A sur le règlement de copropriété (cad. BR 112) ; le sol des cours situées 24, 26 et 28, rue de la Bretonnerie (cad. BR 111, 112, 193, 194) ; le puits situé dans la cour, 28, rue de la Bretonnerie (cad. BR 111) ; la clôture sur la rue de la Bretonnerie située 24, 26 et 28, rue de la Bretonnerie (cad. BR 111, 112, 194) ; le jardin et ses murs de clôture (cad. BR 111, 112, 193) : inscription par arrêté du 16 juillet 2007",
@@ -271,7 +275,8 @@
     "name": "Hôtel Cabu, qui abrite le Musée historique et archéologique de l'Orléanais",
     "address": "22 rue Charles-Sanglier Place Abbé-Desnoyers",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 51.5,
+      "longitude": 10.5
     },
     "city": "Orléans",
     "description": "Hôtel : classement par liste de 1875",
@@ -300,7 +305,8 @@
     "name": "Hôtel Euverte-Hatte (Centre Charles-Péguy)",
     "address": "11 rue du Tabour",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Maison : classement par liste de 1862",
@@ -359,7 +365,8 @@
     "name": "Hôtel Toutin, parfois appelé à tort maison de François Ier",
     "address": "26 rue Notre-Dame-de-Recouvrance",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 48.8592,
+      "longitude": 2.3417
     },
     "city": "Orléans",
     "description": "Maison : classement par liste de 1862",
@@ -388,7 +395,8 @@
     "name": "Hôtel de Sanxerre, dit également maison des Chanoines",
     "address": "211 rue de Bourgogne 39bis, 41 rue de la Poterne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Maison (cad. BK 306) : classement par arrêté du 14 septembre 1912",
@@ -417,7 +425,8 @@
     "name": "Hôtel de caisse d'épargne",
     "address": "3 rue d'Escures",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Les façades et toitures du bâtiment principal et des deux ailes en retour, la grille d'entrée, la verrière et ses supports et l'ensemble des décors originels situés à l'intérieur de l'édifice (cad. BH 65) : inscription par arrêté du 20 octobre 2000",
@@ -476,7 +485,8 @@
     "name": "Hôtel de la Vieille Monnaie",
     "address": "26 rue du Stade",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Façades y compris le portail d'entrée sur rue et toitures ; escalier sur cour à double volée avec sa grille en fer forgé ; escalier intérieur avec sa rampe en fer forgé (cad. BI 66) : inscription par arrêté du 28 décembre 1981",
@@ -505,7 +515,8 @@
     "name": "Hôtel de préfecture du Loiret",
     "address": "9 rue Saint-Pierre-Lentin",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Les façades et les toitures des bâtiments, sauf l'annexe construite dans la cour de service ; l'aile centrale et ses ailes en retour d'origine, en totalité ; le jardin en terrasse et son mur de soutènement (cad. BL 21) : inscription par arrêté du 1er mars 2005 - La cave médiévale voûtée située sous la cour de service ; l'escalier d'honneur orné d'une rampe de fer forgé avec sa cage (cad. BL 21) : classement par arrêté du 13 novembre 2008",
@@ -564,7 +575,8 @@
     "name": "Institut",
     "address": "6 place Sainte-Croix",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.8921528,
+      "longitude": 1.9186874
     },
     "city": "Orléans",
     "description": "Façades et toitures : inscription par arrêté du 19 février 1940",
@@ -593,7 +605,8 @@
     "name": "Maison Art Nouveau",
     "address": "7bis route d'Olivet",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.8982415,
+      "longitude": 1.8996893
     },
     "city": "Orléans",
     "description": "Façade sur rue et toiture correspondante (cad. DO 15) : inscription par arrêté du 14 septembre 1994",
@@ -622,7 +635,8 @@
     "name": "Maison Art Nouveau",
     "address": "46 rue Saint-Marc",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.8982415,
+      "longitude": 1.8996893
     },
     "city": "Orléans",
     "description": "Façades et toitures (cad. CR 103) : inscription par arrêté du 14 septembre 1994",
@@ -651,7 +665,8 @@
     "name": "Maison de Jean d'Alibert",
     "address": "6 place du Châtelet",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.89886,
+      "longitude": 1.9064695
     },
     "city": "Orléans",
     "description": "Maison : classement par liste de 1862",
@@ -680,7 +695,8 @@
     "name": "Maison de la Chancellerie",
     "address": "27, 29 place du Martroi",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Maison : classement par arrêté du 14 janvier 1932 et par arrêté du 16 septembre 1941",
@@ -709,7 +725,8 @@
     "name": "Maison de la Prévôté",
     "address": "261 rue de Bourgogne",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.899902,
+      "longitude": 1.9071816
     },
     "city": "Orléans",
     "description": "Façade : classement par arrêté du 10 août 1912",
@@ -738,7 +755,8 @@
     "name": "Maison des Chevaliers du Guet",
     "address": "11 rue Étienne-Dolet Rue Parisie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.900726,
+      "longitude": 1.9092028
     },
     "city": "Orléans",
     "description": "Façade sur la rue Parisie et couverture l'abritant (cad. BO 167 ; B 816) : inscription par arrêté du 11 décembre 1925",
@@ -767,7 +785,8 @@
     "name": "Maison du Coin Saint-Pierre",
     "address": "13 rue Étienne-Dolet Rue Parisie",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.900731,
+      "longitude": 1.9090179
     },
     "city": "Orléans",
     "description": "Façade sur rue (cad. BI 135) : inscription par arrêté du 11 décembre 1925",
@@ -796,7 +815,8 @@
     "name": "Maison à lucarnes",
     "address": "49 rue des Beaumonts Rue du Faubourg-Saint-Jean",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90289,
+      "longitude": 1.90389
     },
     "city": "Orléans",
     "description": "Les trois lucarnes ; façades et toitures correspondantes sur rue (cad. AH 306) : inscription par arrêté du 26 septembre 1997",
@@ -958,7 +978,8 @@
     "name": "Pavillon Colas des Francs",
     "address": "Jardin Jacques-Boucher 5 place Général de Gaulle",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.90067,
+      "longitude": 1.9024723
     },
     "city": "Orléans",
     "description": "Le pavillon (cad. BC 182) : classement par liste de 1889",
@@ -1017,7 +1038,8 @@
     "name": "Salle des Thèses",
     "address": "Rue Pothier",
     "coordinates": {
-      "Address to geoloc": true
+      "latitude": 47.9004185,
+      "longitude": 1.9107795
     },
     "city": "Orléans",
     "description": "Salle des Thèses : classement par liste de 1862",
