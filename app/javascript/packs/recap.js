@@ -81,10 +81,10 @@ const gonMonuments = gon.monuments;
 const itineraire = gon.itineraire;
 
 if ($(window).width() < 992) {
-  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 350, left: 50, right: 50});
+  mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 40, right: 40});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
-  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 150, bottom: 300, left: 120, right: 30});
+  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0, {top: 150, bottom: 300, left: 230, right: 0});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 }
 
