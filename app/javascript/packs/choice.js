@@ -37,7 +37,8 @@ function defineNewMarker(nb, map, marker) {
     flyToObject = [formatCoord(nb)[0] - 0.007, formatCoord(nb)[1]];
   }
   mapObject.flyTo({
-        center: flyToObject
+        center: flyToObject,
+        speed: 0.5
     });
 }
 
@@ -51,7 +52,7 @@ let compteurMonuments = gonItiMonuments.length;
 
 // By default the button is not available
 $(".green-choice-circle").css("background-color", "#BCC1C1");
-$(".green-choice-circle").css("pointer-events", "none");
+$("#green-choice").css("pointer-events", "none");
 
 
 if ($(window).width() < 992) {
@@ -119,14 +120,40 @@ $("#green-choice").click((event) => {
   }
 });
 
+// Button if not enough monuments
 let timer = setInterval(nbOfMonuments, 1000);
 function nbOfMonuments() {
   if (compteurMonuments >= 3) {
     stopTimer();
     $(".green-choice-circle").css("background-color", "#36E672");
-    $(".green-choice-circle").css("pointer-events", "auto");
+    $("#green-choice").css("pointer-events", "auto");
   }
 }
 function stopTimer() {
   clearInterval(timer);
 }
+
+// Plus d'infos listener
+gonMonuments.forEach((mon) => {
+  $(`#plus-info-${mon.id}`).click((event) => {
+    // Remove the card classic
+    $(`#monument-${mon.id}`).removeClass("transition visible animating in scale fly right left");
+    $(`#monument-${mon.id}`).addClass("transition visible animating out scale");
+
+    // Add the card info
+    $(`#monument-info-${mon.id}`).css("z-index", "900")
+    $(`#monument-info-${mon.id}`).removeClass("transition visible animating out scale");
+    $(`#monument-info-${mon.id}`).addClass("transition visible animating in scale");
+  });
+
+  $(`#delete-info-${mon.id}`).click((event) => {
+    // Remove the card info
+    $(`#monument-info-${mon.id}`).css("z-index", "0")
+    $(`#monument-info-${mon.id}`).removeClass("transition visible animating in scale");
+    $(`#monument-info-${mon.id}`).addClass("transition visible animating out scale");
+
+    // Add the card classic
+    $(`#monument-${mon.id}`).removeClass("transition visible animating out scale");
+    $(`#monument-${mon.id}`).addClass("transition visible animating in scale");
+  });
+});
