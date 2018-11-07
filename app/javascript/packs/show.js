@@ -1,36 +1,15 @@
-// function googleMap {
-
-//   if (UIApplication.shared.canOpenURL(URL(string:"comgooglemaps://")!)) {
-//     UIApplication.shared.openURL(URL(string:
-//       "comgooglemaps://?center=40.765819,-73.975866&zoom=14&views=traffic")!)
-//   } else {
-//     print("Can't use comgooglemaps://");
-//   }
-
-// }
-
-
-
-console.log('robinetterie')
-console.log(gon.coordonees)
-
 function googleMap() {
-    console.log('rouleau de sopalin')
-    const bouton = document.getElementById("green-choice")
-    bouton.addEventListener("click", (event) => {
-        console.log("spatule")
-        const coords = gon.coordonees
-        const origin = gon.coordonees.shift()
-        const fin = gon.coordonees.pop()
+  const bouton = document.getElementById("green-choice")
+  bouton.addEventListener("click", (event) => {
+    const names = gon.monumentsOrdonne
+    const nameorigin = gon.monumentsOrdonne[0][0].name
+    const origin = gon.monumentsOrdonne.shift()
+    const name = names.map(element => `${element[0].name}`);
+    const nameinform = name.join('%7C')
 
-        const originLatitude = gon.coordonees[0][1]
-        const originLongitude = gon.coordonees[0][0]
-        const test = coords.map(element => `${element[1]},${element[0]}`);
-        const test2 = test.join('|')
-        const url = `https://www.google.com/maps/dir/?api=1&origin=${originLatitude},${originLongitude}&destination=${originLatitude},${originLongitude}&waypoints=${test2}`
+    const url = `https://www.google.com/maps/dir/?api=1&origin=${nameorigin}&destination=${nameorigin}&waypoints=${nameinform}&travelmode=walking`
 
-
-        window.open(url)
+    window.open(url)
     })
 }
 
