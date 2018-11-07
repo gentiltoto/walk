@@ -13,7 +13,6 @@ function map(inp, offset0, offset1, padding) {
   var bounds = inp.reduce(function(bounds, coord) {
     return bounds.extend(coord);
   }, new mapboxgl.LngLatBounds(inp[0], inp[0]));
-  console.log(bounds);
   map.fitBounds(bounds, {
       padding: padding
   });
@@ -182,8 +181,4 @@ $("#green-choice").click((event) => {
     $(".green-choice-i").removeClass('fas fa-times').addClass('far fa-check-circle');
     clicks += 1;
   }
-});
-
-$(window).resize(function(event) {
-  console.log($(window).height());
 });
