@@ -28,23 +28,7 @@ export function getRoute(map, steps) {
         'line-width': 2
       }
     });
-    // Création des marker pour les étapes
-  steps.forEach((step, index) => {
-    map.addLayer({
-      id: `step ${index}`,
-      type: 'circle',
-      source: {
-        type: 'geojson',
-        data: {
-          type: 'Feature',
-          geometry: {
-            type: 'Point',
-            coordinates: steps[index]
-          }
-        }
-      }
-    });
-  })
+
   // récupération des data sur la route en question (distance en metre + temps en seconde) (5km/h pour la marche)
   var distance = Number(Math.round(data.routes[0].distance/1000 + 'e2') + 'e-2') + ' km    '.replace(".", ",");
   var duration = data.routes[0].duration
@@ -66,13 +50,8 @@ export function getRoute(map, steps) {
   </div>`
   document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsDistance);
   document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsTemps);
+  document.getElementById('metrics-distance').style.display = "initial"
   });
 }
 
 
-export function displayMarker(map) {
-  el.addEventListener("click", () => {
-  map = document.getElementById('map-final');
-  map.insertAdjacentHTML('afterend',miniFiche);
-})
-}

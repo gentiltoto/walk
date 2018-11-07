@@ -1,9 +1,10 @@
 import { getRoute } from "../lib/mapbox-direction"
 import { map, eventListener } from "../lib/mapbox"
+import { monumentsToCoords} from "../lib/coord"
 // Coordoonéees rentrée en durs
-
-
-const mape = map(gon.coordonees, gon.ids);
+console.log(monumentsToCoords(gon.monumentsOrdonne))
+console.log(gon.idsOrdonee)
+const mape = map(monumentsToCoords(gon.monumentsOrdonne), gon.idsOrdonee);
 
 mape.on('load', function() {
   getRoute(mape, gon.coordonees);
@@ -17,9 +18,4 @@ mape.on("drag", function (e) {
 });
 
 
-
-
-
-
-
-eventListener(gon.ids, mape);
+eventListener(gon.idsOrdonee, mape);
