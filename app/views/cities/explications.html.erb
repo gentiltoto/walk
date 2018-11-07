@@ -1,13 +1,5 @@
 <% content_for :title, "Seety - Explications" %>
 
-<div id="green-choice">
-  <div class="green-choice-circle">
-    <i class="far fa-check-circle green-choice-i"></i>
-  </div>
-  <div class="green-choice-container">
-    <%= link_to "J'ai compris !", post_city_path(@city), class: "choice-made", method: :post %>
-  </div>
-</div>
 
 <div class="page-explications">
 
@@ -15,6 +7,7 @@
   <div id="map-explics">
 
   </div>
+
 
   <div class="placement">
 
@@ -32,13 +25,13 @@
         <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
       </div>
       <div class="text-explics">
-        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert.</p>
+        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert. (min deux monuments)</p>
       </div>
     </div>
 
     <div class="encart">
       <div class="bouton-explics">
-
+        <%= image_tag("recap.png", alt: "imagre-recap", id: "image-validate-explics") %>
       </div>
       <div class="text-explics">
 
@@ -48,6 +41,7 @@
 
     <div class="encart">
       <div class="bouton-explics">
+        <%= image_tag("valideriti.png", alt: "bouton-ok", id: "bouton-validate") %>
       </div>
       <div class="text-explics">
 
@@ -55,6 +49,12 @@
       </div>
     </div>
 
+  </div>
+
+  <div class="choice">
+    <div class="choice-container">
+      <%= link_to "J'ai compris !", post_city_path(@city), method: :post %>
+    </div>
   </div>
 
 
