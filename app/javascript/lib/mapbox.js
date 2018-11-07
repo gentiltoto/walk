@@ -1,6 +1,6 @@
 //Fonction qui affiche la map dans la div "map".
 //Array d'array de coordonnée, pour centrer la carte comme il le faut.
-export function map(coord, ids) {
+export function map(coord, ids, padding) {
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A'
   var map = new mapboxgl.Map({
     container: 'map-final',
@@ -17,7 +17,7 @@ export function map(coord, ids) {
     }, new mapboxgl.LngLatBounds(coord[0], coord[0]));
 
   map.fitBounds(bounds, {
-      padding: 100 // Ce padding est utilisé dans la page itinéraire et recap ; il faudra peut etre différencier les deux
+      padding: padding
   });
 
 // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
@@ -50,12 +50,20 @@ export function eventListener(ids, map) {
     $(`#marker-id-${id}`).click((event) => {
       // Si mobile
       if ($(window).width() < 992) {
-        $(`#${id}`).css("visibility", "visible");
+        $(`.container-minirecap`).css("z-index", "1");
+        $(`#${id}`).css("z-index", "601");
+        $(`#${id}`).removeClass("transition visible animating out scale");
+        $(`#${id}`).addClass("transition visible animating in scale");
         $(`#open-id-${id}`).click((event) => {
+          $(`#${id}`).css("z-index", "1");
+          $(`#${id}`).removeClass("transition visible animating in scale");
+          $(`#${id}`).addClass("transition visible animating out scale");
+          $(`#monument-${id}`).css("z-index", "300");
           $(`#monument-${id}`).removeClass("transition visible animating out scale");
           $(`#monument-${id}`).addClass("transition visible animating in scale");
         });
       } else {
+        $(`#monument-${id}`).css("z-index", "300");
         $(`#monument-${id}`).removeClass("transition visible animating out scale");
         $(`#monument-${id}`).addClass("transition visible animating in scale");
       }
@@ -85,43 +93,25 @@ export function eventListener(ids, map) {
 
       // Nouvel event pour fermer la fiche
       $(`#close-info-${id}`).click((event) => {
+        $(`#monument-${id}`).css("z-index", "1");
         $(`#monument-${id}`).removeClass("transition visible animating in scale");
         $(`#monument-${id}`).addClass("transition visible animating out scale");
       });
+
+      let found = monuments.find((e) => { return e.id === id });
+      let flyToObject;
+      if ($(window).width() < 992) {
+        flyToObject = [formatCoord(found)[0], formatCoord(found)[1] - 0.002];
+      } else {
+        flyToObject = [formatCoord(found)[0] - 0.007, formatCoord(found)[1]];
+      }
+      map.flyTo({
+            center: flyToObject,
+            zoom: 13
+      });
+
+      $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
+      $(`#marker-id-${id}`).removeClass("marker").addClass("marker-focus");
     });
-  // //afficher le mini recap
-  //   document.getElementById(`marker-id-${id}`).addEventListener("click", () => {
-  //     document.querySelectorAll(".minirecap").forEach((miniRecap) => {
-  //       miniRecap.style.display = "none";
-  //     });
-  //     document.querySelectorAll(".card-recap-final").forEach((cardRecap) => {
-  //       cardRecap.style.display = "none";
-  //     });
-  //     document.getElementById(`minirecap-${id}`).style.display = "block"
-  //   });
-  //   //afficher le recap
-  //   document.getElementById(`open-id-${id}`).addEventListener("click", () => {
-  //     document.getElementById(`recap-final-${id}`).style.display = "block";
-  //       let found = monuments.find((e) => { return e.id === id });
-  //       let flyToObject;
-  //         if ($(window).width() < 992) {
-  //           flyToObject = [formatCoord(found)[0], formatCoord(found)[1]];
-  //         } else {
-  //           flyToObject = [formatCoord(found)[0], formatCoord(found)[1]];
-  //         }
-  //         map.flyTo({
-  //               center: flyToObject
-  //         });
-  //
-  //       $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
-  //       $(`#marker-${id}`).removeClass("marker").addClass("marker-focus");
-  //   });
-  //   // Faire rentrer recap + mini recap lorsqu'on clic sur le chevron down
-  //   document.querySelectorAll(".fa-chevron-circle-down").forEach((e) => {
-  //     e.addEventListener("click", () => {
-  //       document.getElementById(`minirecap-${id}`).style.display = "none";
-  //       document.getElementById(`recap-final-${id}`).style.display = "none";
-  //     });
-  //   });
   });
 };

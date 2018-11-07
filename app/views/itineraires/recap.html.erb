@@ -1,5 +1,9 @@
 <% content_for :title, "Seety - Validation d'itinéraire" %>
 
+<%= link_to url_for(:back) do %>
+  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
 <div id="green-choice">
   <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
@@ -52,3 +56,14 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'recap' %>
 <% end %>
+
+
+<style>
+  body, html {
+    overflow: hidden;
+  }
+
+  body {
+    position: relative;
+  }
+</style>

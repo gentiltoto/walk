@@ -1,5 +1,9 @@
 <% content_for :title, "Seety - Choix des monuments" %>
 
+<%= link_to url_for(:back) do %>
+  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
 <div id="green-choice">
   <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
@@ -15,7 +19,7 @@
 <div class="cards">
 
 <div id="metrics-distance">
-  
+
 </div>
 
 
@@ -85,3 +89,14 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'choice' %>
 <% end %>
+
+
+<style>
+  body, html {
+    overflow: hidden;
+  }
+
+  body {
+    position: relative;
+  }
+</style>
