@@ -1,30 +1,76 @@
 <% content_for :title, "Seety - Itinéraire Final" %>
 
 <div id='map-final'>
-  <div id="metrics-distance">
-  </div>
-
-  <% @monuments.each do |monument| %>
-
-  <div class="minirecap" id="minirecap-<%=monument.id%>"</div>
-    <div class="container-minirecap" id="<%=monument.id%>">
-      <h5><%=monument.name%></h5>
-      <i class="fas fa-chevron-circle-up" id="open-id-<%=monument.id%>"></i>
+  <div id="metrics-distance"></div>
+  <div class="container-minirecaps">
+    <% @monuments.each do |monument| %>
+    <div class="container-minirecap" id="<%= monument.id %>">
+      <h5><%= monument.name %></h5>
+      <i class="fas fa-chevron-circle-down" id="open-id-<%= monument.id %>"></i>
     </div>
+    <% end %>
   </div>
+</div>
 
-  <div class="card-recap-final" id="recap-final-<%=monument.id%>">
-    <div class="flex-card-recap-final">
+<div class="cards">
+  <% @monuments.each_with_index do |monument, index| %>
+    <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
       <div class="monument-image-div">
         <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
       </div>
-      <h2 class="monument-name"><%=monument.name %></h2>
-      <i class="fas fa-chevron-circle-down"></i>
+      <h2 class="monument-name"><%= monument.name %></h2>
+
+      <div class="card-stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+      </div>
+
+      <div class="card-infos" id="plus-info-<%= monument.id %>">
+        <i class="fas fa-info-circle"></i>
+      </div>
+
+      <div class="delete-card" id="close-info-<%= monument.id %>">
+        <i class="far fa-times-circle" style="color: #CBCBCB;"></i>
+      </div>
     </div>
-  </div>
-<%end%>
+  <% end %>
+
+  <% @monuments.each_with_index do |monument, index| %>
+    <div class="card-info" id="monument-info-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
+      <div class="monument-image-div-info">
+        <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+      </div>
+      <h2 class="monument-name-info"><%= monument.name %></h2>
+
+      <div class="card-stars-info">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+      </div>
+
+      <div class="info-supp">
+        <h3>Inscrit au patrimoine</h3>
+        <h4><%= monument.address %></h4>
+      </div>
+
+      <div class="description-info">
+        <h3>Description</h3>
+        <p><%= monument.description %></p>
+      </div>
+
+      <div class="delete-card-info" id="delete-info-<%= monument.id %>">
+        <i class="fas fa-undo-alt"></i>
+      </div>
+
+    </div>
+  <% end %>
 </div>
 
-  <% content_for(:js) do %>
-    <% javascript_pack_tag 'itinary-mapbox-direction' %>
-  <% end %>
+<% content_for(:js) do %>
+  <% javascript_pack_tag 'itinary-mapbox-direction' %>
+<% end %>

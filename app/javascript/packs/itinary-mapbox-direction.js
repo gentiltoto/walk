@@ -12,8 +12,11 @@ mape.on('load', function() {
 // argument = ID des monuments dans la data base.
 
 mape.on("drag", function (e) {
-  document.querySelectorAll(".minirecap").forEach(minirecap => {
-    minirecap.style.display = "none"
+  document.querySelectorAll(".container-minirecap").forEach(minirecap => {
+    minirecap.style.visibility = "hidden"
+  });
+  document.querySelectorAll(".card").forEach(card => {
+    card.style.visibility = "hidden"
   });
 });
 
