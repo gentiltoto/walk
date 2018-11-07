@@ -25,7 +25,9 @@ export function getRoute(map, steps) {
         }
       },
       paint: {
-        'line-width': 2
+        'line-width': 4,
+        'line-color': '#66FF66',
+        'line-blur': 2
       }
     });
 
@@ -53,5 +55,3 @@ export function getRoute(map, steps) {
   document.getElementById('metrics-distance').style.display = "initial"
   });
 }
-
-
