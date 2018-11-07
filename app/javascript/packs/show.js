@@ -1,5 +1,5 @@
 function googleMap() {
-  const bouton = document.getElementById("green-choice")
+  const bouton = document.getElementById("export")
   bouton.addEventListener("click", (event) => {
     const names = gon.monumentsOrdonne
     const nameorigin = gon.monumentsOrdonne[0][0].name
