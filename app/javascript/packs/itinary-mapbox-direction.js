@@ -22,10 +22,8 @@ mape.on("drag", function (e) {
   $(".container-minirecap").removeClass("transition visible animating in scale");
   $(".container-minirecap").removeClass("transition visible animating out scale");
   $(".container-minirecap").css("z-index", "1"),
-  document.querySelectorAll(".card").forEach(card => {
-    $(".card").removeClass("transition visible animating in scale");
-    $(".card").removeClass("transition visible animating out scale");
-  });
+  $(".card").removeClass("transition visible animating in scale");
+  $(".card").removeClass("transition visible animating out scale");
 });
 
 

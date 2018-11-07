@@ -28,7 +28,7 @@
       </div>
       <h2 class="monument-name"><%= monument.name %></h2>
 
-      <div class="card-stars-info">
+      <div class="card-stars">
       <% compteur_empty_stars = 5 %>
       <% score_to_stars(monument.score).to_i.times do %>
         <i class="fas fa-star"></i>
@@ -48,7 +48,7 @@
       </div>
 
       <div class="delete-card" id="close-info-<%= monument.id %>">
-        <i class="far fa-times-circle" style="color: #CBCBCB;"></i>
+        <%= image_tag "return.svg", style: "color: #CBCBCB; width: 32px; height: 32px;" %>
       </div>
     </div>
   <% end %>
@@ -60,7 +60,7 @@
       </div>
       <h2 class="monument-name-info"><%= monument.name %></h2>
 
-      <div class="card-stars">
+      <div class="card-stars-infos">
       <% compteur_empty_stars = 5 %>
       <% score_to_stars(monument.score).to_i.times do %>
         <i class="fas fa-star"></i>
