@@ -1,5 +1,9 @@
 <% content_for :title, "Seety - Validation d'itinéraire" %>
 
+<%= link_to url_for(:back) do %>
+  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
 <div id="green-choice">
   <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
@@ -29,11 +33,17 @@
     <h2 class="monument-name"><%= monument.name %></h2>
 
     <div class="card-stars">
+      <% compteur_empty_stars = 5 %>
+      <% score_to_stars(monument.score).to_i.times do %>
       <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
+      <% compteur_empty_stars -= 1 %>
+      <% end %>
+      <% if score_to_stars(monument.score) - score_to_stars(monument.score).to_i == 0.5 %>
+      <i class="fas fa-star-half-alt"></i>
+      <% compteur_empty_stars -= 1 %>
+      <% compteur_empty_stars.times %>
+      <i class="far fa-star"></i>
+      <% end %>
     </div>
 
     <div class="arrow-container">
@@ -52,3 +62,14 @@
 <% content_for(:js) do %>
   <%= javascript_pack_tag 'recap' %>
 <% end %>
+
+
+<style>
+  body, html {
+    overflow: hidden;
+  }
+
+  body {
+    position: relative;
+  }
+</style>

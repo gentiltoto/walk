@@ -15,3 +15,12 @@
 @import "pages/index";
 
 @import "semantic-ui";
+
+.return {
+  position: absolute;
+  z-index: 1100;
+  top: 10px;
+  left: 10px;
+  font-size: 35px;
+  color: white;
+}

@@ -12,29 +12,93 @@
 <div id='map-final'>
   <div id="metrics-distance">
   </div>
-  <%=  %>
-  <% @monuments.each do |monument| %>
 
-  <div class="minirecap" id="minirecap-<%=monument.id%>"</div>
-    <div class="container-minirecap" id="<%=monument.id%>">
-      <h5><%=monument.name%></h5>
-      <i class="fas fa-chevron-circle-up" id="open-id-<%=monument.id%>"></i>
-    </div>
-  </div>
 
-  <div class="card-recap-final" id="recap-final-<%=monument.id%>">
-    <div class="flex-card-recap-final">
-      <div classe="monument-image-div">
-        <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
-      </div>
-      <h2 class="monument-name"><%=monument.name %></h2>
-      <i class="fas fa-chevron-circle-down"></i>
-    </div>
-  </div>
-<%end%>
+<%= link_to url_for(:back) do %>
+  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
+<div id='map-final'>
+  <div id="metrics-distance"></div>
 </div>
 
+<div class="cards">
 
+
+  <div class="container-minirecaps">
+    <% @monuments.each do |monument| %>
+    <div class="container-minirecap" id="<%= monument.id %>">
+      <h5><%= monument.name %></h5>
+      <i class="fas fa-chevron-circle-up" id="open-id-<%= monument.id %>"></i>
+    </div>
+    <% end %>
+  </div>
+
+
+  <% @monuments.each_with_index do |monument, index| %>
+    <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
+      <div class="monument-image-div">
+
+        <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+      </div>
+      <h2 class="monument-name"><%= monument.name %></h2>
+
+      <div class="card-stars">
+      <% compteur_empty_stars = 5 %>
+      <% score_to_stars(monument.score).to_i.times do %>
+      <i class="fas fa-star"></i>
+      <% compteur_empty_stars -= 1 %>
+      <% end %>
+      <% if score_to_stars(monument.score) - score_to_stars(monument.score).to_i == 0.5 %>
+      <i class="fas fa-star-half-alt"></i>
+      <% compteur_empty_stars -= 1 %>
+      <% compteur_empty_stars.times %>
+      <i class="far fa-star"></i>
+      <% end %>
+      </div>
+
+      <div class="card-infos" id="plus-info-<%= monument.id %>">
+        <i class="fas fa-info-circle"></i>
+      </div>
+
+      <div class="delete-card" id="close-info-<%= monument.id %>">
+        <i class="far fa-times-circle" style="color: #CBCBCB;"></i>
+      </div>
+    </div>
+  <% end %>
+
+  <% @monuments.each_with_index do |monument, index| %>
+    <div class="card-info" id="monument-info-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
+      <div class="monument-image-div-info">
+        <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+      </div>
+      <h2 class="monument-name-info"><%= monument.name %></h2>
+
+      <div class="card-stars-info">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+      </div>
+
+      <div class="info-supp">
+        <h3>Inscrit au patrimoine</h3>
+        <h4><%= monument.address %></h4>
+      </div>
+
+      <div class="description-info">
+        <h3>Description</h3>
+        <p><%= monument.description %></p>
+      </div>
+
+      <div class="delete-card-info" id="delete-info-<%= monument.id %>">
+        <i class="fas fa-undo-alt"></i>
+      </div>
+
+    </div>
+  <% end %>
+</div>
 
   <% content_for(:js) do %>
     <% capture do %>
@@ -42,4 +106,16 @@
       <% concat(javascript_pack_tag 'show') %>
     <% end %>
   <% end %>
+
+
+
+<style>
+  body, html {
+    overflow: hidden;
+  }
+
+  body {
+    position: relative;
+  }
+</style>
 

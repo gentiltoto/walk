@@ -6,6 +6,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  top: 0;
 }
 
 // For mobile
@@ -106,11 +107,11 @@
 .card-infos {
   position: absolute;
   bottom: 15%;
-  left: 75%;
-  border-bottom: 2px solid #7F59EE;
+  left: 85%;
+  cursor: pointer;
 
-  p {
-    color: #7F59EE;
+  i {
+    font-size: 25px;
     margin: 0;
   }
 }
@@ -145,7 +146,7 @@
   }
 
   .description-info {
-    top: 95%;
+    top: 100%;
   }
 
   .card-stars-info {
@@ -154,7 +155,7 @@
   }
 
   .info-supp {
-    top: 85%;
+    top: 90%;
     left: 10px;
   }
 
@@ -194,11 +195,11 @@
   }
 
   .info-supp {
-    top: 100%;
+    top: 105%;
   }
 
   .description-info {
-    top: 115%;
+    top: 120%;
   }
 
   .delete-card-info {
@@ -238,19 +239,6 @@
   position: absolute;
 }
 
-.card-infos {
-  position: absolute;
-  bottom: 15%;
-  left: 75%;
-  border-bottom: 2px solid rgba(66, 66, 114, 1);
-  cursor: pointer;
-
-  p {
-    color: rgba(66, 66, 114, 1);
-    margin: 0;
-  }
-}
-
 .description-info {
   position: absolute;
   margin-bottom: 30px;
@@ -285,12 +273,10 @@
 .delete-card-info {
   position: absolute;
   right: 5%;
-  border-bottom: 2px solid rgba(66, 66, 114, 1);
   cursor: pointer;
 
-  p {
-    font-size: 16px;
-    color: rgba(66, 66, 114, 1);
+  i {
+    font-size: 25px;
     margin: 0;
   }
 }
