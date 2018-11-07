@@ -40,7 +40,7 @@ end
 
 cities.each do |city|
   # Create the city
-  ville = City.new(name: city['name'])
+  ville = City.new(name: city['name'], latitude: city['latitude'], longitude: city['longitude'])
   ville.remote_photo_url = city['photo']
   ville.save
   puts "#{ville.name} created"
