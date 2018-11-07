@@ -8,7 +8,8 @@ export function map(coord, ids, padding) {
   // center au milieu de la france, pour un petit effet par la suite
     center: [2.918381, 47.026351],
     style: 'mapbox://styles/mapbox/light-v9',
-    zoom: 12
+    zoom: 12,
+    pitch: 40
   });
 
   // Réduit inp en une seule géoloc puis centre la carte sur cette localisation
