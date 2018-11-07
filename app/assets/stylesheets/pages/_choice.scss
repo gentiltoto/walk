@@ -34,3 +34,22 @@
 .choice-no {
   border-right: 0.5px dashed white;
 }
+
+.compteur-choice {
+  position: absolute;
+  z-index: 500;
+  top: 10%;
+  left: 10%;
+
+  p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+  }
+}
+
+#metrics-distance {
+  p span {
+    font-weight: 700;
+  }
+}
