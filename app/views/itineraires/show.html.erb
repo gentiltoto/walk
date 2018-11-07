@@ -1,15 +1,21 @@
 <% content_for :title, "Seety - Itinéraire Final" %>
 
+<div id="export">
+  <i class="fab fa-google-plus-square"></i>
+</div>
+
+
+<div id='map-final'>
+  <div id="metrics-distance">
+  </div>
+
 
 <%= link_to url_for(:back) do %>
   <div class="return"><i class="fas fa-arrow-left"></i></div>
 <% end %>
 
-<div id='map-final'>
-  <div id="metrics-distance"></div>
-</div>
-
 <div class="cards">
+
 
   <div class="container-minirecaps">
     <% @monuments.each do |monument| %>
@@ -24,6 +30,7 @@
   <% @monuments.each_with_index do |monument, index| %>
     <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden;" %>">
       <div class="monument-image-div">
+
         <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
       </div>
       <h2 class="monument-name"><%= monument.name %></h2>
@@ -93,9 +100,13 @@
   <% end %>
 </div>
 
-<% content_for(:js) do %>
-  <% javascript_pack_tag 'itinary-mapbox-direction' %>
-<% end %>
+  <% content_for(:js) do %>
+    <% capture do %>
+      <% concat(javascript_pack_tag 'itinary-mapbox-direction') %>
+      <% concat(javascript_pack_tag 'show') %>
+    <% end %>
+  <% end %>
+
 
 
 <style>
@@ -107,3 +118,4 @@
     position: relative;
   }
 </style>
+
