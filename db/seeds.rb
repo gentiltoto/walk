@@ -54,9 +54,9 @@ cities.each do |city|
       latitude: monument['coordinates']['latitude'],
       longitude: monument['coordinates']['longitude'],
       description: monument['description'],
-      score: scoring(monument, city['json']).to_i
-      # Ajouter horaires quand présent
-      # Ajouter protection
+      score: scoring(monument, city['json']).to_s,
+      protection: monument['protection'] ? monument['protection'] : "Non inscrit"
+      # Ajouter horaires quand présent ?
     )
     mon.city = ville
     mon.remote_photo_url = monument['photo']
