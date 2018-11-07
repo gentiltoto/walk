@@ -26,6 +26,7 @@
   .monument-name {
     font-size: 16px;
     left: 150px;
+    width: 130px;
   }
 
   .card-infos {
@@ -56,6 +57,7 @@
   .monument-name {
     font-size: 25px;
     left: 53%;
+    width: 180px;
   }
 
   .card-infos {
@@ -97,6 +99,7 @@
   color: rgba(66, 66, 114, 1);
   position: absolute;
   top: 30px;
+  overflow-wrap: break-word
 }
 
 .card-stars {

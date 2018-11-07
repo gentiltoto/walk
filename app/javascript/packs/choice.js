@@ -39,6 +39,7 @@ function defineNewMarker(nb, map, marker) {
   }
   mapObject.flyTo({
         center: flyToObject,
+        zoom: 15,
         speed: 0.5
     });
 }

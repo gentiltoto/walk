@@ -66,7 +66,8 @@ function flyToMarker(id, map) {
   }
   map.flyTo({
         center: flyToObject,
-        zoom: 15
+        zoom: 15,
+        speed: 0.5
     });
 
   $("[id*='marker-']").removeClass("marker-focus").addClass("marker");
@@ -84,7 +85,7 @@ if ($(window).width() < 992) {
   mapObject = map(formatCoordAll(gonMonuments), 0, 0.002, {top: 100, bottom: 300, left: 40, right: 40});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 } else {
-  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0.002, {top: 150, bottom: 300, left: 230, right: 0});
+  mapObject = map(formatCoordAll(gonMonuments), 0.007, 0.002, {top: 150, bottom: 300, left: 600, right: 50});
   markersObject = addMarkers(formatCoordAll(gonMonuments), formatIdAll(gonMonuments), mapObject);
 }
 
