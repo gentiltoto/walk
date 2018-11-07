@@ -25,9 +25,9 @@ export function getRoute(map, steps) {
         }
       },
       paint: {
-        'line-width': 4,
+        'line-width': 6,
         'line-color': '#66FF66',
-        'line-blur': 2
+        'line-blur': 4
       }
     });
 

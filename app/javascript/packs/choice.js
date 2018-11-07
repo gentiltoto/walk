@@ -5,7 +5,8 @@ function map(inp, offset0, offset1) {
 
     center: [inp[0] - offset0, inp[1] - offset1],
     style: 'mapbox://styles/mapbox/light-v9',
-    zoom: 15
+    zoom: 15,
+    pitch: 40
   });
 
 // // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
@@ -54,7 +55,7 @@ let compteurMonuments = gonItiMonuments.length;
 $(".green-choice-circle").css("background-color", "#BCC1C1");
 $("#green-choice").css("pointer-events", "none");
 
-$("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0) ? "s" : "" }</p>`).show();
+$("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0 && compteurMonuments != 1) ? "s" : "" }</p>`).show();
 
 if ($(window).width() < 992) {
   $("#marker-0").remove();

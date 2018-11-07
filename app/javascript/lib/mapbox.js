@@ -108,7 +108,7 @@ export function eventListener(ids, map) {
       }
       map.flyTo({
             center: flyToObject,
-            zoom: 13
+            zoom: 15
       });
 
       $("[id*='marker-']").removeClass("marker-focus").addClass("marker");

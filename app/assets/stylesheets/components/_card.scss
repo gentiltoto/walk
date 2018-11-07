@@ -146,7 +146,7 @@
   }
 
   .description-info {
-    top: 100%;
+    top: 105%;
   }
 
   .card-stars-info {
@@ -160,7 +160,7 @@
   }
 
   .delete-card-info {
-    top: 73%;
+    top: 72%;
   }
 }
 
@@ -199,11 +199,11 @@
   }
 
   .description-info {
-    top: 120%;
+    top: 125%;
   }
 
   .delete-card-info {
-    top: 80%;
+    top: 76%;
   }
 }
 
@@ -215,7 +215,7 @@
   position: absolute;
   padding: 12px;
   max-width: 90vw;
-  overflow-x: scroll;
+  overflow-y: scroll;
 }
 
 .monument-image-div-info {
@@ -275,7 +275,7 @@
   right: 5%;
   cursor: pointer;
 
-  i {
+  img {
     font-size: 25px;
     margin: 0;
   }

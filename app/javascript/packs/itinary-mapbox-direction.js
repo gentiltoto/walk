@@ -9,7 +9,7 @@ let mape;
 if ($(window).width() < 992) {
   mape = map(monumentsToCoords(gon.monumentsOrdonne), gon.idsOrdonee, {top: 100, bottom: 200, left: 25, right: 25});
 } else {
-  mape = map(monumentsToCoords(gon.monumentsOrdonne), gon.idsOrdonee, {top: 150, bottom: 300, left: 230, right: 0});
+  mape = map(monumentsToCoords(gon.monumentsOrdonne), gon.idsOrdonee, {top: 0, bottom: 100, left: 150, right: 0});
 }
 
 mape.on('load', function() {
