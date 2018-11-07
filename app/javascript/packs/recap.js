@@ -200,14 +200,15 @@ gonMonuments.forEach((mon) => {
     $(`#ball-${mon.id}`).remove();
     $(`#monument-${mon.id}`).remove();
     $(`#marker-${mon.id}`).remove();
-    index = gonMonuments.findIndex(function(e) { return e.id === mon.id});
+    let indexTmp = gonMonuments.findIndex(function(e) { return e.id === mon.id});
+    compteur = 0
     gonMonuments = gonMonuments.filter(function(value, index, arr) {
       return value.id != mon.id
     });
 
-    const idNext = gonMonuments[index].id;
+    const idNext = gonMonuments[compteur].id;
     // Display all - monument, ball, marker
-    $(`#monument-${idNext}`).removeClass("animating transition out fly left");
+    $(`#monument-${idNext}`).removeClass("animating transition out fly left right");
     $(`#monument-${idNext}`).addClass("animating transition in fly right");
 
     $("[id*='ball-']").removeClass("ball-monument-focus");
