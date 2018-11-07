@@ -1,13 +1,13 @@
 <% content_for :title, "Seety - Choix des monuments" %>
 
-<div id="green-choice">
+<button id="green-choice">
   <div class="green-choice-circle">
     <i class="far fa-check-circle green-choice-i"></i>
   </div>
   <div class="green-choice-container">
     <%= link_to "J'ai choisi mes monuments", recap_path(@itineraire), class: "choice-made" %>
   </div>
-</div>
+</button>
 
 
 <div id="map"></div>

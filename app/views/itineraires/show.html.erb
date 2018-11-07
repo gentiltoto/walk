@@ -1,9 +1,18 @@
 <% content_for :title, "Seety - Itinéraire Final" %>
 
+<div id="green-choice">
+  <div class="green-choice-circle">
+    <i class="far fa-check-circle green-choice-i"></i>
+  </div>
+  <div class="green-choice-container">
+    export to maps
+  </div>
+</div>
+
 <div id='map-final'>
   <div id="metrics-distance">
   </div>
-
+  <%=  %>
   <% @monuments.each do |monument| %>
 
   <div class="minirecap" id="minirecap-<%=monument.id%>"</div>
@@ -15,7 +24,7 @@
 
   <div class="card-recap-final" id="recap-final-<%=monument.id%>">
     <div class="flex-card-recap-final">
-      <div class="monument-image-div">
+      <div classe="monument-image-div">
         <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
       </div>
       <h2 class="monument-name"><%=monument.name %></h2>
@@ -25,6 +34,12 @@
 <%end%>
 </div>
 
+
+
   <% content_for(:js) do %>
-    <% javascript_pack_tag 'itinary-mapbox-direction' %>
+    <% capture do %>
+      <% concat(javascript_pack_tag 'itinary-mapbox-direction') %>
+      <% concat(javascript_pack_tag 'show') %>
+    <% end %>
   <% end %>
+
