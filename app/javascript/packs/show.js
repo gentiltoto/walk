@@ -13,4 +13,4 @@ function googleMap() {
     })
 }
 
-googleMap()
+googleMap();

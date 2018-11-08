@@ -86,6 +86,16 @@ class ItinerairesController < ApplicationController
     gon.monumentsOrdonne = refind(@coord, @monuments) #Array des monuments ordonnées par le service objet.
   end
 
+  def display #affiche l'itinéraire final d'un ancien trajet
+    @itineraires_perso = Itineraire.where(user_id: current_user.id).select { |itineraire| itineraire.monuments.size != 0 }
+  end
+
+  def metrics
+    @itineraire = Itineraire.find(params[:id])
+    @itineraire.update(duration: params(["duration"]))
+    @itineraire.update(distance: params(["distance"]))
+  end
+
   private
 
   def compute_array(monuments)

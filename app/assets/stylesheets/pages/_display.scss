@@ -1,0 +1,54 @@
+.fiche-city-wrapper {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
+  z-index: 300;
+  padding: 12px;
+  max-width: 90vw;
+}
+
+
+
+
+.display-container {
+  background-image: linear-gradient(rgba(200,200,200,0.3), rgba(200,200,200,0.3)), asset-url("carte.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+}
+
+.fiche-city-display {
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  transition: all 0.5s ease;
+  position: relative;
+
+  img {
+    width: 45vw;
+
+    border-radius: 10px;
+    object-fit: cover;
+  }
+
+  .city-description {
+    transition: all 0.2s ease;
+    padding: 10px 8px;
+    height: 50px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+  }
+
+  h3 {
+    color: white;
+    font-weight: 700;
+    margin: 0;
+
+  }
+}

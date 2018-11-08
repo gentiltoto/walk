@@ -46,7 +46,7 @@ function addMarkers(inp, ids, map) {
   inp.forEach((coord, index) => {
     let el = document.createElement('div');
     el.id = `marker-${ids[index]}`;
-    el.classList.add("marker");
+    el.classList.add("marker-app");
     let marker = new mapboxgl.Marker(el)
       .setLngLat(coord)
       .addTo(map);

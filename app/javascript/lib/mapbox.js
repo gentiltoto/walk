@@ -26,7 +26,7 @@ export function map(coord, ids, padding) {
   ids.forEach((id, index) => {
     let el = document.createElement('div');
     el.id = `marker-id-${id}`; // L'ID du marker devra être celui du monument dans la DATABASE
-    el.classList.add("marker");
+    el.classList.add("marker-app");
     new mapboxgl.Marker(el)
       .setLngLat(coord[index])
       .addTo(map)
