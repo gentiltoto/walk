@@ -14,7 +14,7 @@
 
           <div class="fiche-city-display">
             <%= cl_image_tag(itineraire.city.photo) %>
-            <h4 id="created">Crée le :<%= itineraire.created_at %></h4>
+            <h4 id="created">Crée le : <%= itineraire.created_at.strftime('%d-%m-%y') %></h4>
 
             <div class="infos-iti">
               <p id="nb-monuments">
