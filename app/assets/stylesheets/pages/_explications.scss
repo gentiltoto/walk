@@ -35,13 +35,9 @@
   }
 }
 
-.choice {
-  position: absolute;
-  bottom: 20px
-}
 
 .placement {
-  overflow-x: scroll;
+  overflow-y: scroll;
   position: absolute;
   top: 120px;
   height: 65vh;
@@ -51,6 +47,7 @@
   background-color: white;
   z-index: 550;
   height: 20vh;
+  width: 95%;
   border-radius: 10px;
   // border: 1px solid rgba(#6F70EE, 0.21);
   box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.25);
@@ -117,6 +114,12 @@
     flex: 1 0 auto;
     margin-left: 16px;
   }
+
+  .choice {
+    position: absolute;
+    bottom: 38px
+  }
+
 }
 
  // For Desktop
@@ -151,6 +154,10 @@
     flex: 0 0 35%;
     display: flex;
     align-items: center;
+  }
+  .choice {
+  position: absolute;
+  bottom: 20px
   }
 }
 

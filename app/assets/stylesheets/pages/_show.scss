@@ -1,3 +1,14 @@
+
+
+#export i {
+  font-size: 24vh;
+  color: rgb(54, 230, 114);
+  z-index: 10000;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
 #map-final {
   position: absolute;
   z-index: 10;
@@ -84,6 +95,15 @@
     max-width: 90vw;
     top: 75%;
   }
+
+  #export i {
+    font-size: 9vh;
+    color: #36e672;
+    z-index: 10000;
+    position: absolute;
+    right: 2vh;
+    top: 10vh;
+  }
 }
 
 // For Desktop
@@ -112,6 +132,15 @@
     width: 400px;
     left: 5%;
     top: 30%;
+  }
+
+  #export i {
+    font-size: 13vh;
+    color: #36e672;
+    z-index: 10000;
+    position: absolute;
+    right: 5vh;
+    top: 10vh;
   }
 }
 

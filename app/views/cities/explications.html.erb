@@ -25,7 +25,7 @@
         <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
       </div>
       <div class="text-explics">
-        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert. (min trois monuments)</p>
+        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert. Attention il me faut trois monuments pour valider !</p>
       </div>
     </div>
 
@@ -35,7 +35,7 @@
       </div>
       <div class="text-explics">
 
-        <p>Je me suis trompé(e)? Aucuns problèmes, je peux réajuster mon choix!</p>
+        <p>Je me suis trompé(e)? Aucun problème, je peux réajuster mon choix !</p>
       </div>
     </div>
 
@@ -46,6 +46,16 @@
       <div class="text-explics">
 
         <p>Je peux maintenant valider mon itinéraire et partir à la découverte de <%= @city.name %>! </p>
+      </div>
+    </div>
+
+    <div class="encart">
+      <div class="bouton-explics">
+        <%= image_tag("google.png", alt: "bouton-ok", id: "bouton-validate") %>
+      </div>
+      <div class="text-explics">
+
+        <p> Tu as besoin de ton itinéraire sur GoogleMaps ? Aucun problème, tu peux exporter ton itinéraire grâce à ce bouton. </p>
       </div>
     </div>
 
