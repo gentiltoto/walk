@@ -16,7 +16,7 @@ function map(inp, offset0, offset1) {
 function addMarker(inp, map) {
   let el = document.createElement('div');
   el.id = `marker-0`;
-  el.classList.add("marker");
+  el.classList.add("marker-app");
   let marker = new mapboxgl.Marker(el)
     .setLngLat(inp)
     .addTo(map)
