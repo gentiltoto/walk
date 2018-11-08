@@ -82,16 +82,19 @@
      <% end %>
    </div>
 
-    <h2 class="monument-name-info"><%= monument.name %></h2>
+    <div class="text-card-info">
+      <h2 class="monument-name-info"><%= monument.name %></h2>
 
-    <div class="info-supp">
-      <h3><%= monument.protection %></h3>
-      <h4><%= monument.address %></h4>
-    </div>
+        <div class="info-supp">
+          <h3><%= monument.protection %></h3>
+          <h4><%= monument.address %></h4>
+        </div>
 
-    <div class="description-info">
-      <h3>Description</h3>
-      <p><%= monument.description %></p>
+      <div class="description-info">
+        <h3>Description</h3>
+        <p><%= monument.description %></p>
+      </div>
+
     </div>
 
     <div class="delete-card-info" id="delete-info-<%= monument.id %>">

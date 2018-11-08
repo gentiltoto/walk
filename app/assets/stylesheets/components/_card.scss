@@ -1,3 +1,11 @@
+.text-card-info {
+  padding-top: 70px;
+}
+
+.info-supp {
+  padding-top: 75px;
+}
+
 .cards {
   position: absolute;
   width: 100vw;
@@ -175,10 +183,12 @@
   //   top: 105%;
   // }
 
-  // .card-stars-info {
-  //   top: 75%;
-  //   left: 10px;
-  // }
+
+
+  #putain-de-stars {
+    top: 75%;
+    position: absolute;
+  }
 
   // .info-supp {
   //   top: 90%;
@@ -216,20 +226,24 @@
     }
   }
 
-  // .card-stars-info {
-  //   top: 80%;
-  //   left: 3%;
-  // }
 
-  // .info-supp {
-  //   top: 105%;
-  // }
+
+  #putain-de-stars {
+    position: absolute;
+    top: 80%;
+
+  }
+
+  .info-supp {
+    top: 105%;
+  }
 
   // .description-info {
   //   top: 125%;
   // }
 
   .delete-card-info {
+    position: absolute;
     top: 76%;
   }
 }
@@ -260,12 +274,10 @@
 .monument-name-info {
   margin: 0;
   color: rgba(66, 66, 114, 1);
-<<<<<<< HEAD
   position: absolute;
   padding-top: 7px
-=======
   // position: absolute;
->>>>>>> master
+
 }
 
 .card-stars-info {
@@ -273,15 +285,14 @@
 }
 
 .description-info {
-<<<<<<< HEAD
+
   position: absolute;
   margin-bottom: 30px;
   padding-right: 17px;
 
-=======
   // position: absolute;
   margin-bottom: 60px;
->>>>>>> master
+
 
   h3 {
     margin: 20px 0 !important; // To override semantic ui
