@@ -38,3 +38,5 @@ gem 'gon'
 gem 'carrierwave'
 
 gem 'semantic-ui-sass'
+
+gem 'geocoder'

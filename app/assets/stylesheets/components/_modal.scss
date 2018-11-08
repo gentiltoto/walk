@@ -1,0 +1,89 @@
+#close-modal {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.modal-pt-depart {
+  border-radius: 10px;
+}
+
+.modal-pt-header {
+  padding: 15px 20px;
+}
+
+.modal-title {
+  font-size: 20px;
+}
+
+.modal-pt-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-pt-body {
+  padding: 0;
+  transition: all 1s ease;
+  height: 0;
+  overflow: hidden;
+}
+
+#noPointDepart {
+  color: #7c5df1;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+}
+
+#addPointDepart {
+  display: none;
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#displayGeocoder {
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#container-geocode {
+  border-radius: 5px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  width: 50vw;
+  margin-top: 15px;
+
+  p {
+    padding: 8px 12px;
+    margin: 0;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $light-gray;
+    }
+  }
+}
+
+.focus-modal-body {
+  background-color: $light-gray;
+  font-weight: 700;
+}

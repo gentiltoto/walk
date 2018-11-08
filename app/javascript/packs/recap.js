@@ -217,3 +217,77 @@ gonMonuments.forEach((mon) => {
     flyToMarker(idNext, mapObject);
   });
 });
+
+// Event Modal
+$("#displayGeocoder").click((event) => {
+  // Affiche le geocoder
+  $(".modal-body").removeClass("modal-pt-body");
+
+  // Changer le boutton pour un ajout
+  $('#displayGeocoder').remove();
+
+  $('#addPointDepart').show();
+});
+
+// Event on form
+$('.form-container').submit((event) => {
+  event.preventDefault();
+  $('#container-geocode p ').remove();
+  console.log(event.currentTarget);
+  let query = document.getElementById("myInput").value;
+  console.log(query);
+  let response;
+  Rails.ajax({
+    type: 'GET',
+    url: '/geocoder',
+    data: `query=${query}`,
+    success: function(data) {
+      console.log(data);
+      let inject = "";
+      data['results'].forEach((e) => {
+        inject += `<p data-lat="${e['data']['geometry']['lat']}" data-lng="${e['data']['geometry']['lng']}">${e['data']['formatted']}</p>`
+      });
+      $('#container-geocode').append(inject);
+
+      // Event on list
+      $('#container-geocode p').click((event) => {
+        $('#container-geocode p').removeClass('focus-modal-body');
+        event.currentTarget.classList.add('focus-modal-body');
+      });
+
+    },
+    error: function() { console.log("Shit!"); }
+  });
+});
+
+// Clear the point of departure
+$('#noPointDepart').click((event) => {
+  Rails.ajax({
+    type: 'POST',
+    url: `/itineraire/point-depart/${itineraire.id}`,
+    data: `query=`,
+    success: function() { console.log("Réussi boy!"); },
+    error: function() { console.log("Shit!"); }
+  });
+});
+
+// Listen to a focus to submit
+$('#addPointDepart').click((event) => {
+  if ($('.focus-modal-body').length) {
+    let lat = $(".focus-modal-body").attr('data-lng');
+    let lng = $(".focus-modal-body").attr('data-lat');
+    let address = $(".focus-modal-body").text();
+    Rails.ajax({
+      type: 'POST',
+      url: `/itineraire/point-depart/${itineraire.id}`,
+      data: `query=lng${lng},lat${lat},address${address}`,
+      success: function() { console.log("Réussi boy!"); },
+      error: function() { console.log("Shit!"); }
+    });
+    // Continue to itineraire_path
+  } else {
+    event.preventDefault();
+    $('.form-container').addClass('animating transition shake');
+    setTimeout(function(){ $('.form-container').removeClass('animating transition shake'); }, 1000);
+  }
+});

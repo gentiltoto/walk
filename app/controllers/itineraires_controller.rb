@@ -41,7 +41,6 @@ class ItinerairesController < ApplicationController
     @monument = Monument.find(params[:monument_id])
 
     @itineraire.monuments.delete(@monument)
-    redirect_to recap_path(@itineraire)
   end
 
   def recap
@@ -80,7 +79,25 @@ class ItinerairesController < ApplicationController
     coord_initial.each { |e| y.push(e[1].to_f) }
     @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
-    gon.coordonees = @coord #coord ordonnée par le service objet
+
+    # Logique Point de Départ
+
+    # Si il n'y en a pas cela ne change rien
+    if @itineraire.point_depart == ""
+      #coord ordonnée par le service objet
+      gon.coordonees = @coord
+
+    # Sinon ajoute pour la route seulement les coordonées
+    else
+      pt_depart = to_hash_point_depart(@itineraire.point_depart)
+      tmp = @coord.clone
+      tmp.pop
+      tmp.unshift([pt_depart[:lat], pt_depart[:lng]])
+      tmp.push([pt_depart[:lat], pt_depart[:lng]])
+      gon.coordonees = tmp
+    end
+
+    gon.itineraire = @itineraire
     gon.monuments = @monuments #monuments NON ordonnées
     gon.idsOrdonee = refind(@coord, @monuments).map {|monument| monument[0][:id]} #Array des ID des monuments ordonénes par le service object
     gon.monumentsOrdonne = refind(@coord, @monuments)
@@ -95,6 +112,17 @@ class ItinerairesController < ApplicationController
     @itineraire = Itineraire.find(params[:id])
     @itineraire.update(duration: params["duration"])
     @itineraire.update(distance: params["distance"])
+  end
+
+  def geocoder
+    Geocoder.configure(lookup: :opencagedata, api_key: ENV["OPEN_CAGE"])
+    results = Geocoder.search(params[:query])
+    render json: { results: results }
+  end
+
+  def point_de_depart
+    @itineraire = Itineraire.find(params[:id])
+    @itineraire.update(point_depart: params[:query])
   end
 
   private
@@ -120,5 +148,13 @@ class ItinerairesController < ApplicationController
       end
     end
     return arr
+  end
+
+  def to_hash_point_depart(string)
+    return {
+      lng: string.match(/lng(\d+\.\d+)/)[1].to_f,
+      lat: string.match(/lat(\d+\.\d+)/)[1].to_f,
+      address: string.match(/address(.+)/)[1]
+    }
   end
 end

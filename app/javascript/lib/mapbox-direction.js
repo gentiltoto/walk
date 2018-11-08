@@ -31,35 +31,34 @@ export function getRoute(map, steps) {
       }
     });
 
-  // récupération des data sur la route en question (distance en metre + temps en seconde) (5km/h pour la marche)
-  var d = Number(Math.round(data.routes[0].distance/1000 + 'e1') + 'e-1') + ' km'
-  var distance = d.replace(".",",")
-  var duration = data.routes[0].duration
-  if (duration > 3600) {
-    duration = Math.trunc(duration/3600) + 'h ' + Math.round((duration%3600)/60) + 'min'
-  } else {
-    duration = Math.round(duration/60) + ' min'
-  };
-  var metricsDistance =
-  `<div class="distance-wraper">
-  <i class="fas fa-walking"></i>
-  <p>${distance}</p>
-  </div>`;
+    // récupération des data sur la route en question (distance en metre + temps en seconde) (5km/h pour la marche)
+    var distance = Number(Math.round(data.routes[0].distance/1000 + 'e2') + 'e-2') + ' km    '.replace(".", ",");
+    var duration = data.routes[0].duration
+    if (duration > 3600) {
+      duration = Math.trunc(duration/3600) + 'h ' + Math.round((duration%3600)/60) + ' min'
+    } else {
+      duration = Math.round(duration/60) + ' min'
+    };
+    var metricsDistance =
+    `<div class="distance-wraper">
+    <i class="fas fa-walking"></i>
+    <p>${distance}</p>
+    </div>`;
 
-   var metricsTemps =
-  `<div class="time-wraper">
-  <i class="far fa-clock"></i>
-  <p>${duration}</p>
-  </div>`;
-  document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsDistance);
-  document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsTemps);
-  document.getElementById('metrics-distance').style.display = "initial";
-  Rails.ajax({
-    type: "POST",
-    url: `/itineraires/${gon.itineraire.id}/`,
-    data: `distance=${distance}&duration=${duration}`,
-    success: function() { console.log("Réussi boy!"); },
-    error: function() { console.log("Shit!"); }
-  });
+     var metricsTemps =
+    `<div class="time-wraper">
+    <i class="far fa-clock"></i>
+    <p>${duration}</p>
+    </div>`;
+    document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsDistance);
+    document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsTemps);
+    document.getElementById('metrics-distance').style.display = "initial";
+    Rails.ajax({
+      type: "POST",
+      url: `/itineraires/${gon.itineraire.id}/`,
+      data: `{metrics= ${distance}&duration= ${duration}}`,
+      success: function() { console.log("Réussi boy!"); },
+      error: function() { console.log("Shit!"); }
+    });
   });
 }
