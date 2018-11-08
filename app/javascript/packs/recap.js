@@ -224,4 +224,30 @@ $("#displayGeocoder").click((event) => {
   $(".modal-body").removeClass("modal-pt-body");
 
   // Changer le boutton pour un ajout
+  $('#displayGeocoder').remove();
+
+  $('#addPointDepart').show();
+});
+
+
+// Autocomplete
+import { autocomplete } from "../lib/autocomplete.js";
+
+let data = gon.cities
+const villes = ["test", "test1", "test2"];
+
+// for (let i = 0; i < data.length; i++) {
+//   villes.push(data[i].name);
+// }
+
+autocomplete(document.getElementById("myInput"), villes);
+
+// Validation
+document.querySelector(".form-container").addEventListener("submit", (event) => {
+  const input = document.getElementById("myInput").value;
+  if (villes.includes(input)) {
+    // Pass
+  } else {
+    event.preventDefault();
+  }
 });

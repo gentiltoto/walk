@@ -82,6 +82,7 @@ GEM
     ffi (1.9.25)
     font-awesome-sass (5.0.13)
       sassc (>= 1.11)
+    geocoder (1.5.0)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     gon (6.2.1)
@@ -245,6 +246,7 @@ DEPENDENCIES
   devise
   dotenv-rails
   font-awesome-sass (~> 5.0.9)
+  geocoder
   gon
   jbuilder (~> 2.0)
   jquery-rails
