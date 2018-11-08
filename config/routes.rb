@@ -32,4 +32,6 @@ Rails.application.routes.draw do
   get '/vos-itineraires', to: 'itineraires#display', as: :display #affichage des itinéraires précedent de l'utilisateur
 #page mes itinéraires (par villes)
 
+  get '/geocoder', to: 'itineraires#geocode'
+
 end

@@ -96,6 +96,12 @@ class ItinerairesController < ApplicationController
     @itineraire.update(distance: params(["distance"]))
   end
 
+  def geocode
+    Geocoder.configure(lookup: :opencagedata, api_key: ENV["OPEN_CAGE"])
+    results = Geocoder.search(params[:query])
+    render json: { results: results }
+  end
+
   private
 
   def compute_array(monuments)

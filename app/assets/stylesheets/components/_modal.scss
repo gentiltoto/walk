@@ -24,6 +24,7 @@
 
 .modal-body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -37,4 +38,20 @@
 
 #addPointDepart {
   display: none;
+}
+
+#container-geocode {
+  border-radius: 5px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  width: 50vw;
+  margin-top: 15px;
+
+  p {
+    padding: 8px 12px;
+    margin: 0;
+
+    &:hover {
+      background-color: $light-gray;
+    }
+  }
 }

@@ -229,25 +229,28 @@ $("#displayGeocoder").click((event) => {
   $('#addPointDepart').show();
 });
 
+$('.form-container').submit((event) => {
+  event.preventDefault();
+  $('#container-geocode p ').remove();
+  console.log(event.currentTarget);
+  let query = document.getElementById("myInput").value;
+  console.log(query);
+  let response;
+  Rails.ajax({
+    type: 'GET',
+    url: '/geocoder',
+    data: `query=${query}`,
+    success: function(data) {
+      console.log(data);
+      let inject = "";
+      data['results'].forEach((e) => {
+        inject += `<p data-lat="${e['data']['geometry']['lat']} data-lat="${e['data']['geometry']['lng']}">${e['data']['formatted']}</p>`
+      });
+      $('#container-geocode').append(inject);
 
-// Autocomplete
-import { autocomplete } from "../lib/autocomplete.js";
+      // Event on list
 
-let data = gon.cities
-const villes = ["test", "test1", "test2"];
-
-// for (let i = 0; i < data.length; i++) {
-//   villes.push(data[i].name);
-// }
-
-autocomplete(document.getElementById("myInput"), villes);
-
-// Validation
-document.querySelector(".form-container").addEventListener("submit", (event) => {
-  const input = document.getElementById("myInput").value;
-  if (villes.includes(input)) {
-    // Pass
-  } else {
-    event.preventDefault();
-  }
+    },
+    error: function() { console.log("Shit!"); }
+  });
 });
