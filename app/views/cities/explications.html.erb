@@ -10,55 +10,45 @@
 
 
   <div class="placement">
+    <!-- <span class="banner-typed-text"></span> Je n'arrive pas à mettre du CSS dessus....-->
 
     <div class="encart">
       <div class="bouton-explics">
-        <%= image_tag("choix.png", alt: "carte-ville", id: "image-validate-explics") %>
+        <div class="fake-choice-maker">
+          <div class="fake-choice-validate choice-no">
+          <%= image_tag "close.svg" %>
+          </div>
+          <div class="fake-choice-validate choice-yes">
+          <%= image_tag "check.svg" %>
+          </div>
+        </div>
       </div>
       <div class="text-explics">
-      <p>Les fiches de monuments vont être affichées. Je peux donc valider celles que je souhaite.</p>
+      <p> Je like les monuments qui m'intéressent à <%= @city.name %>.</p>
       </div>
     </div>
 
     <div class="encart">
       <div class="bouton-explics">
-        <%= image_tag("bouton-vert.png", alt: "carte-ville", id: "bouton-validate") %>
+          <div class="bouton-vert">
+          <i class="fas fa-arrow-right"></i>
+          </div>
       </div>
       <div class="text-explics">
-        <p>Une fois que j'ai fait mon choix, je valide mes monuments avec ce bouton vert. Attention il me faut trois monuments pour valider !</p>
+        <p> Je valide les monuments que je veux visiter lors de mon exploration de la ville.</p>
       </div>
     </div>
 
     <div class="encart">
       <div class="bouton-explics">
-        <%= image_tag("recap.png", alt: "imagre-recap", id: "image-validate-explics") %>
-      </div>
-      <div class="text-explics">
-
-        <p>Je me suis trompé(e)? Aucun problème, je peux réajuster mon choix !</p>
-      </div>
-    </div>
-
-    <div class="encart">
-      <div class="bouton-explics">
-        <%= image_tag("valideriti.png", alt: "bouton-ok", id: "bouton-validate") %>
-      </div>
-      <div class="text-explics">
-
-        <p>Je peux maintenant valider mon itinéraire et partir à la découverte de <%= @city.name %>! </p>
+        <div class="bouton-explics">
+          <%= image_tag("seety_icon_inverse", alt: "logok", id: "logo") %>
+        </div>
+        </div>
+        <div class="text-explics">
+        <p> Je me laisse guider par seety qui va calculer pour moi l'itinéraire optimal.</p>
       </div>
     </div>
-
-    <div class="encart">
-      <div class="bouton-explics">
-        <%= image_tag("google.png", alt: "bouton-ok", id: "bouton-validate") %>
-      </div>
-      <div class="text-explics">
-
-        <p> Tu as besoin de ton itinéraire sur GoogleMaps ? Aucun problème, tu peux exporter ton itinéraire grâce à ce bouton. </p>
-      </div>
-    </div>
-
   </div>
 
   <div class="choice">

@@ -15,6 +15,7 @@
 
 // map([gon.city.lat], 0, 0)
 // map([gon.city.longitude, gon.city.latitude], 0, 0)
+import Typed from 'typed.js';
 
 // Button listener
 let clicks = 0;
@@ -29,3 +30,15 @@ $("#green-choice").click((event) => {
     clicks += 1;
   }
 });
+
+
+
+function loadDynamicBannerText() {
+  new Typed('.banner-typed-text', {
+    strings: ["Comment devenir un seetyseur ?"],
+    typeSpeed: 70,
+    loop: false
+  });
+}
+
+loadDynamicBannerText()
