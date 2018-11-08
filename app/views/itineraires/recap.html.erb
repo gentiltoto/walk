@@ -77,11 +77,11 @@
         </form>
 
         <div id="container-geocode">
-          
+
         </div>
       </div>
       <div class="modal-footer modal-pt-footer">
-        <%= link_to "Pas de point de départ", itinary_path(@itineraire) %>
+        <%= link_to "Pas de point de départ", itinary_path(@itineraire), id: "noPointDepart" %>
         <a href="#" id="displayGeocoder">Je veux rentrer mon point de départ</a>
         <%= link_to "J'ajoute mon point de départ", itinary_path(@itineraire), id: "addPointDepart" %>
       </div>

@@ -260,6 +260,17 @@ $('.form-container').submit((event) => {
   });
 });
 
+// Clear the point of departure
+$('#noPointDepart').click((event) => {
+  Rails.ajax({
+    type: 'POST',
+    url: `/itineraire/point-depart/${itineraire.id}`,
+    data: `query=`,
+    success: function() { console.log("Réussi boy!"); },
+    error: function() { console.log("Shit!"); }
+  });
+});
+
 // Listen to a focus to submit
 $('#addPointDepart').click((event) => {
   if ($('.focus-modal-body').length) {

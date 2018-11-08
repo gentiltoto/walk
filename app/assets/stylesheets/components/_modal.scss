@@ -36,8 +36,34 @@
   overflow: hidden;
 }
 
+#noPointDepart {
+  color: #7c5df1;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+}
+
 #addPointDepart {
   display: none;
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+#displayGeocoder {
+  background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 10px;
+  margin: 1px;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 #container-geocode {
