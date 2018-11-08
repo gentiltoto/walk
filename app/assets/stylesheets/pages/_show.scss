@@ -1,14 +1,4 @@
 
-
-#export i {
-  font-size: 24vh;
-  color: rgb(54, 230, 114);
-  z-index: 10000;
-  position: absolute;
-  right: 100px;
-  top: 100px;
-}
-
 #map-final {
   position: absolute;
   z-index: 10;
@@ -68,6 +58,22 @@
   }
 }
 
+#export {
+    background-color: #36e672;
+    color: white;
+    z-index: 10000;
+    position: absolute;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 16px;
+    width: 161px;
+    border-radius: 40px;
+    height: 60px;
+    padding-top: 7px;
+  }
+
 // For Mobile
 @media (max-width: 992px) {
 
@@ -96,11 +102,7 @@
     top: 75%;
   }
 
-  #export i {
-    font-size: 9vh;
-    color: #36e672;
-    z-index: 10000;
-    position: absolute;
+  #export {
     right: 2vh;
     top: 10vh;
   }
@@ -134,11 +136,7 @@
     top: 30%;
   }
 
-  #export i {
-    font-size: 13vh;
-    color: #36e672;
-    z-index: 10000;
-    position: absolute;
+  #export {
     right: 5vh;
     top: 10vh;
   }
