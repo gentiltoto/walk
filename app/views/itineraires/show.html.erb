@@ -1,5 +1,9 @@
 <% content_for :title, "Seety - Itinéraire Final" %>
 
+<%= link_to recap_path(@itineraire) do %>
+  <div id="return"><i class="fas fa-arrow-left"></i></div>
+<% end %>
+
 <button id="export">
   Export to Google Maps
 </button>
@@ -16,11 +20,6 @@
 <div id='map-final'>
   <div id="metrics-distance">
   </div>
-
-
-<%= link_to recap_path(@itineraire) do %>
-  <div id="return"><i class="fas fa-arrow-left"></i></div>
-<% end %>
 
 <div class="cards">
 
