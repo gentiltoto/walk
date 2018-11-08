@@ -95,6 +95,7 @@ class ItinerairesController < ApplicationController
       tmp.unshift([pt_depart[:lat], pt_depart[:lng]])
       tmp.push([pt_depart[:lat], pt_depart[:lng]])
       gon.coordonees = tmp
+      gon.pointDepart = pt_depart
     end
 
     gon.itineraire = @itineraire
