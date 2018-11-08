@@ -1,5 +1,5 @@
- .choice-container {
-    background: linear-gradient(90deg, #7c5df1, #9c0ae1);
+.choice-container {
+    background: #36E672;
     width: 150px;
     border-radius: 40px;
     height: 50px;
@@ -8,6 +8,8 @@
     justify-content: space-around;
     color: white;
     font-size: 16px;
+    padding-top: 2px;
+    z-index: 3000;
 }
 
 .choice-container:hover {
@@ -28,10 +30,10 @@
   background-image: linear-gradient(rgba(216, 191, 216, 0.8), rgba(0, 0, 0, 0.5)), asset-url('carte.png');
   height: 100vh;
   width: 100vw;
-  position: relative;
   z-index: 190;
   display: flex;
   justify-content: space-around;
+  background-size: cover;
 
   a {
     color: white;
@@ -43,12 +45,17 @@
   }
 }
 
-
 .placement {
-  overflow-y: scroll;
   position: absolute;
-  top: 120px;
+  top: 80px;
   height: 65vh;
+  margin-top: 10px;
+  h2 {
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px
+  }
 }
 
 .encart {
@@ -86,14 +93,93 @@
   width: 200px;
   border-radius: 50px;
   background-color: #36E672;
+}
+
+.bouton-vert-container {
+  height: 14vh;
+  width: 14vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bouton-vert {
+  border-radius: 50%;
+  height: 12vh;
+  width: 12vh;
+  right: -40px;
+  background-color: #34e879;
+  top: -35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-arrow-right {
+  color: white;
+  font-size: 25px;
+}
+
+.fake-choice-maker {
+  background: linear-gradient(90deg, rgba(124, 93, 241, 1), rgba(156, 10, 225, 1));
+  width: 150px;
+  height: 50px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  img{
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.0);
+  }
 
 }
 
-
+.bouton-explics {
+  img {
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+  }
+}
 
 
 // For mobile
 @media (max-width: 992px) {
+.fake-choice-maker {
+  width: 75px;
+  height: 30px;
+}
+
+
+
+.fake-choice-validate {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 18px;
+    width: 18px;
+    stroke-width: 1;
+  }
+}
+
+
+.bouton-vert-container {
+  height: 14vh;
+  width: 14vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .bouton-vert {
+    border-radius: 50%;
+    height: 9vh;
+    width: 9vh;
+  }
+
+
   #image-validate-explics {
     width: 28vw;
     height: 14vh;
@@ -110,31 +196,56 @@
 
   .encart {
     width: 68vw;
-    height: 25vh;
+    height: 15vh;
   }
 
   .bouton-explics {
     flex: 0 0 35%;
     display: flex;
     align-items: center;
+    justify-content: center;
   }
 
   .text-explics {
     width: calc(68vw - 50% - 20px);
     margin-right: 10px;
     flex: 1 0 auto;
-    margin-left: 16px;
   }
 
   .choice {
     position: absolute;
-    bottom: 38px
+    bottom: 48px;
+    z-index: 3000;
   }
 
+  #logo {
+    height: 9vh;
+  }
 }
 
  // For Desktop
 @media (min-width: 992px) {
+
+  .fake-choice-validate {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 40px;
+    width: 40px;
+    stroke-width: 1;
+  }
+}
+
+  .banner-typed-explication {
+    color: white;
+    padding: 10px;
+  }
+
+
   #image-validate-explics {
     width: 12vw;
     height: 18vh;
@@ -164,13 +275,18 @@
   .bouton-explics {
     flex: 0 0 35%;
     display: flex;
+    justify-content: center;
     align-items: center;
+    margin: 3px;
   }
   .choice {
   position: absolute;
-  bottom: 20px
+  bottom: 30px;
+  z-index: 3000;
+  }
+
+  #logo {
+    height: 18vh;
+
   }
 }
-
-
-
