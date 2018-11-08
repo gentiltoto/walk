@@ -35,23 +35,30 @@ export function getRoute(map, steps) {
   var distance = Number(Math.round(data.routes[0].distance/1000 + 'e2') + 'e-2') + ' km    '.replace(".", ",");
   var duration = data.routes[0].duration
   if (duration > 3600) {
-    duration = Math.trunc(duration/3600) + 'h' + Math.round((duration%3600)/60) + ' mn'
+    duration = Math.trunc(duration/3600) + 'h ' + Math.round((duration%3600)/60) + ' min'
   } else {
-    duration = Math.round(duration/60) + ' mn'
+    duration = Math.round(duration/60) + ' min'
   };
   var metricsDistance =
   `<div class="distance-wraper">
   <i class="fas fa-walking"></i>
   <p>${distance}</p>
-  </div>`
+  </div>`;
 
    var metricsTemps =
   `<div class="time-wraper">
   <i class="far fa-clock"></i>
   <p>${duration}</p>
-  </div>`
+  </div>`;
   document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsDistance);
   document.getElementById('metrics-distance').insertAdjacentHTML('afterbegin', metricsTemps);
-  document.getElementById('metrics-distance').style.display = "initial"
+  document.getElementById('metrics-distance').style.display = "initial";
+  Rails.ajax({
+    type: "POST",
+    url: `/itineraries/${gon.itineraire.id}/`,
+    data: `{metrics= ${distance}&duration= ${duration}}`,
+    success: function() { console.log("Réussi boy!"); },
+    error: function() { console.log("Shit!"); }
+  });
   });
 }
