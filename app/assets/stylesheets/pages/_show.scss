@@ -33,6 +33,7 @@
   display: flex;
   flex-direction: column;
   display: none;
+  color: #424272;
 
   .fa-walking {
     display: block;
@@ -61,17 +62,16 @@
 #export {
     background-color: #36e672;
     color: white;
-    z-index: 10000;
+    z-index: 850;
     position: absolute;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: space-around;
     font-size: 16px;
-    width: 161px;
     border-radius: 40px;
-    height: 60px;
-    padding-top: 7px;
+
+
   }
 
 // For Mobile
@@ -105,6 +105,8 @@
   #export {
     right: 2vh;
     top: 10vh;
+    width: 130px;
+    height: 49px;
   }
 }
 
@@ -139,6 +141,8 @@
   #export {
     right: 5vh;
     top: 10vh;
+    width: 187px;
+    height: 51px;
   }
 }
 

@@ -9,6 +9,8 @@ class CitiesController < ApplicationController
   def home
     @cities = City.all
     gon.cities = @cities
+
+    render layout: "layout_home"
   end
 
   def search

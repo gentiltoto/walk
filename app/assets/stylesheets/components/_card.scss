@@ -1,3 +1,11 @@
+.text-card-info {
+  padding-top: 70px;
+}
+
+.info-supp {
+  padding-top: 75px;
+}
+
 .cards {
   position: absolute;
   width: 100vw;
@@ -32,6 +40,7 @@
   .card-infos {
     p {
       font-size: 15px;
+      color: #424272;
     }
   }
 
@@ -64,6 +73,7 @@
   .card-infos {
     p {
       font-size: 20px;
+      color: #424272;
     }
   }
 
@@ -108,11 +118,27 @@
   position: absolute;
 }
 
+// .card-stars-info {
+//   padding-top: 21px;
+// }
+
+// .card-stars-info i {
+//   background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));
+//   -webkit-text-fill-color: transparent;
+//   display: initial;
+// }
+
 .card-stars i {
-    background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: initial;
-  }
+  background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: initial;
+}
+
+#putain-de-stars i {
+  background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: initial;
+}
 
 
 .card-infos {
@@ -124,6 +150,7 @@
   i {
     font-size: 25px;
     margin: 0;
+    color: #424272;
   }
 }
 
@@ -135,7 +162,8 @@
     height: 450px;
     width: 350px;
     max-width: 90vw;
-    top: 10%;
+    top: 19%;
+
   }
 
   .monument-image-div-info {
@@ -153,6 +181,7 @@
   .card-infos {
     p {
       font-size: 15px;
+      color: #424272
     }
   }
 
@@ -160,10 +189,12 @@
   //   top: 105%;
   // }
 
-  // .card-stars-info {
-  //   top: 75%;
-  //   left: 10px;
-  // }
+
+
+  #putain-de-stars {
+    top: 75%;
+    position: absolute;
+  }
 
   // .info-supp {
   //   top: 90%;
@@ -197,34 +228,40 @@
   .card-infos {
     p {
       font-size: 20px;
+      color: #424272;
     }
   }
 
-  // .card-stars-info {
-  //   top: 80%;
-  //   left: 3%;
-  // }
 
-  // .info-supp {
-  //   top: 105%;
-  // }
+
+  #putain-de-stars {
+    position: absolute;
+    top: 80%;
+
+  }
+
+  .info-supp {
+    top: 105%;
+  }
 
   // .description-info {
   //   top: 125%;
   // }
 
   .delete-card-info {
+    position: absolute;
     top: 76%;
   }
 }
 
 .card-info {
+  padding-left: 17px;
+  padding-right: 17px;
   background-color: white;
   border-radius: 10px;
   border: 1px solid rgba(#6F70EE, 0.21);
   box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
   position: absolute;
-  padding: 12px;
   max-width: 90vw;
   overflow-y: scroll;
 }
@@ -243,7 +280,10 @@
 .monument-name-info {
   margin: 0;
   color: rgba(66, 66, 114, 1);
+  position: absolute;
+  padding-top: 7px
   // position: absolute;
+
 }
 
 .card-stars-info {
@@ -251,8 +291,14 @@
 }
 
 .description-info {
+
+  position: absolute;
+  margin-bottom: 30px;
+  padding-right: 17px;
+
   // position: absolute;
   margin-bottom: 60px;
+
 
   h3 {
     margin: 20px 0 !important; // To override semantic ui
@@ -261,6 +307,7 @@
 
   p {
     margin: 0;
+    color: #424272;
   }
 }
 
@@ -269,15 +316,18 @@
 
   h3, h4 {
     margin: 15px 0;
+    color: #424272;
   }
 
   h3 {
     font-size: 16px;
     font-style: italic;
+    color: #424272;
   }
 
   h4 {
     font-size: 18px;
+    color: #424272;
   }
 }
 
@@ -289,5 +339,6 @@
   img {
     font-size: 25px;
     margin: 0;
+    color: #424272;
   }
 }

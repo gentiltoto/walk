@@ -69,15 +69,18 @@
 }
 
 .drop-menu-mobile img {
-  height: 20px;
-  color: white;
-  transition: all 0.5s ease;
-}
-
-.drop-menu-desktop img {
   height: 30px;
   color: white;
   transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.drop-menu-desktop img {
+  height: 50px;
+  color: white;
+  transition: all 0.5s ease;
+  cursor: pointer;
+
 }
 
 .drop-menu-close-mobile {

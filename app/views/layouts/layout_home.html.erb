@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title><%= meta_title %></title>
+    <meta name="description" content="<%= meta_description %>">
+
+    <!-- Facebook Open Graph data -->
+    <meta property="og:title" content="<%= meta_title %>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="<%= request.original_url %>" />
+    <meta property="og:image" content="<%= meta_image %>" />
+    <meta property="og:description" content="<%= meta_description %>" />
+    <meta property="og:site_name" content="<%= meta_title %>" />
+
+
+    <!-- <meta property="og:title" content="Seety - L'application qui te fait visiter la France !">
+    <meta property="og:image" content="fond.jpeg">
+    <meta property="og:description" content="Seety vous permet de construire vous-mêmes votre itinéraire à travers les grandes villes françaises !">
+    <meta property="og:site_name" content="Seety"/> -->
+
+    <title><%= yield(:title) %></title>
+    <%= favicon_link_tag %>
+    <%= csrf_meta_tags %>
+    <%= action_cable_meta_tag %>
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+
+
+    <%#= stylesheet_pack_tag 'application', media: 'all' %> <!-- Uncomment if you import CSS in app/javascript/packs/application.js -->
+
+
+    <%= include_gon %>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css' rel='stylesheet' />
+
+    <!-- <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script> -->
+
+  </head>
+  <body>
+    <%= render 'shared/navbar' %>
+    <%= render 'shared/flashes' %>
+    <%= yield %>
+    <%= javascript_include_tag 'application' %>
+    <%= javascript_pack_tag 'application' %>
+    <%= yield :js %>
+  </body>
+</html>
