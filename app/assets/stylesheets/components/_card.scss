@@ -108,12 +108,12 @@
   position: absolute;
 }
 
-.card-stars:before {
+.card-stars i {
+    background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+  }
 
-    color: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#333));
-
-
-}
 
 .card-infos {
   position: absolute;
