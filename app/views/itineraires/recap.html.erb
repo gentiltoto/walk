@@ -55,7 +55,7 @@
 
 <!-- Modal -->
 <div class="modal fade" id="departModal" tabindex="-1" role="dialog" aria-labelledby="departModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content modal-pt-depart">
       <div class="modal-header text-center modal-pt-header">
         <h5 class="modal-title" id="departModalLabel">Voulez-vous ajouter un point de départ ?</h5>
@@ -81,9 +81,9 @@
         </div>
       </div>
       <div class="modal-footer modal-pt-footer">
-        <%= link_to "Pas de point de départ", itinary_path(@itineraire), id: "noPointDepart" %>
-        <a href="#" id="displayGeocoder">Je veux rentrer mon point de départ</a>
-        <%= link_to "J'ajoute mon point de départ", itinary_path(@itineraire), id: "addPointDepart" %>
+        <%= link_to "Pas de point de départ", itinary_path(@itineraire), id: "noPointDepart", class: "text-center" %>
+        <a href="#" id="displayGeocoder" class="text-center">Je veux rentrer mon point de départ</a>
+        <%= link_to "J'ajoute mon point de départ", itinary_path(@itineraire), id: "addPointDepart", class: "text-center" %>
       </div>
     </div>
   </div>
