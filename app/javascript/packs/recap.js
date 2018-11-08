@@ -1,4 +1,4 @@
-import { transitionOutMobileRight, transitionInMobileRight, transitionOutMobileLeft, transitionInMobileLeft} from "../lib/transition.js"
+// import { transitionOutMobileRight, transitionInMobileRight, transitionOutMobileLeft, transitionInMobileLeft} from "../lib/transition.js"
 
 function map(inp, offset0, offset1, padding) {
   mapboxgl.accessToken = 'pk.eyJ1IjoiaGVucmk0NSIsImEiOiJjam52bjV4anAwYjc2M3ZxdHd5NjlpbGc5In0.jNKjBZ2d3T4G7qzcmRb77A'
@@ -91,83 +91,39 @@ if ($(window).width() < 992) {
 
 // Color the first marker
 $(`#marker-${compteur}`).removeClass('marker').addClass('marker-focus');
-// Color the first ball
-// $(`#ball-${compteur}`).addClass("ball-monument-focus");
+// Focus the first card
+$(`#monument-${compteur}`).addClass('card-recap-focus');
 
-// Event on ball
-// gonMonuments.forEach((mon) => {
-//   $(`#ball-${mon.id}`).click((event) => {
-//     $("[id*='ball-']").removeClass("ball-monument-focus");
-//     event.currentTarget.classList.add('ball-monument-focus');
-//     // Get the id
-//     let regex = /\d+/;
-//     let idBall = parseInt(event.currentTarget.id.match(regex)[0]);
-//
-//     // Changer la carte avec transition
-//     if (compteur !== idBall) {
-//       $(`#monument-${compteur}`).removeClass("animating transition in fly right");
-//       $(`#monument-${compteur}`).addClass("animating transition out fly left");
-//       $(`#monument-${idBall}`).removeClass("animating transition out fly left");
-//       $(`#monument-${idBall}`).addClass("animating transition in fly right");
-//       compteur = idBall;
-//     }
-//
-//     // Function FlyTo
-//     flyToMarker(idBall, mapObject);
-//   });
-// });
-
-// Event on arrows
-$(".img-arrow-right").click((event) => {
-  // $("[id*='ball-']").removeClass("ball-monument-focus");
-  transitionOutMobileRight(compteur);
-  if (index === gonMonuments.length - 1) {
-    index = 0;
-  } else {
-    index += 1;
-  }
-  compteur = gonMonuments[index].id;
-  transitionInMobileRight(compteur);
-  // $(`#ball-${compteur}`).addClass("ball-monument-focus");
-
-  flyToMarker(gonMonuments[index].id, mapObject);
-});
-
-$(".img-arrow-left").click((event) => {
-  // $("[id*='ball-']").removeClass("ball-monument-focus");
-  transitionOutMobileLeft(compteur);
-  if (index === 0) {
-    index = gonMonuments.length - 1;
-  } else {
-    index -= 1
-  }
-  compteur = gonMonuments[index].id;
-  transitionInMobileLeft(compteur);
-  // $(`#ball-${compteur}`).addClass("ball-monument-focus");
-
-  flyToMarker(gonMonuments[index].id, mapObject);
-});
 
 // Event on marker
 gonMonuments.forEach((mon) => {
-  $(`#marker-${mon.id}`).click((envet) => {
-    // Get the id
-    let regex = /\d+/;
-    let idBall = parseInt(event.currentTarget.id.match(regex)[0]);
+  $(`#marker-${mon.id}`).click((event) => {
 
     // Function FlyTo
-    flyToMarker(idBall, mapObject);
+    flyToMarker(mon.id, mapObject);
 
-    // $("[id*='ball-']").removeClass("ball-monument-focus");
-    // $(`#ball-${idBall}`).addClass("ball-monument-focus");
+    // Smooth scroll
+    document.getElementById(`monument-${mon.id}`).scrollIntoView({behavior: "smooth"});
 
-    if (compteur !== idBall) {
-      $(`#monument-${compteur}`).removeClass("animating transition in fly right");
-      $(`#monument-${compteur}`).addClass("animating transition out fly left");
-      $(`#monument-${idBall}`).removeClass("animating transition out fly left");
-      $(`#monument-${idBall}`).addClass("animating transition in fly right");
-      compteur = idBall;
-    }
+    // Focus
+    $(`.card-recap`).removeClass('card-recap-focus');
+    $(`#monument-${mon.id}`).addClass('card-recap-focus');
+  });
+});
+
+// Event on card
+gonMonuments.forEach((mon) => {
+  $(`#monument-${mon.id}`).click((event) => {
+
+    // Function FlyTo
+    flyToMarker(mon.id, mapObject);
+
+    // Smooth scroll
+    document.getElementById(`monument-${mon.id}`).scrollIntoView({behavior: "smooth"});
+
+    // Focus
+    $(`.card-recap`).removeClass('card-recap-focus');
+    $(`#monument-${mon.id}`).addClass('card-recap-focus');
   });
 });
 
@@ -208,11 +164,7 @@ gonMonuments.forEach((mon) => {
 
     const idNext = gonMonuments[compteur].id;
     // Display all - monument, ball, marker
-    $(`#monument-${idNext}`).removeClass("animating transition out fly left right");
-    $(`#monument-${idNext}`).addClass("animating transition in fly right");
-
-    // $("[id*='ball-']").removeClass("ball-monument-focus");
-    // $(`#ball-${idNext}`).addClass("ball-monument-focus");
+    $(`#monument-${idNext}`).addClass("animating transition in fly up");
 
     flyToMarker(idNext, mapObject);
   });

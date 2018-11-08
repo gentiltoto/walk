@@ -16,17 +16,16 @@
 <div id="map"></div>
 
 
-
-<div class="cards">
+<div class="cards-recap">
 
   <% @monuments.each_with_index do |monument, index| %>
-  <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden" unless index.zero? %>">
-    <div class="monument-image-div">
-      <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
+  <div class="card-recap" id="monument-<%= monument.id %>">
+    <div class="monument-image-div-recap">
+      <%= cl_image_tag(monument.photo, class: "monument-image-new-recap") %>
     </div>
-    <h2 class="monument-name"><%= monument.name %></h2>
+    <h2 class="monument-name-recap"><%= monument.name %></h2>
 
-    <div class="card-stars">
+    <div class="card-stars-recap">
       <% compteur_empty_stars = 5 %>
       <% score_to_stars(monument.score).to_i.times do %>
         <i class="fas fa-star"></i>
@@ -39,11 +38,6 @@
       <% compteur_empty_stars.times do %>
       <i class="far fa-star"></i>
       <% end %>
-    </div>
-
-    <div class="arrow-container">
-      <i class="fas fa-chevron-left img-arrow-left"></i>
-      <i class="fas fa-chevron-right img-arrow-right"></i>
     </div>
 
       <div class="delete-card" id="delete-id-<%= monument.id %>">
