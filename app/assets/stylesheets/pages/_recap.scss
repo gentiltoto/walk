@@ -1,21 +1,28 @@
 .cards-recap {
   position: absolute;
-  width: 70vw;
-  height: 80vh;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
   bottom: 0;
-  overflow-y: scroll;
 }
 
 // For mobile
 @media (max-width: 992px) {
+
+  .cards-recap {
+    padding: 0 50px;
+    overflow-y: scroll;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100vw;
+    height: 55vh;
+  }
+
   .card-recap {
     height: 150px;
     width: 350px;
     max-width: 90vw;
+    margin-right: 25px;
+    min-width: 320px;
   }
 
   .monument-image-div-recap {
@@ -43,9 +50,20 @@
 
 // For Desktop
 @media (min-width: 992px) {
+
+  .cards-recap {
+    overflow-y: scroll;
+    padding: 0 150px 0 50px;
+    width: 70vw;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 80vh;
+  }
+
   .card-recap {
     height: 250px;
     width: 400px;
+    margin-bottom: 25px;
   }
 
   .monument-image-div-recap {
@@ -80,6 +98,12 @@
   z-index: 300;
   padding: 12px;
   max-width: 90vw;
+  cursor: pointer;
+}
+
+.card-recap-focus {
+  box-shadow: 8px 7px 9px rgba(124, 93, 241, 0.25);
+  border: 3px solid rgba(111, 112, 238, 0.41);
 }
 
 .monument-image-div-recap {
