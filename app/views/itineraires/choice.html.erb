@@ -66,22 +66,23 @@
     <div class="monument-image-div-info">
       <%= cl_image_tag(monument.photo, class: "monument-image-new") %>
     </div>
-    <h2 class="monument-name-info"><%= monument.name %></h2>
 
-     <div class="card-stars-info">
-      <% compteur_empty_stars = 5 %>
-      <% score_to_stars(monument.score).to_i.times do %>
-        <i class="fas fa-star"></i>
-        <% compteur_empty_stars -= 1 %>
-      <% end %>
-      <% if (score_to_stars(monument.score) - score_to_stars(monument.score).to_i == 0.5) %>
-        <i class="fas fa-star-half-alt"></i>
-        <% compteur_empty_stars -= 1 %>
-      <% end %>
-      <% compteur_empty_stars.times do %>
-      <i class="far fa-star"></i>
-      <% end %>
-    </div>
+    <div class="card-stars-info">
+     <% compteur_empty_stars = 5 %>
+     <% score_to_stars(monument.score).to_i.times do %>
+       <i class="fas fa-star"></i>
+       <% compteur_empty_stars -= 1 %>
+     <% end %>
+     <% if (score_to_stars(monument.score) - score_to_stars(monument.score).to_i == 0.5) %>
+       <i class="fas fa-star-half-alt"></i>
+       <% compteur_empty_stars -= 1 %>
+     <% end %>
+     <% compteur_empty_stars.times do %>
+     <i class="far fa-star"></i>
+     <% end %>
+   </div>
+
+    <h2 class="monument-name-info"><%= monument.name %></h2>
 
     <div class="info-supp">
       <h3><%= monument.protection %></h3>

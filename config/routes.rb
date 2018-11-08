@@ -27,9 +27,13 @@ Rails.application.routes.draw do
   #affichage de l'itinéraire
   get '/itineraire/:id', to: 'itineraires#show', as: :itinary # avec id itinéraire
 
-  post 'itineraires/:id', to: 'itineraires#metrics', as: :metrics # Enregistrement des metrics de l'itinéraire
+  post '/itineraires/:id', to: 'itineraires#metrics', as: :metrics # Enregistrement des metrics de l'itinéraire
 
   get '/vos-itineraires', to: 'itineraires#display', as: :display #affichage des itinéraires précedent de l'utilisateur
 #page mes itinéraires (par villes)
+
+  get '/geocoder', to: 'itineraires#geocoder'
+
+  post '/itineraire/point-depart/:id', to: 'itineraires#point_de_depart'
 
 end

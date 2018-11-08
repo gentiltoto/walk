@@ -1,4 +1,4 @@
-import { autocomplete } from "../lib/autocomplete.js"
+import { autocomplete } from "../lib/autocomplete.js";
 
 let data = gon.cities
 const villes = [];

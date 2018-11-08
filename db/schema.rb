@@ -44,6 +44,7 @@ ActiveRecord::Schema.define(version: 2018_11_08_094801) do
     t.bigint "city_id"
     t.integer "compteur", default: 0
     t.string "duration"
+    t.string "point_depart", default: ""
     t.index ["city_id"], name: "index_itineraires_on_city_id"
     t.index ["user_id"], name: "index_itineraires_on_user_id"
   end

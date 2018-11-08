@@ -160,8 +160,8 @@
   .monument-name-info {
     margin: 20px 0;
     font-size: 16px;
-    left: 10px;
-    top: 80%;
+    // left: 10px;
+    // top: 80%;
   }
 
   .card-infos {
@@ -171,19 +171,19 @@
     }
   }
 
-  .description-info {
-    top: 105%;
-  }
+  // .description-info {
+  //   top: 105%;
+  // }
 
-  .card-stars-info {
-    top: 75%;
-    left: 10px;
-  }
+  // .card-stars-info {
+  //   top: 75%;
+  //   left: 10px;
+  // }
 
-  .info-supp {
-    top: 90%;
-    left: 10px;
-  }
+  // .info-supp {
+  //   top: 90%;
+  //   left: 10px;
+  // }
 
   .delete-card-info {
     top: 72%;
@@ -206,7 +206,7 @@
 
   .monument-name-info {
     font-size: 25px;
-    top: 85%;
+    // top: 85%;
   }
 
   .card-infos {
@@ -216,18 +216,18 @@
     }
   }
 
-  .card-stars-info {
-    top: 80%;
-    left: 3%;
-  }
+  // .card-stars-info {
+  //   top: 80%;
+  //   left: 3%;
+  // }
 
-  .info-supp {
-    top: 105%;
-  }
+  // .info-supp {
+  //   top: 105%;
+  // }
 
-  .description-info {
-    top: 125%;
-  }
+  // .description-info {
+  //   top: 125%;
+  // }
 
   .delete-card-info {
     top: 76%;
@@ -247,7 +247,7 @@
 }
 
 .monument-image-div-info {
-  position: relative;
+  // position: relative;
   display: flex;
   justify-content: center;
   overflow: hidden;
@@ -260,19 +260,28 @@
 .monument-name-info {
   margin: 0;
   color: rgba(66, 66, 114, 1);
+<<<<<<< HEAD
   position: absolute;
   padding-top: 7px
+=======
+  // position: absolute;
+>>>>>>> master
 }
 
 .card-stars-info {
-  position: absolute;
+  // position: absolute;
 }
 
 .description-info {
+<<<<<<< HEAD
   position: absolute;
   margin-bottom: 30px;
   padding-right: 17px;
 
+=======
+  // position: absolute;
+  margin-bottom: 60px;
+>>>>>>> master
 
   h3 {
     margin: 20px 0 !important; // To override semantic ui
@@ -286,7 +295,7 @@
 }
 
 .info-supp {
-  position: absolute;
+  // position: absolute;
 
   h3, h4 {
     margin: 15px 0;

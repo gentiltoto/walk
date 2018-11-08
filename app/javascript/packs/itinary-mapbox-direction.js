@@ -39,8 +39,21 @@ function addMarker(inp, map) {
   return marker
 }
 
-let coordPerso;
+/////// LOGIQUE POINT DE DEPART \\\\\\\\
 
+// Si point de départ
+if ((gon.coordonees.length - gon.monuments.length) === 2) {
+  let el = document.createElement('div');
+  el.id = `marker-point-depart`;
+  el.classList.add("marker-point-depart");
+  let marker = new mapboxgl.Marker(el)
+    .setLngLat(gon.coordonees[0])
+    .addTo(mape)
+}
+
+
+/////// LOGIQUE COORDONNEES GPS PERSO \\\\\\\\
+let coordPerso;
 
 navigator.geolocation.getCurrentPosition(function(position) {
   coordPerso = [position.coords.longitude, position.coords.latitude]
@@ -54,7 +67,10 @@ function geoSuccess(position) {
   addMarker(coordPerso, mape);
   $("#marker-perso").removeClass("marker");
 }
-function geoError() { console.log("Geolocation not enabled"); }
+function geoError() {
+  setTimeout(function() { $("#no-geoloc").css("margin-right", "0"); }, 5000);
+  setTimeout(function() { $("#no-geoloc").css("margin-right", "-350px"); }, 10000);
+}
 
 var watchPosition = navigator.geolocation.watchPosition(
   geoSuccess,
@@ -64,13 +80,20 @@ var watchPosition = navigator.geolocation.watchPosition(
 
 $("#center-perso").click((event) => {
   let flyToObject;
-  if ($(window).width() < 992) {
-    flyToObject = [coordPerso[0], coordPerso[1] - 0.002];
+  // Test if coordPerso defined
+  if (coordPerso) {
+    if ($(window).width() < 992) {
+      flyToObject = [coordPerso[0], coordPerso[1] - 0.002];
+    } else {
+      flyToObject = [coordPerso[0] - 0.007, coordPerso[1]];
+    }
+    mape.flyTo({
+          center: flyToObject,
+          zoom: 15
+    });
   } else {
-    flyToObject = [coordPerso[0] - 0.007, coordPerso[1]];
+    $("#no-geoloc").css("margin-right", "0");
+    setTimeout(function() { $("#no-geoloc").css("margin-right", "-350px"); }, 10000);
   }
-  mape.flyTo({
-        center: flyToObject,
-        zoom: 15
-  });
+
 });
