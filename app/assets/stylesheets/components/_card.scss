@@ -1,9 +1,13 @@
 .text-card-info {
-  padding-top: 70px;
+  padding-top: 35px;
 }
 
 .info-supp {
   padding-top: 75px;
+}
+
+.monument-name-info {
+  color: #35013f;
 }
 
 .cards {
@@ -57,6 +61,10 @@
     width: 400px;
     left: 5%;
     top: 30%;
+  }
+
+  .info-supp {
+  padding-top: 58px;
   }
 
   .monument-image-div {
@@ -166,6 +174,10 @@
 
   }
 
+  .info-supp {
+  padding-top: 50px;
+  }
+
   .monument-image-div-info {
     height: 300px;
     width: 100%;
@@ -236,7 +248,7 @@
 
   #putain-de-stars {
     position: absolute;
-    top: 80%;
+    top: 82%;
 
   }
 
@@ -250,13 +262,14 @@
 
   .delete-card-info {
     position: absolute;
-    top: 76%;
+    top: 79%;
   }
 }
 
 .card-info {
   padding-left: 17px;
   padding-right: 17px;
+  padding-top: 20px;
   background-color: white;
   border-radius: 10px;
   border: 1px solid rgba(#6F70EE, 0.21);
@@ -279,9 +292,8 @@
 
 .monument-name-info {
   margin: 0;
-  color: rgba(66, 66, 114, 1);
   position: absolute;
-  padding-top: 7px
+  padding-top: 10px
   // position: absolute;
 
 }
@@ -301,8 +313,10 @@
 
 
   h3 {
-    margin: 20px 0 !important; // To override semantic ui
-    color: rgba(66, 66, 114, 1);
+    margin-top: 20px !important;
+    margin-bottom: 6px !important;
+    color: #424272;
+     // To override semantic ui
   }
 
   p {
@@ -326,7 +340,7 @@
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 16px;
     color: #424272;
   }
 }
