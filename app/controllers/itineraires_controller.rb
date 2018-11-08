@@ -83,7 +83,8 @@ class ItinerairesController < ApplicationController
     gon.coordonees = @coord #coord ordonnée par le service objet
     gon.monuments = @monuments #monuments NON ordonnées
     gon.idsOrdonee = refind(@coord, @monuments).map {|monument| monument[0][:id]} #Array des ID des monuments ordonénes par le service object
-    gon.monumentsOrdonne = refind(@coord, @monuments) #Array des monuments ordonnées par le service objet.
+    gon.monumentsOrdonne = refind(@coord, @monuments)
+    gon.itineraire = @itineraire#Array des monuments ordonnées par le service objet.
   end
 
   def display #affiche l'itinéraire final d'un ancien trajet
@@ -92,8 +93,8 @@ class ItinerairesController < ApplicationController
 
   def metrics
     @itineraire = Itineraire.find(params[:id])
-    @itineraire.update(duration: params(["duration"]))
-    @itineraire.update(distance: params(["distance"]))
+    @itineraire.update(duration: params["duration"])
+    @itineraire.update(distance: params["distance"])
   end
 
   private
