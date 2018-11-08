@@ -18,12 +18,6 @@
 
 
 <div class="cards">
-  <div class="ball-monuments">
-    <% @monuments.each do |monument| %>
-    <div class="ball-monument" id="<%= "ball-#{monument.id}" %>"></div>
-    <% end %>
-  </div>
-
 
   <% @monuments.each_with_index do |monument, index| %>
   <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden" unless index.zero? %>">
