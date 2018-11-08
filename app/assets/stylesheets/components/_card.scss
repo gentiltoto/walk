@@ -32,6 +32,7 @@
   .card-infos {
     p {
       font-size: 15px;
+      color: #424272;
     }
   }
 
@@ -64,6 +65,7 @@
   .card-infos {
     p {
       font-size: 20px;
+      color: #424272;
     }
   }
 
@@ -108,6 +110,12 @@
   position: absolute;
 }
 
+// .card-stars-info i {
+//   background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));
+//   -webkit-text-fill-color: transparent;
+//   display: initial;
+// }
+
 .card-stars i {
     background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -124,6 +132,7 @@
   i {
     font-size: 25px;
     margin: 0;
+    color: #424272;
   }
 }
 
@@ -153,6 +162,7 @@
   .card-infos {
     p {
       font-size: 15px;
+      color: #424272
     }
   }
 
@@ -197,6 +207,7 @@
   .card-infos {
     p {
       font-size: 20px;
+      color: #424272;
     }
   }
 
@@ -261,6 +272,7 @@
 
   p {
     margin: 0;
+    color: #424272;
   }
 }
 
@@ -269,15 +281,18 @@
 
   h3, h4 {
     margin: 15px 0;
+    color: #424272;
   }
 
   h3 {
     font-size: 16px;
     font-style: italic;
+    color: #424272;
   }
 
   h4 {
     font-size: 18px;
+    color: #424272;
   }
 }
 
@@ -289,5 +304,6 @@
   img {
     font-size: 25px;
     margin: 0;
+    color: #424272;
   }
 }
