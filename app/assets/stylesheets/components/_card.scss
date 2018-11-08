@@ -57,7 +57,7 @@
 
   .monument-name {
     font-size: 25px;
-    left: 53%;
+    left: 55%;
     width: 180px;
   }
 
@@ -68,7 +68,7 @@
   }
 
   .card-stars {
-    left: 215px;
+    left: 223px;
     top: 11%;
   }
 }
@@ -108,12 +108,12 @@
   position: absolute;
 }
 
-.card-stars:before {
+.card-stars i {
+    background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+  }
 
-    color: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#333));
-
-
-}
 
 .card-infos {
   position: absolute;
@@ -146,8 +146,8 @@
   .monument-name-info {
     margin: 20px 0;
     font-size: 16px;
-    left: 10px;
-    top: 80%;
+    // left: 10px;
+    // top: 80%;
   }
 
   .card-infos {
@@ -156,19 +156,19 @@
     }
   }
 
-  .description-info {
-    top: 105%;
-  }
+  // .description-info {
+  //   top: 105%;
+  // }
 
-  .card-stars-info {
-    top: 75%;
-    left: 10px;
-  }
+  // .card-stars-info {
+  //   top: 75%;
+  //   left: 10px;
+  // }
 
-  .info-supp {
-    top: 90%;
-    left: 10px;
-  }
+  // .info-supp {
+  //   top: 90%;
+  //   left: 10px;
+  // }
 
   .delete-card-info {
     top: 72%;
@@ -191,7 +191,7 @@
 
   .monument-name-info {
     font-size: 25px;
-    top: 85%;
+    // top: 85%;
   }
 
   .card-infos {
@@ -200,18 +200,18 @@
     }
   }
 
-  .card-stars-info {
-    top: 80%;
-    left: 3%;
-  }
+  // .card-stars-info {
+  //   top: 80%;
+  //   left: 3%;
+  // }
 
-  .info-supp {
-    top: 105%;
-  }
+  // .info-supp {
+  //   top: 105%;
+  // }
 
-  .description-info {
-    top: 125%;
-  }
+  // .description-info {
+  //   top: 125%;
+  // }
 
   .delete-card-info {
     top: 76%;
@@ -230,7 +230,7 @@
 }
 
 .monument-image-div-info {
-  position: relative;
+  // position: relative;
   display: flex;
   justify-content: center;
   overflow: hidden;
@@ -243,16 +243,16 @@
 .monument-name-info {
   margin: 0;
   color: rgba(66, 66, 114, 1);
-  position: absolute;
+  // position: absolute;
 }
 
 .card-stars-info {
-  position: absolute;
+  // position: absolute;
 }
 
 .description-info {
-  position: absolute;
-  margin-bottom: 30px;
+  // position: absolute;
+  margin-bottom: 60px;
 
   h3 {
     margin: 20px 0 !important; // To override semantic ui
@@ -265,7 +265,7 @@
 }
 
 .info-supp {
-  position: absolute;
+  // position: absolute;
 
   h3, h4 {
     margin: 15px 0;
