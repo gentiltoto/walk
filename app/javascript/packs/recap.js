@@ -229,6 +229,7 @@ $("#displayGeocoder").click((event) => {
   $('#addPointDepart').show();
 });
 
+// Event on form
 $('.form-container').submit((event) => {
   event.preventDefault();
   $('#container-geocode p ').remove();
@@ -244,13 +245,28 @@ $('.form-container').submit((event) => {
       console.log(data);
       let inject = "";
       data['results'].forEach((e) => {
-        inject += `<p data-lat="${e['data']['geometry']['lat']} data-lat="${e['data']['geometry']['lng']}">${e['data']['formatted']}</p>`
+        inject += `<p data-lat="${e['data']['geometry']['lat']}" data-lng="${e['data']['geometry']['lng']}">${e['data']['formatted']}</p>`
       });
       $('#container-geocode').append(inject);
 
       // Event on list
+      $('#container-geocode p').click((event) => {
+        $('#container-geocode p').removeClass('focus-modal-body');
+        event.currentTarget.classList.add('focus-modal-body');
+      });
 
     },
     error: function() { console.log("Shit!"); }
   });
+});
+
+// Listen to a focus to submit
+$('#addPointDepart').click((event) => {
+  if ($('.focus-modal-body').length) {
+    console.log("Does the thing");
+  } else {
+    event.preventDefault();
+    $('.form-container').addClass('animating transition shake');
+    setTimeout(function(){ $('.form-container').removeClass('animating transition shake'); }, 1000);
+  }
 });
