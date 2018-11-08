@@ -129,10 +129,16 @@
 // }
 
 .card-stars i {
-    background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: initial;
-  }
+  background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: initial;
+}
+
+#putain-de-stars i {
+  background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: initial;
+}
 
 
 .card-infos {
@@ -156,7 +162,7 @@
     height: 450px;
     width: 350px;
     max-width: 90vw;
-    top: 10%;
+    top: 19%;
 
   }
 

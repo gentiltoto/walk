@@ -98,7 +98,13 @@
       <h2 class="monument-name-info"><%= monument.name %></h2>
 
         <div class="info-supp">
-          <h3><%= monument.protection %></h3>
+          <% if monument.protection == "Classé MH"%>
+            <h3>Classé monument historique</h3>
+          <% elsif monument.protection == "Inscrit MH" %>
+            <h3>Inscrit monument historique</h3>
+          <% else  %>
+            <h3>Monument non classé historiquement</h3>
+          <% end  %>
           <h4><%= monument.address %></h4>
         </div>
 
