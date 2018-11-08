@@ -41,7 +41,6 @@ class ItinerairesController < ApplicationController
     @monument = Monument.find(params[:monument_id])
 
     @itineraire.monuments.delete(@monument)
-    redirect_to recap_path(@itineraire)
   end
 
   def recap
@@ -80,6 +79,7 @@ class ItinerairesController < ApplicationController
     coord_initial.each { |e| y.push(e[1].to_f) }
     @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
+    gon.itineraire = @itineraire
     gon.coordonees = @coord #coord ordonnée par le service objet
     gon.monuments = @monuments #monuments NON ordonnées
     gon.idsOrdonee = refind(@coord, @monuments).map {|monument| monument[0][:id]} #Array des ID des monuments ordonénes par le service object
