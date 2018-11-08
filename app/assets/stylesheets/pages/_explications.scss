@@ -47,7 +47,6 @@
 
 .placement {
   position: absolute;
-  top: 80px;
   height: 65vh;
   margin-top: 10px;
   h2 {
@@ -148,6 +147,10 @@
   height: 30px;
 }
 
+.placement {
+  top: 124px;
+}
+
 
 
 .fake-choice-validate {
@@ -214,7 +217,7 @@
 
   .choice {
     position: absolute;
-    bottom: 48px;
+    bottom: 60px;
     z-index: 3000;
   }
 
@@ -225,6 +228,10 @@
 
  // For Desktop
 @media (min-width: 992px) {
+
+  .placement {
+    top: 80px;
+  }
 
   .fake-choice-validate {
   width: 50%;
