@@ -1,14 +1,43 @@
+.infos-iti {
+
+}
+
+.scroll {
+  overflow-y: scroll;
+  height: 80vh;
+}
+
 .fiche-city-wrapper {
   background-color: white;
   border-radius: 10px;
   border: 1px solid rgba(#6F70EE, 0.21);
   box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
   z-index: 300;
-  padding: 12px;
   max-width: 90vw;
+  width: 98%;
+  height: 40vh;
+  margin-bottom: 10px;
 }
 
 
+
+.fiche-city-display {
+  border-radius: 10px;
+  transition: all 0.5s ease;
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 40vh;
+
+  img {
+    height: 30vh;
+    width: 30vh;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    border-radius: 10px;
+    object-fit: cover;
+  }
 
 
 .display-container {
@@ -19,30 +48,16 @@
   width: 100vw;
   display: flex;
   align-items: center;
+  z-index: 400;
 }
 
-.fiche-city-display {
-  margin-right: 10px;
-  border-radius: 10px;
-  margin-top: 20px;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
-  transition: all 0.5s ease;
-  position: relative;
-
-  img {
-    width: 45vw;
-
-    border-radius: 10px;
-    object-fit: cover;
-  }
 
   .city-description {
     transition: all 0.2s ease;
-    padding: 10px 8px;
     height: 50px;
     position: absolute;
-    bottom: 10px;
-    left: 10px;
+    bottom: 4px;
+    left: 20px;
   }
 
   h3 {
