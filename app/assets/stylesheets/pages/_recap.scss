@@ -1,66 +1,116 @@
+.cards-recap {
+  position: absolute;
+  width: 70vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  overflow-y: scroll;
+}
+
 // For mobile
 @media (max-width: 992px) {
-  // .ball-monuments {
-  //   top: 48%;
-  //   width: 350px;
-  // }
+  .card-recap {
+    height: 150px;
+    width: 350px;
+    max-width: 90vw;
+  }
 
+  .monument-image-div-recap {
+    height: 125px;
+    width: 140px;
+  }
 
-  .arrow-container {
-    max-width: 95vw;
-    width: 370px;
+  .monument-name-recap {
+    font-size: 16px;
+    left: 165px;
+    width: 130px;
+  }
+
+  .card-infos-recap {
+    p {
+      font-size: 15px;
+    }
+  }
+
+  .card-stars-recap {
+    left: 168px;
+    top: 15%;
   }
 }
 
 // For Desktop
 @media (min-width: 992px) {
-  // .ball-monuments {
-  //   left: 5%;
-  //   top: 25%;
-  //   width: 400px;
-  // }
+  .card-recap {
+    height: 250px;
+    width: 400px;
+  }
 
+  .monument-image-div-recap {
+    height: 200px;
+    width: 200px;
+  }
 
-  .arrow-container {
-    width: 420px;
+  .monument-name-recap {
+    font-size: 25px;
+    left: 55%;
+    width: 180px;
+  }
+
+  .card-infos-recap {
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .card-stars-recap {
+    left: 223px;
+    top: 11%;
   }
 }
 
-// .ball-monuments {
-//   height: 25px;
-//   max-width: 90vw;
-//   position: absolute;
-//   z-index: 600;
-//   display: flex;
-//   justify-content: space-around;
-// }
-
-// .ball-monument {
-//   height: 20px;
-//   width: 20px;
-//   border-radius: 50%;
-//   background-color: #6F70EE;
-//   cursor: pointer;
-//   border: 1px solid white;
-// }
-
-// .ball-monument-focus {
-//   background-color: black !important;
-// }
-
-.arrow-container {
-  display: flex;
-  justify-content: space-between;
+.card-recap {
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid rgba(#6F70EE, 0.21);
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.25);
   position: absolute;
-  top: 40%;
-  right: -10px;
+  z-index: 300;
+  padding: 12px;
+  max-width: 90vw;
+}
 
-  i {
-    font-size: 30px;
-    cursor: pointer;
+.monument-image-div-recap {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+
+  img {
+    max-height: 100%;
   }
 }
 
+.monument-name-recap {
+  margin: 0;
+  padding-left: 5px;
+  color: rgba(66, 66, 114, 1);
+  position: absolute;
+  top: 45px;
+  overflow-wrap: break-word
+}
+
+.card-stars-recap {
+  position: absolute;
+}
+
+.card-stars-recap i {
+    background: -webkit-gradient(linear, left top, left bottom, from(#7c5df1), to(#9c0ae1));    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+  }
 
 .delete-card {
   position: absolute;
