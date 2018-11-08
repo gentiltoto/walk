@@ -1,0 +1,30 @@
+#close-modal {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.modal-pt-depart {
+  border-radius: 10px;
+}
+
+.modal-pt-header {
+  padding: 15px 20px;
+}
+
+.modal-title {
+  font-size: 20px;
+}
+
+.modal-pt-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.modal-pt-body {
+  padding: 0;
+  transition: all 1s ease;
+  height: 0;
+  overflow: hidden;
+}

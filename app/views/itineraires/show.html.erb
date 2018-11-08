@@ -5,14 +5,13 @@
 </div>
 
 
-<div id='map-final'>
-  <div id="metrics-distance">
-  </div>
-
-
 <%= link_to recap_path(@itineraire) do %>
   <div id="return"><i class="fas fa-arrow-left"></i></div>
 <% end %>
+
+<div id='map-final'>
+  <div id="metrics-distance">
+  </div>
 
 <div class="cards">
 
@@ -100,12 +99,12 @@
   <% end %>
 </div>
 
-  <% content_for(:js) do %>
-    <% capture do %>
-      <% concat(javascript_pack_tag 'itinary-mapbox-direction') %>
-      <% concat(javascript_pack_tag 'show') %>
-    <% end %>
+<% content_for(:js) do %>
+  <% capture do %>
+    <% concat(javascript_pack_tag 'itinary-mapbox-direction') %>
+    <% concat(javascript_pack_tag 'show') %>
   <% end %>
+<% end %>
 
 
 
@@ -118,4 +117,3 @@
     position: relative;
   }
 </style>
-

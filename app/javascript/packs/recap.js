@@ -217,3 +217,11 @@ gonMonuments.forEach((mon) => {
     flyToMarker(idNext, mapObject);
   });
 });
+
+// Event Modal
+$("#displayGeocoder").click((event) => {
+  // Affiche le geocoder
+  $(".modal-body").removeClass("modal-pt-body");
+
+  // Changer le boutton pour un ajout
+});
