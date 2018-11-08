@@ -35,7 +35,6 @@
 #metrics-distance {
   position: absolute;
   top: 60px;
-  left: 15px;
   background-color: white;
   border-radius: 10px;
   border: 1px solid rgba(#6F70EE, 0.21);
@@ -75,6 +74,7 @@
   #metrics-distance {
   width: 100px;
   padding: 7.5px;
+  left: 15px;
 }
 
   .fa-walking {
@@ -112,6 +112,7 @@
   #metrics-distance {
     width: 250px;
     padding: 10px;
+    left: 50px;
   }
 
   .fa-walking {

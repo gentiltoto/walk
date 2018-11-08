@@ -17,7 +17,7 @@ Rails.application.routes.draw do
   get '/vos-monuments/:id', to: 'itineraires#choice', as: :choice
   # permet d'ajouter avec AJAX un monument à un itinéraire
   post '/vos-monuments/:id/:monument_id', to: 'itineraires#ajout', as: :ajout
-  delete '/vos-monuments/:id/:monument_id', to: 'itineraires#delete', as: :delete
+  delete '/vos-monuments/delete/:id/:monument_id', to: 'itineraires#delete', as: :delete
 
   #affichage du recap
   get '/synthese/:id', to: 'itineraires#recap', as: :recap # avec id itinéraire

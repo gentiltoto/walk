@@ -1,7 +1,7 @@
 <% content_for :title, "Seety - Validation d'itinéraire" %>
 
-<%= link_to url_for(:back) do %>
-  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<%= link_to choice_path(@itineraire) do %>
+  <div id="return"><i class="fas fa-arrow-left"></i></div>
 <% end %>
 
 <div id="green-choice">
@@ -18,12 +18,6 @@
 
 
 <div class="cards">
-  <div class="ball-monuments">
-    <% @monuments.each do |monument| %>
-    <div class="ball-monument" id="<%= "ball-#{monument.id}" %>"></div>
-    <% end %>
-  </div>
-
 
   <% @monuments.each_with_index do |monument, index| %>
   <div class="card" id="monument-<%= monument.id %>" style="<%= "visibility: hidden" unless index.zero? %>">
@@ -52,9 +46,9 @@
       <i class="fas fa-chevron-right img-arrow-right"></i>
     </div>
 
-    <%= link_to delete_path(@itineraire, monument.id), method: :delete, class: "delete-card" do %>
-      <i class="fas fa-times"></i>
-    <% end %>
+      <div class="delete-card" id="delete-id-<%= monument.id %>">
+        <i class="fas fa-times"></i>
+      </div>
   </div>
   <% end %>
 </div>
