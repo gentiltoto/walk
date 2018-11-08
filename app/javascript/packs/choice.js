@@ -150,6 +150,10 @@ gonMonuments.forEach((mon) => {
     $(`#monument-info-${mon.id}`).css("z-index", "900")
     $(`#monument-info-${mon.id}`).removeClass("transition visible animating out scale");
     $(`#monument-info-${mon.id}`).addClass("transition visible animating in scale");
+
+    // Remove arrow return
+    $("#return").removeClass("transition visible animating in scale");
+    $("#return").addClass("transition visible animating out scale");
   });
 
   $(`#delete-info-${mon.id}`).click((event) => {
@@ -161,5 +165,9 @@ gonMonuments.forEach((mon) => {
     // Add the card classic
     $(`#monument-${mon.id}`).removeClass("transition visible animating out scale");
     $(`#monument-${mon.id}`).addClass("transition visible animating in scale");
+
+    // show arrow return
+    $("#return").removeClass("transition visible animating out scale");
+    $("#return").addClass("transition visible animating in scale");
   });
 });

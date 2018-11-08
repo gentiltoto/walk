@@ -1,7 +1,7 @@
 <% content_for :title, "Seety - Choix des monuments" %>
 
-<%= link_to url_for(:back) do %>
-  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<%= link_to explications_path(@itineraire.city.name) do %>
+  <div id="return"><i class="fas fa-arrow-left"></i></div>
 <% end %>
 
 <div id="green-choice">

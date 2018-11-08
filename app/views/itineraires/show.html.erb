@@ -1,8 +1,8 @@
 <% content_for :title, "Seety - Itinéraire Final" %>
 
 
-<%= link_to url_for(:back) do %>
-  <div class="return"><i class="fas fa-arrow-left"></i></div>
+<%= link_to recap_path(@itineraire) do %>
+  <div id="return"><i class="fas fa-arrow-left"></i></div>
 <% end %>
 
 <div id='map-final'>
