@@ -1,16 +1,51 @@
 <div class="display-container">
+
   <div class="container">
     <div class="row">
+      <div class="scroll-fiche-city">
+
       <% @itineraires_perso.each do |itineraire| %>
       <% path = itinary_path(itineraire.id) if itineraire.compteur >2 %>
       <% path = choice_path(itineraire.id) if itineraire.compteur < 3 %>
+
       <div class="col-xs-12 col-md-6">
         <div class="fiche-city-wrapper">
+          <%= link_to itinary_path(itineraire.id), class: "link-fiche-city" do%>
 
+          <div class="fiche-city-display">
+            <%= cl_image_tag(itineraire.city.photo) %>
+            <h4 id="created">Crée le : <%= itineraire.created_at.strftime('%d-%m-%y') %></h4>
 
+            <div class="infos-iti">
+              <p id="nb-monuments">
+                <i class="fas fa-university"></i>
+                <%= itineraire.monuments.size %>
+              </p>
+
+              <p id="duration">
+                 <i class="far fa-clock"></i>
+                <%= itineraire.duration %>
+              </p>
+
+              <p id="distance">
+                <i class="fas fa-walking"></i>
+                <%= itineraire.distance %>
+              </p>
+            </div>
+
+            <div class="city-description">
+              <h3><%= itineraire.city.name %></h3>
+            </div>
+          </div>
+
+          <%end%>
         </div>
       </div>
+
       <%end%>
+
+      </div>
     </div>
   </div>
+
 </div>
