@@ -28,3 +28,49 @@ mape.on("drag", function (e) {
 
 
 eventListener(gon.idsOrdonee, mape);
+
+function addMarker(inp, map) {
+  let el = document.createElement('div');
+  el.id = `marker-perso`;
+  el.classList.add("marker-perso");
+  let marker = new mapboxgl.Marker(el)
+    .setLngLat(inp)
+    .addTo(map)
+  return marker
+}
+
+let coordPerso;
+
+
+navigator.geolocation.getCurrentPosition(function(position) {
+  coordPerso = [position.coords.longitude, position.coords.latitude]
+  addMarker(coordPerso, mape);
+  $("#marker-perso").removeClass("marker");
+});
+
+function geoSuccess(position) {
+  coordPerso = [position.coords.longitude, position.coords.latitude]
+  $("#marker-perso").remove()
+  addMarker(coordPerso, mape);
+  $("#marker-perso").removeClass("marker");
+}
+function geoError() { console.log("Geolocation not enabled"); }
+
+var watchPosition = navigator.geolocation.watchPosition(
+  geoSuccess,
+  geoError,
+  {enableHighAccuracy: true, maximumAge: 30000, timeout: 27000}
+);
+
+$("#center-perso").click((event) => {
+  let flyToObject;
+  if ($(window).width() < 992) {
+    flyToObject = [coordPerso[0], coordPerso[1] - 0.002];
+  } else {
+    flyToObject = [coordPerso[0] - 0.007, coordPerso[1]];
+  }
+  mape.flyTo({
+        center: flyToObject,
+        zoom: 15
+  });
+});

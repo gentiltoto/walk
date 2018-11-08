@@ -183,3 +183,23 @@
     right: 5px;
   }
 }
+
+#center-perso {
+  position: absolute;
+  bottom : 35px;
+  right: 15px;
+  z-index: 600;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #6F70EE;
+
+  i {
+    font-size: 30px;
+    color: white;
+  }
+}

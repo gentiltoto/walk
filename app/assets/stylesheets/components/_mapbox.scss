@@ -5,7 +5,7 @@
   width: 100vw;
 }
 
-.marker {
+.marker-app {
   mask-image: asset-url("map-marker-alt-solid.svg");
   background-color: black;
   mask-size: cover;
@@ -23,4 +23,14 @@
   height: 53px;
   cursor: pointer;
   z-index: 501;
+}
+
+.marker-perso {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  z-index: 502;
+  border-radius: 50%;
+  border: 5px solid #6F70EE;
 }
