@@ -25,7 +25,7 @@ export function getRoute(map, steps) {
         }
       },
       paint: {
-        'line-width': 6,
+        'line-width': 9,
         'line-color': '#66FF66',
         'line-blur': 4
       }
