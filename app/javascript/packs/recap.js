@@ -266,7 +266,14 @@ $('#addPointDepart').click((event) => {
     let lat = $(".focus-modal-body").attr('data-lng');
     let lng = $(".focus-modal-body").attr('data-lat');
     let address = $(".focus-modal-body").text();
-    
+    Rails.ajax({
+      type: 'POST',
+      url: `/itineraire/point-depart/${itineraire.id}`,
+      data: `query=lng${lng},lat${lat},address${address}`,
+      success: function() { console.log("Réussi boy!"); },
+      error: function() { console.log("Shit!"); }
+    });
+    // Continue to itineraire_path
   } else {
     event.preventDefault();
     $('.form-container').addClass('animating transition shake');

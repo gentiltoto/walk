@@ -90,10 +90,10 @@ class ItinerairesController < ApplicationController
     # Sinon ajoute pour la route seulement les coordonées
     else
       pt_depart = to_hash_point_depart(@itineraire.point_depart)
-      tmp = @coord
+      tmp = @coord.clone
       tmp.pop
-      tmp.unshift([pt_depart[:lng], pt_depart[:lat]])
-      tmp.push([pt_depart[:lng], pt_depart[:lat]])
+      tmp.unshift([pt_depart[:lat], pt_depart[:lng]])
+      tmp.push([pt_depart[:lat], pt_depart[:lng]])
       gon.coordonees = tmp
     end
 
@@ -114,10 +114,15 @@ class ItinerairesController < ApplicationController
     @itineraire.update(distance: params["distance"])
   end
 
-  def geocode
+  def geocoder
     Geocoder.configure(lookup: :opencagedata, api_key: ENV["OPEN_CAGE"])
     results = Geocoder.search(params[:query])
     render json: { results: results }
+  end
+
+  def point_de_depart
+    @itineraire = Itineraire.find(params[:id])
+    @itineraire.update(point_depart: params[:query])
   end
 
   private
@@ -147,9 +152,9 @@ class ItinerairesController < ApplicationController
 
   def to_hash_point_depart(string)
     return {
-      lng: test.match(/lng=(\d+\.\d+)/)[1].to_f,
-      lat: test.match(/lat=(\d+\.\d+)/)[1].to_f,
-      address: test.match(/address=(.+)/)[1]
+      lng: string.match(/lng(\d+\.\d+)/)[1].to_f,
+      lat: string.match(/lat(\d+\.\d+)/)[1].to_f,
+      address: string.match(/address(.+)/)[1]
     }
   end
 end
