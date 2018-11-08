@@ -4,11 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <title><%= meta_title %></title>
+    <meta name="description" content="<%= meta_description %>">
 
-    <meta property="og:title" content="Seety - L'application qui te fait visiter la France !">
+    <!-- Facebook Open Graph data -->
+    <meta property="og:title" content="<%= meta_title %>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="<%= request.original_url %>" />
+    <meta property="og:image" content="<%= meta_image %>" />
+    <meta property="og:description" content="<%= meta_description %>" />
+    <meta property="og:site_name" content="<%= meta_title %>" />
+
+
+    <!-- <meta property="og:title" content="Seety - L'application qui te fait visiter la France !">
     <meta property="og:image" content="fond.jpeg">
     <meta property="og:description" content="Seety vous permet de construire vous-mêmes votre itinéraire à travers les grandes villes françaises !">
-    <meta property="og:site_name" content="Seety"/>
+    <meta property="og:site_name" content="Seety"/> -->
 
     <title><%= yield(:title) %></title>
     <%= favicon_link_tag %>

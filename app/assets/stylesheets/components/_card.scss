@@ -25,7 +25,8 @@
 
   .monument-name {
     font-size: 16px;
-    left: 150px;
+    left: 165px;
+    width: 130px;
   }
 
   .card-infos {
@@ -35,7 +36,8 @@
   }
 
   .card-stars {
-    left: 155px;
+    left: 168px;
+    top: 15%;
   }
 }
 
@@ -56,6 +58,7 @@
   .monument-name {
     font-size: 25px;
     left: 53%;
+    width: 180px;
   }
 
   .card-infos {
@@ -66,6 +69,7 @@
 
   .card-stars {
     left: 215px;
+    top: 11%;
   }
 }
 
@@ -96,12 +100,19 @@
   padding-left: 5px;
   color: rgba(66, 66, 114, 1);
   position: absolute;
-  top: 30px;
+  top: 45px;
+  overflow-wrap: break-word
 }
 
 .card-stars {
   position: absolute;
-  top: 5%;
+}
+
+.card-stars:before {
+
+    color: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#333));
+
+
 }
 
 .card-infos {
@@ -146,7 +157,7 @@
   }
 
   .description-info {
-    top: 100%;
+    top: 105%;
   }
 
   .card-stars-info {
@@ -160,7 +171,7 @@
   }
 
   .delete-card-info {
-    top: 73%;
+    top: 72%;
   }
 }
 
@@ -199,11 +210,11 @@
   }
 
   .description-info {
-    top: 120%;
+    top: 125%;
   }
 
   .delete-card-info {
-    top: 80%;
+    top: 76%;
   }
 }
 
@@ -215,7 +226,7 @@
   position: absolute;
   padding: 12px;
   max-width: 90vw;
-  overflow-x: scroll;
+  overflow-y: scroll;
 }
 
 .monument-image-div-info {
@@ -275,7 +286,7 @@
   right: 5%;
   cursor: pointer;
 
-  i {
+  img {
     font-size: 25px;
     margin: 0;
   }

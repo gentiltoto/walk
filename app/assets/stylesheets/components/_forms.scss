@@ -1,5 +1,5 @@
 .sign-wrapper {
-  background-image: asset-url("carte.png");
+  background-image: linear-gradient(rgba(216, 191, 216, 0.5), rgba(255, 255, 255, 0.6)), asset-url('carte.png');
   background-size: cover;
   background-position: center;
 
@@ -17,6 +17,14 @@ justify-content: space-around;
 
 .form-control {
   background-color: rgba(192,192,192, 0.3)
+}
+
+.bouton-seety:hover {
+  color: white;
+  font-size: 19px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+
 }
 
 // For Mobile
@@ -43,7 +51,7 @@ justify-content: space-around;
 // For Desktop
 @media (min-width: 768px) {
   .sign-form {
-    background-color: rgba(255,255,255,0.95);
+    background-color: rgb(255,255,255);
     padding: 20px 50px;
     margin-top: 20px;
     z-index: 230;

@@ -1,14 +1,4 @@
 
-
-#export i {
-  font-size: 24vh;
-  color: rgb(54, 230, 114);
-  z-index: 10000;
-  position: absolute;
-  right: 100px;
-  top: 100px;
-}
-
 #map-final {
   position: absolute;
   z-index: 10;
@@ -35,7 +25,6 @@
 #metrics-distance {
   position: absolute;
   top: 60px;
-  left: 15px;
   background-color: white;
   border-radius: 10px;
   border: 1px solid rgba(#6F70EE, 0.21);
@@ -69,12 +58,29 @@
   }
 }
 
+#export {
+    background-color: #36e672;
+    color: white;
+    z-index: 10000;
+    position: absolute;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 16px;
+    width: 161px;
+    border-radius: 40px;
+    height: 60px;
+    padding-top: 7px;
+  }
+
 // For Mobile
 @media (max-width: 992px) {
 
   #metrics-distance {
   width: 100px;
   padding: 7.5px;
+  left: 15px;
 }
 
   .fa-walking {
@@ -96,11 +102,7 @@
     top: 75%;
   }
 
-  #export i {
-    font-size: 9vh;
-    color: #36e672;
-    z-index: 10000;
-    position: absolute;
+  #export {
     right: 2vh;
     top: 10vh;
   }
@@ -112,6 +114,7 @@
   #metrics-distance {
     width: 250px;
     padding: 10px;
+    left: 50px;
   }
 
   .fa-walking {
@@ -133,11 +136,7 @@
     top: 30%;
   }
 
-  #export i {
-    font-size: 13vh;
-    color: #36e672;
-    z-index: 10000;
-    position: absolute;
+  #export {
     right: 5vh;
     top: 10vh;
   }

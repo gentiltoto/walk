@@ -5,7 +5,8 @@ function map(inp, offset0, offset1) {
 
     center: [inp[0] - offset0, inp[1] - offset1],
     style: 'mapbox://styles/mapbox/light-v9',
-    zoom: 15
+    zoom: 15,
+    pitch: 40
   });
 
 // // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy
@@ -38,6 +39,7 @@ function defineNewMarker(nb, map, marker) {
   }
   mapObject.flyTo({
         center: flyToObject,
+        zoom: 15,
         speed: 0.5
     });
 }
@@ -54,7 +56,7 @@ let compteurMonuments = gonItiMonuments.length;
 $(".green-choice-circle").css("background-color", "#BCC1C1");
 $("#green-choice").css("pointer-events", "none");
 
-$("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0) ? "s" : "" }</p>`).show();
+$("#metrics-distance").html(`<p class="text-center"><span>${compteurMonuments}</span> monuments sélectionné${(compteurMonuments != 0 && compteurMonuments != 1) ? "s" : "" }</p>`).show();
 
 if ($(window).width() < 992) {
   $("#marker-0").remove();
@@ -148,6 +150,10 @@ gonMonuments.forEach((mon) => {
     $(`#monument-info-${mon.id}`).css("z-index", "900")
     $(`#monument-info-${mon.id}`).removeClass("transition visible animating out scale");
     $(`#monument-info-${mon.id}`).addClass("transition visible animating in scale");
+
+    // Remove arrow return
+    $("#return").removeClass("transition visible animating in scale");
+    $("#return").addClass("transition visible animating out scale");
   });
 
   $(`#delete-info-${mon.id}`).click((event) => {
@@ -159,5 +165,9 @@ gonMonuments.forEach((mon) => {
     // Add the card classic
     $(`#monument-${mon.id}`).removeClass("transition visible animating out scale");
     $(`#monument-${mon.id}`).addClass("transition visible animating in scale");
+
+    // show arrow return
+    $("#return").removeClass("transition visible animating out scale");
+    $("#return").addClass("transition visible animating in scale");
   });
 });
