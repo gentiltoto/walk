@@ -14,7 +14,8 @@
 }
 
 #purple-linear {
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(145, 21, 242, 0.25));
+
+  background: linear-gradient(180deg, transparent, rgba(96, 21, 242, 0.25));
   height: 150px;
   width: 100vw;
   position: fixed;
