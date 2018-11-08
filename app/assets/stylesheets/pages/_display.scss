@@ -1,11 +1,18 @@
-.infos-iti {
-
-}
-
-.scroll {
+.scroll-fiche-city {
   overflow-y: scroll;
   height: 80vh;
 }
+
+.infos-iti {
+  color: black;
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
+
+// .infos-iti .fas {
+//   font-size: 900;
+// }
 
 .fiche-city-wrapper {
   background-color: white;
@@ -15,7 +22,6 @@
   z-index: 300;
   max-width: 90vw;
   width: 98%;
-  height: 40vh;
   margin-bottom: 10px;
 }
 
@@ -27,17 +33,17 @@
   position: relative;
   display: flex;
   align-items: center;
-  height: 40vh;
+  position: relative;
 
   img {
-    height: 30vh;
-    width: 30vh;
     margin-right: 10px;
     margin-left: 10px;
 
     border-radius: 10px;
     object-fit: cover;
   }
+
+}
 
 
 .display-container {
@@ -46,19 +52,18 @@
   background-position: center;
   height: 100vh;
   width: 100vw;
-  display: flex;
-  align-items: center;
-  z-index: 400;
+  padding-top: 90px;
+
 }
 
 
-  .city-description {
+.city-description {
     transition: all 0.2s ease;
     height: 50px;
     position: absolute;
     bottom: 4px;
     left: 20px;
-  }
+
 
   h3 {
     color: white;
@@ -67,3 +72,47 @@
 
   }
 }
+
+//for mobile
+@media (max-width: 992px) {
+  .fiche-city-wrapper {
+    height: 22vh;
+  }
+
+  .fiche-city-display {
+    height: 22vh;
+
+    img {
+      height: 18vh;
+      width: 18vh;
+    }
+  }
+
+  #created {
+    position: absolute;
+    top: -9px;
+    color: black;
+    left: 91px;
+  }
+}
+
+// for desktop
+@media (min-width: 992px) {
+  .fiche-city-wrapper {
+    height: 30vh;
+  }
+
+  .fiche-city-display {
+    height: 30vh;
+
+    img {
+      height: 25vh;
+      width: 25vh;
+    }
+  }
+}
+
+
+
+
+
