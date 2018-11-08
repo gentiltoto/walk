@@ -34,3 +34,13 @@
   border-radius: 50%;
   border: 5px solid #6F70EE;
 }
+
+.marker-point-depart {
+  mask-image: asset-url("home-solid.svg");
+  background-color: #6F70EE;
+  mask-size: cover;
+  width: 38px;
+  height: 34px;
+  cursor: pointer;
+  z-index: 501;
+}

@@ -39,8 +39,21 @@ function addMarker(inp, map) {
   return marker
 }
 
-let coordPerso;
+/////// LOGIQUE POINT DE DEPART \\\\\\\\
 
+// Si point de départ
+if ((gon.coordonees.length - gon.monuments.length) === 2) {
+  let el = document.createElement('div');
+  el.id = `marker-point-depart`;
+  el.classList.add("marker-point-depart");
+  let marker = new mapboxgl.Marker(el)
+    .setLngLat(gon.coordonees[0])
+    .addTo(mape)
+}
+
+
+/////// LOGIQUE COORDONNEES GPS PERSO \\\\\\\\
+let coordPerso;
 
 navigator.geolocation.getCurrentPosition(function(position) {
   coordPerso = [position.coords.longitude, position.coords.latitude]
