@@ -10,9 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-
-ActiveRecord::Schema.define(version: 2018_11_08_094801) do
-
+ActiveRecord::Schema.define(version: 2018_11_08_151239) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -46,6 +44,7 @@ ActiveRecord::Schema.define(version: 2018_11_08_094801) do
     t.bigint "city_id"
     t.integer "compteur", default: 0
     t.string "duration"
+    t.string "point_depart", default: ""
     t.index ["city_id"], name: "index_itineraires_on_city_id"
     t.index ["user_id"], name: "index_itineraires_on_user_id"
   end

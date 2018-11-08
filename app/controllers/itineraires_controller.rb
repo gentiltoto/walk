@@ -79,8 +79,25 @@ class ItinerairesController < ApplicationController
     coord_initial.each { |e| y.push(e[1].to_f) }
     @coord = Voyageur.new(y, x).call
     @coord = transform(@coord)
+
+    # Logique Point de Départ
+
+    # Si il n'y en a pas cela ne change rien
+    if @itineraire.point_depart == ""
+      #coord ordonnée par le service objet
+      gon.coordonees = @coord
+
+    # Sinon ajoute pour la route seulement les coordonées
+    else
+      pt_depart = to_hash_point_depart(@itineraire.point_depart)
+      tmp = @coord
+      tmp.pop
+      tmp.unshift([pt_depart[:lng], pt_depart[:lat]])
+      tmp.push([pt_depart[:lng], pt_depart[:lat]])
+      gon.coordonees = tmp
+    end
+
     gon.itineraire = @itineraire
-    gon.coordonees = @coord #coord ordonnée par le service objet
     gon.monuments = @monuments #monuments NON ordonnées
     gon.idsOrdonee = refind(@coord, @monuments).map {|monument| monument[0][:id]} #Array des ID des monuments ordonénes par le service object
     gon.monumentsOrdonne = refind(@coord, @monuments) #Array des monuments ordonnées par le service objet.
@@ -125,5 +142,13 @@ class ItinerairesController < ApplicationController
       end
     end
     return arr
+  end
+
+  def to_hash_point_depart(string)
+    return {
+      lng: test.match(/lng=(\d+\.\d+)/)[1].to_f,
+      lat: test.match(/lat=(\d+\.\d+)/)[1].to_f,
+      address: test.match(/address=(.+)/)[1]
+    }
   end
 end

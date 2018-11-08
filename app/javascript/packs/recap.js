@@ -263,7 +263,10 @@ $('.form-container').submit((event) => {
 // Listen to a focus to submit
 $('#addPointDepart').click((event) => {
   if ($('.focus-modal-body').length) {
-    console.log("Does the thing");
+    let lat = $(".focus-modal-body").attr('data-lng');
+    let lng = $(".focus-modal-body").attr('data-lat');
+    let address = $(".focus-modal-body").text();
+    
   } else {
     event.preventDefault();
     $('.form-container').addClass('animating transition shake');
