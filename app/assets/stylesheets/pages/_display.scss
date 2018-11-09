@@ -5,10 +5,10 @@
 
 .infos-iti {
   color: black;
-  width: 80%;
+  width: 100%;
   display: flex;
   justify-content: space-between;
-  padding: 6px 12px;
+  padding: 3px 8px;
 }
 
 .infos-iti p {
@@ -83,15 +83,15 @@
     font-weight: 700;
     margin: 0;
     font-size: 23px;
-    padding: 6px 12px;
+    padding: 3px 8px;
     color: #414171;
 }
 
 #created {
   color: black;
   margin: 0;
-  padding: 6px 12px;
-  font-size: 16px;
+  padding: 3px 8px;
+  font-size: 14px;
 }
 
 //for mobile
@@ -121,8 +121,8 @@
     height: 30vh;
 
     img {
-      height: 25vh;
-      width: 25vh;
+      height: 22vh;
+      width: 22vh;
     }
   }
 }

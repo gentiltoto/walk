@@ -17,7 +17,7 @@
 
             <div class="display-info">
               <h4 class="city-display-name"><%= itineraire.city.name %></h4>
-              <h3 id="created">Crée le : <%= itineraire.created_at.strftime('%d-%m-%y') %></h3>
+              <h3 id="created">Créé le <%= itineraire.created_at.localtime("+01:00").strftime('%e %B %Y à %Hh%M') %></h3>
 
               <div class="infos-iti">
                 <p id="nb-monuments">

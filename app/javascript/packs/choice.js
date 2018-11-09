@@ -6,7 +6,7 @@ function map(inp, offset0, offset1) {
     center: [inp[0] - offset0, inp[1] - offset1],
     style: 'mapbox://styles/mapbox/light-v9',
     zoom: 15,
-    pitch: 40
+    pitch: 60
   });
 
 // // Création de marker sous forme de div      TO DO : retoucher aux marker pour les rendre plus sexy

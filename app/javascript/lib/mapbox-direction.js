@@ -56,7 +56,7 @@ export function getRoute(map, steps) {
     Rails.ajax({
       type: "POST",
       url: `/itineraires/${gon.itineraire.id}/`,
-      data: `{metrics= ${distance}&duration= ${duration}}`,
+      data: `distance=${distance}&duration=${duration}`,
       success: function() { console.log("Réussi boy!"); },
       error: function() { console.log("Shit!"); }
     });
