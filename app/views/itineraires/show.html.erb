@@ -105,7 +105,7 @@
           <% else  %>
             <h3>Monument non classé historiquement</h3>
           <% end  %>
-          <h4><%= monument.address %></h4>
+          <h4><%= monument.address == "no address" ? "Pas d'adresse exacte disponible": monument.address %></h4>
         </div>
 
       <div class="description-info">
