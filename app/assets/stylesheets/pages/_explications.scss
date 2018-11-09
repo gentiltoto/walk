@@ -13,10 +13,10 @@
 }
 
 .choice-container:hover {
+  opacity: 0.9;
+  color: white;
   cursor: pointer;
-  font-size: 18px;
-  transition: transform 0.2s ease;
-
+  transition: transform 0.5s ease;
 }
 
 
