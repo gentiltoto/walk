@@ -9,7 +9,7 @@ export function map(coord, ids, padding) {
     center: [2.918381, 47.026351],
     style: 'mapbox://styles/mapbox/light-v9',
     zoom: 15,
-    pitch: 40
+    pitch: 60
   });
 
   // Réduit inp en une seule géoloc puis centre la carte sur cette localisation

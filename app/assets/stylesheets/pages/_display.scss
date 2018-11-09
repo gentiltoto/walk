@@ -5,14 +5,26 @@
 
 .infos-iti {
   color: black;
-  width: 80%;
+  width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding: 3px 8px;
 }
 
-// .infos-iti .fas {
-//   font-size: 900;
-// }
+.infos-iti p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  color: #414171;
+  font-weight: 700;
+
+  i {
+    font-size: 18px;
+    margin-right: 5px;
+    color: black;
+  }
+}
+
 
 .fiche-city-wrapper {
   background-color: white;
@@ -33,6 +45,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   position: relative;
 
   img {
@@ -43,6 +56,13 @@
     object-fit: cover;
   }
 
+}
+
+.display-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-around;
 }
 
 
@@ -57,20 +77,21 @@
 }
 
 
-.city-description {
+.city-display-name {
     transition: all 0.2s ease;
-    height: 50px;
-    position: absolute;
-    bottom: 4px;
-    left: 20px;
-
-
-  h3 {
-    color: white;
+    color: black;
     font-weight: 700;
     margin: 0;
+    font-size: 23px;
+    padding: 3px 8px;
+    color: #414171;
+}
 
-  }
+#created {
+  color: black;
+  margin: 0;
+  padding: 3px 8px;
+  font-size: 14px;
 }
 
 //for mobile
@@ -88,25 +109,6 @@
       width: 18vh;
     }
   }
-
-  #created {
-    position: absolute;
-    top: -9px;
-    color: black;
-    left: 143px;
-  }
-
-  .infos-iti {
-    position: absolute;
-    right: -11px;
-    top: 64px;
-    width: 30vh;
-    padding-right: 17px;
-
-    .fa-university {
-      font-size: 22px
-    }
-  }
 }
 
 // for desktop
@@ -119,30 +121,8 @@
     height: 30vh;
 
     img {
-      height: 25vh;
-      width: 25vh;
-    }
-  }
-
-  #created {
-    position: absolute;
-    top: 0px;
-    color: black;
-    left: 180px;
-  }
-
-  .infos-iti {
-    position: absolute;
-    left: 136px;
-    top: 80px;
-
-    .fa-university {
-      font-size: 26px
+      height: 22vh;
+      width: 22vh;
     }
   }
 }
-
-
-
-
-

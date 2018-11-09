@@ -106,7 +106,7 @@ class ItinerairesController < ApplicationController
   end
 
   def display #affiche l'itinéraire final d'un ancien trajet
-    @itineraires_perso = Itineraire.where(user_id: current_user.id).select { |itineraire| itineraire.monuments.size != 0 }
+    @itineraires_perso = Itineraire.where(user_id: current_user.id).order(created_at: :desc).select { |itineraire| itineraire.monuments.size != 0 }
   end
 
   def metrics

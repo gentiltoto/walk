@@ -14,28 +14,30 @@
 
           <div class="fiche-city-display">
             <%= cl_image_tag(itineraire.city.photo) %>
-            <h4 id="created">Crée le : <%= itineraire.created_at.strftime('%d-%m-%y') %></h4>
 
-            <div class="infos-iti">
-              <p id="nb-monuments">
-                <i class="fas fa-university"></i>
-                <%= itineraire.monuments.size %>
-              </p>
+            <div class="display-info">
+              <h4 class="city-display-name"><%= itineraire.city.name %></h4>
+              <h3 id="created">Créé le <%= itineraire.created_at.localtime("+01:00").strftime('%e %B %Y à %Hh%M') %></h3>
 
-              <p id="duration">
-                 <i class="far fa-clock"></i>
-                <%= itineraire.duration %>
-              </p>
+              <div class="infos-iti">
+                <p id="nb-monuments">
+                  <i class="fas fa-university"></i>
+                  <%= itineraire.monuments.size %>
+                </p>
 
-              <p id="distance">
-                <i class="fas fa-walking"></i>
-                <%= itineraire.distance %>
-              </p>
+                <p id="duration">
+                   <i class="far fa-clock"></i>
+                  <%= itineraire.duration %>
+                </p>
+
+                <p id="distance">
+                  <i class="fas fa-walking"></i>
+                  <%= itineraire.distance %>
+                </p>
+              </div>
+
             </div>
 
-            <div class="city-description">
-              <h3><%= itineraire.city.name %></h3>
-            </div>
           </div>
 
           <%end%>

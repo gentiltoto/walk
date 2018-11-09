@@ -8,7 +8,7 @@ function map(inp, offset0, offset1, padding) {
     center: [inp[0][0] - offset0, inp[0][1] - offset1],
     style: 'mapbox://styles/mapbox/light-v9',
     zoom: 11,
-    pitch: 40
+    pitch: 60
   });
 
   var bounds = inp.reduce(function(bounds, coord) {
