@@ -8,18 +8,14 @@
     <meta name="description" content="<%= meta_description %>">
 
     <!-- Facebook Open Graph data -->
-    <meta property="og:title" content="<%= meta_title %>" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="<%= request.original_url %>" />
-    <meta property="og:image" content="<%= meta_image %>" />
-    <meta property="og:description" content="<%= meta_description %>" />
-    <meta property="og:site_name" content="<%= meta_title %>" />
-
-
-    <!-- <meta property="og:title" content="Seety - L'application qui te fait visiter la France !">
-    <meta property="og:image" content="fond.jpeg">
-    <meta property="og:description" content="Seety vous permet de construire vous-mêmes votre itinéraire à travers les grandes villes françaises !">
-    <meta property="og:site_name" content="Seety"/> -->
+    <meta name="description" content="Seety vous permet de construire vous-mêmes votre itinéraire à travers les grandes villes françaises !">
+    <%= favicon_link_tag %>
+    <meta property="og:title" content="Seety - L'application qui te fait visiter la France !">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://seety.fun">
+    <meta property="og:image" content="https://res.cloudinary.com/antoinetorrini/image/upload/v1541751125/fond_og.jpg">
+    <meta property="og:description" content="Seety vous permet de construire vous-mêmes votre itinéraire à travers les grandes villes françaises ! Laissez vous embarquez !">
+    <meta property="og:site_name" content="Seety">
 
     <title><%= yield(:title) %></title>
     <%= favicon_link_tag %>
